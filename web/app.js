@@ -1,5 +1,6 @@
 // FiscolItA · simuladores, indicadores, calendario y novedades (todo en el navegador salvo /api/novedades).
-const $ = (s) => document.querySelector(s);
+const NADA = new Proxy({}, { get: () => undefined, set: () => true });
+const $ = (s) => document.querySelector(s) || NADA;   // en páginas sin ese bloque, no hace nada
 const clp = (n) => "$" + Math.round(n).toLocaleString("es-CL");
 const num = (s) => {
   s = String(s ?? "").replace(/[$\s]/g, "");
@@ -12,7 +13,7 @@ const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&l
 
 // ---------- valores de respaldo (si no hay conexión a mindicador.cl) ----------
 const IND = { uf: 41377.93, utm: 72440, usd: 1008.79, eur: 1107.59, fecha: "2026-11-21", vivo: false };
-const BHE = { 2025: 14.5, 2026: 15.25 };            // sii.cl/destacados/boletas_honorarios
+const BHE = { 2025: 14.5, 2026: 15.25, 2027: 16, 2028: 17 };            // sii.cl/destacados/boletas_honorarios
 const INTERES = { tasa: 7.70, fuente: "Res. Ex. SII N° 88 de 2026 (2° semestre 2026)", url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso88.pdf" };
 const TRAMOS = [[13.5, 0], [30, .04], [50, .08], [70, .135], [90, .23], [120, .304], [310, .35], [Infinity, .40]]; // art. 43 N° 1 LIR
 
@@ -42,7 +43,7 @@ const SIMS = {
     t: "Boleta de honorarios", d: "Retención que el pagador hace al boletear.",
     campos: [["monto", "Monto", "1.000.000"], ["modo", "El monto es", null, [["bruto", "Bruto (total honorarios)"], ["liquido", "Líquido que quiero recibir"]]]],
     calc: (v) => {
-      const anio = hoy.getFullYear(), tasa = BHE[anio] ?? BHE[2026], t = tasa / 100;
+      const anio = hoy.getFullYear(), tasa = BHE[anio] ?? (anio > 2028 ? 17 : 14.5), t = tasa / 100;
       const bruto = v.modo === "liquido" ? num(v.monto) / (1 - t) : num(v.monto), ret = Math.round(bruto * t);
       return { filas: [["Bruto (total honorarios)", clp(bruto)], [`Retención ${String(tasa).replace(".", ",")}%`, clp(ret)]], total: ["Líquido a recibir", clp(bruto - ret)],
         fuente: [`Retención vigente en ${anio}`, "https://www.sii.cl/destacados/boletas_honorarios/"] };
@@ -97,7 +98,7 @@ const SIMS = {
         fuente: [IND.vivo ? "UF y UTM: SII · USD y EUR: Banco Central (vía mindicador.cl)" : "Valores referenciales sin conexión", "https://www.sii.cl/valores_y_fechas/"] }; },
   },
 };
-let actual = "bhe";
+let actual = document.body.dataset.sim || "bhe";
 const valores = {};
 
 function tabs() {
@@ -106,8 +107,10 @@ function tabs() {
   $("#tabs").onclick = (e) => { const k = e.target.dataset?.k; if (k) { actual = k; tabs(); panel(); } };
 }
 
+const PAGINA = { bhe: "calculadora-boleta-honorarios", ppm: "calculadora-ppm", iva: "calculadora-iva", multa: "calculadora-multa-sii", sueldo: "calculadora-impuesto-unico", conv: "conversor-uf-utm-dolar" };
 function panel() {
   const s = SIMS[actual]; valores[actual] ??= {};
+  const enlace = document.querySelector("#pag-calc"); if (enlace) enlace.href = "/" + PAGINA[actual];
   $("#panel").innerHTML = `<h3>${s.t}</h3><p class="desc">${s.d}</p><div class="campos">${s.campos.map(([id, lb, ph, op]) => {
     const v = valores[actual][id] ?? (op ? op[0][0] : ph);
     valores[actual][id] = v;
@@ -119,7 +122,7 @@ function panel() {
 }
 
 function render() {
-  if (!$("#res")) return;
+  if (!document.querySelector("#res")) return;
   const r = SIMS[actual].calc(valores[actual] || {});
   $("#res").innerHTML = `<div class="res"><table>${r.filas.map(([a, b]) => `<tr><td>${a}</td><td>${b}</td></tr>`).join("")}${r.total ? `<tr class="total"><td>${r.total[0]}</td><td>${r.total[1]}</td></tr>` : ""}</table></div>
     ${r.nota ? `<p class="fuente">${r.nota}</p>` : ""}<p class="fuente">✅ Fuente: <a href="${r.fuente[1]}" target="_blank" rel="noopener">${r.fuente[0]}</a></p>`;
@@ -132,7 +135,7 @@ const habil = (d, atras) => { d = new Date(d); while ([0, 6].includes(d.getDay()
 const ultimoHabil = (a, m) => habil(new Date(a, m + 1, 0), true);
 
 function calendario() {
-  const ini = new Date(hoy.getFullYear(), hoy.getMonth(), hoy.getDate()), fin = new Date(ini); fin.setDate(fin.getDate() + 60);
+  const ini = new Date(hoy.getFullYear(), hoy.getMonth(), hoy.getDate()), fin = new Date(ini); fin.setDate(fin.getDate() + +(document.body.dataset.dias || 60));
   const ev = [];
   for (const a of [ini.getFullYear(), ini.getFullYear() + 1]) {
     for (let m = 0; m < 12; m++) {
@@ -145,7 +148,7 @@ function calendario() {
     ev.push([ultimoHabil(a, 3), "Último día Operación Renta", "Plazo final para presentar el F22."]);
     ev.push([new Date(a, 2, 1), "Declaraciones juradas anuales", "En marzo vence la mayoría de las DJ."]);
   }
-  const lista = ev.filter(([d]) => d >= ini && d <= fin).sort((x, y) => x[0] - y[0]).slice(0, 8);
+  const lista = ev.filter(([d]) => d >= ini && d <= fin).sort((x, y) => x[0] - y[0]).slice(0, +(document.body.dataset.eventos || 8));
   $("#cal").innerHTML = lista.map(([d, t, x]) => {
     const dias = Math.round((d - ini) / 864e5);
     const falta = dias === 0 ? "Hoy" : dias === 1 ? "Mañana" : `En ${dias} días`;
@@ -157,7 +160,7 @@ function calendario() {
 // ---------- novedades en vivo ----------
 async function novedades() {
   try {
-    const r = await fetch("/api/novedades?n=4");
+    const r = await fetch("/api/novedades?n=" + (document.body.dataset.n || 4));
     const d = await r.json();
     if (d.error) throw 0;
     const col = (tit, items) => `<div class="nov-col"><h3>${tit}</h3>${items.length ? items.map((i) =>
@@ -177,4 +180,6 @@ async function novedades() {
   }
 }
 
-tabs(); panel(); calendario(); indicadores(); novedades();
+tabs(); panel(); indicadores();
+if (document.querySelector("#cal")) calendario();
+if (document.querySelector("#nov") || document.querySelector("#ultima")) novedades();

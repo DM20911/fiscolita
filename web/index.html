@@ -3,16 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FiscolItA · Asesora TributarIA del SII</title>
-<meta name="description" content="Agente de IA experta en el SII de Chile: responde con fuente oficial, simula boletas, PPM, IVA, multas e impuesto de un sueldo, y avisa tus vencimientos.">
+<title>FiscolItA · Asesora tributaria de IA del SII de Chile, con calculadoras gratis</title>
+<meta name="description" content="Agente de IA gratis y de código abierto experta en el SII de Chile: responde con fuente oficial, calcula boleta de honorarios, PPM, IVA, multas e impuesto único, y avisa tus vencimientos.">
+<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
 <meta name="theme-color" content="#0B2545">
 <link rel="canonical" href="https://fiscolita.optimizaria.com/">
 <meta property="og:type" content="website">
+<meta property="og:locale" content="es_CL">
+<meta property="og:site_name" content="FiscolItA">
 <meta property="og:title" content="FiscolItA · Asesora TributarIA del SII">
 <meta property="og:description" content="Pregunta lo que quieras sobre impuestos en Chile y recibe la respuesta con la fuente oficial al lado.">
 <meta property="og:url" content="https://fiscolita.optimizaria.com/">
-<meta property="og:image" content="https://fiscolita.optimizaria.com/assets/mascota.png">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://fiscolita.optimizaria.com/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/svg+xml" href="/assets/mascota.svg">
 <link rel="apple-touch-icon" href="/assets/mascota.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -151,12 +156,21 @@ footer .pie p{margin:0;max-width:620px}
 .potenciado small{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--suave);font-weight:700}
 .potenciado b{display:block;font-size:20px;letter-spacing:-.5px;color:var(--texto)}
 </style>
+<style>
+.faq details{background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:14px 18px;margin-bottom:10px;max-width:860px}
+.faq summary{font-weight:700;cursor:pointer;font-size:17px}
+.faq details p{margin:10px 0 0;color:var(--suave)}
+.calcs{display:flex;flex-wrap:wrap;gap:8px 18px;margin:0 0 22px;font-size:14px}
+.calcs a{color:var(--suave)}
+.calcs b{color:var(--texto)}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://optimizaria.com/#org", "name": "OptimizarIA Consulting", "url": "https://optimizaria.com", "logo": "https://fiscolita.optimizaria.com/assets/optimizaria.png"}, {"@type": "WebSite", "@id": "https://fiscolita.optimizaria.com/#web", "name": "FiscolItA", "url": "https://fiscolita.optimizaria.com/", "inLanguage": "es-CL", "publisher": {"@id": "https://optimizaria.com/#org"}}, {"@type": "SoftwareApplication", "name": "FiscolItA", "alternateName": "Asesora TributarIA del SII", "url": "https://fiscolita.optimizaria.com/", "image": "https://fiscolita.optimizaria.com/assets/og.png", "applicationCategory": "FinanceApplication", "operatingSystem": "macOS, Windows, Linux", "inLanguage": "es-CL", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "CLP"}, "description": "Agente de IA experta en el SII de Chile que responde con fuente oficial, simula impuestos y avisa vencimientos. Funciona como agente o subagente.", "publisher": {"@id": "https://optimizaria.com/#org"}, "sameAs": ["https://github.com/OptimizarIA-Consulting/fiscolita"]}, {"@type": "SoftwareSourceCode", "name": "fiscolita", "codeRepository": "https://github.com/OptimizarIA-Consulting/fiscolita", "programmingLanguage": "Python", "author": {"@id": "https://optimizaria.com/#org"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Qué es FiscolItA?", "acceptedAnswer": {"@type": "Answer", "text": "Una agente de inteligencia artificial experta en el Servicio de Impuestos Internos (SII) de Chile. Conoce unos 29.700 documentos públicos oficiales y responde con la fuente al lado."}}, {"@type": "Question", "name": "¿FiscolItA es gratis?", "acceptedAnswer": {"@type": "Answer", "text": "Sí, es de código abierto. Solo necesitas un motor de IA: una suscripción que ya tengas (Claude o ChatGPT), una API key o un modelo local gratuito como Ollama o LM Studio."}}, {"@type": "Question", "name": "¿Puedo usarla como subagente de mis agentes de IA?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Funciona como agente independiente o como subagente de tu agente contable o financiero en Claude Code, Codex, Cursor, Gemini CLI y otros que lean AGENTS.md, e incluye servidor MCP."}}, {"@type": "Question", "name": "¿Reemplaza a mi contador?", "acceptedAnswer": {"@type": "Answer", "text": "No. Orienta con información pública oficial y te ayuda a llegar a tu contador con la pregunta clara. En casos importantes valida con un profesional."}}, {"@type": "Question", "name": "¿Necesita mi clave del SII?", "acceptedAnswer": {"@type": "Answer", "text": "No. Nunca le entregues tu Clave Tributaria ni tu Clave Única: responde solo con información pública."}}]}]}</script>
 </head>
 <body>
 <nav>
   <div class="wrap">
     <a class="marca" href="#"><img src="/assets/mascota.svg" alt="" width="36" height="36"><span>Fiscol<span class="ia">I</span>t<span class="ia">A</span></span></a>
-    <div class="links"><a href="#simuladores">Simuladores</a><a href="#calendario">Calendario</a><a href="#novedades">Novedades</a><a href="#usala">Úsala</a><a href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener">GitHub</a></div>
+    <div class="links"><a href="#simuladores">Simuladores</a><a href="#calendario">Calendario</a><a href="#novedades">Novedades</a><a href="#usala">Úsala</a><a href="https://github.com/OptimizarIA-Consulting/fiscolita" target="_blank" rel="noopener">GitHub</a></div>
   </div>
 </nav>
 
@@ -169,7 +183,7 @@ footer .pie p{margin:0;max-width:620px}
       <div class="btns">
         <a class="btn p" href="#simuladores">Probar simuladores</a>
         <a class="btn s" href="#usala">Úsala en Telegram</a>
-        <a class="btn s" href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener"><svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a>
+        <a class="btn s" href="https://github.com/OptimizarIA-Consulting/fiscolita" target="_blank" rel="noopener"><svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a>
       </div>
       <dl class="estado">
         <div><dt>Hoy</dt><dd id="hoy"></dd></div>
@@ -210,7 +224,7 @@ footer .pie p{margin:0;max-width:620px}
 <section id="simuladores" style="padding-top:24px">
   <div class="wrap">
     <h2>Simuladores</h2>
-    <p class="muted">Funcionan aquí mismo, con los valores del día. Son referenciales: valida los casos importantes con tu contador.</p>
+    <p class="muted">Funcionan aquí mismo, con los valores del día. Cada una tiene su <a href="#" id="pag-calc">página con explicación y preguntas frecuentes</a>. Son referenciales: valida los casos importantes con tu contador.</p>
     <div class="sim">
       <div class="tabs" role="tablist" id="tabs"></div>
       <div class="panel" role="tabpanel" id="panel"></div>
@@ -253,7 +267,7 @@ footer .pie p{margin:0;max-width:620px}
 <section id="usala" style="padding-top:24px">
   <div class="wrap">
     <h2>Úsala en Telegram</h2>
-    <p class="muted">Tu propio bot, en tu computador o servidor. Las claves quedan en un archivo <code>.env</code> que nunca se comparte. <b>El computador o servidor donde corre debe quedar encendido todo el tiempo</b>: si se apaga, el bot no responde ni envía alertas. ¿No eres del área tecnológica? Sigue el <a href="https://github.com/DM20911/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener"><b>tutorial paso a paso</b></a>.</p>
+    <p class="muted">Tu propio bot, en tu computador o servidor. Las claves quedan en un archivo <code>.env</code> que nunca se comparte. <b>El computador o servidor donde corre debe quedar encendido todo el tiempo</b>: si se apaga, el bot no responde ni envía alertas. ¿No eres del área tecnológica? Sigue el <a href="https://github.com/OptimizarIA-Consulting/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener"><b>tutorial paso a paso</b></a>.</p>
     <div class="pasos">
       <div class="paso"><h3>Crea el bot</h3><p>En Telegram abre <b>@BotFather</b>, envía <code>/newbot</code>, elige nombre y usuario, y copia el token.</p></div>
       <div class="paso"><h3>Configura</h3><p>Copia <code>.env.example</code> a <code>.env</code> y pon el token y tu motor de IA.</p></div>
@@ -266,13 +280,22 @@ footer .pie p{margin:0;max-width:620px}
       <div>
         <h2>También como agente o subagente</h2>
         <p>Úsala sola o intégrala al agente contable o financiero de tu empresa (Claude Code, Codex, Cursor, Gemini CLI y otros que lean <code>AGENTS.md</code>), con servidor MCP incluido.</p>
-        <div class="btns"><a class="btn p" href="https://github.com/DM20911/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener">Tutorial paso a paso</a><a class="btn s" href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener">Ver en GitHub</a><a class="btn s" href="https://optimizaria.com" rel="noopener">Conversemos</a></div>
+        <div class="btns"><a class="btn p" href="https://github.com/OptimizarIA-Consulting/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener">Tutorial paso a paso</a><a class="btn s" href="https://github.com/OptimizarIA-Consulting/fiscolita" target="_blank" rel="noopener">Ver en GitHub</a><a class="btn s" href="https://optimizaria.com" rel="noopener">Conversemos</a></div>
       </div>
     </div>
   </div>
 </section>
 
+<section id="preguntas" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Preguntas frecuentes</h2>
+    <p class="muted">Lo que más nos preguntan.</p>
+    <div class="faq"><details><summary>¿Qué es FiscolItA?</summary><p>Una agente de inteligencia artificial experta en el Servicio de Impuestos Internos (SII) de Chile. Conoce unos 29.700 documentos públicos oficiales y responde con la fuente al lado.</p></details><details><summary>¿FiscolItA es gratis?</summary><p>Sí, es de código abierto. Solo necesitas un motor de IA: una suscripción que ya tengas (Claude o ChatGPT), una API key o un modelo local gratuito como Ollama o LM Studio.</p></details><details><summary>¿Puedo usarla como subagente de mis agentes de IA?</summary><p>Sí. Funciona como agente independiente o como subagente de tu agente contable o financiero en Claude Code, Codex, Cursor, Gemini CLI y otros que lean AGENTS.md, e incluye servidor MCP.</p></details><details><summary>¿Reemplaza a mi contador?</summary><p>No. Orienta con información pública oficial y te ayuda a llegar a tu contador con la pregunta clara. En casos importantes valida con un profesional.</p></details><details><summary>¿Necesita mi clave del SII?</summary><p>No. Nunca le entregues tu Clave Tributaria ni tu Clave Única: responde solo con información pública.</p></details></div>
+  </div>
+</section>
+
 <footer>
+  <div class="wrap"><nav class="calcs" aria-label="Calculadoras"><b>Calculadoras:</b><a href="/calculadora-boleta-honorarios">Boleta de honorarios 2026</a><a href="/calculadora-ppm">PPM</a><a href="/calculadora-iva">IVA mensual</a><a href="/calculadora-multa-sii">Multa por atraso</a><a href="/calculadora-impuesto-unico">Impuesto único al sueldo</a><a href="/conversor-uf-utm-dolar">UF, UTM, dólar y euro</a><a href="/calendario-tributario">Calendario tributario</a><a href="/novedades-sii">Novedades del SII</a></nav></div>
   <div class="wrap pie">
     <a class="potenciado" href="https://optimizaria.com" rel="noopener">
       <img src="/assets/optimizaria.png" alt="" width="34" height="43">

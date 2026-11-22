@@ -27,7 +27,7 @@ Si en algún paso algo no te sale igual, revisa la sección [Problemas frecuente
 
 ## Paso 1 · Descargar Fiscol**I**t**A**
 
-1. Entra a la página del proyecto en GitHub: **https://github.com/DM20911/fiscolita**
+1. Entra a la página del proyecto en GitHub: **https://github.com/OptimizarIA-Consulting/fiscolita**
    (si te pide iniciar sesión, es porque necesitas una invitación; pídela a OptimizarIA).
 2. Haz clic en el botón verde **`<> Code`**.
 3. Elige **Download ZIP**. La descarga pesa varios cientos de MB porque trae los ~29.700 documentos del SII: ten paciencia.

@@ -1,0 +1,19 @@
+# FiscolItA · Asesora TributarIA del SII de Chile
+
+> Agente de IA de código abierto experta en el Servicio de Impuestos Internos (SII) de Chile. Responde con la fuente oficial a partir de ~29.700 documentos públicos (leyes, circulares, resoluciones, oficios y preguntas frecuentes), se actualiza cada día y funciona como agente independiente o como subagente de otros agentes de IA (Claude Code, Codex, Cursor, Gemini CLI, MCP). Proyecto de OptimizarIA Consulting.
+
+- Sitio: https://fiscolita.optimizaria.com/
+- Código y tutorial: https://github.com/OptimizarIA-Consulting/fiscolita
+- Tutorial para personas no técnicas: https://github.com/OptimizarIA-Consulting/fiscolita/blob/main/TUTORIAL.md
+- Empresa: https://optimizaria.com/
+
+## Calculadoras y herramientas
+
+- [Calculadora de boleta de honorarios 2026](https://fiscolita.optimizaria.com/calculadora-boleta-honorarios): Calcula la retención de tu boleta de honorarios 2026 (15,25%): de bruto a líquido o cuánto boletear para recibir un monto líquido. Gratis y con fuente SII.
+- [Calculadora de PPM para el Formulario 29](https://fiscolita.optimizaria.com/calculadora-ppm): Calcula tu PPM del mes: ingresos brutos (código 563) por la tasa (código 115) = PPM a pagar (código 62) del Formulario 29. Gratis y con fuente SII.
+- [Calculadora de IVA mensual](https://fiscolita.optimizaria.com/calculadora-iva): Calcula el IVA a pagar del mes en Chile (19%): débito fiscal de tus ventas menos crédito fiscal de tus compras, o el remanente para el mes siguiente.
+- [Calculadora de multa por declarar atrasado](https://fiscolita.optimizaria.com/calculadora-multa-sii): Estima la multa del artículo 97 N° 2 del Código Tributario y el interés penal por declarar fuera de plazo un impuesto en Chile. Gratis, con fuente oficial.
+- [Calculadora de impuesto único al sueldo](https://fiscolita.optimizaria.com/calculadora-impuesto-unico): Calcula el impuesto único de segunda categoría de tu sueldo con la tabla de tramos en UTM del mes y la UTM del día. Gratis y con fuente SII.
+- [Conversor UF, UTM, dólar y euro a pesos](https://fiscolita.optimizaria.com/conversor-uf-utm-dolar): Convierte UF, UTM, dólares y euros a pesos chilenos con los valores del día publicados por el SII y el Banco Central.
+- [Calendario tributario: próximos vencimientos](https://fiscolita.optimizaria.com/calendario-tributario): Próximos vencimientos tributarios en Chile calculados con días hábiles: F29 y F50, Operación Renta F22, contribuciones y declaraciones juradas.
+- [Últimas circulares, resoluciones y oficios del SII](https://fiscolita.optimizaria.com/novedades-sii): Las circulares, resoluciones y oficios más recientes publicados por el Servicio de Impuestos Internos de Chile, consultados en vivo.

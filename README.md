@@ -265,7 +265,10 @@ Resumen del paso a paso (detalle completo en [`telegram/README.md`](telegram/REA
 - próximos vencimientos con días hábiles;
 - últimas circulares, resoluciones y oficios consultados en vivo en www.sii.cl (`web/api/novedades.js`, caché de 6 horas).
 
+Además, una página por calculadora (`/calculadora-boleta-honorarios`, `/calculadora-iva`, `/calendario-tributario`…) con explicación, preguntas frecuentes y datos estructurados, más `sitemap.xml`, `robots.txt`, `llms.txt` y `security.txt`. Se generan desde `web/index.html` con:
+
 ```bash
+python3 _tools/gen_web.py      # regenera páginas, sitemap y archivos SEO
 cd web && vercel deploy --prod
 ```
 
