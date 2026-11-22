@@ -1,0 +1,81 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso115.doc
+titulo: Word – Resolución Exenta SII N°115 del 07 de Agosto del 2009 Establece Mecanismo de Cobro y Registro de Costos Directos de Reproducción Para Efectos de las Solicitudes de Acceso a la Información, Conforme con lo Señalado en el Artículo 18 de la Ley N° 20.285. Fuente: Subdirección Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°115 DEL 07 DE AGOSTO DEL 2009 MATERIA : ESTABLECE MECANISMO DE COBRO Y REGISTRO DE COSTOS DIRECTOS DE REPRODUCCIÓN PARA EFECTOS DE LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN, CONFORME CON LO SEÑALADO EN EL ARTÍCULO 18 DE LA LEY N° 20.285.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: 
+
+Lo dispuesto en el Artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda; el Artículo Único del Decreto Ley Nº 2.136, de 1978, publicado en el Diario Oficial del día 28 de Febrero de 1978, sustituido por el Artículo 83º de la ley 18.768, de 1988; y Art. 18 de la Ley N° 20.285 sobre Acceso a la Información Pública;
+
+CONSIDERANDO:
+ 
+1. Que, el Art. 18 de la Ley N° 20.285, sobre Acceso a la Información Pública establece que para la entrega de la información solicitada se podrá exigir el pago de los costos directos de reproducción y de los demás valores que una ley expresamente autorice a cobrar;
+
+2. Que, en razón de lo anterior, este Servicio debe establecer un mecanismo de cobro y registro de los costos directos de reproducción para efectos de las solicitudes de acceso a la información que sean presentadas ante este organismo;
+
+3. Que, el Art. 20 del Decreto Supremo N° 13, de 2009 del Ministerio Secretaría General de la Presidencia, Reglamento de la Ley N° 20.285, sobre Acceso a la Información Pública, señala que se entenderá por costos directos de reproducción todos aquellos que sean necesarios para obtener la información en el soporte que el requirente haya solicitado, excluyendo el valor del tiempo que ocupe el o los funcionarios para realizar la reproducción; 
+
+4. Que el Art. 83 de la Ley N° 18.768, de 1988 permite efectuar cobros en caso de entrega de información; y
+
+Las necesidades del Servicio. 
+
+
+SE RESUELVE:  
+   
+1º.-	En el marco de lo dispuesto en el Art. 18 de la Ley N° 20.285, el valor del costo directo de reproducción de la información, según el soporte requerido será:
+
+
+Soporte
+Costo $
+CD (por unidad)
+300
+DVD (por unidad)
+400
+Impresión blanco y negro (por página)
+15
+Impresión a color (por página)
+15
+Copias fotostáticas de documentos en general (por página)
+22
+
+Los valores señalados se reajustarán anualmente, en el porcentaje de variación que experimente el Índice de Precios al Consumidor, en el período comprendido entre el 1° de agosto al 31 de julio del año siguiente.
+
+2°.-	Los valores de los costos directos de reproducción indicados deberán ser pagados directamente al cajero encargado de la venta de certificados en la Dirección Regional o Unidad donde se ingrese la presentación del solicitante, en forma previa al retiro de la información. 
+
+3º.-	El registro de los costos directos de reproducción, para efectos de las solicitudes de acceso a la información que se presenten ante el Servicio de Impuestos Internos, y su pago se acreditará a través de un comprobante de pago que se otorgará al requirente, en el cual se debe identificar el código de la solicitud. La exhibición de dicho recibo bastará para la entrega de la información solicitada en la Dirección Regional o Unidad en que se presentó la solicitud. 
+
+4º.-	De conformidad con lo dispuesto en el Art. 18° de la Ley N° 20.285, sobre Acceso a la Información Pública, y Art. 20° del Decreto Supremo N° 13, de 2009, del Ministerio Secretaría General de la Presidencia, la obligación del Servicio de Impuestos Internos de entregar la información requerida por el medio solicitado se suspende en tanto el interesado no entere los valores a que se refiere el resolutivo precedente.
+
+5°.-	El cobro de los costos indicados precedentemente se aplicará sólo en el caso que sea procedente la entrega de la información solicitada, de acuerdo a la ley.  
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERON
+        DIRECTOR 
+			
+				Lo que transcribo a Ud., para su conocimiento y demás fines. 
+
+
+
+
+
+
+PGS/ERH/LMC/CGG/HMR/RBB
+DISTRIBUCIÓN:
+Al Boletín
+A Internet
+Al Diario Oficial (Extracto)
+
+

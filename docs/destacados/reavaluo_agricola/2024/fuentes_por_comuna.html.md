@@ -1,0 +1,35 @@
+---
+url: https://www.sii.cl/destacados/reavaluo_agricola/2024/fuentes_por_comuna.html
+titulo: Fuentes por Comuna
+categoria: destacado
+---
+## Fuentes por Comuna
+
+A continuación podrá visualizar los formularios 2890 y tasaciones comerciales
+recibidas por este Servicio, y a muestras manuales tenidas a la vista que pueden haber sido
+capturadas desde escrituras, valores de ofertas, tasaciones comerciales, reuniones, entre
+otros. Todos estos datos fueron analizados, complementados y depurados
+metodológicamente, con el propósito de definir las variaciones de valor
+establecidas en el Reavalúo Agrícola 2024.
+
+Región
+
+Seleccione región
+Arica y Parinacota
+Tarapacá
+Antofagasta
+Atacama
+Coquimbo
+Valparaíso
+Metropolitana
+Libertador Gral. B. O'Higgins
+Maule
+Ñuble
+Bío - Bío
+La Araucanía
+Los Ríos
+Los Lagos
+Aysén
+Magallanes y de la Antártica
+
+---

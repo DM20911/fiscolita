@@ -1,0 +1,260 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso22.doc
+titulo: Word – Resolución Exenta SII N°22 del 21 de Febrero del 2005 Autoriza a Contribuyentes que Indica para Emitir Boletas de Prestación de Servicios de Terceros Electrónicas Fuente: Depto de Opiva y Catastro de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°22 DEL 21 DE FEBRERO DEL 2005 MATERIA : AUTORIZA A CONTRIBUYENTES QUE INDICA PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS
+
+
+VISTOS: Lo dispuesto en los Arts. 6°, letra A), N°1, 88°, incisos 3° y 4°, del Código Tributario, contenido en el D.L. N° 830, de 1974; y la Res. Ex. N° 551, de 1975, del Servicio de Impuestos Internos, mediante la cual se impone obligaciones a contribuyentes que señala, respecto al otorgamiento de facturas de compras o boleta de servicios; y
+
+CONSIDERANDO:
+1°) Que, de acuerdo con el inciso 3° del Art. 56°, del D.L. N° 825, de 1974, el Director podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
+
+2°) Que, la Res. Ex. N° 112, de 2004, instruye sobre la emisión y uso de Boletas de Boletas de Honorarios Electrónicas por Prestaciones de Servicios de Terceros. 
+
+3°) Que, en los hechos, la empresa Cosméticos AVON S.A. es el mayor emisor de Boletas de Prestación de Servicios de Terceros.
+
+4°)  Que, de acuerdo a los incisos 3° y 4°, del Art. 88° del Código Tributario, el Director del SII puede establecer los requisitos que deben reunir los documentos tributarios, exigiendo las condiciones necesarias para resguardar debidamente el interés fiscal.
+
+
+SE RESUELVE:
+
+1°) Autorízase a la empresa Cosméticos AVON S.A., RUT 85.077.900-7, para emitir Boletas  de Prestación de Servicios de Terceros Electrónicas, en adelante “BTE”,  en forma masiva, a contar del período tributario correspondiente a Diciembre de 2004.
+
+2°) No obstante lo anterior, el contribuyente ya aludido podrá seguir emitiendo documentos no electrónicos, es decir, Boletas de Prestación de Servicios de Terceros.
+ 
+3°) A fin de proceder de conformidad a lo señalado en el resolutivo 1° de este documento, el contribuyente deberá cumplir con las siguientes obligaciones:
+Almacenar y conservar en forma electrónica las Boletas de Prestación de Servicios de Terceros Electrónicas emitidas en formato xml, tal como fue remitido al Servicio.
+
+En caso que el Servicio solicite información correspondiente a los documentos mencionados en la letra precedente, éstos deberán ser remitidos o entregados de acuerdo a los formatos requeridos.
+
+Si bien, los emisores de BTE no estarán obligados a llevar registro manual de libros de retención por las boletas emitidas, podrán reemplazar esta información por un archivo electrónico de respaldo, denominado Libro de retenciones electrónicas, que contenga las retenciones correspondientes a las boletas emitidas, de acuerdo a lo establecido en el Art. 77 de la Ley sobre Impuesto a la Renta. Este archivo deberá estar disponible y actualizado en la sucursal o casa matriz del emisor, para eventuales revisiones del Servicio de Impuestos Internos. No obstante, los contribuyentes deberán continuar registrando en libros de retención, las Boletas no electrónicas de Prestación de Servicios de Terceros emitidas.
+
+4°)  El contribuyente deberá cumplir los siguientes procedimientos para la emisión de las Boletas de Prestación de Servicios de Terceros Electrónicas en forma masiva:
+
+Designar un mandatario autorizado para solicitar folios y enviar archivos de boletas electrónicas emitidas al Servicio. 
+Con tal objeto, el contribuyente emisor de BTE deberá informar al SII mediante aplicación habilitada en el sitio web del Servicio para tales efectos, quiénes serán las personas que se encargarán de solicitar folios y enviar información al SII en representación de la empresa, indicando el nombre, RUT, email y cargo que ocupa dentro de la misma.
+En el evento que el contribuyente emita Boletas de Prestación de Servicios de Terceros Electrónicas desde sucursales, deberá designar un encargado para cumplir esta función en la sucursal.
+La persona designada por la empresa para solicitar folios podrá hacerlo a través del medio que el SII establezca para ello, o mediante aplicación disponible en el sitio web del SII para tal efecto.
+
+Una vez que se ha informado al SII quienes serán los mandatarios, éstos serán los únicos autorizados para solicitar los folios que la empresa requiera. Al solicitar los folios al Servicio, se verificará que el contribuyente que emitirá BTE no tenga situaciones pendientes con el Servicio, observando la forma de proceder establecida para las solicitudes de timbraje de Boletas de Prestación de Servicios de Terceros en una Unidad del SII.
+
+Si el contribuyente no tiene situaciones pendientes, el Servicio le autorizará un rango de folios para BTE, comenzando en forma correlativa desde el N° 1 al infinito, siendo asignados de acuerdo a los requerimientos del contribuyente.
+
+La autorización de folios se materializará a través de la entrega de un certificado de autorización de folios emitido por el Servicio, el que será enviado vía email al contribuyente, o puesto a disposición de él en el sitio web  HYPERLINK "http://www.sii.cl" www.sii.cl, en una aplicación diseñada para este fin.
+
+Para la generación del documento electrónico se deberá utilizar cada folio autorizado por el Servicio de Impuestos Internos por una sola vez. No deberá informarse al Servicio los folios que no fueron emitidos correctamente.
+
+La representación impresa de la Boleta de Prestación de Servicios de Terceros Electrónica deberá cumplir lo establecido en la Resolución Ex. N° 112, de 2004.
+
+El emisor, a través de la persona designada enviará al SII el archivo con las boletas emitidas de acuerdo a los formatos, codificación y procedimientos establecidos por el Servicio.  La forma de envío inicial será a través de correo electrónico o bien, por envío manual del archivo electrónico. Posteriormente, se habilitará un mecanismo definitivo a través del sitio web del SII.
+
+El plazo máximo de envío de las boletas emitidas al SII será de 24 horas contadas desde la fecha de emisión de los documentos.
+
+El Servicio, al recibir el archivo efectuará las validaciones de rigor establecidas en el resolutivo 5° de la presente resolución.
+
+5°)  El SII validará que los documentos recibidos cumplan lo siguiente:
+El entero cumplimiento de todos los datos obligatorios para la correcta emisión de la boleta, de acuerdo a lo establecido en Resolución Ex. N° 112, de 2004.
+Que el RUT del receptor no corresponda a una persona fallecida.
+Que el RUT del receptor NO corresponda a una persona jurídica.
+Que corresponda a un folio autorizado por el SII.
+Que tenga un código de barra válido.
+
+Como resultado de la validación se generarán diferentes estados para el documento, los que podrán ser:
+Válido: significa que fue recibido correctamente, sin faltas. Sólo en este estado los documentos tendrán validez tributaria.
+Rechazado: significa que presentó una o más faltas que no podrán ser reparadas.
+Observado: significa que presentó alguna falta que puede ser reparada o reinformada para pasar el documento a estado válido.
+
+Los folios que calificados como “Rechazado” no podrán pasar a “Válido”, por lo tanto, no tendrán validez tributaria.
+Los folios que presenten estado “Observado” podrán pasar a estado “Válido” si el emisor efectúa las correcciones o aclaraciones que solicitó el Servicio. Los documentos que se encuentren en estado “Observado” no tendrán validez tributaria, por lo tanto, dependerá del contribuyente la pronta aclaración de ellos para que sean tenidos como “Válido”.
+Los documentos observados que han sido corregidos por el emisor, deberán ser enviados al Servicio de la misma forma establecida para el envío de documentos emitidos.
+
+6°) De la anulación de documentos emitidos
+Los emisores de Boletas de Prestación de Servicios de Terceros Electrónicas podrán anular los documentos de este tipo que han sido emitidos informando al SII de tal circunstancia, indicando el N° de folio y la causa de anulación del documento.
+Los documentos anulados deberán quedar registrados con esa calidad en los registros contables del contribuyente emisor.
+
+7°) De la fiscalización
+Frente a un requerimiento del Servicio de Impuestos Internos, el emisor electrónico deberá dar facilidades para entregar en forma inmediata las Boletas de Prestación de Servicios de Terceros Electrónicas del período tributario en curso y de los dos períodos tributarios anteriores, que correspondan a la sucursal o a la casa matriz en que se efectúa la fiscalización.
+Estos documentos deberán ser entregados a través de un medio electrónico, enviados a través de Internet, o de acuerdo a lo que determine el fiscalizador. 
+El Servicio podrá requerir la impresión de cualquier documento electrónico que ha sido emitido.
+Igualmente, frente a un requerimiento del Servicio de Impuestos Internos, el emisor electrónico deberá poder entregar en un medio electrónico, en forma inmediata, tanto en la sucursal o casa matriz en que se está efectuando la acción de fiscalización, el Libro de retenciones electrónicas correspondiente al período en curso y a los dos periodos anteriores.
+La información para fines de fiscalización, tanto de Boletas de Prestación de Servicios de Terceros Electrónica como de aquélla contenida en el Libro de retención electrónicas, podrá ser solicitada según distintos criterios, entre otros:
+Por período tributario.
+Por determinado rango de montos netos.
+Por determinado rango de IVA.
+Documentos generados a un determinado receptor. 
+En estos casos, se dispondrá de un plazo de 10 días hábiles para generar y entregar la información, contados desde la fecha en que fueron solicitados los antecedentes. 
+
+8°) De la desautorización
+El contribuyente no podrá seguir emitiendo Boletas de Prestación de Servicios de Terceros Electrónicas una vez que pierde su calidad de autorizado para ello.
+El Servicio de Impuestos Internos se reserva el derecho de suspender la autorización otorgada al contribuyente para emitir Boletas de Prestación de Servicios de Terceros Electrónica si no cumple las obligaciones establecidas en la presente resolución. 
+
+9°) El incumplimiento de las obligaciones que establece esta resolución, y la utilización maliciosa del Sistema de emisión de Boletas de Prestación de Servicios de Terceros Electrónicas, se encuentra sancionado en los Arts. 97 N° 10 y 109 del Código Tributario, según corresponda. 
+
+
+
+
+Anótese y comuníquese.
+
+
+
+(Fdo) JUAN TORO RIVERA
+ 	 DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Distribución:
+- Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

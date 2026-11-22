@@ -1,0 +1,307 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso111.doc
+titulo: Word – Resolución Exenta SII N°111 del 16 de Septiembre del 2011 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°111 DEL 16 DE SEPTIEMBRE DEL 2011 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Septiembre del 2011, a los siguientes contribuyentes:
+
+- ACEROS Y METALES SOCIEDAD LTDA. 					87.717.600-2 
+- AGUASPARQUE PAISAJISMO LTDA. 						77.147.310-5 
+- ALFA LAVAL SACI 								92.231.000-9 
+- ANABELLA INES RICATTI 							21.352.628-6 
+- ARRENDADORA DE MAQUINARIAS Y EQUIPOS LA FLORIDA LTDA. 		78.287.460-8 
+- ASESORIAS LARRAIN VIAL LTDA. 						76.213.270-2 
+- ASESORIAS TECNICAS Y MANTENCION LTDA. 				76.025.533-5  
+- AURUS RENTA INMOBILIARIA I SPA 						76.146.937-1 
+- BAFCO AUSTRAL S.A. 								96.623.150-5 
+- BASH MUEBLES DE OFICINA LTDA. 						84.702.300-7 
+- BASH SEGURIDAD S.A. 								96.828.300-6 
+- BETTOLI S.A. INGENIERIA INDUSTRIAL 					96.538.260-7 
+- CAVICCHIOLI Y CIA. LTDA. 							77.688.860-5 
+- CIA. AGRICOLA Y FORESTAL EL ALAMO LTDA. 				84.833.100-7 
+- CLARO Y ASOCIADOS S.A.							76.028.139-5 
+- COMERCIAL KENNAMETAL CHILE LTDA. 					78.535.520-2 
+- COMERCIAL MULTICENTRO LTDA. 						79.982.490-6 
+- COMERCIAL PEGASI LTDA. 							76.100.104-3 
+- COMERCIAL SURANDINA S.A.							96.979.650-3 
+- COMERCIAL TOPIARY LTDA. 							76.074.182-5 
+- COMERCIAL URRESTILLA LTDA. 						76.147.352-2 
+- COMERCIAL YUCATAN LTDA. 							77.146.950-7 
+- COMERCIALIZADORA E IMPORTADORA PRO-GIFT LTDA. 			76.029.873-5 
+- COMERCIALIZADORA ROJOCONTEXTO LTDA. 				76.067.724-8 
+- COMERCIALIZADORA, PESQUERA Y SERVICIOS MARITIMOS 		76.127.491-0
+  OCEANOMAR SPA 	 
+- EDNA CECILIA DEL PINO LOPEZ 						07.712.350-4 
+- ELECNOR CHILE S.A. 								96.791.730-3 
+- ELTA CHILE S.A. 								76.834.610-0 
+- EMILIO ANTONIO LOPEZ LOPEZ 						10.137.097-6 
+- EMPRESA CONSTRUCTORA SANISERVICE LTDA. 				76.115.157-6 
+- EMPRESA PERIODISTICA EL OBSERVADOR LTDA.				79.557.640-1 
+- FRANCISCO PETRICIO S.A. 							92.296.000-3 
+- GEOSINERGIA INGENIERIA Y MEDIO AMBIENTE LTDA. 			77.836.810-2 
+- GRUPO SCHUTZ S.A. 								76.108.978-1 
+- HORUS PROMOTION & MARKETING LTDA. 					77.893.570-8 
+- ICEM S.A. 									79.723.890-2 
+- IMAGE S.A. 									76.017.992-2 
+- IMPORTADORA Y EXPORTADORA H J LTDA. 					83.077.900-0 
+- INGENIERIA COMERCIALIZADORA Y DISTRIBUIDORA MAGIN LTDA 		78.985.120-4 
+- INTER-MEDIOS CONSULTORES EN COMUNICACION LTDA. 			76.232.990-5 
+- INVERSIONES MALAGA S.A. 							96.582.790-0 
+- J.P. MORGAN CORREDORES DE BOLSA SPA 					76.109.764-4 
+- JAIME ALONSO LOPEZ VEGA INGENIERIA Y SERVICIOS S.A. 		52.001.203-6 
+- JUAN ROMPELTIEN Y CIA. LTDA. 						78.646.440-4 
+- KIMWOOD S.A. 									76.070.534-9 
+- LARRAIN VIAL INVERSIONES LTDA. 						76.313.480-6 
+- LARRAIN VIAL SERVICIOS PROFESIONALES LTDA. 				77.622.740-4 
+- LENADURA S.A. 									76.089.716-7 
+- MAESTRANZA HETOL S.A. 							99.566.650-2 
+- MAESTRANZA LASZLO GODOR S.A. 						79.630.470-7 
+- MAESTRANZA ROCHE LTDA. 							77.167.980-3 
+- MANUFACTURAS RAC LTDA. 							77.676.860-K 
+- MARIO GUILLERMO ROJAS VASQUEZ MR TRANSPORTES E.I.R.L. 		76.143.665-1 
+- MDM CHILE S.A. 								76.122.873-0 
+- NAVIMAG CARGA S.A. 								92.008.000-6 
+- NEXTTIME SOFTWARE S.A. 							99.576.370-2 
+- NHC SERVICIOS HIDRAULICOS LTDA. 						76.065.740-9 
+- NISABULK S.A. 									96.563.160-7 
+- NOSTER S.A. 									99.536.440-9 
+- NUEVA RIO BLANCO S.A. 							76.722.410-9 
+- PARES Y ALVAREZ SERVICIOS PROFESIONALES LTDA. 			77.995.910-4 
+- PATRICIO QUEZADA Y CIA. LTDA. 						77.236.510-1 
+- POMPEYO CARRASCO AUTOMOTRIZ LTDA. 					86.708.400-2 
+- POMPEYO CARRASCO DISTRIBUIDORA AUTOMOTRIZ S.A. 			93.219.000-1 
+- PROFAN S I EQUIPOS Y SERVICIOS INDUSTRIALES LTDA. 			78.966.160-K 
+- PROYECTO COMPLEMENTARIO Y MANTENCION S.A.				76.047.531-9 
+- RECICLAJES DOMESTICOS ECO-PAIS S.A. 					76.135.089-7 
+- REFRACTARIOS IUNGE LTDA.							79.553.940-9 
+- RELIX S.A. 									76.240.120-7 
+- ROSSELOT Y FIGUEROA LTDA. 						79.615.590-6 
+- SAAVEDRA Y SAAVEDRA LTDA. 						76.101.973-2 
+- SAUL ZUNIGA DAZA Y CIA. LTDA. 						85.985.700-0 
+- SEMINARIUM CERTIFICACION LTDA. 						77.806.560-6 
+- SERVICIOS DE CAPACITACION ASYCAP LTDA. 				76.604.750-5 
+- SERVICIOS GASTRONOMICOS CASINOS RIVER LTDA.			77.393.120-8 
+- SERVICIOS Y COBRANZAS LTDA. 						76.098.502-3 
+- SOC. BALLOTA CORTESI LTDA. 						78.351.150-9 
+ -SOC. HENRIQUEZ E HIJOS LTDA. 						77.615.820-8 
+- TECNASIC CONSTRUCCION Y MONTAJE S.A. 					76.141.051-2 
+- TRANSPORTES PATRICIA ALICIA GOMEZ CARCAMO E.I.R.L. 			76.045.989-5 
+- URBANO PROYECTOS S.A. 							76.024.344-2
+	
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+   
+(Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

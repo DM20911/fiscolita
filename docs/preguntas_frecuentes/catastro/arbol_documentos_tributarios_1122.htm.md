@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/preguntas_frecuentes/catastro/arbol_documentos_tributarios_1122.htm
+titulo: Preguntas Frecuentes de Documentos tributarios
+categoria: faq
+---
+|  |
+| --- |
+| [Documentos tributarios](preg_documentos_tributarios.htm) | [Facturas](arbol_documentos_tributarios_432.htm) | [Factura Electrónica](arbol_documentos_tributarios_438.htm) | Ley N° 20.727, obligatoriedad de Factura Electrónica   - [¿Qué debo hacer para exceptuarme de emitir documentos tributarios en formato electrónico, una vez que la Ley 20.727 me obligue?](001_012_6576.htm) - [Si el SII me exceptuó de la obligación de emitir DTE, y mi condición persiste ¿debo solicitar nuevamente autorización al SII?](001_012_6579.htm) - [Si el SII me exceptuó de la obligación de emitir DTE, y mi condición de excepción cambió ¿puedo seguir emitiendo documentos en papel?](001_012_6580.htm) - [Una vez que todos estemos obligados a emitir documentos tributarios electrónicos ¿Cómo sabré si un documento tradicional recibido es válido?](001_012_6581.htm) - [Si estoy obligado a emitir facturas electrónicas, ¿Puedo conservar los documentos en papel, que tenía timbrados, en el caso de necesitar emitir facturas en papel para eventuales cortes de luz u otras circunstancias?](001_012_6582.htm) - [¿Cómo puedo saber si mis proveedores están exceptuados de emitir documentos en formato electrónico?](001_012_6583.htm) - [Si estoy obligado a emitir documentos en formato electrónico, y a su vez, continúo emitiendo documentos tributarios en papel. ¿Existe alguna sanción?](001_012_6584.htm) - [¿Qué puedo hacer si por alguna contingencia temporal, no puedo emitir un documento electrónico?](001_012_6624.htm) |

@@ -1,0 +1,86 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso42.doc
+titulo: Word – Resolución Exenta N°42 del 27 de Septiembre del 2001 Modifica Resolución N° Ex. 5.661, de 2000, Modificada por Resolución 24, de 2001, que Deroga Resolución N° Ex. 2.564 de 04.11.87; que Establece Sistema de Cupones en Venta de Combustibles y Deja sin Efecto Autorizaciones de Venta de Combust
+categoria: otros
+---
+RESOLUCION EXENTA N°42 DEL 27 DE SEPTIEMBRE DEL 2001 MATERIA : MODIFICA RESOLUCIÓN N° EX. 5.661, DE 2000, MODIFICADA POR RESOLUCIÓN 24, DE 2001, QUE DEROGA RESOLUCIÓN N° EX. 2.564 DE 04.11.87; QUE ESTABLECE SISTEMA DE CUPONES EN VENTA DE COMBUSTIBLES Y DEJA SIN EFECTO AUTORIZACIONES DE VENTA DE COMBUSTIBLES A TRAVÉS DE CUPONES EXPRESADOS EN PESOS O EN LITROS.
+
+Hoy se ha resuelto lo que sigue:
+
+
+
+
+VISTOS:
+
+
+La facultad que me otorga el artículo 6°, letra A), N° 1, del Código Tributario; y artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo Primero del DFL N° 7, de 1980, del Ministerio de Hacienda; lo dispuesto en el D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios; y en el Decreto Supremo N° 55, de 1977, reglamentario del D.L. N° 825, y
+
+
+
+C O N S I D E R A N D O  :
+
+
+
+1°	Que, la Resolución Ex. N°5.661 de fecha 28 de diciembre del 2000, modificada por la Resolución N° Ex. 24 del 28 de junio de 2001, dispuso que las empresas productoras y distribuidoras mayoristas de combustibles que hayan sido autorizadas, por este Servicio, para emitir Cupones de Combustibles, podrán efectuar ventas con este sistema sólo hasta el 30 de septiembre de 2001. Sin embargo, el plazo máximo para utilizar dichos cupones se extenderá hasta el 31 de diciembre del 2001.
+
+2°	Que, es necesario otorgar al mercado, un plazo para efectuar las adecuaciones correspondientes, se estima conveniente, modificar el periodo de vigencia de la Resolución N° Ex. 5.661 de 2000, respecto de la fecha límite para la emisión de cupones en pesos, por las ventas de combustibles que se realicen con este sistema; por cuanto la implantación y puesta en marcha de los sistemas de reemplazo para la emisión de documentos, requiere de un mayor plazo de ejecución para permitir el funcionamiento óptimo del sistema.
+
+3°	Que, con lo anterior, no se altera la fecha de término definitivo del Sistema de Cupones para Ventas de Combustibles, establecida para el 31 de diciembre de 2001, y con ello se asegura la habilitación técnica de nuevos procedimientos que resguarden adecuadamente el interés fiscal.  
+
+
+
+S E   R E S U E L V E  :
+
+
+1.-	Modifícase el dispositivo número 1 de la Resolución N° Ex. 5.661 de 2000 modificada por la Resolución N° Ex. 24 de 2001, sustituyendo la expresión “30 de septiembre de 2001”, por “30 de noviembre de 2001”.
+
+2.-	Sustitúyase el dispositivo número 2 de la Resolución N° Ex. 5.661 de 2000, modificada por la Resolución N° Ex. 24 de 2001, por el siguiente:
+
+"Dejase sin efecto, a contar del día 30 de septiembre de 2001, todas las autorizaciones concedidas por el Servicio, a empresas productoras o distribuidoras mayoristas de combustibles, para la emisión de cupones expresados en litros, y a contar del 30 de noviembre de 2001, para la emisión de cupones expresados en pesos ($).".
+
+
+
+
+ANOTESE Y PUBLIQUESE EN EXTRACTO
+
+
+
+
+
+
+(FDO) JAVIER ETCHEBERRY CELHAY		                		DIRECTOR 
+
+
+Lo que transcribo a Ud. para su conocimiento y demás fines,
+
+Saluda a Ud. 
+
+
+
+
+
+DISTRIBUCION
+SR. DIRECTOR
+SRES. SUBDIRECTORES
+SRES. DIRECTORES REGIONALES DEL PAIS
+DEPARTAMENTO DE FISCALIZACION INTERNA
+DEPARTAMENTO DE ASESORIA JURIDICA
+SECRETARIA GENERAL
+BOLETIN
+INTERNET
+OFICINA DE PARTES
+
+
+
+PÁGINA  1
+
+
+PÁGINA  2
+
+
+
+
+
+
+
+

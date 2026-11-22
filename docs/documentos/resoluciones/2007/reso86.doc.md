@@ -1,0 +1,188 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso86.doc
+titulo: Word – Resolución Exenta SII N°86 del 01 de Agosto del 2007 Establece Obligación de Presentar Declaración Jurada Resumen Semestral de IVA de Compras y Ventas que Indica, y Deroga Res. Ex. N° 10, de 20.01.2006. Fuente: Departamento de Operación IVA
+categoria: otros
+---
+RESOLUCION EXENTA SII N°86 DEL 01 DE AGOSTO DEL 2007 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA RESUMEN SEMESTRAL DE IVA DE COMPRAS Y VENTAS QUE INDICA, Y DEROGA RES. EX. N° 10, DE 20.01.2006.
+Hoy se ha resuelto lo que sigue:
+
+	VISTOS:
+
+Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7, de Hacienda, de 1980; en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo primero del D.L. N° 830, de 1974; en los artículos 1º y 68 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. Nº 825, de 1974; y en el artículo 83 bis de su reglamento, contenido en el D.S. N° 55, de 1977, del Ministerio de Hacienda, y
+
+	CONSIDERANDO:
+1°.-	Que, el artículo 68 de la Ley sobre Impuesto a las Ventas y Servicios, establece que: “La Dirección Nacional del Servicio de Impuestos Internos podrá exigir a los contribuyentes de esta ley la presentación de declaraciones semestrales o anuales que resuman las declaraciones mensuales presentadas. También estarán obligados a proporcionar datos de sus proveedores o prestadores de servicios y clientes, monto de las operaciones y otros antecedentes que requiera dicha Dirección. La forma y plazo de estas informaciones serán determinados en el Reglamento.”
+2°.-	Que, el artículo 83 bis del D.S. N° 55 de 1997, del Ministerio de Hacienda, incorporado por el D.S. N° 893, publicado en el D.O. de fecha 24.02.04, del mismo Ministerio, dispone que: “Las declaraciones o los datos a que se refiere el artículo 68 de la ley, se presentarán por escrito, mediante declaraciones juradas, en las oficinas del Servicio u otras que señale la Dirección, quien podrá autorizar a los contribuyentes para presentarlas en medios distintos al papel cuya lectura se efectúe mediante sistemas tecnológicos, según las especificaciones que para tal efecto imparta. 
+El Servicio determinará la información específica que deberán contener dichas declaraciones juradas y la periodicidad anual o semestral de su presentación.
+Las declaraciones juradas que se requieran en forma semestral, deberán presentarse en los meses de julio y enero de cada año, y referirse a operaciones del semestre inmediatamente anterior al mes en que se presentan. En el caso que se requieran en forma anual, deberán ser presentadas durante el mes de abril de cada año, y referirse a operaciones del año calendario anterior”. 
+3°.-	Que, el citado D.S. N° 893, de 2004, señala en su artículo 2°, que se delega en el Director del Servicio de Impuestos Internos la facultad de ampliar el plazo de presentación de las declaraciones e informaciones a que se refiere el artículo 68 de la Ley sobre Impuesto a las Ventas y Servicios.
+4°.-	Que, el artículo 59 del D.L. Nº 825, de 1974, dispone que es obligación de todos los contribuyentes afectos al Impuesto al Valor Agregado, llevar los libros especiales que determine el Reglamento, y registrar en ellos todas sus operaciones de compras, ventas y servicios utilizados y prestados. Agrega la norma, que el Reglamento señalará, además, las especificaciones que deberán contener los libros mencionados.
+5°.-	Que, el artículo 74 del D.S. N° 55, de 1977, ya citado, establece que, es obligación de los contribuyentes afectos a los impuestos que regula el D.L. N° 825, de 1974, llevar un sólo libro de compras y ventas, en el cual se registrarán día a día todas sus operaciones de compra, ventas, importaciones, exportaciones y prestaciones de servicios, incluyendo separadamente aquellas que recaigan sobre bienes y servicios exentos. 
+6°.-	Que, la Res. Ex. N° 10, de 20.01.2006 contiene las instrucciones vigentes acerca de la obligación de presentar una declaración jurada resumen anual de IVA de compras y ventas, y 
+7°.-	Que, en procura de una mayor eficiencia en el manejo de la información y con el propósito de ejercer un mejor control sobre las operaciones informadas por los contribuyentes, para el cumplimiento de los fines del Servicio, se ha estimado conveniente, disminuir el número de períodos con que se requiere la presentación de las declaraciones juradas resumen de IVA y aumentar su frecuencia a dos en el año, una por cada semestre, todo ello según lo dispuesto en el artículo 83 bis, del D.S. N° 55, de 1977, antes citado, por lo que se ha determinado reemplazar la Res. Ex. N° 10, de 20 de enero de 2006, por una nueva resolución. 
+8°.-	Que, en razón de la nueva periodicidad con que se requerirá la presentación de la “declaración jurada resumen de IVA”, resulta necesario precisar el período en que se computará la sumatoria de créditos que determina la sujeción al deber que se impone por la presente resolución.
+
+SE RESUELVE:
+
+
+1°.-	Todos los contribuyentes afectos a IVA y los exportadores, cuya sumatoria anual de créditos, sea superior o igual a $ 250.000.000, deberán presentar ante el Servicio de Impuestos Internos, una “declaración jurada” que contendrá un resumen semestral de los montos de IVA que afectó a las compras de bienes, utilización de servicios e importaciones realizadas, durante el semestre inmediatamente anterior a aquél en que debe presentarse la “declaración jurada”, y un resumen semestral, con el IVA que afectó a las ventas de bienes y prestación de servicios efectuados, durante el semestre inmediatamente anterior a aquél en que debe presentarse la “declaración jurada”, en la forma y plazos que se señalan más adelante.  
+
+Para determinar la obligación de presentar la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas”, se entenderá por sumatoria anual de créditos, la sumatoria de las cantidades declaradas en el Formulario 29 de declaración y pago simultáneo mensual de impuestos, en los códigos [520], [525], [532], [535] y [553], descontado lo registrado en el código [528], correspondiente a los doce períodos tributarios del año inmediatamente anterior a los semestres por los cuales se debe presentar esta “declaración jurada”.
+
+La sumatoria anual de créditos que se describe en el párrafo anterior, se utiliza sólo para determinar la obligación de presentar la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas”; en los próximos resolutivos se indica la información que se deberá entregar en esta “declaración jurada”.
+
+A partir del año en que un contribuyente cumpla los requisitos para presentar la “declaración jurada” mencionada, quedará obligado a seguir presentándola en forma permanente, independientemente si cumple o no el criterio de obligación indicado en el párrafo primero de este resolutivo, en cada año siguiente.
+
+En el caso de los contribuyentes que hayan efectuado inicio de actividades o término de giro en el transcurso del año que sirve de base para determinar su obligación de presentar la “declaración jurada semestral”, deberán considerar para estos efectos, sólo aquellos periodos en los cuales tuvieron movimiento. 
+
+2°.-	La información requerida sobre resumen semestral del IVA que afectó por un lado a las compras, servicios recibidos e importaciones, y por otro a las ventas y/o servicios prestados, deberá ser proporcionada por los contribuyentes mencionados en el resolutivo 1°, mediante la Declaración Jurada 3323, denominada "Declaración Jurada Resumen Semestral de IVA de Compras y Ventas”, cuyo formato se adjunta  como Anexo Nº 1 a la presente Resolución, y se considera parte integrante de ésta.
+
+3°.-	Para la construcción del resumen semestral del IVA que afectó a las compras, se deberán considerar los documentos cuya fecha de emisión corresponda al semestre informado, conforme a las siguientes instrucciones:
+
+a) En cuanto a las adquisiciones y servicios utilizados y registrados durante el semestre respecto del cual debe presentarse la “declaración jurada”, se entenderá por resumen semestral del IVA que afectó a las compras, la suma total semestral, en valores históricos, por cada proveedor, del IVA contenido en los siguientes documentos:  
+Facturas recibidas; 
+Notas de Débito recibidas; 
+Liquidaciones-Factura recibidas, por el monto del impuesto correspondiente a la comisión; 
+Facturas de Compra emitidas. 
+
+b) En la suma total semestral antes señalada, debe incluirse el monto del IVA correspondiente a la venta y/o prestación de servicios por cuenta de terceros, contenido en las Liquidaciones y Liquidaciones-Factura emitidas, no obstante  que el impuesto contenido en ellas no sea un impuesto asociado a una compra para quien las emite. 
+
+c) Deberá indicarse la cantidad de documentos recibidos en el caso de Facturas y Notas de Débito, o emitidos en el caso de Facturas de Compra, Liquidaciones o Liquidaciones-Factura, con los cuales se confeccionó el resumen semestral.
+
+d) En el mismo resumen semestral de IVA que afectó a las compras, deberá registrarse separadamente el valor del IVA correspondiente a las Notas de Crédito recibidas por todas estas adquisiciones y servicios utilizados y registrados, debiendo informarse la cantidad de estos documentos recibidos.
+
+e) Tanto el monto total semestral de IVA como la cantidad de documentos deberá agruparse por cada RUT de proveedor o prestador de servicios.
+
+Por cada declaración se deberá informar separadamente el monto total de IVA compras correspondiente a los documentos cuya fecha de emisión corresponda al semestre anterior al informado pero que fueron declarados en los F29 del semestre informado. Se deberá informar sólo un total semestral y no separado para cada proveedor o prestador de servicios.
+
+Además, deberá informarse separadamente el monto total de IVA compras correspondiente a los documentos cuya fecha de emisión corresponda al semestre informado pero que fueron declarados en los F29 del semestre siguiente al informado. Se deberá informar sólo un total semestral y no separado para cada proveedor o prestador de servicios.
+
+Los contribuyentes que realicen tanto operaciones afectas, como no afectas y/o exentas de IVA, deberán informar separadamente el monto total semestral de las ventas y de las compras no afectas y/o exentas de IVA. Además dado que el IVA de sus compras podría estar calculado en base a una proporción, deberán informar el monto total semestral de IVA no utilizado como crédito fiscal y separadamente el monto total de IVA común para el semestre controlado, respecto de la información declarada en los F29 del semestre controlado. Se deberá informar sólo un total semestral y no separado para cada proveedor o prestador de servicios.
+
+4°.-	Si dentro de las compras efectuadas y/o servicios utilizados y registrados durante el semestre solicitado en la declaración, figurasen importaciones que otorguen derecho a crédito fiscal, se deberán incluir los montos de IVA, en valores históricos, de esas importaciones en el resumen semestral señalado en el resolutivo anterior, identificando a los proveedores correspondientes con el RUT 55.555.555-5.
+
+5°.-	 En lo que dice relación con las ventas y/o servicios prestados durante el semestre respecto del cual debe presentarse la “declaración jurada”, la información a declarar será la siguiente:
+
+a) Se entenderá por resumen semestral del IVA que afectó a las ventas, a la suma total semestral, en valores históricos, por cada cliente, del IVA contenido en los siguientes documentos: 
+Facturas emitidas 
+Notas de Débito emitidas 
+Liquidaciones-Factura emitidas, por el monto del impuesto correspondiente a la comisión. 
+ Facturas de Compra recibidas 
+Liquidaciones y Liquidaciones-Factura recibidas, por el monto de IVA, correspondiente a la venta y/o prestación de servicios efectuada por medio de terceros. 
+
+b) Deberá indicarse la cantidad de documentos emitidos en el caso de Facturas y Notas de Débito, o recibidos en el caso de Facturas de Compra, Liquidaciones o Liquidaciones-Factura, con los cuales se confeccionó el resumen semestral.
+
+c) En el mismo resumen semestral del IVA que afectó a las ventas, deberá registrarse separadamente el valor del IVA correspondiente a las Notas de Crédito emitidas por todas estas ventas y/o servicios prestados, debiendo informarse la cantidad de estos documentos emitidos.
+
+d) Aquellos contribuyentes que presten servicios domiciliarios periódicos, deberán informar en la Declaración Jurada 3323 el IVA semestral correspondiente a estos servicios, de acuerdo a lo devengado al término de cada período fijado para el pago del precio.
+
+e) Los consignatarios y/o comisionistas que hayan efectuado ventas y/o servicios por cuenta de terceros con boletas de ventas y servicios, deberán informar el monto de IVA asociado, descontado el valor del IVA correspondiente a las Notas de Crédito emitidas por dicho concepto, en el resumen semestral del IVA señalado en el párrafo primero de este dispositivo, con un RUT 33.333.333-3, marcando la respectiva fila con una letra “C” en la columna 12 de la Declaración Jurada 3323. En cualquier otro caso no deberá informarse el IVA correspondiente a las ventas efectuadas con boletas de ventas y servicios.
+
+Tanto el monto total semestral de IVA como la cantidad de documentos deberá agruparse por cada RUT de cliente.
+
+6°.-	Si al confeccionar el resumen semestral de IVA compras o ventas figuran operaciones que incluyen impuestos adicionales que gravan a ciertos productos, de acuerdo a lo prescrito en el D.L. N° 825, de 1974, en sus artículos 37 al 40, deberá considerarse solamente el monto de IVA respectivo, no informando por lo tanto los montos correspondientes a dicho impuesto adicional. La misma instrucción procede para impuestos adicionales a las bebidas alcohólicas, analcohólicas y productos similares, según lo señalan los artículos 42 al 45 del mismo cuerpo legal y los impuestos específicos del artículo 48, del texto citado. Tampoco deberán considerarse los anticipos en el caso de las ventas de carne y harina.
+
+7°.- 	Situaciones especiales de la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas”:
+
+Los contribuyentes Agentes Retenedores que hayan emitido Facturas de Compra por cambio de sujeto, deberán señalar separadamente el monto total semestral de IVA de esas compras, según lo indicado en el resolutivo 3°, en la columna (2) de la Declaración Jurada 3323, y el monto total semestral de IVA retenido a terceros, en la columna (3) de la Declaración Jurada 3323, por cada contribuyente informado.
+
+Si estos Agentes Retenedores hubiesen emitido Notas de Crédito por Facturas de Compra, deberán informar en una fila separada a lo referido en el párrafo anterior, el monto de IVA total de las Notas de Crédito en la columna (5) de la Declaración Jurada 3323, y en la columna (3) el monto de IVA Retenido que figura en esas Notas de Crédito, y marcar con una letra “F” en la columna (12) de la Declaración Jurada 3323.
+
+Por su parte, los contribuyentes a los cuales se les haya retenido parcialmente el IVA registrado en las Facturas de Compra recibidas por cambio de sujeto, deberán señalar separadamente, según lo indicado en el resolutivo 5°, el monto semestral de IVA no retenido de estas ventas, en la columna (8) de la Declaración Jurada 3323, y el IVA total de estas Facturas de Compra en la columna (7) de la misma “declaración”, por cada contribuyente informado.
+
+Si estos contribuyentes hubiesen recibido Notas de Crédito por Facturas de Compra, deberán señalar el monto de IVA total en la columna (10) de la Declaración Jurada 3323, y el monto de IVA no retenido que figura en las Notas de Crédito en la columna (8), marcando con una letra “F” en la columna (12) de la “declaración jurada” en comento.
+
+Aquellos contribuyentes que hayan recibido Liquidaciones-Facturas como mandante, deberán informar el monto total semestral de IVA correspondiente a las comisiones en la columna (2) de la Declaración Jurada 3323, y el monto total semestral de IVA correspondiente a las ventas y/o servicios en la columna (7) de la Declaración Jurada 3323, marcando con una letra “M” en la columna (12) de la misma declaración, a cada consignatario y/o comisionista informado.
+
+Aquellos contribuyentes que hayan recibido Liquidaciones como mandante, deberán informar el monto total semestral de IVA correspondiente a las ventas y/o servicios en la columna (7) de la Declaración Jurada 3323, marcando con una letra “M” en la columna (12) de la misma “declaración jurada”, a cada consignatario y/o comisionista informado.
+
+En caso que un contribuyente no haya recibido Liquidaciones–Factura o Liquidaciones como mandante no deberá considerar las instrucciones de los párrafos anteriores de este literal.
+
+Aquellos contribuyentes que hayan emitido Liquidaciones-Facturas como consignatario y/o comisionista distribuidor, deberán informar el monto total semestral del IVA correspondiente a las comisiones en la columna (7) de la Declaración Jurada 3323, y el monto total semestral de IVA correspondiente a las ventas y/o servicios en la columna (2) de la misma declaración, marcando con una letra “C” en la columna (12) de la Declaración Jurada 3323, a cada mandante informado.
+
+Aquellos contribuyentes que hayan emitido Liquidaciones como consignatario y/o comisionista, deberán informar el monto total semestral de IVA correspondiente a las ventas y/o servicios, en la columna (2) de la Declaración Jurada 3323, marcando con una letra “C” en la columna (12) de la misma declaración, a cada mandante informado.
+
+Lo anterior es sin perjuicio que el impuesto contenido en las Liquidaciones y Liquidaciones-Factura emitidas, no es un impuesto asociado a una compra para quien las emite.
+
+En caso que un contribuyente no haya emitido Liquidaciones–Factura o Liquidaciones como consignatario y/o comisionista distribuidor, no deberá considerar las instrucciones de los párrafos anteriores de este literal.
+
+En caso que un contribuyente sea, a la vez, mandante y comisionista del mismo RUT, deberá informar en filas distintas según lo instruido en los literales anteriores.
+
+Los contribuyentes que por resolución de este Servicio se encuentren obligados a retener en sus ventas a terceros, el IVA por el margen de comercialización que obtendrán sus compradores intermediarios cuando realicen la venta final de los bienes respecto de operaciones que no dan  derecho a crédito fiscal, deberán informar separadamente, según lo indicado en el resolutivo 5° de la presente resolución, el monto total semestral de IVA correspondiente a las ventas de bienes y/o servicios efectuados por los cuales retuvo dicho impuesto. Esta información debe consignarse en la columna (7) de la Declaración Jurada 3323, marcando con una letra “N” en la columna (12) de la misma declaración, a cada cliente informado. Por su parte, el IVA de las Notas de Crédito emitidas, asociadas a las operaciones por las cuales se retuvo margen de comercialización, deberá informarse en la columna (10) de la misma fila que ha sido identificada con la letra “N” en la columna (12) de la Declaración Jurada 3323. Tanto el monto total semestral de IVA como la cantidad de documentos deberá agruparse por cada RUT de cliente.
+
+Debe tenerse presente que el IVA que debe declararse en la forma recién señalada, es el correspondiente a la venta propiamente tal y no el IVA correspondiente al margen de comercialización.
+ 
+No se deberá considerar en el resumen semestral de ventas, las Notas de Crédito otorgadas por anulación de boletas de ventas y servicios.
+
+8°.-	Se deberá presentar semestralmente sólo una Declaración Jurada 3323 por contribuyente. En caso que existan sucursales, la casa matriz deberá presentar una “declaración jurada”, incluyendo la información de la totalidad de las operaciones realizadas a través tanto de la casa matriz, como de las sucursales.
+
+9.°-	La “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas” deberá ser presentada haciendo referencia a la Declaración Jurada 3323, indicada en el resolutivo 2°, en los términos que determine este Servicio a través de instrucciones que estarán disponibles en el sitio Web  HYPERLINK "http://www.sii.cl" www.sii.cl.
+
+10°.-	El plazo de presentación de la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas” vía Internet, será hasta el último día del mes de agosto de cada año para el primer semestre, y hasta el último día del mes de febrero del año siguiente para el segundo semestre informado. El plazo para presentar aquellas declaraciones que no se efectúen a través de Internet será el último día del mes de julio de cada año y último día del mes de enero del año siguiente, respectivamente. Si alguno de los plazos señalados venciere en día sábado o día feriado, se entenderán prorrogados hasta el día hábil siguiente.
+
+En todo caso, de conformidad con lo dispuesto en la Res. Ex. N° 4228, de 24.06.1999, modificada por la Res. Ex. N° 5004, de 22.07.1999, los contribuyentes que estén autorizados para sustituir sus libros de contabilidad y/o auxiliares por hojas sueltas escritas por medios computacionales y que además estén obligados a presentar la Declaración Jurada 3323, deberán cumplir esta obligación sólo a través de la transmisión electrónica de datos, vía Internet, en la oficina virtual del Servicio de Impuestos Internos en Internet:  HYPERLINK "http://www.sii.cl" www.sii.cl.
+
+11°.-	El retardo o la omisión en el cumplimiento de la obligación que se impone por esta Resolución, está sancionado en el N° 1 del artículo 97 del Código Tributario, con multa de una unidad tributaria mensual a una unidad tributaria anual.
+
+La “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas” presentada mediante transmisión electrónica de datos, vía Internet,  sin cumplir las especificaciones técnicas definidas por el Servicio, será considerada como no presentada, siendo aplicable en la especie, la sanción antes indicada.
+
+12°.-	En caso que el retardo en la presentación de las “declaraciones juradas” vía Internet se origine en una causa no imputable al contribuyente, los Directores Regionales podrán condonar el cien por ciento de las multas que correspondería aplicar en razón del atraso en que se haya incurrido.
+
+13°.-	La entrega de información falsa, errónea o incompleta, está sancionada en el artículo 109 del Código Tributario, con multa de un uno a un cien por ciento de una Unidad Tributaria Anual.
+
+14°.-	Estarán eximidos de la obligación indicada en el resolutivo 1°, aquellos contribuyentes que presenten su información electrónica de compras y ventas vía Internet dentro del plazo señalado en el resolutivo 10°, por los mismos períodos del semestre que se deben informar en la Declaración Jurada Resumen Semestral de IVA de Compras y Ventas, según las especificaciones técnicas definidas por el Servicio y que se encontrarán disponibles en el sitio Web:  HYPERLINK "http://www.sii.cl" www.sii.cl. Respecto de este informe, será aplicable lo dispuesto en los resolutivos 11°, 12°, y 13°.
+
+15°.-	Asimismo, aquellos contribuyentes que tengan autorización del Servicio de Impuestos Internos para emitir documentos electrónicos y que, además, hayan presentado la información electrónica de compras y ventas, por los mismos períodos del semestre que se deban informar en la citada “declaración jurada”, estarán eximidos de presentarla. En el evento que la información electrónica proporcionada no correspondiese al semestre completo, deberán entregar la información de los períodos faltantes, o en su defecto, presentar la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas” según los plazos  indicados en el resolutivo 10°, de la presente  Resolución. 
+
+16°.-	Esta Resolución comenzará a regir desde la fecha de su publicación en extracto en el Diario Oficial.
+
+
+17°.-	Derógase la Resolución Ex. N° 10, de 20 de enero del 2006 a partir de la entrada en vigencia de la presente Resolución. 
+
+No obstante, los contribuyentes que se encuentren en mora de dar cumplimiento a lo dispuesto en la Res. Ex. N° 10 del 2006, que se deroga, por períodos comprendidos durante su vigencia, deberán hacerlo de conformidad con las reglas y formatos establecidos en dicha resolución, sin perjuicio de la aplicación de las sanciones que correspondan.
+
+18°.- 	En forma excepcional y por única vez, aquellos contribuyentes que según los criterios establecidos en la presente resolución, se encuentran obligados a presentar la “Declaración Jurada Resumen Semestral de IVA de Compras y Ventas”, correspondiente al primer semestre del año 2007, de acuerdo los plazos establecidos en el resolutivo N° 10, deberán enviar vía Internet dicha “declaración jurada resumen semestral” hasta el último día del mes de Febrero de 2008. El plazo para presentar aquellas declaraciones que no se efectúen a través de Internet será hasta el último día del mes de Enero del año 2008.
+
+
+
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+(FDO.) RICARDO ESCOBAR CALDERON
+DIRECTOR
+
+			Lo que transcribo a Ud., para su conocimiento y fines consiguientes
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+Al Diario Oficial (En extracto)
+Internet
+Boletín
+Oficina de Partes
+
+
+
+
+
+
+
+
+
+
+
+
+DECLARACION JURADA F3323
+
+
+
+

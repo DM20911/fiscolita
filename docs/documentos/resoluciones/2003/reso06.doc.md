@@ -1,0 +1,81 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso06.doc
+titulo: Word – Resolución Exenta N°06 del 21 de Enero del 2003 Establece Obligación de Presentar Declaraciones Juradas Sobre Resultados Obtenidos por Agencias o Establecimientos Permanentes y por otras Inversiones Realizadas en el Extranjero. Fuente: Departamento Fiscalización Tributación Internacional
+categoria: otros
+---
+RESOLUCION EXENTA N°06 DEL 21 DE ENERO DEL 2003 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS SOBRE RESULTADOS OBTENIDOS POR AGENCIAS O ESTABLECIMIENTOS PERMANENTES Y POR OTRAS INVERSIONES REALIZADAS EN EL EXTRANJERO
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto  en los artículos  6°, letra A), N° 1 y 60° inciso penúltimo del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, del Ministerio de Hacienda; en los artículos 3°, 12°, 41° A, y 41° B, de la Ley de la Renta, contenida en el artículo 1° del D. L. N° 824, de 1974; y
+
+
+CONSIDERANDO:
+
+Que, el artículo 3° de la Ley sobre Impuesto a la Renta, establece el ámbito de aplicación de los impuestos que ella contempla, señalando dicho precepto legal que toda persona domiciliada o residente en Chile, debe pagar impuestos sobre sus rentas de cualquier origen, sea que la fuente de entradas esté situada dentro del país o fuera de él.
+
+Que, el artículo 12° de este mismo texto legal señala, además, que cuando deban computarse rentas de fuente extranjera, se considerarán las rentas líquidas percibidas, excluyéndose aquellas de que no se pueda disponer en razón de caso fortuito o fuerza mayor o de disposiciones legales o reglamentarias del país de origen. La exclusión de tales rentas se mantendrá mientras subsistan las causales que hubieren impedido poder disponer de ellas y, entretanto, no empezará a correr plazo alguno de prescripción en contra del Fisco.
+
+Que, el mismo artículo 12° señala, que en el caso de las agencias u otros establecimientos permanentes en el exterior, se considerarán en Chile tanto las rentas percibidas como las devengadas, incluyendo los impuestos a la renta adeudados o pagados en el extranjero.
+
+Que, la letra A del artículo 41° A, de la Ley de la Renta, para efectos de la aplicación del Impuesto de Primera Categoría, establece las normas que deben observar los contribuyentes domiciliados o residentes en Chile que perciban dividendos o efectúen retiros de utilidades de sociedades constituidas en el extranjero.
+
+Que, la letra B del mismo artículo 41° A, establece las normas que deberán considerar los contribuyentes que tengan agencias u otros establecimientos permanentes en el exterior, para los efectos de aplicar el Impuesto de Primera Categoría sobre el resultado de la operación de dichos establecimientos.
+
+Que, de acuerdo al número 1 del artículo 41° B de la Ley de la Renta, las empresas constituidas en Chile que declaren su renta efectiva según contabilidad, en el caso que tengan agencias u otros establecimientos permanentes en el exterior, el resultado de ganancias o pérdidas que obtengan se reconocerá en Chile sobre base percibida o devengada, y que dicho resultado se calculará aplicando las normas de la Ley de la Renta sobre determinación de la base imponible de primera categoría, con excepción de la deducción de la pérdida de ejercicios anteriores dispuesta en el inciso segundo del Nº3 del artículo 31, y se agregará a la renta líquida imponible de la empresa al término del ejercicio. El resultado de las rentas extranjeras se determinará en la moneda del país en que se encuentre radicada la agencia o establecimiento permanente y se convertirá a moneda nacional de acuerdo con el tipo de cambio establecido en el artículo 41, Nº 5, vigente al término del ejercicio en Chile.
+
+Que, por su parte el número 4, del mismo artículo 41° B, establece la forma como se debe determinar la renta proveniente de la enajenación de inversiones efectuadas en el exterior en acciones y derechos sociales.
+
+Que, el inciso penúltimo del artículo 60 del Código Tributario establece que para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas. 
+
+Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración  y fiscalización de los impuestos, se ha estimado necesario contar con el detalle de los resultados obtenidos por agencias o establecimientos permanentes e inversiones realizadas en el extranjero durante el año comercial correspondiente.
+
+ 
+SE RESUELVE: 
+
+
+Los contribuyentes personas jurídicas o naturales con domicilio o residencia en Chile que mantengan en el extranjero agencias o establecimientos permanentes deberán presentar al Servicio de Impuestos Internos, antes del 15 de marzo de cada año, una declaración jurada informando la identificación de la agencia o establecimiento permanente receptor de la inversión; país de residencia; el monto de la inversión realizada durante el ejercicio; el monto de la inversión acumulada al 31 de diciembre; el resultado percibido o devengado con el detalle que se indica, obtenido por éstas en el año calendario inmediatamente anterior, y determinado éste en la forma que señala el considerando número 6. 
+
+Para tales efectos, los referidos contribuyentes utilizarán el Formulario N° 1852 denominado “Declaración Jurada Anual sobre Agencias o Establecimientos Permanentes en el Exterior”.
+
+
+Los contribuyentes personas jurídicas o naturales con domicilio o residencia en Chile que mantengan en el extranjero inversiones en derechos sociales o acciones de empresas o sociedades constituidas en el extranjero en las cuales el inversionista participe directa o indirectamente en la dirección, control, capital o utilidades; deberán presentar al Servicio de Impuestos Internos, antes del 15 de marzo de cada año, una declaración jurada informando la identificación de las empresas o sociedades en las que se participa, o a las que pertenecían las acciones o derechos sociales enajenados; país de residencia; tipo de relación existente entre el inversionista y la empresa extranjera; tipo de la inversión; el monto de la inversión realizada durante el ejercicio; el monto de la inversión acumulada al 31 de diciembre; el monto de los dividendos o retiros del ejercicio; y la utilidad o pérdida obtenida en la enajenación de acciones o derechos sociales determinadas éstas de acuerdo a lo señalado en el considerando número 7. 
+
+Para todos los efectos señalados en este resolutivo, los contribuyentes indicados utilizarán el Formulario N° 1851 denominado “Declaración Jurada Anual sobre Inversiones de Carácter Permanente en Sociedades Extranjeras”.
+
+Tratándose de contribuyentes autorizados para llevar contabilidad en hojas sueltas llevadas computacionalmente, de conformidad a la Resolución Ex. N° 4.228 del 24.06.1999, y sus modificaciones posteriores, la remisión de las declaraciones se hará mediante la transmisión electrónica de datos vía INTERNET. Los demás contribuyentes podrán hacer uso de estos mismos medios tecnológicos para cumplir con las obligaciones señaladas.
+
+La información requerida deberá presentarse con independencia de la fecha en que se constituyó la agencia o establecimiento permanente en el extranjero o de la fecha en que se adquirieron los derechos sociales o acciones de las empresas o sociedades constituidas en el extranjero, o si la inversión se encuentra o no registrada en el Registro de Inversiones en el Extranjero, que para efectos del Art. 41 A letra C N° 2, lleva el Servicio de Impuestos Internos. 
+
+El incumplimiento de la obligación establecida en la presente resolución será sancionado de acuerdo a lo dispuesto en el artículo 97 N° 15 del Código Tributario.
+
+La presente Resolución regirá para los informes que deban presentarse a partir del Año Tributario 2003, respecto de los resultados de las inversiones efectuadas en el exterior, obtenidos durante el año calendario 2002 y siguientes.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+JUAN TORO RIVERA DIRECTOR
+
+
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+
+DISTRIBUCION:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Directores Regionales I a XVI Dirección Regional.
+Director Grandes Contribuyentes
+Departamento de Fiscalización Tributación Internacional.
+Oficina de Partes.
+Boletín del Servicio.
+Internet.
+

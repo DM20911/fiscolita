@@ -1,0 +1,77 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso41.doc
+titulo: Word – Resolución Exenta SII N°41 del 22 de Febrero del 2010 Ha Lugar a Solicitud de Incorporación a Nómina de Grandes Contribuyentes de Inversiones Alsacia S.A., R.U.T. N° 99.577.400-3 Fuente: Dirección Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N° 41 DEL 22 DE FEBRERO DEL 2010 MATERIA: HA LUGAR A SOLICITUD DE INCORPORACIÓN A NÓMINA DE GRANDES CONTRIBUYENTES DE INVERSIONES ALSACIA S.A., R.U.T. N° 99.577.400-3 
+
+“Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las facultades que se me confieren en el Artículo 3° y en las letras a), b), c), h) y n) del Artículo 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del DFL N° 7 de 1980 del Ministerio de Hacienda; lo establecido en el Artículo 6 letra A, N° 1 del Código Tributario, contenido en el Artículo 1° del D.L. N° 830/74; lo dispuesto por esta Dirección mediante Resoluciones Exentas Nos. 34 del 24 de Agosto de 2001, 45 del 19 de Noviembre del mismo año y 211 del 31 de diciembre de 2009 y las necesidades del Servicio, 
+
+CONSIDERANDO: 
+
+1º.   Que, por medio de la Res. Ex. N° 34, de fecha 24/08/2001, se creó con dependencia jerárquica de la Dirección Nacional, el Departamento Subdirección de Fiscalización denominado “Dirección Grandes Contribuyentes”, fijándosele las atribuciones, responsabilidades y obligaciones que en la misma resolución se indican, señalando que para los efectos de la misma se entenderá por “Grandes Contribuyentes”, cualquiera sea su capital, denominación, domicilio, organización, monto de ventas o sector económico, aquel que conste en una nómina que fijará el Director mediante resolución. 
+2º.   Que, por otra parte, a través de la Res. Ex. N° 211 del 31 de diciembre de 2009, se fijó la Nómina de “Grandes Contribuyentes” para los efectos señalados en dispositivo 3° de la Res. Ex. N° 34, ya citada, sobre la base de criterios de selección que en esta última se indicaron. También se señala expresamente, que la Nómina se actualizará con aquellos contribuyentes cuya inclusión o exclusión autorice el suscrito.  
+3º.   Que, la solicitud de incorporación a la citada Nómina fue presentada con fecha 20 de enero del año 2010, por don Vlamir Domic Cárdenas, Rut N° 10.362.371-5, debidamente facultado para ello, conjuntamente con antecedentes fundantes de su solicitud.
+
+4°. Que se trata de un contribuyente que registra un ingreso anual superior a 360.000 UTM en los años comerciales 2007, 2008 y 2009, procediendo por tanto la inclusión en la Nómina de Grandes Contribuyentes, toda vez que el contribuyente cumple con el criterio contenido en la letra a) del resolutivo N° 2, de la Resolución Ex. N° 211 del 31 de  diciembre de 2009.  
+
+5º.   Que el N° 9 de la Resolución Ex. N° 211 del 31 de diciembre de 2009 dispone “9°.- Los contribuyentes incluidos en la Nómina de Grandes Contribuyentes y que constan en el Anexo A adjunto, podrán ser excluidos de la misma, previa solicitud fundada presentada en la Dirección Nacional de este Servicio, dirigida al Subdirector de Fiscalización.”  Continúa señalando que “Así también, previa presentación debidamente fundamentada ante la Dirección Grandes Contribuyentes, los contribuyentes que no hayan sido incluidos por el Servicio, podrán solicitar ser incorporados en la Nómina de Grandes Contribuyentes.  En ambos casos, será el Director quien resolverá sobre la base del fundamento y los antecedentes que aporte el solicitante, notificándole su decisión. “
+
+ 
+RESUELVO:
+
+HA LUGAR a la solicitud de incorporación a la Nómina de “Grandes Contribuyentes”, fijada mediante Resolución Exenta N° 45 del 19 de noviembre del año 2001, modificada y actualizada por la Resolución Exenta N° 211 del 31 de diciembre del año 2009, a la sociedad que a continuación se individualiza: 
+
+
+CONTRIBUYENTE  :  
+R.U.T. N°	          : 
+DOMICILIO	          :        
+
+INVERSIONES ALSACIA S.A. 
+99.577.400-3
+SANTA CLARA N°555, HUECHURABA. 
+REGIÓN METROPOLITANA.
+
+La Dirección Regional que a la fecha de entrada en vigencia de esta resolución, haya asumido la fiscalización directa o el conocimiento de las peticiones administrativas, del contribuyente incorporado a la Nómina, deberá continuar con los trámites y diligencias propias de dicha fiscalización o solicitud hasta su debido término, informando de ello a la "Dirección Grandes Contribuyentes", salvo que el Director de la “Dirección Grandes Contribuyentes” estime necesario ejecutar la revisión respectiva en aquella unidad. 
+
+La presente resolución regirá a contar de la fecha de su notificación.   
+ANÓTESE Y NOTIFÍQUESE
+ 
+
+
+(FDO.) PABLO GONZALEZ SUAU
+                DIRECTOR (S)
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.”
+
+
+VVM/NLR/IVN
+Distribución:
+ - Contribuyente: INVERSIONES ALSACIA S.A.
+Rep.legal: Vlamir Domic Cárdenas, Rut N° 10.362.371-5
+Santa Clara N° 555, Huechuraba,R.M.  -          Internet 
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+
+
+

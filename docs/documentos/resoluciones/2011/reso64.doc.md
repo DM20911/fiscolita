@@ -1,0 +1,280 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso64.doc
+titulo: Word – Resolución Exenta SII N°64 del 12 de Mayo del 2011 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°64 DEL 12 DE MAYO DEL 2011 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+
+Hoy se ha resuelto lo que sigue:
+
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en la Resolución Ex. SII N°150, de diciembre de 2005; y,
+CONSIDERANDO:
+
+1°	Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+
+2°	Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150, de diciembre de 2005, a partir del año 2010.
+
+3°    Que, los contribuyentes listados en el dispositivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica. 
+4°    Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado. 
+
+SE RESUELVE:
+
+
+Primero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, utilizando CAL propio, a los siguientes contribuyentes:
+
+- ACEPTA COM S.A.							RUT 96.919.050-8
+- SERVICIOS AGROINDUSTRIALES SUBSOLE S.A.			RUT 76.136.210-0
+- SERVICIOS SOLUCIONES TECNOLOGIA E INNOVACION LTDA.		RUT 77.680.620-K   
+
+Segundo:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LIMITADA, RUT 76.029.564-7 a los siguientes contribuyentes:
+
+- A J BROOM Y CIA. S.A.C.							RUT 91.256.000-7
+- AGUAS DEL VALLE S.A.							RUT 99.541.380-9
+- CENTRAL TERMOELECTRICA ANDINA S.A.				RUT 76.708.710-1
+- DISTRINOR S.A.								RUT 96.896.290-6
+- E.CL S.A.									RUT 88.006.900-4
+- EDELNOR TRANSMISION S.A.						RUT 76.046.791-K
+- ELECTROANDINA S.A.							RUT 96.731.500-1
+- ESVAL S.A.								RUT 89.900.400-0
+- GASODUCTO NOR ANDINO S.A.						RUT 78.974.730-K
+- INVERSIONES HORNITOS S.A.						RUT 76.009.698-9
+- UNIVERSIDAD BERNARDO O'HIGGINS					RUT 71.647.500-K
+	
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9 a los siguientes contribuyentes:
+
+- COMERCIAL E INDUSTRIAL ISESA S.A.					RUT 95.050.000-K
+- GENERAL ELECTRIC DE CHILE S.A.					RUT 91.006.000-7
+- NORMET CHILE LTDA.							RUT 76.000.937-7
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+
+ATLAS COPCO CUSTOMER FINANCE CHILE LTDA.			RUT 76.477.340-3
+ATLAS COPCO CHILENA S.A.C.						RUT 91.762.000-8
+CENTRO DE DESARROLLO INTEGRAL PAMELA GRANT LTDA.		RUT 76.030.766-1
+CENTROGAS S.A.								RUT 96.867.260-6
+COMERCIAL AUTOMOVILES RAUL LABBE S.A.				RUT 76.434.500-2
+COMERCIAL DOS ALAMOS S.A.						RUT 96.833.770-K
+COMERCIAL SANTA ELENA S.A.						RUT 84.472.400-4
+COMERCIALIZADORA DITEC AUTOMOVILES S.A.			RUT 96.899.100-0
+COSMETICA NACIONAL S.A.						RUT 77.790.420-5
+COSMETICA NACIONAL UNO LTDA.					RUT 79.667.300-1
+DAIRY ENTERPRISES (CHILE) LTDA.					RUT 96.511.870-5
+DISTRIBUIDORA Y COMERCIALIZADORA MARKET FOCUS LTDA.	RUT 76.371.570-1
+EMPRESA CHILENA DE GAS NATURAL S.A.				RUT 96.620.900-3
+FABRICADORA Y COMERCIALIZADORA DE MAQUINARIA 		RUT 76.049.685-5
+Y SISTEMAS MECANICOS PRIS
+FINANCIAMIENTO DOMESTICO S.A.					RUT 99.589.320-7
+HOYTS CINEMAS CHILE S.A.						RUT 96.809.770-9
+INMOBILIARIA E INVERSIONES CONAC LTDA.				RUT 76.095.080-7
+INVERSIONES DONA SOFIA LTDA.					RUT 76.182.930-0
+INVERSIONES EVERSHOT CHILE LTDA.					RUT 76.182.970-K
+INVERSIONES F G A LTDA.						RUT 76.178.770-5
+INVERSIONES GARCIA AGUILAR LTDA.					RUT 76.051.161-7
+INVERSIONES R G N LTDA.						RUT 76.178.750-0
+INVERSIONES S N V LTDA.						RUT 76.178.720-9
+LABORATORIO CITY S.A.							RUT 91.797.000-9
+LIQUIDADORA DE COSMETICOS LTDA.					RUT 76.777.300-5
+METROGAS S.A.								RUT 96.722.460-K
+PLASTICOS NACIONALES LTDA.						RUT 77.660.800-9
+PROMOCIONES Y SERVICIOS PUBLICITARIOS PROSELA LTDA.	RUT 83.557.500-4
+SOC. AGRICOLA Y LECHERA PRADERAS AUSTRALES S.A.		RUT 84.612.100-5
+SOC PROCESADORA DE LECHE DEL SUR S.A.				RUT 92.347.000-K
+SOPROLE S.A.								RUT 76.101.812-4
+SOPROLE INVERSIONES S.A.						RUT 76.102.955-K
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de EMPRESA NACIONAL DEL PETROLEO, RUT 92.604.000-6. a los siguientes contribuyentes:
+
+ENAP REFINERIAS S.A.							RUT 87.756.500-9
+ENAP SIPETROL S.A.							RUT 96.579.730-0
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de SOUTH CONSULTING SIGNATURE S.A., RUT 77.586.860-0 a los siguientes contribuyentes:
+
+	- BAYER S.A.								RUT 91.537.000-4	
+	
+
+
+Tercero:	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+
+Cuarto:	Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2011 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+Anótese, comuníquese y publíquese en Internet.
+
+
+
+
+
+
+
+(Fdo) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

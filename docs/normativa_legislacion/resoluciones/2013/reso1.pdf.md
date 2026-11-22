@@ -1,0 +1,54 @@
+---
+url: https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso1.pdf
+titulo: Resolución Exenta SII N° 01 del 08 de Enero del 2013 – Autoriza como receptor de documentos Tributarios Electrónicos al Organismo Público que se señala.
+categoria: resolucion
+---
+SERVICIO DE IMPUESTOS INTERNOS
+SUBDIRECCIÓN DE FISCALIZACIÓN
+DEPARTAMENTO DE ATENCIÓN Y
+ASISTENCIA DE CONTRIBUYENTES
+AUTORIZA COMO RECEPTOR DE DOCUMENTOS
+TRIBUTARIOS ELECTRÓNICOS AL ORGANISMO
+PÚBLICO QUE SE SEÑALA.
+SANTIAGO, 08 de enero de 2013.Hoy se ha resuelto lo que sigue:
+RESOLUCIÓN EXENTA SII N° __01.-_____ __/
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), Nº 1, del
+Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley
+sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974 y,
+CONSIDERANDO:
+1° Que, de acuerdo a lo establecido en el inciso tercero del
+Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. Nº 825, de 1974, la Dirección
+Nacional del Servicio de Impuestos Internos podrá autorizar el intercambio de mensajes mediante el uso de
+diferentes sistemas tecnológicos, en reemplazo de la emisión de Boletas, Facturas, Facturas de Compra, Guías
+de Despacho, Liquidaciones, Notas de Débito y Notas de Crédito.
+2° Que, el Organismo Público que se detalla en el
+resolutivo primero, ha postulado como receptor de Documentos Tributarios Electrónicos y ha cumplido los
+requisitos establecidos en la Res. Ex. SII N° 63, de Julio de 2004, para ser autorizado.
+3° Que, en Res. Ex. SII Nº 78, del 6 de Agosto de 2004, se
+ha delegado en el Subdirector de Fiscalización la facultad de autorizar a organismos públicos como receptores
+de Documentos Tributarios Electrónicos.
+SE RESUELVE:
+Primero:
+
+-
+
+Autorízase como receptor electrónico, a contar del mes de Enero de 2013, al siguiente Organismo
+Público:
+
+UNIDAD DE ANALISIS FINANCIERO
+
+RUT N° 61.973.000-3
+
+Segundo: El Organismo Público autorizado como receptor de Documentos Tributarios Electrónicos, deberá
+cumplir lo establecido en la Resolución Ex. SII N° 63, de Julio de 2004.
+Anótese, comuníquese y publíquese en extracto.
+
+(Fdo.) CAROLINA SARAVIA MORALES
+SUBDIRECTOR DE FISCALIZACIÓN (S)
+RPA/HSS/fem
+Distribución:
+- Internet
+- Diario Oficial en extracto
+- Boletín SII
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.

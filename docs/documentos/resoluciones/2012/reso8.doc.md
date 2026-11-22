@@ -1,0 +1,332 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso8.doc
+titulo: Word – Resolución Exenta SII N°08 del 17 de Enero del 2012 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°08 DEL 17 DE ENERO DEL 2012 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Enero del 2012, a los siguientes contribuyentes:
+
+- A MAYER VENTILACION INDUSTRIAL LTDA.					 76.785.060-3
+- ADMINISTRADORA CORIOLIS LTDA.						 76.203.810-2
+- AGENCIAS DE PRODUCTOS QUIMICOS ANDIMEX LTDA.			 83.629.000-3
+- AGRICOLA LAS VERTIENTES LTDA.						 77.992.360-6
+- AGUAS DANONE DE CHILE S.A.						 76.006.856-K
+- ALDASA LTDA.									 77.166.270-6
+- ALIMENTOS PUERTA DEL SOL LTDA.						 77.188.020-7
+- ALIMENTOS SAN COUGAT LTDA.						 77.839.010-8
+- BELENUS S.A.									 76.566.930-8
+- BOLIVAR INDUSTRIAL Y CIA. LTDA.						 80.120.400-7
+- BURSON-MARSTELLER COMUNICACIONES LTDA.				 77.314.510-5
+- CHILECOSTURA LTDA.								 76.155.767-K
+- CLAUDIO ASTUDILLO ORTIZ, SERVICIOS, MANTENCION			 76.053.153-7
+  Y CONSTRUCCION E.I.R.L. 
+- CLUSTER MINERO S.A.								 76.140.294-3
+- COGAN GRUPO NORTE S.A.							 86.422.800-3
+- COM. ALKOS LTDA.								 76.876.090-K
+- COMERCIAL CENTRAL ALIMENTOS LTDA.					 76.304.590-0
+- COMERCIAL DAES S.A.								 96.759.270-6
+- COMERCIAL E INDUSTRIAL SILFA S.A.						 76.171.658-1
+- COMERCIAL TRIBANDA LTDA.							 76.139.727-3
+- COMERCIALIZADORA SERVI-ALL LTDA.					 76.035.324-8
+- CONSTRUCTORA CYCEING LTDA.						 76.160.685-9
+- CONSTRUCTORA SAN FELIPE S.A.						 89.126.400-3
+- CONSULTORIA, SOLUCIONES DE INGENIERIA					 76.016.755-K
+  Y SERVICIOS PIXIS LTDA. 
+- COOP. ELECTRICA PAILLACO LTDA.						 81.629.800-8
+- CORREO PRIVADO METRO EXPRESS LTDA.					 76.159.099-5
+- CRISTIAN ANDRES COSIO MONTEVERDE					 08.530.326-0
+- CURTIEMBRE TALCA S.A.							 92.422.000-7
+- E. S. T. LTDA.									 76.138.463-5
+- EMPRESA DE DISTRIBUCION JOSE FROILAN CASTILLO			 76.055.918-0
+  POBLETE E.I.R.L.
+- EMPRESA DE SERVICIOS EXTERNOS ASOCIACION CHILENA 		 99.579.260-5
+  DE SEGURIDAD S.A.
+- EMPRESA ELECTRICA PANGUIPULLI S.A.					 96.524.140-K
+- EMPRESA ELECTRICA PUYEHUE S.A.						 96.880.800-1
+- EMPRESA NACIONAL DE SERVICIOS TRANSITORIOS				 76.909.910-7
+  INTEGRALES S.A.
+- EMPRESA PARTICULAR DE AGUA POTABLE Y				 94.665.000-5
+  ALCANTARILLADO LA LEONERA S.A.
+- ENERGIA ALERCE LTDA.							 96.920.210-7
+- ENERGIA E HIDRAULICA INGENIEROS ASOCIADOS S.A.			 76.040.574-4
+- ESRI CHILE TRAINING S.A.							 76.016.379-1
+- EUROP ASSISTANCE S.A.							 99.573.400-1
+- EUROP SERVICIOS S.P.A.							 76.051.955-3
+- FLORES WOMAN S.A.								 76.129.552-7
+- FUND. ACCION EMPRESARIAL							 65.168.990-2
+- GESTION COBRANZAS Y SERVICIOS S.A.					 76.031.430-7
+- G-GROUP MEDIOS Y PUBLICIDAD LTDA.					 76.167.226-6
+- GRABADOS QUEVEDO Y CIA. LTDA.						 77.206.560-4
+- HAVER & BOECKER ANDINA FABRICANTE Y					 76.166.278-3
+  COMERCIALIZADORA DE MAQUINAS LTDA. 
+- IMEIN S.A.									 88.279.700-7
+- IMPLEMENTA COMUNICACION Y PRODUCCIONES S.A.			 99.552.960-2
+- IMPORTADORA EXPORTADORA Y						 77.268.250-6
+  COMERCIALIZADORA MAINSA LTDA.
+- IMPORTADORA SAMARAMA LTDA.						 76.168.340-3
+- INGENIERIA Y CONSTRUCCION IZA LTDA.					 78.546.000-6
+- INMOBILIARIA INDEPENDENCIA S.A.						 76.173.243-9
+- INSTITUTO DE DIAGNOSTICO S.A.						 92.051.000-0
+- INSTITUTO DE INVESTIGACIONES AGROPECUARIAS				 61.312.000-9
+- JOSE ANTONIO AGUILERA RUIZ						 07.737.004-8
+- JOSE FROILAN CASTILLO POBLETE						 10.834.976-K
+- KNOWLEDGEFORGE LTDA.							 76.179.737-9
+- LANCER CHILE LTDA. DISPENSADORES Y MAQUINARIAS			 77.519.750-1
+- LATIN AUDIT & TAX CONSULTORES AUDITORES LTDA.			 77.830.680-8
+- LIBROS PASCAL LTDA.								 76.091.854-7
+- LOGISTICA Y DISTRIBUCION EXPRESS LTDA.					 76.117.213-1
+- LORENA MARIBEL CANDIA BELTRAN						 12.524.086-0
+- MINE PARTNER LTDA. SOLUCIONES GENERALES				 76.083.165-4
+  PARA LA MINERIA
+- MULTIPLICA CAPACITACION S.P.A.						 76.166.396-8
+- NOVARADIOS IMPORTACION Y COMERCIALIZACION				 76.177.072-1
+  DE EQUIPOS Y ACCESORIOS LTDA.
+- PERI CHILE LTDA.								 78.874.090-5
+- POLAMBIENTE S.A.								 76.054.559-7
+- PRISMA S.A.									 76.099.521-5
+- PRODUCTOS ALIMENTICIOS DOMINO PROVIDENCIA LTDA.			 76.097.100-6
+- PRODUCTOS ALIMENTICIOS DONUTS LTDA.					 80.762.300-1
+- PRODUCTOS ALIMENTICIOS EL GOLF LTDA.					 76.079.388-4
+- PRODUCTOS ALIMENTICIOS PUMARIAC LTDA.				 78.727.860-4
+- PRODUCTOS ALIMENTICIOS TOBALABA LTDA.				 76.006.605-2
+- PUBLIVAL VALENZUELA LTDA.							 78.369.590-1
+- QUIMICA DEL CAMPO LTDA.							 93.447.000-1
+- RECIPAR S.A.									 76.081.906-9
+- RESOURCES AUDITORES CONSULTORES LTDA.				 76.113.841-3
+- RL MAQUINARIA Y SERVICIOS S.A.						 76.167.759-4
+- S & A CONSULTORES ASOCIADOS CHILE LTDA.				 96.565.670-7
+- SANTA ROSA CHILE ALIMENTOS LTDA.					 78.627.340-4
+- SERVER MARKETING Y PUBLICIDAD LTDA.					 76.161.358-8
+- SERVICIOS COMPLEMENTARIOS DE SALUD LTDA.				 77.314.150-9
+- SERVICIOS INTEGRADOS DE SALUD LTDA.					 96.631.140-1
+- SERVICIOS VERY POWERFUL SOLUTIONS LTDA.				 76.081.286-2
+- SOC. COMERCIAL CONARIPE LTDA.						 78.828.690-2
+- SOC. DE INVERSIONES MORALES Y PELLEGRINI LTDA.			 77.856.400-9
+- SOC. EDUCACIONAL MONTURAQUI LTDA.					 77.423.420-9
+- SOC. ENSENANZA DE IDIOMAS ENGLISH FIRST LTDA.			 77.432.140-3
+- SOCIEDAD COMERCIAL E INDUSTRIAL GONZALEZ Y VARAS LTDA.		 76.063.367-4
+- SOCIEDAD ELABORADORA Y COMERCIALIZADORA				 76.115.114-2
+  DE ALIMENTOS BIO-BIO LTDA. 
+- SOCIEDAD METALURGICA VOLICH S.A.					 76.151.999-9
+- STUEDEMANN S.A.								 96.502.540-5
+- THC SOLAR S.A.									 96.868.820-0
+- UNIVERSIDAD CATOLICA CARDENAL RAUL SILVA HENRIQUEZ		 71.912.200-0
+- XIMENA DEL CARMEN URZUA CAMPOS					 08.259.944-4
+- WEB PARTNERS CHILE S.A.							 96.884.670-1
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+   
+(Fdo.) CAROLINA SARAVIA MORALES
+                    SUBDIRECTOR DE FISCALIZACIÓN (S)
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+MSB/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

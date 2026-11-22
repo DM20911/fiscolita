@@ -1,0 +1,39 @@
+---
+url: https://www.sii.cl/normativa_legislacion/tribunales_especiales/arica.html
+titulo: TRIBUNALES ESPECIALES DE ALZADA CON JURISDICCIÓN EN EL TERRITORIO DE LA ILTMA. CORTE DE APELACIONES DE ARICA
+categoria: normativa
+---
+## TRIBUNALES ESPECIALES DE ALZADA CON JURISDICCIÓN EN EL TERRITORIO DE LA ILTMA. CORTE DE APELACIONES DE ARICA
+
+#### Primera Serie (Agrícola)
+
+| MIEMBRO | NOMBRE | D.S. | D.O. |
+| --- | --- | --- | --- |
+| PRESIDENTE TITULAR | Cristina Araya Pastene | 1.309 de 24.10.2007 | 17.12.2007 |
+| PRESIDENTE SUPLENTE | Jorge Cañón Moya | 614 de 25.05.2006 | 26.07.2006 |
+| REPRESENTANTE PRESIDENTE REPUBLICA TITULAR |  |  |  |
+| REPRESENTANTE PRESIDENTE REPUBLICA SUPLENTE 1 |  |  |  |
+| REPRESENTANTE PRESIDENTE REPUBLICA SUPLENTE 2 |  |  |  |
+| EMPRESARIO AGRICOLA TITULAR |  |  |  |
+| EMPRESARIO AGRICOLA SUPLENTE |  |  |  |
+| EMPRESARIO AGRÍCOLA SUPLENTE 2 |  |  |  |
+|  |  | **RES.** |  |
+| SECRETARIO TITULAR | Luis Guillermo Quezada Rivera | 17 de 15.09.2004 | 20.10.2004 |
+| SECRETARIO SUPLENTE | Luis Armando Bozzo Salvatierra | 17 de 15.09.2004 | 20.10.2004 |
+
+#### Segunda Serie (No agrícola)
+
+| MIEMBRO | NOMBRE | D.S. | D.O. |
+| --- | --- | --- | --- |
+| PRESIDENTE TITULAR | Rodrigo Olavarría Rodríguez | 1.309 de 24.10.2007 | 17.12.2007 |
+| PRESIDENTE SUPLENTE | Marcelo Urzúa Pacheco | 1.309 de 24.10.2007 | 17.12.2007 |
+| PRIMER REPRESENTANTE PRESIDENTE REPUBLICA TITULAR | José Luis Roco Contreras | 614 de 25.05.2006 | 26.07.2006 |
+| PRIMER REPRESENTANTE PRESIDENTE REPUBLICA SUPLENTE | Daniel Edgardo Isla Chávez | 614 de 25.05.2006 | 26.07.2006 |
+| SEGUNDO REPRESENTANTE PRESIDENTE REPUBLICA TITULAR | Jorge Eduardo Silva Pacheco | 748 de 05.06.2007 | 18.07.2007 |
+| SEGUNDO REPRESENTANTE PRESIDENTE REPUBLICA SUPLENTE | Luis Bernardo Aguilera Cabrera | 748 de 05.06.2007 | 18.07.2007 |
+| ARQUITECTO TITULAR | Alicia Meza Manubens | 1.061 de 01.12.1989 | 16.01.1990 |
+| ARQUITECTO SUPLENTE | Sergio Carrasco Cruzat | 1.061 de 01.12.1989 | 16.01.1990 |
+|  |  | **RES.** |  |
+| SECRETARIO TITULAR | Luis Armando Bozzo Salvatierra | 17 de 15.09.2004 | 20.10.2004 |
+| PRIMERA SECRETARIA SUPLENTE | Carolina Beatriz Bahamondes Pezoa | 107 de 06.09.2023 | 22.09.2023 |
+| SEGUNDO SECRETARIO SUPLENTE | Luis Christian Guajardo Saravia | 107 de 06.09.2023 | 22.09.2023 |

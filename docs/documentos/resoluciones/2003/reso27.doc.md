@@ -1,0 +1,569 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso27.doc
+titulo: Word – Resolución Exenta N°27 del 23 de Mayo del 2003 Autoriza como Emisor de Documentos Tributarios Electrónicos a Empresa Distribuidora Oriente Ltda. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA N°27 DEL 23 DE MAYO DEL 2003 MATERIA : AUTORIZA COMO EMISOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A EMPRESA DISTRIBUIDORA ORIENTE LTDA. 
+
+SANTIAGO,
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el artículo 6°, Letra A), No. 1, del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974;  en el artículo 56°, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D. L. 825, de 1974; en el artículo 71° Bis del Reglamento del D.L. N° 825, de 1974, contenido en el Decreto Supremo de Hacienda No. 55, de 1977; lo establecido en la  Ley N°19.799, en la Resolución Ex. N°09 de 2001 y en la Resolución Ex. N°18 de abril de 2003 y,
+
+
+CONSIDERANDO:
+
+
+1° Que, de acuerdo con el inciso 3° del artículo 56°, del D.L. 825,de 1974, el Director podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
+
+2° Que el uso de documentos soportados y firmados electrónicamente en reemplazo de los soportados en papel, ha sido validado de manera general  conforme a las normas sobre legalidad y valor probatorio de los mismos que contienen los artículos 3°, 4° y 5°  de la Ley N° 19.799 y,  por ende, en el uso de las facultades que se citan en el número que antecede, el Director ha resuelto autorizar la emisión de documentos tributarios que tengan la naturaleza y validez de los documentos a que se refiere dicha ley.
+
+3° Que, la tecnología de firma electrónica permite garantizar la integridad de los documentos y asegurar la autenticidad del emisor de ellos.
+
+4° Que, en el marco de la implementación del Sistema de Emisión de Documentos Tributarios Electrónicos, el Servicio de Impuestos Internos autorizará a las empresas participantes del plan piloto de este sistema que acrediten cumplir con los requisitos, para emitir documentos tributarios electrónicos. 
+
+5° Que, la empresa  Distribuidora Oriente Ltda., RUT 78.370.800-0, ha participado en el plan piloto de Factura electrónica y ha cumplido satisfactoriamente los requisitos para emitir documentos tributarios electrónicos.
+
+
+
+						     SE RESUELVE:
+
+
+Primero:	Autorízase a la empresa Distribuidora Oriente Ltda., RUT 78.370.800-0, domiciliada en Camino La Estrella N°401 Oficina 8, Sector Punta de Cortes, comuna de Rancagua, representada por el Sr. Carlos José Guzmán Vial, RUT 6.376.987-8, para emitir los documentos tributarios electrónicos a que se refiere el dispositivo tercero de esta Resolución.
+
+Segundo: 	En la presente Resolución se utilizarán los siguientes términos con el significado que a continuación se señala:
+
+Emisor Electrónico: Contribuyente autorizado por el Servicio de Impuestos Internos para generar documentos tributarios electrónicos. 
+
+Receptor Electrónico: Todo emisor electrónico que recibe un documento tributario electrónico.
+
+Receptor No Electrónico: Todo receptor de un documento tributario electrónico que no es emisor electrónico; también se denomina "receptor manual".
+
+Certificador o Prestador de Servicios de Certificación: Entidad prestadora de servicios de certificación de firmas electrónicas.
+
+Certificado Digital para Uso Tributario: Documento digital firmado y emitido por un Prestador de Servicios de Certificación acreditado ante el Servicio de Impuestos Internos o ante la Subsecretaría de Economía, Fomento y Reconstrucción, que constituye la identificación electrónica de un emisor electrónico y que le permite realizar operaciones tributarias autenticadas.
+
+Firma Electrónica: Sustituto digital de la firma ológrafa que está constituido por un conjunto de caracteres que acompaña un documento tributario electrónico, que se origina a partir del documento y que permite verificar con certeza la identidad del emisor electrónico, mantener la integridad del documento tributario electrónico e impedir al emisor electrónico desconocer su autoría o repudiarlo.
+
+Documento Tributario Electrónico (DTE): Documento electrónico creado y firmado electrónicamente por un emisor electrónico y que produce efectos tributarios.
+
+Número de un Documento Tributario Electrónico: Número autorizado por el Servicio de Impuestos Internos, con el cual un emisor electrónico genera y folia un documento tributario electrónico.
+
+Timbre Electrónico de un Documento Tributario Electrónico: Conjunto de caracteres que cumple la función de validar la representación impresa de un documento tributario electrónico y que permite verificar: i) que el número con que se generó el documento tributario electrónico ha sido autorizado por el Servicio de Impuestos Internos; ii) que los datos principales del documento tributario electrónico no han sido alterados; e  iii) que el documento tributario electrónico fue efectivamente generado por el emisor electrónico correspondiente. 
+
+La impresión del Timbre Electrónico se realiza en código de barras de dos dimensiones. El Timbre Electrónico, y con ello el documento tributario electrónico impreso, puede ser verificado por los fiscalizadores en terreno.
+
+Representación Impresa de un Documento Tributario Electrónico: Impresión en papel de un documento tributario electrónico, necesaria para ser entregada a receptores no electrónicos, para acompañar el traslado de mercaderías o para cualquier otro motivo en que se requiera un documento tributario electrónico impreso. Esta representación impresa deberá cumplir los requisitos que establezca el Servicio de Impuestos Internos.
+
+Factura Electrónica y Documentos Asociados: Cuando se haga referencia a éstos se entenderá que se está aludiendo a la Factura Electrónica, Factura Electrónica de Ventas y Servicios No Afectos o Exentos de IVA, Nota de Débito Electrónica y Nota de Crédito Electrónica; los documentos restantes, es decir la Guía de Despacho Electrónica y la Factura de Compra Electrónica se mencionarán expresamente, cuando se quiera referirse a ellos.
+
+Boleta Electrónica y Boleta No Afecta o Exenta Electrónica: Cuando se haga referencia a estos documentos, se entenderá que se está aludiendo a la Boleta Electrónica y a la Boleta Electrónica de Ventas y Servicios No Afectos o Exentos de IVA.
+
+Archivos Electrónicos de Ventas y Compras: Archivos electrónicos que contienen la información de todos los documentos de venta y compra, electrónicos y no electrónicos, de un emisor electrónico. Estos archivos no reemplazan los Libros de Compras y Ventas que deben observar las formalidades legales establecidas en el párrafo 3° del Título IV, del Decreto Ley  N° 825, de 1974, y en el  Título XIV del Reglamento del D.L. N° 825, de 1974, contenido en el Decreto Supremo N° 55, de Hacienda, de 1977. 
+
+Signatario o Firmante: Persona que actúa en nombre propio o en el de otra persona natural o jurídica a la que representa, y que habiendo obtenido previamente un certificado digital para uso tributario, tiene la capacidad de firmar un documento digital y de autenticarse ante el Servicio de Impuestos Internos para realizar operaciones relacionadas con los documentos tributarios electrónicos.
+
+ñ)	Super-usuario  electrónico: Persona autorizada por el contribuyente para ingresar y mantener en el sitio Web del Servicio de Impuestos Internos la identificación de los signatarios o firmantes autorizados para efectuar acciones relacionadas con los documentos tributarios electrónicos.
+
+Código de autorización de folios (CAF): Elemento computacional que es entregado por el Servicio de Impuestos Internos vía Internet, al momento de autorizar un determinado rango de folios a un emisor electrónico y que debe ser incorporado en el Timbre Electrónico.
+
+
+Tercero:  	El contribuyente individualizado en el Resolutivo primero está autorizado por el Servicio de Impuestos Internos para emitir Facturas Electrónicas, Notas de Crédito Electrónicas, Notas de Débito Electrónicas y Guías de Despacho Electrónicas a partir del período tributario correspondiente a  Mayo de 2003. 
+
+El contribuyente podrá seguir emitiendo documentos no electrónicos del mismo tipo de los documentos que se autoriza a emitir en forma electrónica. 
+
+
+Cuarto: 	El Servicio de Impuestos Internos almacenará el documento electrónico recibido sólo para fines de fiscalización y verificación. En consecuencia, no otorgará copias de los documentos almacenados ni entregará información para otros fines, salvo que éstos sean solicitados por los Tribunales de Justicia.
+
+
+Quinto: 	De la Información de Ventas y Compras
+La autorización para emitir documentos electrónicos no exime al contribuyente de la obligación de mantener actualizados los Libros de Compras y Ventas, de acuerdo a lo dispuestos en el párrafo 3°, del Título IV, del D.L. N° 825, de 1974.
+  
+En caso que el Servicio de Impuestos Internos requiera información de las ventas o compras efectuadas por un contribuyente, la información deberá ser entregada de acuerdo a lo establecido en los literales siguientes:
+
+Si la información solicitada es de los últimos tres períodos tributarios, ésta podrá ser solicitada en forma impresa o a través de medios tecnológicos. 
+
+Si la información es de períodos anteriores a los tres últimos períodos tributarios, y corresponde a períodos en que el contribuyente estaba autorizado como emisor electrónico, la información se solicitará sólo a través de medios tecnológicos. 
+
+Si la información es de períodos anteriores a los tres últimos períodos tributarios y corresponde tanto a períodos en que el contribuyente estaba autorizado como emisor electrónico como a períodos en que el contribuyente no era emisor electrónico, el contribuyente podrá optar por entregar toda la información por medios electrónicos, de acuerdo al formato de  Información Electrónica de Ventas y Compras establecido y publicado por el Servicio de Impuestos Internos en su sitio Web. En caso que no utilice esta opción, deberá hacer entrega de la información de los Libros de Compras y Ventas correspondiente a los períodos no electrónicos en forma impresa en papel foliado.
+
+Estas normas serán transitorias y se aplicarán hasta que el Servicio de Impuestos Internos dicte una norma general respecto a Contabilidad Computacional, la cual  eximirá de la impresión de los Libros de Compras y Ventas sólo a quienes cumplan los requisitos que en ella se establezcan. 
+
+
+Sexto:    	De las obligaciones generales.
+A partir del período tributario establecido en el resolutivo tercero, el emisor electrónico deberá cumplir con las siguientes obligaciones generales:
+
+Informar al Servicio de Impuestos Internos  el  Rut  del  super-usuario de la empresa. 
+
+Por intermedio del super-usuario, informar al Servicio de Impuestos Internos quienes serán los signatarios o firmantes autorizados. El Servicio de Impuestos Internos se reserva el derecho de rechazar a los signatarios de un contribuyente para efectuar acciones relacionadas con los documentos tributarios electrónicos en caso que posean antecedentes tributarios negativos. Este rechazo podrá efectuarse en cualquier oportunidad, ya sea al momento de ser ingresados por el super-usuario o posteriormente en caso que se produzcan situaciones que ameriten esta acción. 
+
+Enviar al Servicio de Impuestos Internos un ejemplar de cada documento tributario electrónico generado de la manera, en el formato y en la oportunidad que se detalla en el resolutivo séptimo, excepto la Boleta Electrónica y la Boleta No Afecta o Exenta Electrónica.
+
+Enviar los documentos electrónicos a sus receptores electrónicos por el medio que se haya acordado, cumpliéndose los requisitos mínimos establecidos en el Instructivo Técnico publicado en el sitio Web del Servicio de Impuestos Internos.
+
+Recibir todos los documentos electrónicos de sus proveedores que sean emisores electrónicos autorizados y entregar un acuse recibo, de acuerdo al formato establecido en el Instructivo Técnico del Servicio de Impuestos Internos referido en el numeral precedente. 
+
+Generar y enviar mensualmente al Servicio de Impuestos Internos los Archivos Electrónicos de Ventas y Compras correspondientes a cada período tributario antes del día 15 del mes siguiente, a través de Internet o del medio electrónico que el Servicio determine. 
+
+Almacenar y conservar en forma electrónica los documentos tributarios electrónicos emitidos y recibidos, para los efectos de respaldar las operaciones registradas en su contabilidad. 
+
+En caso que el Servicio solicite información correspondiente a los documentos mencionados en el numeral precedente, éstos deberán ser remitidos en el mismo formato XML en que fueron generados, con la firma electrónica correspondiente.
+
+Mantener a la vista, en todas sus sucursales o lugares donde emita documentos de venta, un extracto de esta resolución que acredita la calidad de emisor electrónico. 
+
+Informar a sus clientes respecto a esta forma de operación y a la posibilidad de verificar los documentos en el sitio Web del Servicio de Impuestos Internos.
+
+
+
+Séptimo:     De los procedimientos para emitir documentos electrónicos.
+
+El contribuyente deberá cumplir los siguientes procedimientos para la emisión de los documentos electrónicos:
+
+1.	Para solicitar los folios, un firmante autorizado para obtener folios, debe autenticarse con certificado digital en el sitio Web del Servicio. Los folios serán asignados de acuerdo a los requerimientos del contribuyente y los procedimientos establecidos por el Servicio de Impuestos Internos. La autorización se materializará a través de la entrega de un archivo computacional llamado Código de Autorización de Folios (CAF), el cual deberá ser guardado por el contribuyente en forma segura, evitando el acceso de terceros para evitar que el archivo pueda ser mal usado.
+
+Para la generación de un documento tributario electrónico se debe utilizar cada folio autorizado por el Servicio de Impuestos Internos por una sola vez. 
+
+Para la generación del documento electrónico se debe cumplir las especificaciones  del formato y schema XML asociado, que se encuentran publicados en el sitio Web del Servicio de Impuestos Internos.
+
+Todo documento tributario electrónico, excepto la Boleta Electrónica y la Boleta No Afecta o Exenta Electrónica, debe ser firmado en forma electrónica por uno de los signatarios autorizados ante el Servicio de Impuestos Internos para efectuar esta operación. Para generar la firma electrónica se deberá seguir las instrucciones del Instructivo Técnico publicado en el sitio Web del Servicio.
+
+Si el receptor es no electrónico, el emisor deberá entregarle una representación impresa del documento electrónico para respaldar la operación. Si el receptor es electrónico, el emisor deberá entregarle por medios electrónicos un ejemplar del documento electrónico. 
+
+El documento electrónico deberá cumplir lo establecido en el Instructivo Técnico publicado por el Servicio de Impuestos Internos en su sitio Web, en cuanto respecta a la generación del Timbre electrónico y de la Firma Electrónica. Además, la impresión que se efectúe del documento deberá cumplir las normas fijadas en la Resolución Ex. N°18 de 2003 para la representación impresa de los documentos electrónicos y  lo especificado en el Instructivo Técnico antes mencionado, en lo que se refiere a la impresión del Timbre Electrónico.
+
+Cuando exista transporte de bienes corporales muebles en vehículos destinados al transporte de carga, el documento tributario electrónico que se emita para respaldar  el traslado de las especies deberá ser impreso en dos ejemplares, los cuales deberán ser exhibidos a los funcionarios del Servicio de Impuestos Internos cuando lo requieran durante el tránsito de las mercaderías, y uno de los ejemplares podrá ser retirado por éstos. 
+
+Si el transporte de mercaderías se efectúa con una Guía de Despacho general, electrónica o no electrónica,  que se emita por el total de las especies transportadas, ésta deberá otorgarse en dos ejemplares y al entregar los bienes al cliente con Factura Electrónica, sólo debe imprimirse un ejemplar de este documento para respaldar la operación.
+ 
+Si no hay entrega de productos con el documento y el receptor es no electrónico, se podrá utilizar el procedimiento establecido en la Resolución Ex. N°11, de 2003, que faculta al emisor electrónico para solicitar autorización al receptor no electrónico, para enviarle imágenes de la representación impresa de los documentos electrónicos, por medios electrónicos.
+
+Todo documento tributario electrónico, excepto la Boleta Electrónica y la Boleta No Afecta o Exenta Electrónica, debe ser enviado al Servicio de Impuestos Internos vía Internet previo al transporte de las mercaderías, al envío del documento al receptor electrónico o a la entrega de su representación impresa al receptor no electrónico. Sólo en el caso de productos que son transportados con una Guía de Despacho general y que se entregan con una Factura Electrónica, el emisor electrónico tiene un plazo de 12 horas desde la entrega del documento electrónico al receptor para enviarlo al Servicio de Impuestos Internos.
+ 
+El Servicio de Impuestos Internos entregará un acuse recibo de los documentos electrónicos recibidos, en forma unitaria o por el total de ellos, y verificará la validez del documento en cuanto a su formato y a la validez de la firma electrónica de cada uno, rechazando los documentos que tengan una firma electrónica inválida, folios inválidos o que no cumplan las especificaciones de formato establecidas. 
+
+En el caso que se emitan documentos electrónicos con errores, que no hayan sido enviados al Servicio de Impuestos Internos y que no sean factibles de ser corregidos, el folio se deberá informar como nulo al Servicio y no se deberá enviar el documento al receptor. Estos folios no podrán ser usados posteriormente, ya que el Servicio de Impuestos Internos los considerará inválidos.  
+
+Si se ha enviado un documento electrónico al Servicio de Impuestos Internos y se detecta posteriormente que éste debe ser anulado, se deberá proceder en la forma siguiente:
+
+Si el documento que debe anularse es una Factura Electrónica, Factura de Compra Electrónica o Factura Electrónica de Ventas y Servicios No Afectos o Exentos de IVA, se deberá emitir en el mismo período tributario, o a más tardar en el período tributario siguiente, una Nota de Crédito Electrónica, la cual deberá contener un campo que indique que se trata de una anulación.  
+
+Si se requiere anular una Nota de Crédito Electrónica, se deberá emitir en el mismo período tributario, o a mas tardar en el período tributario siguiente, una Nota de Débito Electrónica. Del mismo modo, si es necesario anular una Nota de Débito Electrónica, deberá emitirse en el mismo período tributario, o a mas tardar en el período tributario siguiente, una Nota de Crédito Electrónica.
+
+Si se requiere anular una Guía de Despacho Electrónica, no se deberá informar al Servicio de Impuestos Internos, sino que se deberá hacer un registro en el Registro Electrónico de Guías de Despacho. 
+
+Lo establecido en las letras a y b de este resolutivo comenzará a regir a partir del período tributario siguiente al establecido en el resolutivo tercero.
+
+La información de anulaciones se debe indicar en el "Archivo Electrónico de Ventas" o en el  "Archivo Electrónico de Compras" según corresponda, los cuales se definen en el resolutivo noveno. 
+
+
+Octavo:      De los procedimientos para recibir documentos electrónicos. 
+ 
+El receptor electrónico debe verificar la validez y vigencia del certificado mediante el cual fue firmado el documento. El documento sólo puede ser rechazado si la firma es inválida o hay errores tales como los especificados en el párrafo siguiente. 
+
+Si la información que contiene un documento electrónico no representa una transacción fidedigna o si hay error en el Rut del receptor, el receptor electrónico no tendrá la obligación de registrarlo en el Libro de Compras y Ventas ni de incorporarlo a sus registros contables y tampoco tendrá la obligación de incorporarlo a los Archivos Electrónicos de Ventas y Compras a que se refiere el resolutivo noveno.
+
+En caso que no efectúe los registros indicados en el párrafo anterior, tampoco deberá registrar la Nota de Crédito o de Débito Electrónica que emita el emisor para corregir el error. 
+
+En caso de cualquier otro error, correspondiente a alguna discrepancia en la verificación de las condiciones comerciales, deberá registrar el documento y solicitar la emisión de la correspondiente Nota de Crédito Electrónica o Nota de Débito Electrónica.
+
+El receptor electrónico debe entregar un acuse recibo e informar su conformidad o disconformidad por los medios y en las condiciones que haya acordado con el respectivo emisor electrónico. En todo caso, deberá cumplir con los requisitos mínimos para el intercambio de información entre contribuyentes, establecido en el Instructivo Técnico publicado en el sitio Web del Servicio de Impuestos Internos.
+
+El registro en la contabilidad de un documento electrónico para un Emisor electrónico, ya sea emitido o recibido, tendrá como respaldo válido sólo los documentos archivados electrónicamente. 
+
+El registro en la contabilidad de un documento electrónico para un Receptor No Electrónico seguirá teniendo como respaldo válido el documento en papel. En estos casos, la representación impresa del documento electrónico será tributariamente válida si cumple con el formato establecido en Resolución N°18 de 2003.
+ 
+Cuando no haya entrega de mercaderías con el documento electrónico, un Receptor  No Electrónico podrá autorizar en forma expresa al emisor electrónico para que éste le envíe o publique en forma electrónica el documento en formato de imagen, de modo que el receptor pueda efectuar la impresión del documento tributario. La autorización otorgada deberá ceñirse a lo establecido en la Resolución Ex. N°11, del 14 de febrero de 2003.
+
+El receptor de un documento electrónico podrá verificar en el sitio Web del Servicio, si el documento ha sido recibido y aceptado, y adicionalmente comprobar si el documento que tiene en su poder corresponde al recibido por el Servicio de Impuestos Internos, asegurándose de esta manera que no habrá posibles impugnaciones a su crédito fiscal por causales de forma. 
+
+
+Noveno:     De los registros electrónicos
+
+El contribuyente electrónico deberá mantener los siguientes registros en forma electrónica:
+
+Archivo Electrónico de Ventas: Cada vez que emita una "Factura Electrónica y Documentos Asociados" deberá registrar la información del documento en este archivo electrónico.  Al finalizar el período tributario, debe haber incorporado la información de los documentos de venta no electrónicos y de las Boletas electrónicas que haya emitido.  Este archivo se deberá enviar mensualmente al Servicio de Impuestos Internos antes del día 15 de cada mes con la información del período tributario anterior.
+
+Archivo Electrónico de Compras: Cada vez que reciba una "Factura Electrónica y Documentos Asociados" o que emita una Factura de Compra Electrónica, deberá registrar la información del documento recibido en este archivo electrónico. Al finalizar el período tributario deberá haber incorporado la información de los documentos de compra no electrónicos que haya recibido o emitido. Este archivo se deberá enviar mensualmente al Servicio de Impuestos Internos antes del día 15 de cada mes con la información del período tributario anterior.
+
+Libro de Guías de Despacho Electrónicas: Cada vez que emita una Guía de Despacho Electrónica, deberá  registrarla en este archivo electrónico. Al finalizar cada período tributario se deberá anotar en la misma línea de la Guía,  el número de la Factura Electrónica o no electrónica respectiva. Este archivo no debe enviarse  mensualmente al Servicio de Impuestos Internos.
+
+Todos los registros deberán estar disponibles y actualizados en la sucursal o casa matriz, para posibles revisiones del Servicio de Impuestos Internos.
+
+
+Décimo:  De la fiscalización
+
+Frente a un requerimiento del Servicio de Impuestos Internos, el emisor electrónico deberá poder entregar en forma inmediata, un ejemplar de los documentos electrónicos recibidos y emitidos en el período tributario en curso y en los dos períodos tributarios anteriores, que correspondan a la sucursal o a la casa matriz en que se efectúa la fiscalización.
+
+Estos documentos deberán ser entregados en su representación impresa, a través de un medio electrónico o enviados a través de Internet, de acuerdo a lo que determine el fiscalizador. 
+
+En el caso de solicitarse la representación impresa, se podrá requerir la impresión de hasta diez (10) documentos de venta.
+
+
+Igualmente, frente a un requerimiento del Servicio de Impuestos Internos, el emisor electrónico deberá poder entregar en un medio electrónico, en forma inmediata, tanto en la sucursal o casa matriz en que se está efectuando la acción de fiscalización, el Archivo Electrónico de Ventas correspondiente a los documentos electrónicos del período en curso. 
+
+Deberá también estar en condiciones de entregar en un plazo de 5 días hábiles, el Archivo Electrónico de Ventas de la sucursal o casa matriz en su caso, con la información correspondiente a todos los documentos, tanto manuales como electrónicos, de los dos períodos anteriores al actual en curso. 
+
+Esta información también podrá ser solicitada en forma impresa en papel no foliado, caso en el cual el contribuyente dispondrá de 3 días hábiles para la entrega de la información. 
+
+Si la información solicitada por el Servicio, ya sea de documentos electrónicos o de los Archivos Electrónicos de Ventas y Compras es de períodos anteriores a los establecidos en los dos numerales anteriores,  el contribuyente dispondrá de un plazo de 10 días hábiles para generar y entregar la información. En el caso de los citados Archivos Electrónicos, la información deberá ser entregada al Servicio de Impuestos Internos de acuerdo a lo establecido en el numeral 2 del resolutivo quinto.
+
+La información para fines de fiscalización, tanto de documentos electrónicos como de aquella contenida en los Archivos de Ventas y Compras y en el Libro de Boletas, podrá ser solicitada según distintos criterios, de acuerdo a lo siguiente:
+
+Por período tributario.
+Por determinado rango de montos netos.
+Por determinado rango de IVA.
+Documentos emitidos de un determinado proveedor.
+Documentos generados a un determinado receptor. 
+
+En estos casos se dispondrá de un plazo de 10 días hábiles para generar y entregar la información. 
+
+En el caso del Libro de Guías de Despacho, se podrá solicitar la información contenida en éste de acuerdo a lo siguiente:
+
+Por período tributario.
+De acuerdo al valor del “Indicador Tipo de Traslado de Bienes”.
+Por determinado rango de monto total para Guías correspondientes a ventas..
+Documentos generados a un determinado receptor.
+
+
+Undécimo:    De la desafiliación
+
+El Servicio de Impuestos Internos se reserva el derecho de suspender la autorización otorgada al contribuyente para operar en el sistema de facturación electrónica si no cumple las obligaciones establecidas en la presente resolución, como asimismo,  si en el período de un año a contar de la fecha de vigencia de esta autorización, el contribuyente no genera en forma permanente Facturas Electrónicas, Notas de Crédito Electrónicas y Notas de Débito Electrónicas.
+
+Igualmente, el contribuyente podrá desistirse de ser un emisor electrónico, situación que deberá informar al Servicio de Impuestos Internos, a través de una solicitud de desafiliación. El Servicio de Impuestos Internos emitirá una resolución en la cual establecerá la fecha de desafiliación, que corresponderá al período tributario a partir del cual el contribuyente dejará de ser un emisor electrónico; esa resolución deberá ser publicada en extracto por el contribuyente en un diario de circulación nacional.
+
+Si el contribuyente es desafiliado como emisor de documentos electrónicos, el Servicio de Impuestos Internos considerará desautorizados los folios que no hayan sido utilizados a la fecha de desafiliación y por lo tanto rechazará todo documento electrónico cuya fecha de emisión sea posterior a esa data. 
+
+
+Duodécimo: El contribuyente se obliga a cumplir el Instructivo Técnico y los formatos de documentos y Archivos electrónicos de acuerdo a la actualización que de ellos realice el Servicio de Impuestos Internos. Cuando el Servicio de Impuestos Internos efectúe modificaciones a estos documentos, se publicará en el sitio Web del Servicio de Impuestos Internos la documentación actualizada y el plazo para adecuarse a ella.
+
+
+Decimotercero: El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura electrónica, se encuentra sancionado en los artículos 97 ó 109 del Código Tributario, según corresponda. 
+
+
+Decimocuarto: Una vez que el Servicio de Impuestos Internos establezca la norma general de operación de la Factura electrónica, el contribuyente autorizado como emisor electrónico por esta Resolución, deberá adecuar sus procedimientos a dicha normativa.
+
+
+Decimoquinto: La presente Resolución deberá publicarse extractada, por cuenta del contribuyente, en el Diario Oficial.
+
+
+
+Anótese y Comuníquese
+
+
+(Fdo) JUAN TORO RIVERA
+    DIRECTOR
+Lo que transcribo a Ud. para su conocimiento y demás fines.
+
+
+
+
+Distribución:
+Distribuidora Oriente Ltda., representante legal Sr. Sr. Carlos José Guzmán Vial, dirección Camino La Estrella N°401 Oficina 8, Sector Punta de Cortes, comuna de Rancagua
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso07.doc
+titulo: Word – Resolución Exenta SII N°07 del 18 de Enero del 2006 Fija Tablas de Valores de Trolebuses, Microbuses, Camiones, Taxis, Taxis Colectivos, Taxibuses, Automoviles, Station Wagons , Furgones, Camionetas, Incluyendo el de sus Acoplados o Carros de Arrastre. Fuente: Departamento de Catastro y Tasac
+categoria: otros
+---
+RESOLUCION EXENTA SII N°07 DEL 18 DE ENERO DEL 2006 MATERIA : FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMOVILES, STATION WAGONS , FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE.
+
+	
+	Hoy se ha resuelto lo que sigue:	
+
+	Vistos: Que en virtud de lo dispuesto en el artículo 34º bis, Nºs. 2 y 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974, corresponde a esta Dirección Nacional fijar el valor corriente en plaza de los vehículos motorizados explotados en el transporte terrestre de pasajeros o de carga ajena, incluyendo el de sus acoplados o carros de arrastre, sobre el cual debe aplicarse la presunción de renta para los fines de calcular los impuestos a la renta y el monto de los pagos provisionales mensuales establecidos en dicho cuerpo legal.
+
+Que los automóviles destinados a taxis o taxis colectivos tienen evidentemente un deterioro o depreciación mayor que los destinados al uso particular.
+
+Que los vehículos que han ingresado o que ingresen al país con liberación aduanera total o parcial o que estén sujetos a una prohibición de enajenar o ceder su uso o goce a cualquier título, se regirán por los valores asignados en esta resolución o por las tasaciones practicadas por las Unidades del Servicio, según proceda.
+
+Que en el diario El Mercurio, de los días 25 y 26 de enero del 2006, de conformidad a lo dispuesto por el Servicio de Impuestos Internos, se publicarán, respectivamente, la Lista de Valores de automóviles particulares, station wagons, camionetas y furgones; y la Lista de Valores  de trolebuses, microbuses, taxibuses, camiones y de los acoplados  y carros de arrastre
+ 
+Y visto, además, lo dispuesto en la Ley Orgánica del Servicio de Impuestos Internos.
+
+	RESUELVO:
+
+	1.- Fíjase a contar del 1º de enero del 2006, como valor corriente en plaza de los trolebuses, microbuses, taxibuses, camiones, y de los acoplados y carros de arrastre, el que se señala en el listado anexo que se publicará en el diario El Mercurio de fecha 26 de enero del 2006 y disponible en Internet, en www.sii.cl.
+
+	2.- Fíjase a contar del 1º de enero del 2006, como valor corriente en plaza de  automóviles, station wagons, furgones y camionetas, el asignado en la Lista de Valores de automóviles particulares, station wagons, camionetas y furgones, que será publicada en el diario El Mercurio del 25 de enero del 2006 y disponible en Internet en www.sii.cl, que sirve de base para determinar los impuestos contenidos en el Decreto Ley Nº 3.063, de 1979. Al efecto se considerará el mismo valor que aparece en la columna "tasación" de dicha publicación cuyo contenido formará parte integrante de la presente resolución.
+
+	3.- No obstante, en el caso de automóviles destinados a taxis o taxis colectivos, se considerará como valor corriente en plaza el mismo valor que figura para cada vehículo en la Lista de Valores que será publicada en el diario El Mercurio del 25 de enero del 2006 y disponible en ínternet en www.sii.cl, a que se refiere el N°2 anterior, rebajado en un treinta por ciento (30%).
+
+
+	4.- En el caso de vehículos que no figuren en el anexo adjunto a la presente resolución o en la referida Lista de Valores, corresponderá a las Unidades del Servicio determinar su valor, asimilándolos a aquellos vehículos que aparezcan en dicho anexo o dicha Lista de Valores, de acuerdo con las características, modelo, tipo, años de antigüedad, capacidad y especificaciones técnicas pertinentes.
+
+	5.- Si el vehículo fuere del año 2006, su valor corriente en plaza será el que figure en la respectiva factura, contrato o convención, sin deducir el monto del Impuesto a las Ventas y Servicios del Decreto Ley Nº 825, de 1974.
+
+	6.- En el caso de vehículos importados directamente, el valor corriente en plaza será el valor aduanero o en su defecto el valor CIF más los derechos de aduana y el Impuesto a las Ventas y Servicios.
+
+	7.- En cuanto a los camiones, se considerará como valor corriente en plaza el que figure en el anexo de esta resolución respecto de ellos y de sus respectivos acoplados o carros de arrastre. Por consiguiente, al valor del camión deberá sumarse el valor del respectivo acoplado o carro de arrastre. Lo mismo ocurrirá cuando se trate de implementos que forman parte del camión o de los acoplados, tales como: cámaras frigoríficas, cámaras térmicas, furgones encomienda, estanques metálicos, tolvas hidráulicas o cualquier otro elemento similar, cuyo valor deberá agregarse al valor del respectivo camión, remolque, semi-remolque o carro de arrastre.
+
+	8.- Publíquese el listado anexo a esta Resolución, en el diario El Mercurio, el día 26 de enero del 2006. Este listado se publicará adicionalmente en el sitio Web del Servicio de Impuestos Internos:  HYPERLINK http://www.sii.cl; www.sii.cl;
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+	(Fdo.) JUAN TORO RIVERA
+	DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines:
+
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín
+
+

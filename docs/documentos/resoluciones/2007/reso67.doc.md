@@ -1,0 +1,198 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso67.doc
+titulo: Word – Resolución Exenta SII N°67 del 06 de Junio del 2007 Deroga Autorización Otorgada Para Operar Como Receptor de Documentos Tributarios Electrónicos a Contribuyente que se Señala. Fuente: Oficina de Catastro, Documentos Electrónicos y Fiscalización Preventiva
+categoria: otros
+---
+RESOLUCION EXENTA SII N°67 DEL 06 DE JUNIO DEL 2007 MATERIA : DEROGA AUTORIZACIÓN OTORGADA PARA OPERAR COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTE QUE SE SEÑALA.
+
+
+Hoy se ha resuelto lo que sigue:
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; la Res. Ex. SII N° 45, de 01 de Septiembre de 2003; la Res. Ex. SII N° 63, de 15 de Julio de 2004; la Res. Ex. SII N° 78, de 6 de Agosto de 2004; la Res. Ex. SII N° 75, de 18 de Julio de 2004; y		
+
+CONSIDERANDO:
+	
+1° Que, en Res. Ex. SII  N° 78, del 6 de Agosto de 2004, se ha delegado en el Subdirector de Fiscalización la facultad de autorizar a organismos públicos como receptores de documentos tributarios electrónicos.
+
+2° Que, asimismo, la facultad antes señalada permite derogar las autorizaciones otorgadas, de acuerdo a las situaciones definidas en el resolutivo Duodécimo de la Res. Ex. SII N° 45, de 2003, así como en otras situaciones no contempladas en el resolutivo indicado.
+
+3° Que, el contribuyente que se detalla en el único Resolutivo de esta resolución ha solicitado a este Servicio la derogación de su autorización para recibir Documentos Tributarios Electrónicos, otorgada mediante la Res. Ex. SII N° 75, de 18 de Julio de 2005.
+
+						     SE RESUELVE:
+
+Derógase la autorización otorgada para operar como receptor electrónico, de acuerdo a lo establecido en la Res. Ex. SII N° 45, de 2003 y la Res. Ex. SII N° 75, de 2005, al siguiente contribuyente:
+
+
+- FUERZA AÉREA DE CHILE GRUPO DE ABASTECIMIENTO.		RUT 61.103.014-2
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+(Fdo.) NELSON MUÑOZ TORRES
+  SUBDIRECTOR DE FISCALIZACIÓN (S)
+
+         Lo que transcribo a Ud., para su conocimiento y demás fines
+
+NMT/MPM/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,192 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso56.doc
+titulo: Word – Resolución Exenta SII N°56 del 15 de Mayo del 2006 Autoriza a Proceder Conforme Al Modelo De Operación De Contabilidad Electrónica a Contribuyente Que Señala. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°56 DEL 15 DE MAYO DEL 2006 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTE QUE SEÑALA.
+
+     
+      Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974;  en la Resolución Ex. Sii N°150 de diciembre de 2005 y,
+
+
+CONSIDERANDO:
+
+1° Que, el contribuyente que se detalla en el Resolutivo primero ha solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150 de diciembre de 2005, a partir del año 2006.
+2° Que, el contribuyente citado, cumple los requisitos establecidos en la referida Res. Ex. SII N° 150 de diciembre de 2005, y cuenta con CAL (Códigos de Autorización de Libros) para los Libros Contables Electrónicos.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2006, a Entel PCS Telecomunicaciones S.A., RUT 96.806.980-2.
+Segundo: 	Autorízase además a dicho contribuyente para almacenar, para fines tributarios, los libros contables de años anteriores al año 2006, en un medio digital.
+Tercero:    	El contribuyente autorizado deberá cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005.
+
+
+
+Anótese, Comuníquese y Publíquese en Internet
+
+
+ (Fdo) RICARDO ESCOBAR CALDERON
+	DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+Distribución:
+
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

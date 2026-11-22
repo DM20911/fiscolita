@@ -1,0 +1,308 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso11.doc
+titulo: Word – Resolución Exenta SII N°11 del 30 de Enero del 2012 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°11 DEL 30 DE ENERO DEL 2012 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Enero del 2012, a los siguientes contribuyentes:
+
+- AD CAPITAL ASESORIAS E INVERSIONES LTDA. 				76.715.480-1 
+- AGENCIA DE ADUANA JUAN SANHUEZA Y ALEX AVSOLOMOVICH LTDA. 	88.527.900-7 
+- AGRICOLA FRUTOS DEL MAIPO LTDA. 					78.279.230-K 
+- AGROORGANICOS MOSTAZAL LTDA. 						77.429.370-1 
+- AKI-KB MINIBODEGAS S.A. 							99.582.780-8 
+- ANDERS Y CIA. CHILE LTDA. 							76.130.835-1 
+- ARGOS (CHILE) S.P.A.								76.068.955-6 
+- ARIDOS GUERRICO CHILE LTDA. 						76.058.720-6 
+- AUTOSTOCK S.P.A.								76.093.813-0
+- BIOMERIEUX CHILE S.A. 							96.659.920-0 
+- CHRISTIAN ESPINOSA CONTRERAS INGENIERIA Y 				76.011.769-2
+  CONSTRUCCION E.I.R.L. 
+- COLD ANDINA S.P.A. 								96.801.670-9 
+- COMERC. ELECTRICA INDUSTRIAL Y SERVICIOS LTDA. 			77.124.120-4 
+- COMERC. Y EXPOR CETCO LATINO AMERICA LTDA.				76.071.330-9 
+- COMERCIAL CASA FESTA LTDA. 						76.097.106-5 
+- COMERCIALIZADORA LUAGHER LTDA.					78.745.040-7 
+- CORTES Y CIA. LTDA. CORREDORES DE SEGUROS				78.083.090-5 
+- DISTRIBUIDORA DE COMBUSTIBLES SANTA ELENA S.A. 			96.924.100-5 
+- DUEIK S.A.									76.106.641-2 
+- EQUILATERO INVERSIONES LTDA. 						77.679.770-7 
+- ETCHEBERRIGARAY Y MATUSCHKA LTDA.				 	76.146.894-4 
+- EXACTA LTDA. 									76.058.030-9 
+- HELIOS S.A. 									93.791.000-2 
+- HERMANN PAUS MASCHINENFABRIK GMBH (CHILE) LTDA. 			77.812.180-8 
+- HERNAN ALEJANDRO PACHECO GUTIERREZ 					76.171.579-8
+  COMERCIALIZADORA-RECOVET E.I.R.L. 	 
+- HILL AND KNOWLTON CAPTIVA S.A.						96.782.360-0
+- HOTELERA DIEGO DE ALMAGRO LTDA. 					77.663.150-7
+- IMPORTADORA CAREN LTDA. 							85.238.100-0 
+- IMPORTADORA Y COMERCIALIZADORA AVELLO MELLA LTDA. 		76.037.692-2 
+- IMPORTADORA Y COMERCIALIZADORA REAL OPTIC LTDA. 			76.049.803-3 
+- IMPORTADORA Y EXPORTADORA CAMIR LTDA. 				77.487.960-9 
+- IMPORT-EXPORT TRUBLACK LTDA. 						77.549.550-2 
+- INGELAN CONSULTORES LTDA. 						78.414.800-9 
+- INGENIERIA EN PLASTICOS MEMBRANTEC S.A.				96.880.020-5 
+- INGENIERIA Y CONSTRUCCION CETCO LTDA. 				76.037.263-3 
+- INMOBILIARIA E INVERSIONES ABRIL LTDA.				 	77.496.420-7 
+- INTERNATIONAL BAKERY LTDA. 						77.200.810-4 
+- INVERSIONES SANTIAGO SCO LTDA. 						77.858.000-4 
+- INVERSIONES SUDTERRA CHILE LTDA. 					76.053.550-8 
+- J WALTER THOMPSON CHILENA S.A.C.					91.051.000-2 
+- JORGE HUMBERTO QUINTANILLA AREVALO, EQUIPOS 			76.093.265-5
+  HIDRAULICOS E.I.R.L.
+- KF EVENTOS LTDA. 								76.100.816-1 
+- M PRO LIQUIDADORA DE SEGUROS LTDA. 					76.023.194-0 
+- MEDIA EDGE COMUNICACIONES CHILE LTDA.				77.901.350-2 
+- METALURGICA ANDUEZA Y CIA. LTDA. 					76.175.442-4 
+- METALURGICA FAT LTDA. 							84.361.600-3 
+- MIGUEL TRESPALACIOS Y CIA. LTDA. 						76.155.561-8 
+- MUEBLES SUR S.A. 								82.409.100-5 
+- MULTICENTER S.P.A. 								76.170.091-K 
+- PAREX CHILE LTDA. 								77.830.430-9 
+- PARTNERS & SUCCESS S.P.A.							99.512.800-4 
+- PRODUCCIONES PABLO INSUNZA RODRIGUEZ E.I.R.L.		 	76.174.942-0 
+- PRODUCTOS Y SERVICIOS BENTON LTDA. 					77.632.550-3 
+- PUBLICIDAD Y EDICIONES CLEMENT LTDA. 					77.717.590-4 
+- PUBLIMARCA LTDA. 								76.179.118-4 
+- RECUPERADORA DE EXCEDENTES INDUSTRIALES NORTE 			76.173.211-0
+  VERDE S.P.A. 	 
+- REPRESENTACIONES COMERCIALES KOSTNER LTDA. 			76.008.559-6 
+- REVESTIMIENTOS TECNICOS LTDA. 						96.653.100-2 
+- RODRIGO ZUAZOLA Y CIA. LTDA. 						77.243.040-K 
+- SALFA COMERCIAL S.A. 							96.954.630-2 
+- SERVICIOS INTEGRADOS DE INFORMACION S.A.			 	96.629.630-5 
+- SILVO NATURALS S.P.A.						 	76.090.422-8 
+- SITROL S.A.								 	96.834.410-2 
+- SOC. COMERCIAL E IMPORTADORA DE ESPECIALIDADES 			86.236.100-8
+  INDUSTRIALES LTDA. 
+- SOC. INDUSTRIAL COMERCIAL DE INVENCION, PROGRAMACION		77.802.470-5
+  Y ADMINISTRADORA ARCHI LIFE LTDA. 		 
+- SOC. PAVIMENTOS NORTE LTDA.					 	78.808.210-K 
+- SOCIEDAD COMERCIAL E INDUSTRIAL MINERA, ANTIABRASIVOS 		76.015.108-4
+  MIXTOS LTDA. 
+- SOCIEDAD CONSTRUCTORA SANTIAGO CONCHA LTDA. 			76.004.769-4 
+- SOCIEDAD DE INVERSIONES TECNOSINERGIA LTDA. 			76.169.527-4 
+- STELIMP SERVICIOS LTDA. 							76.122.700-9 
+- TALENT SEARCH S.A. 								76.103.397-2 
+- TDS CONSULTORES CHILE LTDA.						76.145.338-6 
+- TECNOLOGIA Y COMUNICACION, ALEJANDRO REYES 			76.074.435-2
+  LURASCHI E.I.R.L. 	 
+- TOMAS ARTURO MENDEZ CASTILLO 						07.680.574-1
+
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+   
+   (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+MSB/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

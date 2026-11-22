@@ -1,0 +1,95 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso183.doc
+titulo: Word – Resolución Exenta SII N°183 del 17 de Diciembre del 2010 Establece forma y Plazo de Declaraciones Juradas que Indica, que deben presentar las Empresas Receptoras de Inversión Extranjera y demás Contribuyentes, que se Acojan a lo dispuesto en el D.L. N° 600, de 1974. Fuente: Departamento Media
+categoria: otros
+---
+RESOLUCION EXENTA SII N°183 DEL 17 DE DICIEMBRE DEL 2010 MATERIA : ESTABLECE FORMA Y PLAZO DE DECLARACIONES JURADAS QUE INDICA, QUE DEBEN PRESENTAR LAS EMPRESAS RECEPTORAS DE INVERSIÓN EXTRANJERA Y DEMÁS CONTRIBUYENTES, QUE SE ACOJAN A LO DISPUESTO EN EL D.L. N° 600, DE 1974.
+
+Hoy se ha resuelto lo que sigue:
+
+						VISTOS: Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15 de octubre de 1980; lo establecido en los artículos 6° letra A N° 1, 34° y 35°, todos ellos del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; las disposiciones contenidas en el D.F.L. N° 253, que fija texto refundido, coordinado y sistematizado del Decreto Ley N° 600, de 1974, Estatuto de la Inversión Extranjera, modificado por las Leyes N°s 20.026 y 20.469, publicadas en el Diario Oficial del 16 de Junio de 2005 y 21 de Octubre de 2010, respectivamente.
+																												CONSIDERANDO:
+1° 	Que, corresponde al Servicio de Impuestos Internos, en cumplimiento del objetivo específico a que está llamado por la ley, la aplicación y fiscalización de todos los impuestos internos, actualmente establecidos o que se establecieren, fiscales o de otro carácter, en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente;
+2° 	Que, conforme al artículo 7°, modificado por la Ley N° 20.026, y el artículo 11 bis, ambos del D.L. N° 600, de 1974, Estatuto de la Inversión Extranjera, los titulares de inversiones extranjeras que se acojan a dicho decreto ley, tienen derecho a que en sus respectivos contratos se estipule que se mantendrá invariable, por un plazo de 10 años, contados a partir de la puesta en operación de la empresa, una tasa del 42% como carga impositiva total a la renta; plazo que puede ser aumentado hasta un total de 20 años, tratándose de inversiones de un monto igual o superior a US$50.000.000 o en su equivalente en monedas extranjeras, cuando tengan por objeto el desarrollo de proyectos industriales o extractivos, incluyendo los mineros; 
+
+3° 	Que, conforme al artículo 11 ter del  citado estatuto, modificado por las Leyes N°s 20.026 y 20.469, las inversiones de un monto igual o superior a US$50.000.000 o en su equivalente en monedas extranjeras, que tengan por objeto el desarrollo de proyectos mineros, otorgan el derecho a los titulares de dichas inversiones, por el plazo de 15 años, contados a partir del año calendario en que ocurra la puesta en marcha de la respectiva empresa, a mantener invariables las normas vigentes al fecha de suscripción del respectivo contrato en lo relativo a la Impuesto Específico a la Actividad Minera de que tratan los artículos 64 bis y 64 ter de la Ley de Impuesto a la Renta.  
+
+4° 	Que, los artículos primero y segundo transitorios de la Ley N° 20.469, de 2010, establecen que los inversionistas extranjeros y empresas receptoras de sus aportes que, con anterioridad a la vigencia de dicha ley, mantengan vigente un contrato de inversión extranjera, y, asimismo, las empresas que, no siendo receptoras de dichos aportes, hayan suscrito un contrato con invariabilidad de aquellos señalados en el artículo 5° transitorio de la Ley N° 20.026, que se encontraren afectos al pago del impuesto y que optaren por acogerse a las normas de los artículos 64 bis y 64 ter de la Ley de Impuesto a la Renta, entre otros requisitos y condiciones que fijan dichas normas, deberán presentar una solicitud que tenga por objeto modificar el régimen de invariabilidad ante el Comité de  Inversiones Extranjeras o ante el Ministerio de Economía, Fomento y Turismo, según el caso. 
+
+
+
+
+
+
+
+
+5° 	Que, el artículo tercero transitorio de la Ley N° 20.469, de 2010, establece que los inversionistas extranjeros y empresas receptoras que gocen de los derechos de invariabilidad contemplados en los artículos 7 ú 11 bis del D.L. N° 600, de 1974, podrán presentar una solicitud en que indiquen su voluntad de sustituir el régimen de invariabilidad de que gozan por el del artículo 11 ter de dicho cuerpo legal.
+
+6° 	Que, asimismo, los incisos sexto y siguientes del artículo tercero transitorio de la Ley N° 20.469, de 2010, establecen que los inversionistas extranjeros y empresas receptoras de sus aportes que, con anterioridad a la vigencia de dicha ley, mantengan vigente un contrato de inversión extranjera y, asimismo, las empresas que, no siendo receptoras de dichos aportes, hayan suscrito un contrato con invariabilidad de aquellos señalados en el artículo 5° transitorio de la Ley N° 20.026, tendrán derecho a que las respectivas empresas receptoras de la inversión puedan explotar otros proyectos mineros conexos, amparándolos en el régimen de invariabilidad pactado. Para dichos efectos, entre otros requisitos, dichas empresas e inversionistas extranjeros deberán presentar una solicitud de extensión de invariabilidad de proyectos conexos, dentro del plazo de treinta días hábiles desde iniciada la explotación del proyecto minero conexo, en la que informen las pertenencias mineras que efectivamente hayan adquirido con posterioridad a la solicitud referida en los incisos 3°, 4° y 5° transitorios del último cuerpo legal citado. 
+
+7° 	Que, el artículo cuarto transitorio de la Ley N° 20.469, de 2010, faculta a los contribuyentes que no siendo empresas receptoras del aporte de inversionistas extranjeros, hayan iniciado la explotación de un proyecto minero con anterioridad a su entrada en vigencia, y que se encuentran afectas al Impuesto Específico a la Actividad Minera del artículo 64 bis de la Ley de Impuesto a la Renta, puedan solicitar la concesión de los derechos contenidos en el artículo 11 ter del D.L. N° 600, de 1974, debiendo presentar la solicitud respectiva, al Estado de Chile, en los mismos términos y plazos establecidos en los incisos sexto y séptimo del artículo segundo transitorio del primer cuerpo legal citado.  
+
+8° 	Que, el artículo 35 del Código Tributario establece que el Servicio podrá exigir a los contribuyentes, junto con las declaraciones, la presentación de otros documentos tales como libros de contabilidad, detalle de la cuenta de pérdidas y ganancias, documentos o exposición explicativa y demás que justifiquen el monto de la renta declaradas y las partidas anotadas en la contabilidad;
+
+9°	Que, el inciso primero del artículo 63 del mismo cuerpo legal, señala que el Servicio hará uso de todos los medios legales para comprobar la exactitud de las declaraciones presentadas por los contribuyentes y para obtener las informaciones y antecedentes relativos a los impuestos que se adeuden o pudieran adeudarse.
+
+10°	Que, con el objeto de cumplir de forma oportuna y eficiente con las obligaciones propias del Servicio, se hace necesario conocer la fechas de inicio y término de los plazos de invariabilidad pactados en los respectivos contratos de inversión extranjera a que se refiere el D.L. N° 600, de 1974, a raíz de las modificaciones introducidas por la Ley N° 20.469, de 2010.
+
+11°	Que, la transmisión de datos vía correo electrónico facilita el cumplimiento tributario a los contribuyentes, permitiendo a su vez al Servicio recibir centralizadamente y en forma directa los antecedentes proporcionados por el interesado.
+
+ 						
+SE RESUELVE:
+
+
+1° Las empresas receptoras de aportes efectuados por inversionistas extranjeros que, con anterioridad a la vigencia de Ley N° 20.469, de 2010, tuvieren vigente un contrato de inversión extranjera conforme a las normas del D.L. N° 600, de 1974, Estatuto de la Inversión Extranjera, deberán presentar al Servicio de Impuestos Internos una Declaración Jurada Formulario N° 1801, denominada “D.L. N° 600”, en la que informarán la fecha de inicio y término del plazo de invariabilidad de las inversiones que fueron pactadas en dichos contratos, así como los demás antecedentes que se indican en el formato contenido en el anexo 1° de la presente resolución.
+
+A igual obligación quedarán sujetas las empresas que, no siendo receptoras de dichos aportes:
+
+Hayan suscrito un contrato con invariabilidad de aquellos señalados en el artículo 5° transitorio de la Ley N° 20.026, de 2005; o 
+Hayan iniciado la explotación de un proyecto minero con anterioridad a la entrada en vigencia de la Ley N° 20.469, se encuentran afectas al Impuesto Específico a la Actividad Minera del artículo 64 bis de la Ley de Impuesto a la Renta, y quieran solicitar la concesión de los derechos contenidos en el artículo 11 ter del D.L. N° 600, de 1974, de conformidad a lo dispuesto en el artículo 4° transitorio de dicha ley.
+
+
+
+
+2° Las empresas que exploten proyectos mineros conexos que serán amparados por lo dispuesto en el artículo tercero transitorio de la Ley N° 20.469, deberán presentar al Servicio una Declaración Jurada Formulario N° 1800, denominada “D.L. N° 600 - Conexo”, en la que informarán la fecha de inicio de explotación de dichos proyectos y los demás antecedentes que se indican en el formato contenido en el anexo 3° de la presente resolución. 
+
+Para los efectos de lo prevenido en este resolutivo, en conformidad a lo dispuesto en la parte final del inciso 10° del artículo tercero transitorio de la Ley N° 20.469 y del artículo 64 bis N° 1 de la Ley sobre Impuesto a la Renta, se entenderá que un proyecto minero conexo inicia su explotación desde el momento en que se produzca la primera venta de las sustancias minerales extraídas del respectivo proyecto.
+
+3° El plazo de presentación de la declaración jurada que establece el resolutivo 1°, vencerá el 17 de enero de 2011. Tratándose de las empresas referidas en los resolutivos precedentes que, con posterioridad a dicho plazo, inicien la puesta en marcha o la explotación del respectivo proyecto, según corresponda, se deberá presentar dicha declaración hasta el 31 de marzo del año siguiente a aquel en que se produzca la misma.
+
+El plazo de presentación de la declaración jurada que establece el resolutivo 2°, vencerá dentro de 30 días hábiles a contar del inicio de explotación del respectivo proyecto conexo.  
+
+4° Los contribuyentes obligados a la presentación de las declaraciones juradas a que se refiere la presente resolución, deberán informar a este Servicio toda modificación de los datos o antecedentes en ellas contenidos, en los mismos formularios establecidos en sus respectivos resolutivos, dentro del plazo de 30 días hábiles a contar de que ello ocurra.
+
+5° Las declaraciones juradas Formularios N° 1800 y 1801 deberán ser enviadas, en archivo digital, al correo electrónico: DL600@sii.cl, conforme instrucciones contenidas en anexos Nos 2 y 4 de la presente resolución. 
+
+La actualización de los datos e información a que se refiere el resolutivo precedente, deberá ser comunicada por este mismo medio. 
+
+6° Los anexos N° 1 al N° 4 de esta resolución, se entienden formar parte integrante de ella. 
+
+Toda modificación del formato de las Declaraciones Juradas Formularios N° 1800 y 1801 o de sus respectivas instrucciones, se publicará oportunamente en la página Internet del Servicio, HYPERLINK "http://www.sii.cl"www.sii.cl. 
+
+7° Los documentos que acrediten la información proporcionada mediante las declaraciones juradas a que se refieren las presentes instrucciones, deberán ser puestos a disposición de este Servicio, cuando este así lo requiera.
+8º El retardo o la omisión de la entrega de las declaraciones juradas establecidas en la presente resolución y/o la actualización de los datos contenidos en ellas, será sancionado de acuerdo a lo prescrito en el artículo 109 del Código Tributario, según corresponda. 
+9° La presente resolución se publicará, en extracto, en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+	Lo que comunico a Ud., para su conocimiento y fines consiguientes.
+
+Distribución: -     Boletín 
+Internet
+Diario Oficial (Extracto)
+
+Anexos:
+Anexo N° 1: Formulario Declaración Jurada N° 1801– D.L. N° 600
+Anexo N° 2: Instructivo de llenado Declaración Jurada N° 1801 – D.L. N° 600
+Anexo N° 3: Formulario Declaración Jurada N° 1800- D.L. N° 600- Conexo
+Anexo N° 4: Instructivo de llenado Declaración Jurada N° 1800 - D.L. N° 600- Conexo
+

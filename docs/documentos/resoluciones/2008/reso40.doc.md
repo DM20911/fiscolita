@@ -1,0 +1,233 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso40.doc
+titulo: Word – Resolución Exenta SII N°40 del 28 de Marzo del 2008 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°40 DEL 28 DE MARZO DEL 2008 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorízanse como emisores electrónicos a contar del mes de Abril del 2008 a los siguientes contribuyentes:
+	
+
+	- ADRIAN ARTURO FLORES PÉREZ  					RUT 06.272.457-9  - AUTOPISTA DEL MAIPO SOCIEDAD CONCESIONARIA S.A. 		RUT 96.875.230-8  - COMERCIAL KLINGSPOR CHILE LTDA. 					RUT 77.892.600-8  - COMUNICACIONES CAPÍTULO LTDA.					RUT 86.271.600-0  - CONECTIVA CHILE SERVICIOS EN INFORMÁTICA COMPAÑÍA LTDA. 	RUT 76.007.226-5  - DIMMAX SEGURIDAD Y SERVICIOS INTEGRALES LTDA. 			RUT 77.298.010-8  - ELECTRICIDAD LEAL LTDA.  						RUT 77.697.260-6  - FARMACIAS KNOP LTDA. 							RUT 79.781.370-2  - H E FIBERGLASS SOCIEDAD INDUSTRIAL Y COMERCIAL S.A. 		RUT 83.260.800-9  - HOMEOPATIA ALEMANA KNOP LTDA. 					RUT 89.688.800-5  - INDUSTRIA PROCESADORA DE ALIMENTOS KNOP LTDA. 			RUT 76.182.720-0  - INVERSIONES EDITORIALES S.A.						RUT 99.509.130-5  - IVANOC FUENTES VERGARA 						RUT 11.729.898-1  - JAIME MIGUEL DOMINGUEZ FUENZALIDA 				RUT 05.397.291-8  - LECHERIAS LONCOMILLA LTDA. 						RUT 84.569.900-3  - LUDOWICI MINERAL PROCESSING EQUIPMENT S.A. 			RUT 99.521.150-5  - MAESTRANZA ALEMANIA LTDA. 						RUT 79.532.470-4  - MEDIA TOOLS COMPUTACIÓN LTDA. 					RUT 77.388.640-7  - NETCOMERCIO S.A. 							RUT 96.994.620-3  - PATRICIO ALFONSO VIDAL RAMIREZ  					RUT 12.308.289-3  - PROFESSIONAL MUSIC SYSTEMS S.A.					RUT 99.529.360-9  - PUBLICIDAD VIRTUAL AUTO CLICK LTDA. 				RUT 76.006.531-5  - R R DONNELLEY CHILE LTDA. 						RUT 78.499.690-5  - SERVICIOS SGA LTDA.  							RUT 76.328.010-1  - SOC. COMERCIAL INMOBILIARIA Y DE INVERSIONES MAPISA LTDA.	RUT 78.618.350-2    - SOC. DE INGENIERÍA Y PROYECTOS OLIVARES Y VERAGUA LTDA.	RUT 78.862.710-6  - SOC. KOGAN QUÍMICA S.A. 						RUT 99.515.930-9  - SOCIEDAD DE DESARROLLO Y EDUCACIÓN LTDA.  			RUT 76.007.866-2  - SOLUCIONES INFORMÁTICAS MANUEL GUERRA MELAJ EIRL. 		RUT 52.000.268-5  - STOL COM LTDA. 							RUT 76.822.570-2  - TALCA CHILLAN SOCIEDAD CONCESIONARIA S.A. 			RUT 96.787.910-K  - TRANSPORTADORA RIBADAVIA LTDA. 					RUT 77.175.030-3 
+
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que ha presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               (Fdo.)      NELSON MUÑOZ TORRES
+                        SUBDIRECTOR DE FISCALIZACIÓN (S) 
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/documentos/circulares/1986/circu50s.htm
+titulo: [19], – [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [20], [21], [22], [23], [24], [25], [26], [27], [28], [29]
+categoria: otros
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl/) > [Circulares 1986](https://www.sii.cl/documentos/circulares/1986/indcir86.htm) [[1],](circu50a.htm) [[2],](circu50b.htm) [[3],](circu50c.htm) [[4],](circu50d.htm) [[5],](circu50e.htm) [[6],](circu50f.htm) [[7],](circu50g.htm) [[8],](circu50h.htm) [[9],](circu50i.htm) [[10],](circu50j.htm) [[11],](circu50k.htm) [[12],](circu50l.htm) [[13],](circu50m.htm) [[14],](circu50n.htm) [[15],](circu50o.htm) [[16],](circu50p.htm) [[17],](circu50q.htm) [[18],](circu50r.htm) [19], [[20],](circu50t.htm) [[21],](circu50u.htm) [[22],](circu50v.htm) [[23],](circu50w.htm) [[24],](circu50x.htm) [[25],](circu50y.htm) [[26],](circu50z.htm) [[27],](circu50aa.htm) [[28],](circu50ab.htm) [[29]](circu50ac.htm)    [[1],](circu50a.htm) [[2],](circu50b.htm) [[3],](circu50c.htm) [[4],](circu50d.htm) [[5],](circu50e.htm) [[6],](circu50f.htm) [[7],](circu50g.htm) [[8],](circu50h.htm) [[9],](circu50i.htm) [[10],](circu50j.htm) [[11],](circu50k.htm) [[12],](circu50l.htm) [[13],](circu50m.htm) [[14],](circu50n.htm) [[15],](circu50o.htm) [[16],](circu50p.htm) [[17],](circu50q.htm) [[18],](circu50r.htm) [19], [[20],](circu50t.htm) [[21],](circu50u.htm) [[22],](circu50v.htm) [[23],](circu50w.htm) [[24],](circu50x.htm) [[25],](circu50y.htm) [[26],](circu50z.htm) [[27],](circu50aa.htm) [[28],](circu50ab.htm) [[29]](circu50ac.htm) |

@@ -1,0 +1,54 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso07.doc
+titulo: Word – Resolución Exenta SII N°07 del 21 de Enero del 2004 Establece Forma, Plazo y Condiciones que Deben Cumplir Tanto la Declaración que Debe Efectuar el Perceptor del Retiro a la Sociedad Fuente, Así como el Aviso que la Sociedad Receptora de la Reinversión Deberá Dar al Servicio de Impuestos Int
+categoria: otros
+---
+RESOLUCION EXENTA SII N°07 DEL 21 DE ENERO DEL 2004 MATERIA : ESTABLECE FORMA, PLAZO Y CONDICIONES QUE DEBEN CUMPLIR TANTO LA DECLARACIÓN QUE DEBE EFECTUAR EL PERCEPTOR DEL RETIRO A LA SOCIEDAD FUENTE, ASÍ COMO EL AVISO QUE LA SOCIEDAD RECEPTORA DE LA REINVERSIÓN DEBERÁ DAR AL SERVICIO DE IMPUESTOS INTERNOS Y A LA SOCIEDAD FUENTE DEL RETIRO, A LOS QUE SE REFIERE EL ARTÍCULO 74 N° 4 DE LA LEY DE LA RENTA, EN EL CASO EN QUE TALES RETIROS SEAN DESTINADOS A REINVERSIÓN, CONFORME A LO DISPUESTO EN LA LETRA C), DEL N° 1, DE LA LETRA A) DEL ARTÍCULO 14° DE LA LEY SOBRE IMPUESTO A LA RENTA. SANTIAGO,
+Hoy se ha resuelto lo que sigue:
+VISTOS: Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980; y en el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824 de 1974, norma esta última, modificada por el artículo 1, letra B), N° 1 de la Ley N° 19.879, publicada en el Diario Oficial el 24 de junio de 2003, y
+CONSIDERANDO:  
+1.- Que, de acuerdo con lo dispuesto por el artículo 74° N° 4 de la Ley de la Renta, los contribuyentes que remesen al exterior, retiren, distribuyan o paguen rentas afectas a impuesto de acuerdo con los artículos 58°, 59°, 60° y 61°, deben retener y deducir el monto del impuesto Adicional al momento de hacer el pago de tales rentas.
+2.- Que, la Ley N° 19.879, publicada en el Diario Oficial de fecha 24.06.2003, mediante su artículo 1° letra B), N° 1, modificó el artículo 74 N° 4, en virtud de la cual se permite que la empresa de donde se efectúa el retiro no practique la retención a que se refiere dicho artículo, si el perceptor del retiro le declara al contribuyente que tales retiros los acogerá al mecanismo de reinversión de acuerdo con lo dispuesto en la letra c) del N° 1, de la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta.  
+3.- Que, de acuerdo con la modificación al artículo 74° N° 4, a que alude el considerando anterior, el Servicio de Impuestos Internos debe establecer la forma, plazo y condiciones que deberá cumplir la declaración que el perceptor del retiro, debe efectuar al contribuyente sociedad fuente, en cuanto a que dicho retiro se acogerá al mecanismo de reinversión dispuesto en la letra c) del N° 1, de la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta.
+4.- Que, de acuerdo con la modificación indicada en el considerando N° 2, las sociedades receptoras de los retiros de utilidades tributables reinvertidos, a los cuales no se efectúo la retención del Impuesto Adicional de la Renta establecida por el artículo 74 N° 4, ello en virtud de la modificación ya señalada, deberán dar aviso de este hecho, tanto al Servicio de Impuestos Internos como a la sociedad fuente del retiro, aviso que debe cumplir con la forma, plazo y condiciones que este Servicio determine.
+SE RESUELVE:  
+1.- La declaración que en conformidad a lo dispuesto en el N° 4, del artículo 74 de la Ley de la Renta debe efectuar el perceptor del retiro (contribuyentes de los artículos 58 N° 1; 60 inciso primero, y 61 de la Ley de la Renta) al contribuyente o empresa fuente, avisando que los retiros se acogerán a lo dispuesto en la letra c) del N° 1, de la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, deberá ser efectuada en el modelo de formulario de declaración, denominado “Declaración de reinversión de utilidades tributables realizadas por personas sin domicilio ni residencia en Chile, a la que se refiere el N° 4 del artículo 74 de la Ley de la Renta ", según formato que se acompaña en Anexo N° 1 de la presente resolución; la que deberá ser entregada al contribuyente empresa fuente a más tardar al momento de realizarse el retiro o remesa. A su vez, la sociedad fuente deberá presentar copia de este formulario de declaración de reinversión en la Dirección Regional del Servicio de Impuestos Internos correspondiente a su domicilio, o bien en la Dirección de Grandes Contribuyentes en el caso de los contribuyentes a que se refiere la Res. Ex. N° 45, de 19.11.2001, publicada en el Diario Oficial de 24.11.2001, incorporando los datos adicionales que en la misma declaración se le solicitan, dentro del quinto día hábil siguiente de efectuado el retiro o remesa de utilidades tributables.
+
+2.- El aviso que en conformidad a lo dispuesto en el N° 4, del artículo 74 de la Ley de la Renta debe efectuar la sociedad receptora de la reinversión tanto al Servicio como a la sociedad fuente del retiro, se efectuará en el modelo de Formulario denominado “Aviso de recepción de utilidades tributables reinvertidas de acuerdo a lo dispuesto por la letra c), del N° 1, de la letra A) del artículo 14 de la LIR, efectuado en conformidad a lo establecido en el N° 4, del artículo 74 de la Ley de la Renta”, según formato que se acompaña en Anexo N° 2 a esta resolución, emitido en dos ejemplares, uno de los cuales se entregará a la sociedad fuente de las mismas y el otro se presentará a la Dirección Regional del Servicio de Impuestos Internos correspondiente a su domicilio, o bien en la Dirección de Grandes Contribuyentes en el caso de los contribuyentes a que se refiere la Res. Ex. N° 45, de 19.11.2001, publicada en el Diario Oficial de 24.11.2001, dentro del quinto día hábil siguiente de recibida la reinversión. 
+
+3.- Cabe señalar que, en caso que el contribuyente sociedad fuente del retiro o remesa, no obstante mediar la correspondiente declaración establecida en el resolutivo primero del inversionista sin domicilio ni residencia en Chile que efectúa el retiro de utilidades tributables destinadas a reinversión, opte por practicar la retención dispuesta por el N° 4 del artículo 74 de la Ley de la Renta, dicha retención deberá ser enterada en arcas fiscales, quedando el perceptor de la renta afecto por el monto de tal retención al impuesto adicional de la Ley de la Renta.
+
+4.- De no formalizarse la reinversión del total o parte de las sumas retiradas o remesadas dentro del plazo de los veinte días siguientes, el contribuyente empresa fuente, será responsable del entero en arcas fiscales de la retención del Impuesto Adicional correspondiente, dentro de los primeros doce días del mes siguiente en que venza dicho plazo, que debió practicarse sobre las sumas que no sean reinvertidas, sin perjuicio de su derecho a repetirse en contra del perceptor del retiro, sea con cargo a las utilidades o a otro crédito que el socio tenga contra la sociedad.
+ 
+5.- El retardo o incumplimiento, a lo establecido en los resolutivos N°s 1 y 2 de la presente resolución, se sancionará de acuerdo a lo prescrito en el N° 1 del artículo 97 del Código Tributario. 
+
+6.- La presente Resolución regirá a contar de la fecha de publicación en extracto en el Diario Oficial.  
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO   					
+
+
+
+
+JUAN TORO RIVERA
+       DIRECTOR 
+
+Lo que transcribo a usted para su conocimiento y
+demás fines.
+
+Saluda a Ud.,
+
+
+DISTRIBUCION:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Directores Regionales I a XVI Dirección Regional.
+Director Grandes Contribuyentes
+Departamento de Fiscalización Selectiva e Internacional.
+Oficina de Partes.
+Boletín del Servicio.
+Internet
+

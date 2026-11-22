@@ -1,0 +1,35 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso18.doc
+titulo: Word – Resolución Exenta N°18 del 29 de Agosto del 2002 Modifica resolución N° 16, Exenta, de 11 de julio de 2002. Fuente: Gabinete del Director.
+categoria: otros
+---
+RESOLUCION EXENTA N°18 DEL 29 DE AGOSTO DEL 2002 MATERIA : MODIFICA RESOLUCIÓN N° 16, EXENTA, DE 11 DE JULIO DE 2002.
+
+                                                                           VISTOS: Lo dispuesto en las letras c), i) y j) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L.: N° 7, de 1980, del Ministerio de Hacienda; lo establecido en el artículo 43 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, actual artículo 41 del D.F.L. N° 1/19.653, del Ministerio Secretaría General de la Presidencia, que aprobó el texto refundido, coordinado y sistematizado de la Ley N° 18.575, ya citada; la Resolución N° 520, de 1996, de la Contraloría General de la República; las necesidades del Servicio, y 
+
+                           
+
+                                                                         CONSIDERANDO: 
+
+                                                                           Que resulta necesario modificar la Resolución N° 16, Exenta, de 11 de julio de 2002, de esta Dirección Nacional, en la que se delegaron facultades  al Subdirector de Avaluaciones para dictar resoluciones que fijen valores de automóviles y otros vehículos motorizados usados para los fines que allí se señalaron y para firmar oficios y otros documentos en relación con la misma materia.
+
+                                                                    
+                                                                         RESUELVO:
+
+                                                                          SUSTITUYESE el N° 1.- de la parte dispositiva de la Resolución N° 16, Exenta, de 11 de julio de 2002, de esta Dirección Nacional, por el siguiente:
+
+                                                                          “1.- Dictar las resoluciones en que se fijen los valores de automóviles y otros vehículos motorizados usados, que no figuren en la lista de valores a que se refiere el último inciso de la letra a) del artículo 12 del Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales, modificado por el artículo único de la Ley N° 19.600, de 1998, y  aquéllas en que se modifican las tasaciones contenidas en esta lista y en sus rectificaciones.”
+
+
+
+                                                                          ANOTESE Y COMUNIQUESE
+
+
+
+
+                                                                                 JUAN TORO RIVERA
+                                                                                        DIRECTOR
+ 
+
+                        
+

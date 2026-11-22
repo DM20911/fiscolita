@@ -1,0 +1,237 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso33_anexo1.doc
+titulo: Anexo 1 – Hoy se ha resuelto lo que sigue: VISTOS: Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980; en el artículo 6°, letra 
+categoria: otros
+---
+
+INSTRUCCIONES PARA LA CONFECCION DE LA DECLARACION JURADA Nº 1886
+ 
+
+1. La presente Declaración Jurada deberá ser presentada por las sociedades de personas, sociedades de hecho, sociedades en comandita por acciones y comunidades que soportan los retiros realizados por sus socios, socios gestores o comuneros, durante el ejercicio del año anterior, afectos al Impuesto Global Complementario o Adicional, los exentos del Impuesto Global Complementario y los no constitutivos de Renta debidamente reajustados.
+
+2. Lugar de presentación: La referida información deberá proporcionarse, mediante la transmisión electrónica de datos vía Internet, al sitio web del Servicio (www.sii.cl), haciendo referencia al Formulario 1886 denominado “Declaración Jurada Anual sobre Retiros y Créditos Correspondientes”.
+
+3. Plazo de presentación: Hasta el 28 de marzo de cada año.
+
+4. Marque con una "X" en el cuadro "Franquicias Tributarias" el texto legal que establece la franquicia a que se encuentra acogido.
+
+5. Se debe identificar el Tipo de Declaración en el cuadro correspondiente (Original o Rectificatoria). Marcando con una "X" si es original o, indicando el Rut y Folio de la declaración anterior, en caso de tratarse de una Declaración Rectificatoria.
+
+6. Sección A: Se identificará a la sociedad o comunidad que soportó los retiros, indicando el Rut, razón social, domicilio postal, comuna, correo electrónico, número de fax y número de teléfono (en los dos últimos casos se debe anotar el número incluyendo su código de discado directo).
+
+7. Sección B: Datos de los Informados: La Declaración Jurada correspondiente, deberá indicar los datos de la persona que efectuó los retiros, durante el ejercicio anterior. Esta información es anual y deberá ser detallada por cada contribuyente, de acuerdo a la fecha en que se efectuó el retiro.
+
+En la columna "RUT del titular del retiro" deberá registrarse, en forma legible, el Rut de la persona que efectuó los retiros, debiendo repetirse este dato tantas líneas como sea necesario para informar las fechas en que se realizaron los retiros.
+
+8. Fecha del retiro: Se debe indicar la fecha en que se realizó el retiro, señalando en líneas separadas los montos retirados en cada oportunidad. Los retiros presuntos por el uso o goce de bienes del activo de la sociedad o comunidad y retiros por rentas presuntas incluidas en el registro FUT, deberán indicarse en una sola línea por contribuyente, con fecha del último día del ejercicio.
+
+Asimismo, los montos que correspondan a excesos de retiros que se imputan a FUT por producirse utilidades tributarias, según lo señala la letra b),  del N°1, de la letra A), del artículo 14 de la Ley sobre Impuesto a la Renta, deberán indicarse con fecha del último día del ejercicio anterior al cual se informa.
+
+9. Exceso de retiros: se debe indicar la parte del retiro que no fue financiada con las utilidades tributables y/o no tributables al cierre del ejercicio, y, por lo tanto, queda pendiente su situación tributaria para el ejercicio siguiente.
+
+10. Monto Retiros Reajustados en pesos. Consignar, separadamente, el monto actualizado de los retiros, según:
+
+• En las columnas "Afectos a Global Complementario o Adicional". Se anota el monto actualizado de los retiros afectos al Impuesto Global Complementario o Adicional, separados de acuerdo al siguiente detalle: Columnas Retiros Efectivos en dinero o especies; Retiros Presuntos por el uso o goce de bienes del activo de la sociedad o comunidad y Retiros por Rentas Presuntas incluidas en el Registro FUT. (Cirs. Nºs 60/90 y 37/95, SII).
+
+• Columna "Exentos de Global Complementario". Se registra el monto actualizado de los retiros "Exentos" del Impuesto Global Complementario por haber sido imputado éstos a rentas o utilidades exentas de dicho tributo.
+
+• Columna "No Constitutivos de renta". Se registra el monto actualizado de los retiros no constitutivos de renta, por haber sido imputado éstos al Fondo de Utilidades no Tributables existente en la empresa al término del ejercicio. (Nº3, letra A) del Art. 14 de la Ley de la Renta.
+
+11. Incremento por impuesto de Primera Categoría. Anotar el monto del incremento por impuesto de Primera Categoría que disponen los incisos finales de los artículos 54 N° 1 y 62 de la Ley de la Renta.
+
+12. Créditos para Impuestos Global Complementario o Adicional. Registrar, separadamente, por columnas, el monto de los créditos que procede rebajarse del Impuesto Global Complementario o Adicional.
+
+• Columna "Impuesto Primera Categoría". Consignar el monto del crédito por Impuesto Primera Categoría que procede rebajar de los Impuestos Global Complementario o Adicional, de acuerdo a lo establecido en los artículos 56 Nº3 y 63 de la Ley de la Renta.
+
+• Columna "Impuesto Tasa Adicional, ex-art. 21 de la Ley de la Renta". Anotar el monto del crédito que procede rebajar de los Impuestos Global Complementario o Adicional, conforme a lo dispuesto por el Art.3º transitorio de la Ley Nº 18.775/89.
+
+13. Columna Certificado Nº: En esta columna debe hacerse referencia al número o folio del certificado que la sociedad o comunidad emitió a los socios o comuneros, informando la situación tributaria de los retiros, de acuerdo a lo establecido por la Resol. Ex. Nº 065, de 1993 y sus modificaciones posteriores.
+
+14. CUADRO RESUMEN FINAL DE LA DECLARACION. Se debe anotar los totales que resulten de sumar los valores registrados en las columnas correspondientes. 
+
+El recuadro "Total de Casos Informados" corresponde al número total de los casos que se está informando a través de la primera columna de esta Declaración Jurada, los que deben numerarse correlativamente.
+
+15. Esta Declaración Jurada sólo podrá realizarse por Internet.
+
+16. El retardo u omisión de la presentación de esta Declaración Jurada, se sancionará de acuerdo con lo prescrito en el Art. 97, Nº1, del Código Tributario.
+
+Declaración Jurada Anual sobre
+
+F1886
+
+Retiros y Créditos Correspondientes
+
+Régimen Art. 14 bis
+
+1
+
+FOLIO
+
+AÑO TRIBUTARIO 200_
+
+Ley 18.392 / 19.149
+
+2
+
+D.L. 600
+
+3
+
+D.L. 701
+
+4
+
+D.S. 341
+
+5
+
+Sección A: IDENTIFICACIÓN DEL DECLARANTE (Sociedad de Personas, Sociedad de Hecho, S.C.P.A. o Comunidad que soportó el retiro)
+
+ROL UNICO TRIBUTARIO
+
+RAZON SOCIAL
+
+TIPO DE DECLARACION
+
+DOMICILIO POSTAL
+
+COMUNA
+
+ORIGINAL
+
+RECTIFICATORIA
+
+RUT ANTERIOR
+
+CORREO ELECTRONICO
+
+FAX
+
+TELEFONO
+
+(MARQUE CON UNA X)
+
+FOLIO ANTERIOR
+
+Sección B: DATOS DE LOS INFORMADOS (Persona que efectuó el retiro: Socios de Soc. de personas, de hecho, Socios Gestores de Soc. C.P.A. y Comuneros)
+
+MONTOS RETIROS REAJUSTADOS ($)
+
+EXCESO
+
+INCREMENTO POR
+
+Nº
+
+AFECTOS A G.COMPLEMENTARIO O ADICIONAL
+
+EXENTOS DE GLOBAL
+
+NO CONSTITUTIVOS
+
+DE RETIROS
+
+IMPTO. PRIMERA
+
+IMPUESTO PRIMERA
+
+IMPTO.TASA ADICIONAL,
+
+Nº
+
+RETIROS EFECTIVOS
+
+RETIROS PRESUNTOS
+
+RENTA PRESUNTA
+
+COMPLEMENTARIO
+
+DE RENTA
+
+CATEGORIA
+
+ CATEGORIA
+
+EX. ART.21 L.I.R.
+
+CERT.
+
+CUADRO RESUMEN FINAL DE LA DECLARACION
+
+MONTOS RETIROS REAJUSTADOS
+
+EXCESO
+
+INCREMENTO POR
+
+CREDITOS PARA G.COMPLEMENTARIO O ADICIONAL
+
+AFECTOS A G.COMPLEMENTARIO O ADICIONAL
+
+EXENTOS DE GLOBAL
+
+NO CONSTITUTIVOS
+
+DE
+
+IMPTO. DE PRIMERA
+
+IMPUESTO PRIMERA
+
+IMPTO.TASA ADICIONAL,
+
+RETIROS EFECTIVOS
+
+RETIROS PRESUNTOS
+
+RENTA PRESUNTA
+
+COMPLEMENTARIO
+
+DE RENTA
+
+RETIROS
+
+CATEGORIA
+
+ CATEGORIA 
+
+EX. ART.21 L.I.R. 
+
+DECLARO BAJO JURAMENTO QUE LOS DATOS CONTENIDOS EN EL PRESENTE DOCUMENTO SON LA EXPRESION FIEL DE LA VERDAD, POR LO QUE ASUMO LA RESPONSABILIDAD CORRESPONDIENTE
+
+
+USO EXCLUSIVO DEL SERVICIO DE IMPUESTOS INTERNOS
+
+
+
+RUT REPRESENTANTE LEGAL
+
+RECEPCION (FECHA Y TIMBRE)
+
+FIRMA DEL FUNCIONARIO
+
+NOMBRE Y FIRMA DEL REPRESENTANTE LEGAL
+
+FRANQUICIAS TRIBUTARIAS
+
+RUT DEL TITULAR
+
+DEL RETIRO
+
+TOTAL DE
+
+CASOS
+
+INFORMADOS
+
+FECHA 
+
+DEL RETIRO
+
+CREDITOS PARA G.COMPLEMENTARIO O ADICIONAL
+
+
+
+

@@ -1,0 +1,62 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2022/chillan/index.html
+titulo: Actos y resoluciones D. R. Chillán 2022
+categoria: otros
+---
+## Actos y resoluciones D. R. Chillán 2022
+
+**Seleccione según tipología:**
+
+Instrucciones, dictámenes y circulares
+Reconocimiento de derechos
+Concesiones, autorizaciones y otros permisos otorgados
+Actos expropiatorios
+Llamados a concursos o convocatorias para postular a proyectos o programas públicos
+Llamado a concurso de personal
+Convenios de colaboración o cooperación
+Actos administrativos sancionatorios
+
+**Buscador de Actos y Resoluciones**
+
+La información publicada cumple con los estándares exigidos por la Ley N° 20.285 sobre Acceso a la Información Pública, considerando las reservas legales contenidas en el artículo 35 del Código Tributario (secreto tributario), en la Ley N° 19.628 sobre Protección de la Vida Privada y en otras normas legales que establezcan un deber de reserva.
+
+**Puede filtrar por palabra clave, por ejemplo: fecha, tipo o descripción de norma.**
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones, dictámenes y circulares | Resolución | 2100098 | 01-12-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-1-2023 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100098_67368.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100098 | 14-11-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-12-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100098_67188.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100097 | 25-10-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100097_66823.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100096 | 18-10-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100096_66822.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100095 | 18-10-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100095_66819.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100094 | 17-10-2022 | CONDONACION DE MULTA E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100094_66817.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100093 | 06-10-2022 | CONDONACION DE MULTA E INTERESES | HA LUGARA A CONDONACION DE MULTAS E INTERESES | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100093_66816.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100092 | 14-09-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION A MULTA E INTERESES | 4-10-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100092_66564.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100091 | 07-09-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 4-10-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100091_66563.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100089 | 07-09-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 4-10-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100089_66561.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 100089 | 07-09-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 4-10-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso100089_66562.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100088 | 30-08-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-9-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100088_66339.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100087 | 17-08-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-9-2022 | Sitio Web Institucional (Gobierno Transparente) y Diario Oficial | [Ver Documento](reso2100087_66338.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100086 | 12-08-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-9-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100086_66337.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100085 | 10-08-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-9-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100085_66336.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100084 | 03-08-2022 | CONDONACION DE MULTAS E INTERES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-9-2022 | Sitio Web Institucional (Gobierno Transparente) y Diario Oficial | [Ver Documento](reso2100084_66335.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100083 | 21-07-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 1-8-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100083_66056.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100082 | 28-06-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 4-7-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100082_65763.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100081 | 25-05-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-6-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100081_65582.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100080 | 17-05-2022 | RESOLUCION DE CONDONACION DE MULTAS E INTERESES | HA LUGAR HA CONDONACION DE MULTAS E INTERESES | 2-6-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100080_65581.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100079 | 17-05-2022 | RESOLUCION DE CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-6-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100079_65580.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100078 | 09-05-2022 | RESOLUCION DE CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 2-6-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100078_65579.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100077 | 22-04-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-5-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100077_65207.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100076 | 18-04-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 3-5-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100076_65206.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100075 | 30-03-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 5-4-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100075_64920.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100074 | 28-03-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 5-4-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100074_64919.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100073 | 14-03-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR, HA CONDONACION DE MULTAS E INTERESES | 5-4-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100073_64918.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100072 | 18-02-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONODINACION DE MULTAS E INTERESES | 8-3-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100072_64765.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100071 | 11-02-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 8-3-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100071_64764.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100070 | 10-02-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 8-3-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100070_64763.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100069 | 10-01-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR A CONDONACION DE MULTAS E INTERESES | 8-3-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100069_64767.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 2100068 | 04-01-2022 | CONDONACION DE MULTAS E INTERESES | HA LUGAR, CONDONACION DE MULTASE E INTERESES | 3-2-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso2100068_64587.pdf) | NO | Sin modificación | No aplica | No aplica |
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Convenios de colaboración o cooperación | Resolución | 379 | 12-10-2022 | ACUERDO DE COLABORACION TRIBUTARIA | APRUEBA ACUERDO DE COLABORACION TRIBUTARIA ENTRE SERVICIO DE IMPUESTOS INTERNOS Y ASOCIACION DE CAMARA DE COMERCIO, INDUSTRIAS, TURISMO Y SERVICIO DE CHILLAN ÑUBLE A.G. | 3-11-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso379_66799.pdf) | NO | Sin modificación | No aplica | No aplica |

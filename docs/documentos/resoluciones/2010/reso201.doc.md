@@ -1,0 +1,85 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso201.doc
+titulo: Word – Resolución Exenta SII N°201 del 31 de Diciembre del 2010 Modifica Resol. Ex. N° 5856 del 06 de Octubre de 1998, que Elimina Otorgamiento de Boletas de Honorarios por Profesionales y Sociedades de Profesionales, al Fondo Nacional de Salud. Fuente: Departamento de Atención y Asistencia de Contr
+categoria: otros
+---
+RESOLUCION EXENTA SII N°201 DEL 31 DE DICIEMBRE DEL 2010 MATERIA: MODIFICA RESOL. EX. N° 5856 DEL 06 DE OCTUBRE DE 1998, QUE ELIMINA OTORGAMIENTO DE BOLETAS DE HONORARIOS POR PROFESIONALES Y SOCIEDADES DE PROFESIONALES, AL FONDO NACIONAL DE SALUD.
+
+ Hoy se ha resuelto lo que sigue:
+
+ VISTOS: 
+
+ Lo dispuesto en los Artículos 6° letra A N°1, del Código Tributario, contenido en el D.L. N° 830, de 27 de Diciembre de 1974, y en el art. 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, en la Resol. Ex. N° 5856, del 06 de octubre de 1998 y la Resol. Ex. N° 2370, de 27 de abril de 2000;
+
+
+ CONSIDERANDO: 
+
+ 1)  Que mediante Resol. Ex. N° 5856, de 06 de octubre de 1998, modificada por Resol. Ex. N° 2370, de 27 de abril de 2000, ambas de este Servicio, se dispuso que cada tres meses, el Fondo Nacional de Salud deberá enviar al domicilio de los profesionales y sociedades de profesionales, una cartola con el resumen de las liquidaciones emitidas en el trimestre inmediatamente anterior, detallando en cada una de ellas, los siguientes datos correspondientes a cada liquidación: número, fecha de emisión, monto bruto, retención de impuesto de segunda categoría y monto líquido. Adicionalmente, FONASA podrá incluir en estas cartolas información que estime de interés. 
+
+  2)  Que a través de la presentación de fecha 24 de mayo de 2010, el FONDO NACIONAL DE SALUD solicita se le autorice la generación virtual, vía Web, de las Cartolas Trimestrales y Certificados de Honorarios que debe entregar a los prestadores profesionales y sociedades de profesionales.
+                                                                                     
+  3)  Que la solicitud de autorización virtual, vía web, en los términos descritos en el considerando anterior, no representa un costo para el Servicio de Impuestos Internos. 
+ 
+  SE RESUELVE:   
+
+  1°) INTRODÚCENSE las siguientes modificaciones en la parte dispositiva de la Resol. Ex. N° 5856, del 06 de Octubre de 1998: 
+
+  a)  En el N° 2, agrégase el siguiente inciso final:
+
+“No obstante, el Fondo Nacional de Salud podrá publicar las citadas liquidaciones a través de su sitio Web, sin que se requiera su impresión en papel y su envío a domicilio, para cuyo efecto deberá solicitar, previamente, la autorización correspondiente a los profesionales y sociedades de profesionales beneficiarios de las mismas. La autorización que otorguen dichos contribuyentes al Fondo Nacional de Salud, tendrá el carácter de voluntaria y podrá ser entregada por escrito o mediante acceso autenticado por los profesionales y sociedades de profesionales al sitio Web de FONASA”.
+
+
+
+
+
+                                                                               b) En el N° 3°, agrégase el siguiente inciso final: 
+
+“El Fondo Nacional de Salud también deberá almacenar, en un repositorio electrónico, la información correspondiente a las autorizaciones efectuadas en forma electrónica, resguardando técnicamente la integridad de su contenido”.   
+
+                                                                           2)  La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial. 
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+                                                                                                               
+           
+                                                                                               
+ 
+
+(Fdo.) JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S) 
+ 
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+
+IBC/RPA/HSS/CMV
+Distribución:
+Internet
+Boletín SII   
+Diario Oficial (en extracto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

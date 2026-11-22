@@ -1,0 +1,72 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr7_3.htm
+titulo: subcr7_3.htm
+categoria: sobre_el_sii
+---
+**7. IMPACTO SOBRE LA COMUNIDAD**
+
+**7.3 Información a la Comunidad.**
+
+* En los últimos años el Servicio de Impuestos Internos ha
+  diseñado e implementado una estrategia global de comunicaciones orientada a apoyar y
+  asegurar la consecución de dos objetivos básicos: mejorar la atención del
+  contribuyente, incentivando el cumplimiento voluntario de sus obligaciones tributarias; y
+  disminuir la evasión, reforzando los criterios éticos y de responsabilidad social que
+  involucra todo pago de impuestos.
+* La idea básica apunta a que los contribuyentes se informen
+  correcta y oportunamente tanto de las políticas como de las disposiciones legales
+  relacionadas con los impuestos, de las normas dictadas por el SII para complementar la ley
+  y de los requisitos que se exigen para la realización de cada trámite, de modo de
+  permitir que resuelvan sus trámites en forma eficaz.
+* Todas las herramientas que ha desarrollado el SII para estos efectos, tales como, el boletín oficial, página Web en Internet, volantes y
+  cartillas de información para la realización de trámites, suplementos y otras publicaciones y avisos en la prensa, radiales y en televisión, ya han sido descritas en el Subcriterio 2.2 de este informe de autoevaluación. Sin embargo, también cumplen con este objetivo las siguientes herramientas:
+
+**Conferencias , entrevistas y comunicados de prensa.**
+
+* Consciente de la importancia de la información,
+  particularmente la evacuada por la autoridad tributaria aprovechando el poder de difusión
+  e influencia de los medios de comunicación social, la actual administración ha otorgado
+  prioridad al establecimiento de una relación fluida con los medios de prensa (diarios,
+  televisión, radios y revistas) de manera de informar periódicamente a los contribuyentes
+  y a la ciudadanía en general no sólo sobre cambios en el sistema tributario o en la
+  legislación, sino que también respecto del resultado de su gestión; de sus políticas
+  de fiscalización y recaudación; del destino de los recursos recaudados y también
+  respecto del descubrimiento de infractores a las normas, con el fin de inhibir la
+  reiteración de dichas conductas. En este campo se ha actuado básicamente mediante la
+  utilización de tres mecanismos: las conferencias de prensa, los comunicados de prensa y
+  las entrevistas concedidas por las máximas autoridades del Servicio.
+* Las conferencias de prensa se utilizan cuando el hecho a
+  comunicar reviste particular importancia, ya sea para la administración o para los
+  contribuyentes. Por tratarse de un diálogo directo con los periodistas, permite la
+  respuesta de consultas o la aclaración de dudas en forma inmediata. Se usan, por ejemplo,
+  para dar la partida y posteriormente entregar los resultados de la Operación Renta que se
+  efectúa cada año, y también para informar la gestión del Servicio en diversas áreas,
+  como fiscalización, defensa judicial, etc.
+* Los comunicados de prensa, de uso más frecuente, son
+  destinados a comunicar hechos específicos o de menor alcance, como por ejemplo, el
+  vencimiento de ciertos plazos para el cumplimiento de alguna obligación. Con los
+  comunicados se apoya en buena medida la publicidad institucional, la aparición de nuevos
+  manuales, la apertura de oficinas, etc.
+* Las entrevistas, en cambio, son concedidas por las
+  autoridades nacionales y regionales de la institución a solicitud de algún medio, para
+  referirse en profundidad a temas de interés.
+* Combinados en la forma adecuada, estos mecanismos permiten
+  informar oportunamente al contribuyente, enviar señales claras respecto de las políticas
+  generales de la administración y responder adecuadamente a las inquietudes de la opinión
+  pública, manifestadas generalmente a través de los medios de comunicación masiva.
+
+**Reuniones con Colegios Profesionales, Gremios y Asociaciones.**
+
+* Finalmente, el Servicio informa a la comunidad a través de
+  las reuniones que periódicamente sostienen sus autoridades con los colegios
+  profesionales, organizaciones gremiales y asociaciones empresariales o de contribuyentes
+  específicos.
+* Cabe señalar que a través de todos los mecanismos y
+  soportes comunicacionales mencionados, más la publicación de su Memoria Anual, el SII no
+  sólo informa a la comunidad su accionar, sino que también acerca de sus compromisos de
+  calidad de servicio, su grado de cumplimiento y las compensaciones respecto de
+  incumplimientos en estos aspectos, como está ocurriendo por ejemplo con el proyecto
+  Tiempo Máximo de Espera, donde la garantía de efectuar el trámite por el contribuyente
+  remitiéndoselo posteriormente al domicilio en caso de superar los 30 minutos de espera,
+  está publicado en volantes y exhibido en afiches adosados a las paredes de las salas de
+  atención de público.

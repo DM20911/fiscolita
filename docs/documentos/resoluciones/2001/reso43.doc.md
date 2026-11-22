@@ -1,0 +1,68 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso43.doc
+titulo: Word – Resolución Exenta N°43 del 22 de Octubre del 2001 Exime de la Obligación de dar Aviso de Inicio de Actividades, llevar Contabilidad y Declarar sus Rentas Anualmente a contribuyentes sin Domicilio ni Residencia en Chile que sólo Obtengan Rentas de Capitales Mobiliarios. Fuente: Dpto. Operación
+categoria: otros
+---
+Complementada por  HYPERLINK "http://www.sii.cl/documentos/resoluciones/2008/reso114.doc" Resolución N° 114 de 25 de septiembre de 2008	  
+
+
+RESOLUCION EXENTA N°43 DEL 22 DE OCTUBRE DEL 2001 MATERIA : EXIME DE LA OBLIGACION DE DAR AVISO DE INICIO DE ACTIVIDADES, LLEVAR CONTABILIDAD Y DECLARAR SUS RENTAS ANUALMENTE A CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE QUE SÓLO OBTENGAN RENTAS DE CAPITALES MOBILIARIOS.
+
+	Hoy se ha resuelto lo que sigue:		
+	
+	VISTOS: Las facultades contempladas en Art. 6°, letra A, N° 1, lo dispuesto en el Art. 68 del Código Tributario, en los Artículos 1° y 7° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, que contiene  la Ley Orgánica del Servicio de Impuestos Internos; y lo señalado en los Arts. N° 65 y 68 de la Ley de Impuesto a la Renta 
+CONSIDERANDO:
+Que según lo dispuesto en el Art. 68 del Código Tributario, todas las personas que inicien negocios o labores susceptibles de producir rentas gravadas en la primera y segunda categorías a que se refieren los números 1°, letras a) y b), 3°, 4° y 5° de los artículos 20, 42 N° 2° y 48 de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio, dentro de los dos meses siguientes a aquel en que comiencen sus actividades, una declaración jurada sobre dicha iniciación.
+
+Que el mismo artículo del Código Tributario, en su segundo inciso señala que el Director podrá eximir de esta obligación a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan rentas de capitales mobiliarios.
+
+Que, sobre la materia el Servicio instruyó por medio de la Circular N° 4 de 1995, especificando en qué casos se debe dar aviso de Inicio de Actividades y qué antecedentes debe acompañar el contribuyente extranjero. En aquella, se indica, además, que esta solicitud puede ser presentada directamente por el contribuyente, su representante o a quien otorgue poder, los que deben tener domicilio en Chile para estos efectos.
+
+Que según lo dispuesto en el artículo 68 de la Ley de Impuesto a la Renta, el Director podrá liberar de la obligación de llevar contabilidad a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan renta producto de la tenencia o enajenación de capitales mobiliarios.
+
+Que según lo dispone el artículo 65 de la Ley de Impuesto a la Renta, el Director podrá liberar de la obligación de presentar anualmente una declaración jurada de sus rentas, en cada año tributario,  establecida a los contribuyentes no domiciliados ni residentes en Chile que solamente obtengan rentas de capitales mobiliarios. Para estos efectos, se entenderá, que el inversionista no tiene un establecimiento permanente de aquellos a que se refiere el artículo 58° número 1°).
+
+Que las Res. Ex. N° 5412 de 2000 y N° 20 de 2001 establecen mecanismos simplificados para obtener RUT a contribuyentes extranjeros sin domicilio ni residencia en el país, que solamente obtengan rentas de capitales mobiliarios.
+
+Que, debido al desarrollo del mercado bursátil chileno y con el objeto de reducir la carga administrativa de los inversionistas, se ha estimado necesario modificar las instrucciones relativas al aviso de Inicio de Actividades, sobre la obligación de llevar contabilidad y de presentación de la declaración jurada anual por parte de contribuyentes sin residencia ni domicilio en Chile, que solamente obtengan rentas producto de la tenencia o enajenación de capitales mobiliarios.
+
+SE RESUELVE
+
+Los contribuyentes sin residencia ni domicilio en Chile, ya sea que se trate de personas naturales, jurídicas u otros entes jurídicos, que obtengan en el país rentas provenientes únicamente de la tenencia o enajenación de capitales mobiliarios, quedarán eximidos de la obligación de dar aviso de Inicio de actividades, de llevar contabilidad y de declarar anualmente sus rentas, sin perjuicio de la facultad de este Servicio de revocar o no aplicar dichas exenciones en los casos que determine.
+
+Lo dispuesto en el número anterior,  será válido sólo para aquellos contribuyentes sin residencia ni domicilio en Chile que cumplan con las condiciones señaladas anteriormente, siempre que celebren un contrato, con un banco, corredora de bolsa o agente de valores, constituido en Chile, en el cual se deje expresamente establecido que el agente intermediario se hace responsable de centralizar las operaciones asociadas, retener los impuestos (a menos que se acredite que previamente se han retenido los tributos que correspondan) y/o certificar el pago de los mismos. Para estos efectos, el agente intermediario deberá llevar un libro, autorizado por el Servicio de Impuestos Internos, en el cual se detallen los ingresos y egresos de los contribuyentes a los que represente (ver Anexo N° 1).
+
+Sin perjuicio de lo establecido en la presente resolución, los contribuyentes, deberán necesariamente inscribirse en el Rol Unico Tributario, mediante los mecanismos existentes o los que posteriormente se establezcan para estos efectos.
+
+Con todo, si alguno de los contribuyentes mencionados, estima necesario cumplir con la obligación de dar aviso de Inicio de actividades, llevar contabilidad o declarar anualmente sus rentas, podrá dar cumplimiento a aquellas, de acuerdo a la normativa tributaria vigente.
+
+Aquellos contribuyentes, que a la fecha de la entrada en vigencia de esta Resolución ya hubiesen dado aviso de Inicio de Actividades, y deseen acogerse a las exenciones mencionadas anteriormente, sólo podrán beneficiarse en la medida que cumplan con los requerimientos mencionados en el resolutivo N° 1, por lo tanto, deberán dar aviso de Término de Giro por su inversión primitiva, cumpliendo con las obligaciones tributarias que de aquella se originen.
+
+El no cumplimiento de los requisitos establecidos en lo dispuesto en esta Resolución, tanto por la institución intermediaria como por el contribuyente extranjero, será sancionado en virtud de lo establecido en el Artículo 109° del Código Tributario.
+La presente Resolución rige a contar de su publicación en el Diario oficial.
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO
+
+
+		        (Fdo.)  JAVIER ETCHEBERRY CELHAY
+								         DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines 
+
+Saluda a Ud.
+
+
+
+DISTRIBUCION:
+Secretaria Director
+Subdirección de Fiscalización
+Oficina de Partes
+Internet.
+Diario Oficial (en extracto)
+
+ANEXO
+
+ HYPERLINK "reso43anexo.doc" Libro de Ingresos y Egresos
+
+
+
+
+

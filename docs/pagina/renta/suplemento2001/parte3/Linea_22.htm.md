@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/pagina/renta/suplemento2001/parte3/Linea_22.htm
+titulo: LINEA 22
+categoria: otros
+---
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| |  | | --- | | [Home](https://www.sii.cl) | [Indice](../Indice.htm) |   **LINEA 22.- CREDITO  PROPORCIONAL  POR RENTAS EXENTAS DECLARADAS  EN LINEA 8**                 (1)       Esta Línea debe ser utilizada exclusivamente por las personas que hayan declarado rentas exentas en la Línea 8, debiendo anotar la parte proporcional del impuesto Global Complementario que corresponda al monto de las citadas rentas exentas.                 (2)       Para tal efecto, se deben realizar las siguientes operaciones:     (a)               A la cantidad anotada en la Línea 18, se le suma el crédito general por contribuyente equivalente a $ 33.120 (10% de 1 UTA del año 2000), y el resultado obtenido se multiplica por las rentas anotadas en la Línea 8, más el incremento incluido en la Línea 10 (Código 159) por dichas rentas, cuando corresponda, y menos las pérdidas declaradas por tales rentas en la Línea 12, cuando sea procedente.                             (b)       El resultado de esta operación se divide por la cantidad anotada en la Línea 17, obteniendo así el monto del "crédito proporcional por rentas exentas" a registrar en esta Línea 22.                             Esquemáticamente, esta operación se puede representar a través de la siguiente fórmula:     |  |  |  | | --- | --- | --- | | **(Línea 18 + $ 33.120)   x (Línea 8+ incremento declarado en Línea 10 Código 159- pérdidas declaradas en Línea 12, cuando correspondan)** | = | **Crédito Proporcionalpor Rentas Exentas aregistrar  en Línea 22** | | ---   **Línea 17** | |

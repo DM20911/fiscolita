@@ -1,0 +1,48 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso105.doc
+titulo: Word – Resolución Exenta SII N°105 del 23 de Agosto del 2006 Delega en el Subdirector Jurídico y en los Directores Regionales del Servicio, facultad del inciso séptimo del artículo 162 del Código Tributario. Fuente: Departamento de Defensa Judicial
+categoria: otros
+---
+RESOLUCION EXENTA SII N°105 DEL 23 DE AGOSTO DEL 2006 MATERIA : DELEGA EN EL SUBDIRECTOR JURÍDICO Y EN LOS DIRECTORES REGIONALES DEL SERVICIO, FACULTAD DEL INCISO SÉPTIMO DEL ARTICULO 162 DEL CÓDIGO TRIBUTARIO.
+ 
+ 
+Hoy se ha resuelto lo que sigue:
+ 
+VISTOS: lo dispuesto en los artículos 6°, letra A), N° 3; 15 y 162, incisos sexto y séptimo, del Código Tributario, y 7°, letras e) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero, del D.F.L. N° 7, de Hacienda, de 15 de Octubre de 1980, y
+
+ 
+CONSIDERANDO:
+
+Que los artículos 6°, letra A), N° 3, del Código Tributario y 7°, letra j), de la Ley Orgánica del Servicio, facultan al Director para autorizar a los Subdirectores y a los Directores Regionales para hacer uso de algunas de sus atribuciones;
+
+Que el inciso séptimo, del artículo 162, del Código Tributario confiere al Servicio la facultad de solicitar al fiscal del Ministerio Público, que tuviere a su cargo el caso, los antecedentes de que hubiere tomado conocimiento con ocasión de las investigaciones de delitos comunes y que pudieren relacionarse con hechos constitutivos de delitos tributarios sancionados con pena corporal y que de rechazarse tal solicitud, el Servicio podrá ocurrir ante el respectivo Juez de Garantía, quien decidirá la cuestión mediante resolución fundada;
+
+Que la letra e), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, citada, confiere al Director la representación de aquél en todos los asuntos, incluidos recursos judiciales en que la ley le asigne la calidad de parte, y los recursos extraordinarios que se interpongan en contra del mismo Servicio con motivo de actuaciones administrativas o jurisdiccionales;
+
+Que se ha estimado conveniente delegar en el Subdirector Jurídico y en los Directores Regionales del Servicio, en los casos que se indican en la parte resolutiva, la facultad mencionada en el considerando segundo.
+
+RESUELVO:
+ 
+Delego en el Subdirector Jurídico, y en los Directores Regionales del Servicio en el ámbito de su jurisdicción territorial, la facultad que me confiere el inciso séptimo del artículo 162 del Código Tributario, en relación con la letra e), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, de solicitar al fiscal del Ministerio Público, que tuviere a su cargo el caso, los antecedentes de que hubiere tomado conocimiento con ocasión de las investigaciones de delitos comunes y que pudieren relacionarse con hechos constitutivos de delitos tributarios sancionados con pena corporal, con la sola finalidad de decidir si se presentará denuncia o se interpondrá querella, o si requerirá que lo haga al Consejo de Defensa del Estado.  Para el caso que la solicitud fuere rechazada, se delega en el Subdirector Jurídico y Directores Regionales, la facultad de recurrir, en representación del Servicio de Impuestos Internos, ante el Juez de Garantía competente, a fin de que este último decida la cuestión de conformidad con lo que previene la parte final del inciso séptimo del artículo 162 del Código Tributario.
+El Subdirector Jurídico ejercerá esta facultad cuando sea requerido para ello por otro Subdirector del Servicio o por los Jefes de los Departamentos de Defensa Judicial o de Investigación de Delitos Tributarios o Jefes de las Oficinas Fiscalías Contra el Comercio Clandestino o Anti facturas Falsas.  Los Directores Regionales del Servicio, a su vez, la ejercerán cuando fueren requeridos sobre esta materia por los Jefes de Departamentos u Oficinas de su dependencia.
+ 
+ 
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial.
+ 
+ 
+ 
+
+RICARDO ESCOBAR CALDERÓN
+DIRECTOR
+
+
+DISTRIBUCIÓN:
+Sr. Subdirector Jurídico.
+Sres. Subdirectores.
+Sres. Directores Regionales.
+Sres. Jefes de Departamentos Regionales.
+Sres. Jefes de Oficinas Regionales.
+Dpto. de Defensa Judicial.
+Subdirección Jurídica.
+Secretaría del Director.
+

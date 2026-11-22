@@ -1,0 +1,65 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso19.doc
+titulo: Word – Resolución Exenta SII N°19 del 29 de Enero del 2004 Establece Obligación de las Administradoras de Fondos de Pensiones de Informar al SII, en la Forma y Plazo que se Señalan, las Cotizaciones Previsionales Mensuales de Afiliados que Indica. Fuente: Depto. Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°19 DEL 29 DE ENERO DEL 2004 MATERIA : ESTABLECE OBLIGACIÓN DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES DE INFORMAR AL SII, EN LA FORMA Y PLAZO QUE SE SEÑALAN, LAS COTIZACIONES PREVISIONALES MENSUALES DE AFILIADOS QUE INDICA.
+
+		
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el artículo 60, inciso 8° del D.L. Nº 830, de 1974, artículos 5° y 19° de la Ley N°19.880, y
+
+
+CONSIDERANDO:
+
+1.- Que, con el propósito de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar el cumplimiento de las disposiciones tributarias que la Ley le encomienda, es necesario contar con la información pertinente sobre las rentas, créditos y rebajas de los contribuyentes que deben presentar su declaración de impuesto anual a la renta.
+
+2.-  Que, de acuerdo a lo indicado en el artículo 60, inciso octavo del Código Tributario, para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el servicio puede pedir declaración jurada, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas.
+
+3.- Que, de acuerdo a lo dispuesto por el artículo 55, letra b) de la Ley sobre Impuesto a la Renta, los empresarios individuales, socios de sociedades de personas y socios gestores de sociedades en comanditas por acciones, que efectúan cotizaciones previsionales de aquellas que se originan en las rentas que retiren de las empresas o sociedades que sean contribuyentes del impuesto de Primera Categoría, pueden deducir dichas cotizaciones a que se refiere el artículo 20 del D.L. N° 3.500, de 1980.
+
+4.- Que, según lo dispuesto por la Ley N° 19.518, artículo 36, los contribuyentes de Primera Categoría de la Ley sobre Impuesto a la Renta, podrán descontar del monto de los impuestos, los gastos efectuados en programas de capacitación, no pudiendo exceder del 1% de las remuneraciones imponibles; las cuales para adoptar dicha calidad deben contar con cotizaciones obligatorias declaradas ante las Administradoras de Fondos de Pensiones.
+
+5.- Que, las Administradoras de Fondos de Pensiones, están autorizadas para llevar su contabilidad en hojas sueltas por medios computacionales, de acuerdo a lo dispuesto en la Resolución Ex. N° 4.228, de 1999.
+
+6.- Que, anualmente, las Administradoras de Fondos de Pensiones han entregado la información, en los plazos y formas determinados por este Servicio.
+
+
+SE RESUELVE:
+
+1.- Las Administradoras de Fondos de Pensiones, deberán presentar al Servicio de Impuestos Internos, en la forma y plazo que en esta Resolución se establecen, una declaración jurada conteniendo información sobre el monto de las cotizaciones previsionales mensuales que en ellas hayan efectuado, en el año calendario anterior a aquél en que deba cumplirse esta obligación, las personas que se indicarán en nómina que será notificada por parte de este Servicio a cada Administradora de Fondos de Pensiones. Sin perjuicio de lo anterior, también deberá enviarse la información relativa a empresarios individuales, socios de sociedades de personas y socios gestores de sociedades en comanditas por acciones, que no estén en dicha nómina y que cumplan las condiciones para ser informados.
+
+2.- La información requerida anualmente, instrucciones y formato de registro será notificada a cada Administradora de Fondos de Pensiones. No obstante, dicha información  y la nómina de personas podrá obtenerse en la página Web,  HYPERLINK "http://www.sii.cl" www.sii.cl, en la cual se encontrarán disponibles un mes antes del vencimiento del plazo que se establece para su entrega.
+
+3.- La información detallada en el formato de registro, deberá ser remitida a este Servicio a más tardar el 30 de Marzo de cada año, mediante transmisión electrónica de datos, a través del sitio web,   HYPERLINK "http://www.sii.cl" www.sii.cl, en el menú de Declaraciones Juradas.
+
+4.- En el evento que la información enviada presente problemas o deficiencias, el Servicio, dentro de los cinco días hábiles siguientes a su recepción, comunicará esta circunstancia a la respectiva Administradora a través del sitio Web,  HYPERLINK "http://www.sii.cl" www.sii.cl, para los efectos de que se rectifique la información proporcionada en el plazo de cinco días hábiles.
+
+5.- Con todo, si se detectan situaciones que impliquen cambios en la información proporcionada en los plazos admitidos, deberá rectificar la información inicialmente proporcionada, en la misma forma y medio indicado en el Resolutivo N° 3. En estos casos, deberá entregarse la nómina completa, incluyendo modificaciones y antecedentes sin modificar.
+
+6.- La presente Resolución regirá a partir del Año Tributario 2004, respecto de la información correspondiente al año comercial 2003 de que dispongan las Administradoras de Fondos de Pensiones y para los Años Tributarios siguientes, respecto de la información del año comercial correspondiente.
+
+ANÓTESE, COMUNÍQUESE Y NOTIFIQUESE 
+
+
+
+(FDO.) JUAN TORO RIVERA
+     		 DIRECTOR
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.,
+DISTRIBUCIÓN: 
+SECRETARÍA DIRECTOR
+SUBDIRECCIÓN DE FISCALIZACIÓN
+SUBDIRECCIÓN NORMATIVA
+SUBDIRECCIÓN JURÍDICA
+SUBDIRECCIÓN DE INFORMATICA
+DEPARTAMENTO DE OPERACIÓN RENTA 
+DEPTO. IMPUESTOS DIRECTOS
+OFICINA DE PARTES 
+DIARIO OFICIAL 
+INTERNET
+

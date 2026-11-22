@@ -1,0 +1,129 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso61.doc
+titulo: Word – Resolución Exenta SII N°61 del 07 de Julio del 2004 Corrige Error de Transcripción en Tablas N° 1 y N° 2 del Numeral 2 de la Resolución N° 57, de 14.06.2004. Fuente: Oficina de Normas y Casos Especiales
+categoria: otros
+---
+RESOLUCION EXENTA SII N°61 DEL 07 DE JULIO DEL 2004 MATERIA : CORRIGE ERROR DE TRANSCRIPCIÓN EN TABLAS N° 1 Y N° 2 DEL NUMERAL 2 DE LA RESOLUCIÓN N° 57, DE 14.06.2004. 
+
+	Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en los artículos 3° y 4° de la ley N° 17.235, sobre Impuesto Territorial; 1° de la ley N° 19.575 modificado por el artículo 1° de la ley N° 19.892, y 6° letra A número 1 del Código Tributario; y
+
+CONSIDERANDO:
+
+Que, las tablas N° 1 y N° 2 del numeral 2 del Anexo de la Resolución Exenta N° 57, de 14.06.2004, contienen un error de transcripción.
+
+SE RESUELVE:
+
+Corrígese la tabla N° 1, para el rango de distancia correspondiente, en los términos que se señalan a continuación:
+
+Dice:
+
+Vía de comunicación
+Distancia
+(km)
+Porcentaje
+(%)
+Camino ripiado
+mayor o igual a 40,00
+8,00
+Camino de tierra
+mayor o igual a 45,00
+15,00
+
+Debe decir:
+
+Vía de comunicación
+Distancia
+(km)
+Porcentaje
+(%)
+Camino ripiado
+40,00 – 59,99
+9,00
+mayor o igual a 60,00
+12,00
+Camino de tierra
+45,00 – 64,99
+15,00
+mayor o igual a 65,00
+18,00
+
+Corrígese la tabla N° 2, para el rango de distancia correspondiente, en los términos que se señalan a continuación:
+
+Dice:
+
+Vía de comunicación
+Distancia
+(km)
+Porcentaje
+(%)
+Camino ripiado
+mayor o igual a 45,00
+10,00
+Camino de tierra
+mayor o igual a 40,00
+24,00
+
+
+
+Debe decir:
+
+Vía de comunicación 
+Distancia
+(km)
+Porcentaje
+(%)
+Camino ripiado
+45,00 – 64,99
+12,00
+mayor o igual a 65,00
+16,00
+Camino de tierra
+40,00 – 59,99 
+24,00
+mayor o igual a 60,00
+28,00
+
+
+
+
+
+ANÓTESE Y COMUNÍQUESE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(FDO.) JUAN TORO RIVERA
+	DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+
+
+Distribución:
+·	Internet
+·	Boletín
+
+
+
+
+
+

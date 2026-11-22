@@ -1,0 +1,626 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2014/reso39.pdf
+titulo: SERVICIO DE IMPUESTOS INTERNOS
+categoria: otros
+---
+SERVICIO DE IMPUESTOS INTERNOS
+SUBDIRECCIÓN DE FISCALIZACIÓN
+DEPARTAMENTO DE ATENCIÓN Y
+ASISTENCIA DE CONTRIBUYENTES
+REGISTRA COMO EMISORES DE DOCUMENTOS
+TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA.
+SANTIAGO, 17 de abril de 2014.Hoy se ha resuelto lo que sigue:
+RESOLUCIÓN EXENTA SII N° ____39.-___ __/
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código
+Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 4° bis del D.F.L. N° 7, 1980, del
+Ministerio de Hacienda, la Ley N° 20.727, de 2014; y
+CONSIDERANDO:
+1° Que, el Art. 4° bis, inciso segundo, del D.F.L. N° 7, 1980,
+del Ministerio de Hacienda, señala que el Servicio de Impuestos Internos podrá relacionarse directamente con
+los contribuyentes y éstos con el Servicio, a través de medios electrónicos.
+2° Que, los contribuyentes que se detallan en el Resolutivo
+primero, tercero y cuarto de la presente resolución han postulado como emisores de documentos tributarios
+electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para
+ser registrados como tal.
+3° Que, los contribuyentes que se describen en el
+Resolutivo segundo, se encuentran autorizados como emisores electrónicos mediante la Res. Ex. SII N° 23,
+del 17 de Febrero de 2012 y la Res. Ex. SII N° 79, del 17 de Junio de 2011, de acuerdo a los requisitos
+establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
+4° Que, los contribuyentes que se describen en el
+Resolutivo segundo, se encuentran autorizados como emisores electrónicos mediante la Res. Ex. SII N° 07,
+del 10 de Enero de 2013, la Res. Ex. SII N° 31, del 31 de Marzo de 2014, la Res. Ex. SII N° 13, del 31 de
+Enero de 2014, la Res. Ex. SII N° 14, del 30 de Enero del 2009, la Res. Ex. SII N° 158, del 20 de Octubre de
+2010, la Res. Ex. SII N° 29, del 18 de Marzo de 2014, la Res. Ex. SII N° 22, del 14 de Febrero de 2014, la
+Res. Ex. SII N° 43, del 19 de Marzo de 2012, la Res. Ex. SII N° 81, del 30 de Junio de 2008, la Res. Ex. SII N°
+128, del 29 de Noviembre de 2005, la Res. Ex. SII N° 83, del 01 de Agosto de 2012, la Res. Ex. SII N° 25, del
+27 de Febrero de 2014, la Res. Ex. SII N° 33, del 19 de Marzo de 2013, la Res. Ex. SII N° 113, del 28 de
+Octubre de 2005, la Res. Ex. SII N° 94, del 18 de Noviembre de 2013 y la Res. Ex. SII N° 11, del 01 de
+Febrero de 2011, de acuerdo a los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
+5° Que, los contribuyentes que se describen en el
+Resolutivo segundo, tercero y cuarto han solicitado el otorgamiento de la autorización de que se trata por
+Internet y han cumplido satisfactoriamente con el proceso de postulación que los habilita para ser emisores de
+Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, de acuerdo a lo establecido en la
+Resolución Ex. SII N° 19, de 12 de Febrero de 2008.
+SE RESUELVE:
+Primero:
+
+Regístrese como emisores de Documentos Tributarios Electrónicos, a contar del mes de Abril del
+2014, a los siguientes contribuyentes:
+
+- AGRICOLA LAS HIGUERAS S.A.
+- AGRICOLA MONTOLIN LTDA.
+- ALARCON Y VICTORIANO LTDA.
+- ALASKA FILMS LTDA.
+- ANDESAT S.A.
+- ANDREA CAROLINA ACOSTA GODOY, IMPORTADORA Y
+COMERCIALIZADORA, E.I.R.L.
+- ANTILHUE COMERCIAL SPA.
+- ASESORIA LEGAL HUGO GONZALO NIEVA E.I.R.L.
+
+79.536.640-7
+88.391.000-1
+76.193.868-1
+76.238.998-3
+76.071.099-7
+76.066.235-6
+77.569.080-1
+76.359.903-5
+
+- ASESORIAS Y SERVICIOS INTEGRALES SAN LUIS SPA.
+- ASH CONSTRUCTORA SPA.
+- AULA EDITORES S.A.
+- AURORA AUSTRALIS S.A.
+- AUTOFACT CHILE SPA.
+- AUTOMOTRIZ BAUDET DONOSO LTDA.
+- BATNA S.A.
+- BIANCHI CHILE S.A.
+- BIDDING SPA.
+- CARMEN SYLVIA FRIAS BAREA
+- CECILIA GONZALEZ ACUNA LTDA.
+- CHILE SOLID S.A.
+- CHIRGWIN ABOGADOS SPA.
+- CHRISTIAN BRAVO Y CIA. LTDA.
+- COAGRA SOLUCIONES FINANCIERAS S.A.
+- COMERCIAL BULLDOG LTDA.
+- COMERCIAL E INDUSTRIAL ALTO CALAFQUEN LTDA.
+- COMERCIAL E INDUSTRIAL COIN S.A.
+- COMERCIAL E INDUSTRIAL TECNAROME LTDA.
+- COMERCIAL HELVETICA S.A.
+- COMERCIAL LOS REYES SPA.
+- COMERCIAL NUTRIMEL LTDA.
+- COMERCIAL PAL HARMONY CHILE LTDA.
+- COMERCIAL RESCATELIFE LTDA.
+- COMERCIAL TERMOLAM LTDA.
+- COMERCIAL V.A.M. OFFICES SUPPLIES LTDA.
+- COMERCIAL VITACURA SPA.
+- COMERCIAL Y SERVICIOS LENGA LTDA.
+- COMERCIALIZADORA CASA ITALIA SPA.
+- COMERCIALIZADORA CYDRAULIC LTDA.
+- COMERCIALIZADORA GUAJARDO Y CIA. LTDA.
+- COMERCIALIZADORA PLASTIVAL LTDA.
+- CONDOR BUS LTDA.
+- CONSORCIO GASTRONOMICO PARTNERS LTDA.
+- CONSTRUCCIONES OLEGARIO PEREZ Y CIA. LTDA.
+- CONSTRUCTORA ANDRIGHETTI HERMANOS LTDA.
+- CONSTRUCTORA INCOLUR IECSA LTDA.
+- CONSTRUCTORA INFINISKI LTDA.
+- CONSULTORES DE INGENIERIA LTDA.
+- CORROSION INTEGRAL Y TECNOLOGIA LTDA.
+- CSAV AGENCIAMIENTO MARITIMO SPA.
+- DGCONTENT S.A.
+- DIAZ Y GARCES LTDA.
+- EAGON LAUTARO S.A.
+- EGIDO TRANSPORGRUAS Y CIA. LTDA.
+- ELECTRONICA MACTECH LTDA.
+- EQUINTEC SPA.
+- ESPINOLA Y CIA. LTDA.
+- ESTACIONES DE SERVICIO EN RED LTDA.
+- EVOLUTION INGENIERIA LTDA.
+- FORESTAL Y ASERRADERO LEONERA LTDA.
+- FRUTERA AGUAS BLANCAS LTDA.
+- GESTION DE PROYECTOS ELECTRICOS S.A.
+- GO FACTORING S.A.
+- GONLINE S.A.
+- GOODLOCK SPA.
+- GRABADOS FOTOPOLIMEROS CHILE LTDA.
+- HADPRO COMPUTACION CRISTIAN RODRIGO HERNANDEZ LOPEZ SPA.
+- HADPRO OUTSOURCING CRISTIAN RODRIGO HERNANDEZ LOPEZ E.I.R.L.
+- HPV S.A.
+
+76.043.923-1
+76.257.382-2
+76.591.500-7
+76.135.131-1
+76.197.647-8
+76.331.841-9
+76.942.430-K
+96.808.880-7
+76.351.327-0
+06.862.445-2
+76.247.570-7
+76.030.543-K
+76.073.068-8
+52.004.777-8
+76.148.326-9
+76.097.469-2
+77.680.180-1
+96.584.280-2
+76.452.040-8
+76.024.459-7
+76.338.544-2
+76.054.140-0
+77.161.670-4
+76.217.441-3
+76.007.089-0
+76.265.266-8
+76.261.108-2
+76.162.957-3
+76.191.066-3
+76.332.507-5
+76.076.497-3
+76.739.760-7
+80.228.400-4
+76.226.399-8
+88.161.700-5
+77.033.990-1
+77.913.240-4
+76.039.911-6
+85.136.400-5
+77.902.010-K
+76.350.651-7
+76.467.430-8
+76.202.323-7
+96.665.000-1
+77.095.760-5
+76.266.101-2
+76.284.932-1
+77.948.010-0
+78.964.720-8
+76.264.979-9
+52.000.288-K
+79.660.760-2
+99.566.950-1
+76.111.453-0
+76.172.631-5
+76.237.008-5
+76.151.340-0
+76.360.531-0
+76.360.527-2
+76.058.347-2
+
+- IBANEZ RAMIREZ HERMANOS LTDA.
+- IMALAB S.A.
+- IMPORGEN S.A.
+- IMPORTADORA CERO MOTORS LTDA.
+- IMPORTADORA Y DISTRIBUIDORA HOHOS LTDA.
+- IN MOTION SERVICIOS S.A.
+- INDUSTRIA DE BALATAS CABAL S.A.
+- INGENIERIA DE PROYECTOS Y ASESORIAS LTDA.
+- INGENIERIA Y CONSTRUCCION GB CINCO S.A.
+- INGENIERIA Y PROYECTOS DE CLIMATIZACION LTDA.
+- INGENIERÍA, CONSTRUCCIONES, SERVICIOS AGRÍCOLAS, GANADEROS
+Y FORESTALES ARL LTDA.
+- INGENIO INVERSIONES SPA.
+- INGESACO CONSULTORES LTDA.
+- INMOBILIARIA E INVERSIONES ANDO LTDA.
+- INMOBILIARIA E INVERSIONES LA RABIDA LTDA.
+- INMOBILIARIA E INVERSIONES MALL PLAZA DE LOS RIOS LTDA.
+- INMOBILIARIA E INVERSIONES PESCO LTDA.
+- INMOBILIARIA E INVERSIONES RIO TAJO LTDA.
+- INMOBILIARIA SAN ROSENDO LTDA.
+- INMOBILIARIA TEUBER S.A.
+- INRECAR S.A.
+- INTEGRAL BTL MARKETING LTDA.
+- INVERSIONES ANDRIGHETTI CIFUENTES S.A.
+- INVERSIONES C&M LTDA.
+- INVERSIONES DR. FISH LTDA.
+- INVERSIONES PINTACURA S.A.
+- INVERSIONES SEREMOSMAS LTDA.
+- INVERSIONES Y COMUNICACIONES TU MOVIL LTDA.
+- INVERSIONES Y SERVICIOS COMERCIALES TRANSWARRANTS S.A.
+- INZAFE S.A.
+- JARDIN CENTER LTDA.
+- JENNY STELLA SCHEIHING NEEDHAM
+- JOSE ALFREDO TRUJILLO HIDALGO
+- JRP INGENIERIA Y CONSTRUCCION LTDA.
+- JUAN CARLOS VALDIVIA MOLINA
+- LA ELEGANTE OPEN PLAZA LTDA.
+- LA HIGUERA S.A.
+- LAMINAS FLEXIBLES LTDA.
+- LARRAIN SIERRA Y CIA. LTDA.
+- LDC COMERCIAL CHILE LTDA.
+- LUZ JEANNETTE FUENTES RAPOSO
+- MAESTRANZA EMILIO VILLEGAS E HIJOS LTDA.
+- MAFRA INDUSTRIAL LTDA.
+- MAGIC COLORS LTDA.
+- MANTILHUE LTDA.
+- MARCOS MURANA QUISPE
+- MARIA ESTER GALLARDO RIVEROS
+- MARIA PAZ UGARTE WOLFES TRANSPORTES E.I.R.L.
+- MAS DESIGN PLUSS SPA.
+- MASTOOLS CHILE SPA.
+- MAXS SIMMONDS WAGEMANN CONSULTING E.I.R.L.
+- MERIT INGENIERIA S.A.
+- MGS REPUESTOS Y CIA. LTDA.
+- MILANO OBRAS LTDA.
+- MONTAJES INDUSTRIALES NOVEL LTDA.
+- MONTALDO GONZALEZ LTDA.
+- MUEBLES FORESTA LTDA.
+- MUNDO DEL VINO S.A.
+- NET PEOPLE CHILE S.A.
+
+76.105.978-5
+76.244.189-6
+76.077.198-8
+76.137.248-3
+77.675.490-0
+99.525.490-5
+88.720.600-7
+79.711.380-8
+96.981.910-4
+76.026.022-3
+76.293.078-1
+76.184.934-4
+76.329.825-6
+96.593.960-1
+96.866.450-6
+77.503.420-3
+76.057.855-K
+78.856.650-6
+76.196.772-K
+78.202.100-1
+76.080.842-3
+76.103.099-K
+76.311.960-2
+76.151.134-3
+76.268.168-4
+99.586.450-9
+76.152.713-4
+76.270.185-5
+96.808.570-0
+76.250.712-9
+76.320.997-0
+06.799.227-K
+16.678.398-4
+77.387.860-9
+07.863.130-9
+76.320.933-4
+96.864.810-1
+76.009.692-K
+82.293.400-5
+76.216.839-1
+08.929.002-3
+76.129.363-K
+76.289.199-9
+76.239.971-7
+76.076.140-0
+08.862.698-2
+06.065.135-3
+52.003.052-2
+76.311.355-8
+76.333.151-2
+76.093.643-K
+76.008.773-4
+76.200.860-2
+77.105.500-1
+76.153.650-8
+76.416.720-1
+89.693.600-K
+76.352.378-0
+79.755.260-7
+
+- NEWGEST AUDITORES Y CONSULTORES ASOCIADOS SPA.
+- NG MADERAS S.A.
+- NILFISK-ADVANCE S.A.
+- OSMOFLO SPA.
+- PANELES DECORADOS LTDA.
+- PATRICIA ILONKA CSILLAG PIMSTEIN
+- PESCO CAPACITACIONES LTDA.
+- PESCO RENTAL S.A.
+- PESCO SEGURIDAD Y SERVICIOS S.A.
+- PETEWAY SPA.
+- PLANETSOFT S.A.
+- PORTE & CANALES ABOGADOS Y CONSULTORES LTDA.
+- PRODUCCION Y SERVICIOS DE EMBALAJES Y ETIQUETAS PEDRO
+GUILLERMO ECHEVERRIA RUIZ E.I.R.L.
+- PROVEEDORA E IMPORTADORA DE EQUIPOS INDUSTRIALES S.A.C.I.
+- PROQUIMIA S.A.
+- QUIMIALMEL CHILE SPA.
+- RECICLADORA RECICLEAN SPA.
+- REINALDO HERNAN ESPELETA SANTIS MANTENCIONES INDUSTRIALES E.I.R.L.
+- RENT A CAR ARAYA HERMANOS LTDA.
+- RENTAS FONZASO S.A.
+- RESIDUOS SOLIDOS COYHAIQUE LTDA.
+- REVESTIMIENTOS DECO S.A.
+- REVESTIMIENTOS SINTETICOS S.A.
+- ROBERT HALF INTERNACIONAL EMPRESA DE SERVICIOS TRANSITORIOS LTDA.
+- RUBEN PASCUAL ROJAS ISLA
+- SANTA ISABEL SELLOS DE SEGURIDAD LTDA.
+- SCHWAGER SERVICE S.A.
+- SEIDOR TECHNOLOGIES S.A.
+- SERVICIO DE ASESORIA Y CONSULTORIA LEGAL Y ADMINISTRATIVA LTDA.
+- SERVICIOS CLOUD CONSULTING LTDA.
+- SERVICIOS COCINAS INDUSTRIALES KITCHEN RENTAL LTDA.
+- SERVICIOS DE AMBIENTACION Y PRODUCCION LTDA.
+- SERVICIOS EMPRESARIALES Y NEGOCIOS S.A.
+- SERVICIOS INDUSTRIALES BRIGIDO HERNÁN LÓPEZ FUENTES E.I.R.L.
+- SERVICIOS INDUSTRIALES GROUP LTDA.
+- SOC. AGRICOLA Y AVICOLA SANTA CARMEN LTDA.
+- SOC. COM ALTO REPRESENTACIONES LTDA.
+- SOC. COMERCIAL, INDUSTRIAL Y SERVICIOS CLEANWORK LTDA.
+- SOC. COMERCIALIZADORA DE RIEGOS LTDA.
+- SOC. DE DESARROLLO TECNOLOGICO LTDA.
+- SOC. DE SERVICIOS DE ALIMENTACION S.A.
+- SOC. DE TRANSPORTES GT LTDA.
+- SOC. INTELEC LTDA.
+- SOC. VIVERO RANCAGUA S.A.
+- SOCIEDAD ADMINISTRADORA ISIDORA S.A.
+- SOCIEDAD COLORADO RED BIKES S.A.
+- SOCIEDAD COMERCIAL ARAUCANIA LTDA.
+- SOCIEDAD COMERCIAL VASQUEZ MONTENEGRO LTDA.
+- SOCIEDAD CONTRACTUAL MINERA CORPORACION DE DESARROLLO DEL NORTE
+- SOCIEDAD DE INVERSIONES CORNEJO ARANGUIZ E HIJOS LTDA.
+- SOCIEDAD DE INVERSIONES MAC-KAY LTDA.
+- SOCIEDAD DE INVERSIONES ORANGE FISH S.A.
+- SOCIEDAD DE TECNOLOGIA GREENTECK LTDA.
+- SOCIEDAD DE TRANSPORTES ARAUCANIA LTDA.
+- SOCIEDAD DE TRANSPORTES ILLESCA LTDA.
+- SOCIEDAD INMOBILIARIA E INVERSIONES ROSNER LTDA.
+- SOCIEDAD SERFOVAL LTDA.
+- SOLUCIONES MINERAS SPA.
+- SOLUCIONES TECNICAS AVILA & PERIC LTDA.
+
+76.272.483-9
+78.421.870-8
+76.036.110-0
+76.151.357-5
+76.008.186-8
+07.772.509-1
+76.079.405-8
+76.238.635-6
+76.132.956-1
+76.362.676-8
+96.851.330-3
+76.096.182-5
+76.252.473-2
+92.765.000-2
+96.695.350-0
+76.713.760-5
+76.201.081-K
+76.268.844-1
+76.248.406-4
+76.085.228-7
+77.647.600-5
+76.019.598-7
+96.701.050-2
+76.108.845-9
+05.348.136-1
+76.050.435-1
+76.145.047-6
+76.449.580-2
+76.363.224-5
+76.194.955-1
+76.317.035-7
+76.153.924-8
+96.967.290-1
+76.305.388-1
+76.016.561-1
+89.241.900-0
+76.839.330-3
+76.187.680-5
+78.461.630-4
+77.442.380-K
+96.987.050-9
+77.707.220-K
+77.287.250-K
+85.074.700-8
+76.218.347-1
+76.320.082-5
+76.042.313-0
+76.056.038-3
+96.630.310-7
+76.226.565-6
+76.113.656-9
+76.208.366-3
+76.208.713-8
+76.055.973-3
+76.278.626-5
+76.027.125-K
+76.090.919-K
+76.310.584-9
+76.219.601-8
+
+- SUAZO GOMEZ S.A.
+- SZALAY & GARIAZZO CIA. LTDA.
+- TECHNO PACIFIC LTDA.
+- TECNO- WOOD LTDA.
+- TECNOLOGIA Y TELECOMUNICACIONES LTDA.
+- TRANS WARRANTS S.A.
+- TRANSPORTES DELGADO LTDA.
+- TRANSPORTES PELLIN LTDA.
+- TRANSPORTES SANTA MARIA S.A.
+- UPSOLUTIONS CONSULTING S.A.
+- URBE DISENO Y GESTION URBANA LTDA.
+- VENDETU SPA.
+- VENTAS Y SERVICIOS TAILOR MACHINERY AND EQUIPMENT LTDA.
+- VICTORIA CANALES Y CIA. LTDA.
+- VIDELA Y ASOCIADOS S.A.
+- VIXONIC S.A.
+- VSA SPA.
+- WOODS SPA.
+- ZUNIGA Y CIA. LTDA.
+
+Segundo:
+
+Regístrese como emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas,
+a contar del mes de Abril del 2014, a los siguientes contribuyentes:
+
+- CENTRAL FOOD S.A.
+- COLEGIO DUNALASTAIR PENALOLEN SPA.
+- COLEGIO DUNALASTAIR SPA.
+- COMERCIAL MILAN LTDA.
+- COMERCIAL VIA UNO CHILE LTDA.
+- EPOCA COMUNICACIONES S.A.
+- FELIPE PEREIRA SALAS COMERCIALIZADORA MAKROTEC E.I.R.L.
+- GLD COMERCIAL CHILE LTDA.
+- HEIDI ULRIKE HAENSGEN MARTINEZ
+- IMPORTADORA Y DISTRIBUIDORA HERBALIFE INTERNATIONAL DE CHILE LTDA.
+- IMPORTADORA-EXPORTADORA Y COMERCIALIZADORA FUMEE LTDA.
+- INDUSTRIALIZADORA Y COMERCIALIZADORA DE ROPA INDUROPA LTDA.
+- LAPOSTOLLE S.A.
+- MIGUEL CABRERA ORTIZ SERVICIOS COMPUTACIONALES E.I.R.L.
+- MOLINERA COQUIMBO S.A.
+- SERVICIO NACIONAL DE GEOLOGIA Y MINERIA
+- TECNOLOGIA EN VENTANAS DE PVC S.A.
+- THE NEWFIELD NETWORK S.A.
+
+Tercero:
+
+76.017.063-1
+76.369.550-6
+96.513.800-5
+83.160.600-2
+76.055.749-8
+99.547.630-4
+76.302.101-7
+96.933.870-K
+12.871.153-8
+78.882.180-8
+76.017.210-3
+86.211.600-3
+96.703.690-0
+76.250.138-4
+96.583.540-7
+61.702.000-9
+77.246.260-3
+77.020.620-0
+
+Regístrese como emisores de Documentos Tributarios Electrónicos, Boletas Electrónicas y
+Boletas no Afectas o Exentas Electrónicas, a contar del mes de Abril del 2014, a los siguientes
+contribuyentes:
+
+- ALIMENTOS ARAUCO LTDA.
+- COMERCIAL E INDUSTRIAL JM S.A.
+- COMERCIAL E INVERSIONES ROMA LTDA.
+- ENRIQUE ESTEBAN GALETTI
+- SOC. COMERCIAL WERNER Y RADDATZ LTDA.
+- VITIVINICOLA DEL SUR S.A.
+
+Cuarto:
+
+80.955.900-9
+76.261.903-2
+77.111.910-7
+76.361.854-4
+76.176.947-2
+84.540.600-6
+76.130.032-6
+76.194.840-7
+79.705.390-2
+76.268.358-K
+78.462.500-1
+76.363.561-9
+76.184.103-3
+79.610.730-8
+76.135.162-1
+76.141.707-K
+76.316.094-7
+78.016.230-9
+77.511.850-4
+
+96.648.580-9
+89.142.500-7
+76.318.574-5
+14.704.534-4
+78.481.770-9
+76.772.800-K
+
+Regístrese como emisores de Documentos Tributarios Electrónicos, Boletas no Afectas o
+Exentas Electrónicas, a contar del mes de Abril del 2014, al siguiente contribuyente:
+
+- EDUCACION VIVA SPA.
+
+76.321.309-9
+
+Quinto:
+
+Regístrese como emisores de Boletas no Afectas o Exentas Electrónicas, a contar del mes de
+Abril del 2014, a los siguientes contribuyentes:
+
+- COLEGIO DUNALASTAIR VALLE NORTE SPA.
+- SERVICIOS INFORMATICOS Y CAPACITACION EVOLUCION SPA.
+
+99.551.110-K
+76.280.116-7
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados
+contribuyentes, de los resolutivos primero, segundo, tercero y cuarto, están autorizados a emitir
+en forma electrónica.
+
+Sexto:
+
+Los contribuyentes registrados conforme al Resolutivo primero deberán cumplir lo establecido en
+la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de
+cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado
+con las siguientes obligaciones:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción
+contemplada en el N° 10, del Resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos
+recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que
+incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas.
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Adicionalmente, los contribuyentes registrados conforme al Resolutivo segundo, tercero, cuarto y
+quinto deberán cumplir lo establecido en la Resolución Ex. SII N° 19, del 12 de Febrero de 2008,
+en especial, en lo relacionado con las siguientes obligaciones:
+
+
+
+
+Séptimo:
+
+Envío diario al SII, del archivo reporte de consumo de folios de boletas electrónicas, excepto
+las empresas de servicios periódicos.
+Generación, mantención y custodia del Libro de Boletas Electrónicas.
+Mantener disponible en un sitio web la consulta de boleta electrónica, dicha dirección web se
+debe señalar en la representación impresa de la boleta electrónica o boleta no afecta o
+exenta electrónica, excepto las empresas de servicios periódicos.
+
+El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización
+maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del
+Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+VÍCTOR VILLALÓN MÉNDEZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+RPA/CPG/oba
+Distribución:
+- Internet
+- Diario Oficial en extracto
+- Boletín SII

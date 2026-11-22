@@ -1,0 +1,163 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr1_4.htm
+titulo: subcr1_4.htm
+categoria: sobre_el_sii
+---
+**1. LIDERAZGO Y COMPROMISO DE LA DIRECCIÓN**
+
+1.4 Relaciones con otros Servicios e Instituciones.
+
+**Relaciones con Organismos Nacionales**
+
+La política del Servicio es mantener una permanente
+vinculación con los demás Servicios de Hacienda que tienen competencia con la
+fiscalización, recaudación y cobranza de los tributos internos y externos, es decir, con
+el Servicio Nacional de Aduanas y con el Servicio de Tesorerías, para cuyos efectos se
+estableció la COMISION FISCALIZADORA, y dependiendo de ella se crearon Subcomisiones a
+Nivel Nacional sobre materias específicas y Subcomisiones Fiscalizadoras Regionales, como
+se señaló en detalle anteriormente en el Subcriterio 1.1.
+
+También existe una estrecha y permanente relación con el
+Consejo de Defensa del Estado, a través del funcionamiento de una Comisión de Abogados
+de alto nivel de ambos organismos, que tienen por misión coordinar las materias
+relacionadas con la defensa de las causas por reclamaciones tributarias ante los
+Tribunales Superiores de Justicia, a cargo del referido Consejo; habiendo sido fallados
+estos procesos en primera instancia por los Tribunales Tributarios ubicados en las
+Direcciones Regionales del Servicio.
+
+Por su parte, el Director del Servicio forma parte de
+varias Comisiones y Comités que operan en el ámbito del Sector Público, tales como:
+
+* Consejo Nacional para el Control de Estupefacientes
+  "CONACE", que funciona en el Ministerio del Interior. El Director representa en
+  este organismo al Ministro de Hacienda. La Ley Nº 19.366, que regula esta materia,
+  también tipifica y sanciona el delito de lavado de dinero.
+* Sistema Administrador de Empresas, dependiente de la
+  Corporación de Fomento a la Producción, CORFO. El Director es vicepresidente del Consejo
+  de esta entidad.
+* Consejo de Auditoría Interna General de Gobierno, que
+  depende de S.E. el Presidente de la República.
+* Comité Interservicios de Modernización de la Gestión
+  Pública. El Director tiene la calidad de fundador y fue coordinador de este Comité hasta
+  el mes de Abril de 1998.
+
+**Relaciones con Organismos Internacionales**
+
+En el ámbito internacional, cabe señalar que el Servicio
+es miembro del CENTRO INTERAMERICANO DE ADMINISTRACIONES TRIBUTARIAS, CIAT, con sede en la
+ciudad de Panamá, República de Panamá. Este organismo se fundó en mayo de 1967, siendo
+el Servicio de Impuestos Internos de Chile uno de los países firmantes del Acta de
+constitución y miembro activo del citado organismo.
+
+El CIAT, es un organismo internacional público que cuenta
+con 33 países miembros: 28 del continente americano y 5 países europeos. Cada país
+está representado por su respectivo Director de Impuestos. Su misión es ofrecer un
+servicio integral para la modernización de las administraciones tributarias de los
+países miembros, propiciando su evolución, aceptación social y consolidación, mediante
+el intercambio de conocimientos y experiencias y la prestación de asistencia técnica
+especializada.
+
+El CIAT efectúa todos los años una Asamblea General en
+alguno de los países miembros; en estas Asambleas se desarrolla un tema determinado de
+índole tributaria, previamente consensuado entre los países miembros. En todas estas
+asambleas el SII ha presentado ponencias . En el mes Mayo de 1998, se efectuará en la
+ciudad de Salvador, Bahía, Brasil, la 32ª Asamblea General del CIAT para abordar el tema
+"La Tributación en un contexto de Globalización Económica." En esta
+oportunidad el Servicio de Impuestos Internos expondrá una ponencia sobre el subtema:
+"Las Atribuciones de la Administración Tributaria para la Obtención y Manejo de
+Informaciones."
+
+Cabe recordar que el Servicio de Impuestos Internos
+organizó la 27ª Asamblea General, que se celebró en la ciudad de Santiago en el mes de
+abril de 1993, teniendo como tema central "Tendencias Modernas de la Tributación y
+de las Administraciones Tributarias". A esta reunión asistieron alrededor de 200
+participantes internacionales.
+
+Además, todos los años el CIAT realiza una Conferencia
+Técnica a la que asisten los países miembros presentando ponencias sobre temas técnicos
+en el área de la tributación.
+
+El Servicio de Impuestos Internos, como miembro del CIAT
+ha participado en las Asambleas Generales y en las Conferencias Técnicas, siendo
+considerado en cada oportunidad como expositor de ponencias y trabajos. Estos trabajos han
+versado sobre sus experiencias en la administración y fiscalización de los tributos,
+tanto en sus aspectos legales como operativos.
+
+El actual Director del Servicio, Javier Etcheberry Celhay,
+presidió el Consejo Directivo del Centro Interamericano de Administraciones Tributarias
+desde 1993 a 1995, correspondiéndole presidir las Asambleas Generales de Quito, Ecuador,
+en 1994 y de Lima, Perú, en 1995. Además presidió las Conferencias Técnicas efectuadas
+en 1993 en Venecia, Italia, y en 1994, en Bariloche, Argentina.
+
+El Servicio también ha colaborado activamente en otras
+iniciativas del CIAT, a través de la participación de algunos de sus ejecutivos en
+proyectos específicos del Centro, tales como: la elaboración del Plan Estratégico del
+CIAT, por una Comisión Internacional en que participó el Subdirector de Estudios; la
+elaboración de un Código Tributario Modelo para los países miembros del CIAT en que
+participó el Subdirector Jurídico integrando una Comisión con juristas de Argentina,
+México y Uruguay; Programa Especial de Capacitación Tributaria CIAT - INCAFI de México,
+en que participó la Jefa del Departamento de Capacitación.
+
+En este mismo campo cabe recordar el Seminario
+Internacional de Viña del Mar, de enero de 1998, sobre la "Etica del Funcionario
+Tributario y su Estrategia de Capacitación" a que se ha hecho anterior referencia en
+el Subcriterio 1.3., organizado por el Servicio de Impuestos Internos a requerimiento de
+varios entes internacionales.
+
+En las páginas siguientes, se puede ver copia de una
+carta de reconocimiento del CIAT a la labor del Servicio de Impuestos Internos:
+
+En otros aspectos de la cooperación
+bilateral que ha prestado el Servicio de Impuestos Internos de Chile a diversas
+administraciones tributarias de América y de otros continentes, podemos mencionar las
+permanentes solicitudes de pasantías que se presentan ante este organismo, para recibir a
+delegaciones de funcionarios tributarios de otros países interesados en conocer la
+gestión del Servicio y sus experiencias en el control y administración de los impuestos,
+en las diversas áreas funcionales.
+
+Se han recibido visitas en pasantías, a funcionarios de
+Impuestos de Argentina, Colombia, Cuba, Ecuador, el Salvador, Honduras, México,
+Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Uruguay, Venezuela.
+
+También se han recibido delegaciones de la República
+Popular China (3 delegaciones en el año 1994), de la Policía Tributaria de la
+Federación Rusa, Sudáfrica, el Estado Palestino, Hungría, etc.
+
+El Servicio, conjuntamente con el CIAT y la Dirección
+General de Impuestos de Francia, tienen proyectado efectuar un Seminario Internacional en
+el mes de Septiembre próximo sobre el tema "Fiscalización y Precios de
+Transferencia", a efectuarse en la ciudad de Santiago de Chile. Este tema se inserta
+en el control de la tributación internacional.
+
+**Impulso a la Modernización del Estado**
+
+En el ámbito interno el Servicio ha colaborado y colabora
+permanentemente, como ente especializado, en la elaboración y discusión de iniciativas
+legislativas de orden tributario del gobierno, asesorando a Ministros y Subsecretarios, y
+apoyando técnicamente la defensa de estos proyectos tanto en las Comisiones de Hacienda
+de la Cámara de Diputados y del Senado, como en las Salas. El Servicio es un participante
+técnico destacado en todos los proyectos sobre Reformas Tributarias.
+
+Particularmente importante es el liderazgo del Servicio en
+el planteamiento y estrategias de la lucha contra la evasión tributaria. La entrega de
+mayores recursos al Servicio de Impuestos Internos y la mejoría de algunas de sus
+atribuciones, permitirían allegar importantes ingresos al erario fiscal por la vía de
+ampliar la cobertura o capacidad fiscalizadora de la institución. Un gran número de
+documentos sobre este tema han sido preparados por la Subdirección de Estudios a
+solicitud del Director, el Ministro de Hacienda y el Parlamento. Como ejemplo se puede
+consultar en los anexos 3 y 4 los informes "Un análisis del Sistema Tributario
+Chileno" y "Plan de lucha contra la evasión".
+
+También el Servicio ha apoyado y promovido las
+iniciativas tendientes a favorecer la Modernización del Estado, promocionando la
+creación del Comité Interservicios para la Modernización de la Gestión Pública. En lo
+particular el Servicio ha hecho una amplia difusión de los avances logrados en numerosas
+presentaciones, artículos y/o entrevistas de prensa del Director y de los Directivos
+Superiores.
+
+En esta misma línea de acción, la institución ha
+participado en las Exposiciones sobre la Modernización de los Servicios Públicos. El
+Servicio ha colaborado en el mejoramiento de los procesos de otras Instituciones
+Públicas, como es el caso de la colaboración prestada al Servicio Nacional de Aduanas y
+a la Contraloría General de la República para definir la conformación de sus sistemas
+informáticos.

@@ -1,0 +1,38 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso62.doc
+titulo: Word – Resolución Exenta SII N°62 del 01 de Abril del 2010 Modifica Resolución Exenta N° 968 del 11 de Marzo de 1992, Sobre Autorización Para Delegar Facultades. Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°62 DEL 01 DE ABRIL DEL 2010 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 968 DEL 11 DE MARZO DE 1992, SOBRE AUTORIZACIÓN PARA DELEGAR FACULTADES.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el artículo 6°, letra B, N°7 del D.L. N° 830 sobre Código Tributario; en el artículo 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda; el artículo 41 de la Ley N° 18.575, sobre Bases Generales de la Administración del Estado y
+
+CONSIDERANDO:
+
+a)	Que por Resolución Exenta N° 968 del 11 de Marzo de 1992, publicada en el Diario Oficial del 16 del mismo mes y año, modificada por Resoluciones Ex. N° 2.410, de 25 de junio de 1992 (D.O. 04.07.1992), N° 618 de 15 de febrero de 1994 (D.O. 19.02.1994), N° 2908, de 25 de junio de 1996 (D.O. 02.07.1996), y N° 109 de 28 de julio de 2009 (D.O. 31.07.2009); asimismo rectificada por Resoluciones Ex. N° 3198, de 9 de julio de 1996 (D.O. 16.07.1996), N° 3311, de 16 de julio de 1996 (D.O. 22.07.96), N° 76, de 7 de enero de 1999, N° 20, de 16 de febrero de 2006 (D.O. 22.02.2006), y N° 21, de 01 de Marzo de 2006 (D.O.04.03.2006), se autorizó a los Directores Regionales para delegar determinadas atribuciones en los funcionarios que la Resolución mencionada señala; y
+
+b)	Que por razones de buen servicio es necesario ampliar la autorización de las facultades que los Directores Regionales pueden delegar a los Jefes de Departamentos Regionales de Avaluaciones respectivos,
+
+SE RESUELVE:
+
+Agrégase en la Resolución Exenta N° 968, del 11 de Marzo de 1992, en el dispositivo Primero, Párrafo I, punto 1.3, el siguiente subpunto 1.3.5.:
+
+"1.3.5	Firmar las resoluciones que fijan el valor comercial de las mejoras fiscales incluidas en las solicitudes de concesiones marítimas mayores o menores, o de su renovación, y permisos o autorizaciones, así como también, aquellas resoluciones que fijan el valor comercial de las obras o construcciones ejecutadas en el lugar otorgado en concesión, de acuerdo a lo prescrito en el D.S. (M) N° 002 de 2005, modificado por el D.S. (M) N° 213, de 2006.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+	(Fdo.) JULIO PEREIRA GANDARILLAS
+	DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.
+
+DISTRIBUCIÓN:
+- Internet
+- Diario Oficial (en extracto)
+- Boletín 
+

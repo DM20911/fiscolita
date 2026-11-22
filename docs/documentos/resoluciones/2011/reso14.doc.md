@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso14.doc
+titulo: Word – Resolución Exenta SII N°14 del 04 de Febrero del 2011 Sustituye Modelos de F-1889 y Certificado N° 9 Adjuntos como Anexos N° 1 y N° 2 a la Resolución Exenta S.I.I. N° 16, del 04 de Febrero del 2009. Fuente: Departamento Personas y Micro y Pequeñas Empresas
+categoria: otros
+---
+RESOLUCION EXENTA SII N°14 DEL 04 DE FEBRERO DEL 2011 MATERIA: SUSTITUYE MODELOS DE F-1889 Y CERTIFICADO N° 9 ADJUNTOS COMO ANEXOS N° 1 Y N° 2 A LA RESOLUCIÓN EXENTA S.I.I. N° 16, DEL 04 DE FEBRERO DEL 2009.
+Hoy se ha resuelto lo que sigue:
+VISTOS : Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda; en el artículo 6º letra A) N° 1 del Código Tributario, contenido en el artículo 1º del DL N° 830, de 1974; y en los artículos 42 bis y 50 inciso tercero de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974, modificados por Ley N° 20.255 publicada en el Diario Oficial el 17 de Marzo de 2008, y
+
+CONSIDERANDO:
+
+1.- Que, a raíz de las modificaciones introducidas por  la Ley N° 20.255, al Art. 42 Bis de la Ley sobre Impuesto a la Renta e incorporación  del  Artículo 20 L al DL 3500 de 1980, este Servicio  dictó la Resolución N° 16, del 04 de Febrero del 2009, en la que se establece que las Administradoras de Fondos de Pensiones (AFPs), Bancos, Instituciones Financieras, Administradoras de Fondos Mutuos, Compañías de Seguros de Vida, Administradoras de Fondos de Inversión, Administradoras de Fondos para la Vivienda y otras instituciones autorizadas por las Superintendencias del ramo, que administren Ahorros Previsionales Voluntarios acogidos al beneficio tributario establecido en el  inciso segundo del artículo 42 bis de la Ley sobre Impuesto a la Renta, deberán enviar al Servicio de Impuestos Internos, hasta el 31 de Marzo de cada año, los antecedentes relativos a los ahorrantes, que han efectuado retiros de dichos ahorros durante el año anterior a aquél en que se informa.
+
+2.- Que, la información antes mencionada  debe ser proporcionada a este Servicio mediante Formulario Nº 1889 de "Declaración Jurada Anual sobre Cuentas de Ahorro Voluntario sujetas a las disposiciones generales de la Ley de Impuesto a la Renta y Ahorros Previsionales Voluntarios acogidos al inciso segundo del artículo 42 bis de la Ley de Impuesto a la Renta”, cuyo formato se adjuntó  como Anexo N° 1  a la Resolución Exenta N°16, del 04 de Febrero de 2009, que se considera para todos los efectos legales parte íntegra de dicha Resolución.
+
+3.- Que, conforme a lo dispuesto por el artículo 22 del D.L. N° 3.500, de 1980, las AFPs están obligadas a certificar a sus afiliados los retiros efectuados de las Cuentas de Ahorro Voluntario acogidas a las normas generales de la Ley sobre Impuesto a la Renta y de la rentabilidad comprendida en cada retiro; información que debe proporcionarse mediante el Modelo del Certificado N° 9, “Sobre Retiros Efectuados de las Cuentas de Ahorro Voluntario establecidas en el artículo 21 del D.L. N° 3.500 de 1980, sujetas a las disposiciones generales de la Ley de la Renta”, adjunto como Anexo N° 2 a la Resolución Exenta N° 16, de 2009, el cual se considera para todos los efectos legales como parte integrante de ésta.
+
+
+4.- Que, con el fin de facilitar el cumplimiento tributario, respecto de las rentas que generan las Cuentas de Ahorro Voluntario abiertas en las AFPs por parte de los afiliados a las entidades antes indicadas, y a su vez, realizar un mejor control del mismo por parte de este Servicio, se hace necesario modificar los documentos indicados en los considerandos N° 2 y 3 anteriores.
+
+
+
+SE RESUELVE:
+
+1.- Sustitúyense los Modelos de Formulario N° 1889 y Certificado N° 9, adjuntos a la Resolución Exenta N° 16, del 04 de Febrero del 2009, por los modelos que se adjuntan como Anexo N° 1 y 2, a la presente Resolución, los cuales para todos los efectos legales se consideran como parte integrante de ésta.
+
+2.- La presente Resolución regirá para las Declaraciones Juradas y certificaciones que deban presentarse o realizarse a partir del Año Tributario 2011 y siguientes.
+3.- Los Anexos 1 y 2 de esta Resolución, y que se entienden forman parte íntegra de ella, se publicarán oportunamente en la página Internet de este Servicio,  HYPERLINK "http://www.sii.cl" www.sii.cl.  
+Toda modificación de los anexos aludidos en el párrafo anterior, se efectuará mediante su oportuna publicación en la página web de este Servicio.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+
+
+
+ 
+(FDO) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+IBC/CMC/KCC/jjm
+DISTRIBUCIÓN:
+AL BOLETÍN
+A INTERNET
+AL DIARIO OFICIAL
+
+
+Anexo 1: HYPERLINK "reso14_an01_modelo.pdf" \t "_blank"Modelo Formulario N° 1889 e HYPERLINK "reso14_an01_instrucciones.pdf" \t "_blank"instrucciones de llenado Anexo 2: HYPERLINK "reso14_an02_modelo.pdf" \t "_blank"Modelo Certificado N° 9 e HYPERLINK "reso14_an02_instrucciones.pdf" \t "_blank"instrucciones de llenado
+
+
+
+
+

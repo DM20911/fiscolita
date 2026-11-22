@@ -1,0 +1,12 @@
+---
+url: https://www.sii.cl/declaraciones_juradas/suplemento/2004/certif_16.htm
+titulo: Certificado N°16
+categoria: declaraciones_juradas
+---
+|  |  |
+| --- | --- |
+| [Home](https://www.sii.cl) | [Instrucciones Declaraciones Juradas](https://www.sii.cl/declaraciones_juradas/suplemento/2004/anexo_c2004.htm) |  | | --- | | B.16 CERTIFICADO N°16  MODELO DE CERTIFICADO N°16, SOBRE SITUACION TRIBUTARIA DEFINITIVA DE LOS RETIROS DESTINADOS A REINVERSION, SEGUN NORMAS DE LA LETRA C) DEL N°1 DE LA LETRA A) DEL ARTICULO 14 DE LA LEY DE LA RENTA | |
+
+|  |
+| --- |
+| Nombre o Razón Social empresa o sociedad fuente                         :\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  RUT N° (o tax-id cuando se trate de empresas extranjeras)               :\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Dirección                                                                                      :\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Giro o Actividad                                                                             :\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  País empresa fuente, sólo cuando se trate de empresas extranjeras :\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_   **SITUACIÓN TRIBUTARIA DEFINITIVA DE LOS RETIROS DESTINADO A REINVERSIÓN, SEGÚN NORMAS DE LA LETRA C) DEL N°1 DE LA LETRA A) DEL ARTÍCULO 14 DE LA LEY DE LA RENTA**  CERTIFICADO N° \_\_\_\_\_\_\_\_\_\_\_\_  Ciudad y fecha \_\_\_\_\_\_\_\_\_\_\_\_\_\_  La empresa individual, sociedad o comunidad que suscribe, certifica que los retiros o el producto de la enajenación de acciones de pago adquiridas con utilidades reinvertidas, efectuados por el propietario, socio, comunero o accionista Sr. \_\_\_\_\_\_\_\_\_\_\_\_\_ Rut N° \_\_\_\_\_\_\_\_\_\_\_ en las fechas que se indican, destinados a reinversión en la empresa o sociedad receptora \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Rut N° \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, al término del ejercicio \_\_\_\_\_\_\_\_\_, han tenido la siguiente situación tributaria:    Se extiende el presente certificado en cumplimiento de lo dispuesto en el inciso final de la letra c) del N°1 de la Letra A) del artículo 14 de la Ley de la Renta, y sus modificaciones posteriores.   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Nombre, N° Rut y Firma del propietario o representante Legal de la sociedad o comunidad fuente |

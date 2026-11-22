@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/aprenda_sobre_impuestos/estudios/tributarios15.htm
+titulo: Eval.de la Capacidad Recaudatoria del Sistema Tributario y de la Evasión Tributaria
+categoria: otros
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl/)  | [Económicos - Tributarios](tributarios.htm) **EVALUACION DE LA CAPACIDAD RECAUDATORIA DEL SISTEMA TRIBUTARIO Y DE LA EVASION TRIBUTARIA.**  Autor: Michael Jorratt De Luis. Octubre 1996.   ---   El propósito de este trabajo es analizar las variables que determinan la capacidad recaudatoria y la evasión de un sistema tributario, y proponer medidas que contribuyan a elevar la recaudación efectiva.  Para efectos de este trabajo, entenderemos por **capacidad recaudatoria** la recaudación que es posible alcanzar con un sistema tributario determinado y un esfuerzo fiscalizador óptimo. Esta capacidad recaudatoria es menor que la **recaudación potencial** -aquella recaudación que se obtendría si existiera un 100% de cumplimiento voluntario- y mayor que la**recaudación efectiva**. La brecha que separa la recaudación potencial de la recaudación efectiva corresponde a la evasión tributaria; pero sólo una parte de ella -la que separa a la recaudación efectiva de la capacidad recaudatoria- es responsabilidad de la función fiscalizadora de la administración tributaria, mientras que el resto, es decir, la brecha entre la recaudación potencial y la capacidad recaudatoria, es consecuencia de factores de política tributaria y factores ambientales (aceptación de los tributos y ética de los contribuyentes, por ejemplo), que inciden sobre la dificultad y disposición de los contribuyentes para evadir o eludir los impuestos.  Documento completo en formato [Word (76 Kb)](ciat96.doc), [htm](ciat96.htm) |

@@ -1,0 +1,118 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso08.doc
+titulo: Word – Resolución Exenta N°08 del 07 de Febrero del 2002 Autoriza Uso de Sistema de Despacho de Combustibles de Propiedad de la Dirección General de Aeronáutica Civil, por Parte de Empresas Prestadoras de Servicios de Almacenamiento y distribución de Combustibles. Fuente: Dpto. Fiscalización Interna
+categoria: otros
+---
+RESOLUCION EXENTA N°08 DEL 07 DE FEBRERO DEL 2002 MATERIA : AUTORIZA USO DE SISTEMA DE DESPACHO DE COMBUSTIBLES DE PROPIEDAD DE LA DIRECCIÓN GENERAL DE AERONÁUTICA CIVIL, POR PARTE DE EMPRESAS PRESTADORAS DE SERVICIOS DE ALMACENAMIENTO Y DISTRIBUCIÓN DE COMBUSTIBLES.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS:  
+1°	Las facultades contenidas en el Art. 6°, letra A), N° 1 del Código Tributario, y en los Art. 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N° 7, de Hacienda, de 1980; lo dispuesto en el D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y en el D.S. de Hacienda N° 55, de 1977, reglamentario del DL N° 825, de 1974;
+
+2°	La Res. Ex. N° 5.661 de 2000, de este Servicio, modificada por las Res. Ex. N°s 24, 42 y 46, del 2001, que deroga el Sistema de Cupones en Ventas de Combustibles, en cuanto a su emisión a partir del 01.10.2001 para cupones expresados en litros y del 01.12.2001 para  cupones expresados en pesos, y en cuanto a su utilización a partir del 01.03.2002.
+
+3°	Lo señalado en el Oficio FISCALIA (O) N°05/0/2073/5728 de fecha 13.11.2001 de la Dirección General de Aeronáutica Civil (DGAC), RUT: 61.104.000-8, mediante el cual solicita se autorice un procedimiento especial que permita legalmente a la DGAC, retirar los combustibles adquiridos por dicha institución para el uso de sus vehículos, entregados para su almacenamiento y distribución a través de la red de estaciones de servicios adheridas a empresas mayoristas del rubro que operan en el país. 
+
+
+C O N S I D E R A N D O :
+
+1°	Que, se hace necesario regularizar el uso dado a los Cupones de Combustibles por parte de empresas mayoristas del rubro, en cuanto a que se han utilizado para efectuar entregas de combustibles a la Dirección General de Aeronáutica Civil (DGAC) desde estaciones de servicio, combustibles que son de propiedad de la DGAC, para la cual las empresas mayoristas prestaban un servicio de almacenaje y distribución, en circunstancias que las autorizaciones de utilización del sistema de cupones, siempre se establecieron respecto de una venta prepagada y que se documentaba tributariamente al momento del prepago.
+
+2°	Que, la solicitud efectuada por la DGAC, tiene por objetivo se le autorice un procedimiento especial que permita legalmente a dicha institución, retirar de las estaciones de servicio adheridas, el combustible almacenado en empresas mayoristas del rubro, para su uso en vehículos fiscales, por cuanto ello, permitiría a la DGAC continuar su funcionamiento y cumplir su misión institucional. En tal sentido, la DGAC realizará sus requerimientos de combustibles a las estaciones de servicio a través de un medio que manifieste su intención de retirar el combustible de su propiedad, tal como la emisión de una "Orden de Entrega de Combustible", dirigida al Almacenista y Distribuidor contratado, a fin de que proceda a surtir los vehículos correspondientes. 
+
+3°	Que, la forma legal de efectuar despachos de combustibles desde las instalaciones del prestador de servicios de almacenamiento y distribución a las instalaciones del propietario de los combustibles, es aquella en que la distribuidora hace uso de guías de despacho, que no importan ventas, que dan cuenta de la existencia de inventarios de productos en instalaciones específicamente dispuestas y bajo el control del prestador de servicios, para que desde ellas se surta el combustible, a granel, a través de medios de transportes especiales, hacia las instalaciones o faenas del propietario del combustible.
+
+4°	Que, como medida de control y fiscalización de las estaciones de servicio que realizan la entrega del combustible dejado en almacenamiento por la DGAC, se hace necesaria la emisión de un documento tributario, que dé cuenta de la operación de entrega, y que en el caso corresponderá a una guía de despacho emitida por la estación de servicio de expendio directo al público, que contenga los antecedentes o la información de detalle que permitan identificar las entregas correspondientes a productos almacenados, dejando así constancia de la adecuada aplicación de la norma sobre documentación de traslados de mercancías, en particular, por tratarse de bienes fungibles que son despachados por terceros. 
+
+5°	Que, de conformidad a los Art. 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, y las facultades contenidas en el Art. 6° del Código Tributario, corresponde al Servicio aplicar y fiscalizar las disposiciones tributarias, incluyendo la interpretación administrativa de dichas disposiciones, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+
+6°	Que, en conformidad a lo dispuesto en el Art. 56° del D.L. N° 825 de 1974 y con el fin de resguardar adecuadamente el interés fiscal en las ventas de combustibles en estaciones de servicio, se estima necesario regular el procedimiento para las entregas de combustibles que sean importados por la DGAC, por medio de una "Orden de Entrega de Combustibles de la DGAC" y una "Guía de Despacho, que no Importa Venta", con antecedentes de detalle especiales.
+
+
+
+
+S E  R E S U E L V E :
+
+Las empresas productoras o distribuidoras de combustibles que deseen prestar servicios de distribución de combustibles de propiedad de la Dirección General  de Aeronáutica Civil (DGAC), que fueron adquiridos o importados directamente por dicha Institución, deberán solicitar autorización a la Dirección Nacional del Servicio de Impuestos Internos por intermedio de la Dirección Regional bajo cuya jurisdicción tengan su domicilio y adoptar el siguiente procedimiento:
+
+Establecer contratos de almacenaje y distribución de los combustibles, con la red de estaciones de servicio adheridas y con la Dirección General de Aeronáutica Civil, que establezcan los volúmenes  de combustible a distribuir, los que estarán respaldados con la importación o adquisición respectiva y con el servicio de almacenaje efectuado.
+
+El retiro de los combustibles desde las estaciones de servicio adheridas, por parte de la institución propietaria, se hará condicionada a la presentación de una “Orden de Entrega de Combustibles”, la cual tendrá las siguientes características:
+
+Tipo de Documento: Formato tipo Orden de Entrega reducido y preimpreso, en dos partes, con orden de entrega y talón (Empresa Mayorista y Propietario del Combustible respectivamente).
+Consignar en ambas partes del documento el Número de Serie de la Orden de Entrega debiendo éste ser un número correlativo único. 
+
+
+Además, la Orden de Entrega deberá necesariamente consignar: 
+
+Identificación de la Institución: Razón Social, Rut, Giro, y Domicilio de la DGAC.
+Identificación de la empresa mayorista que distribuye el combustible: Razón Social, Rut y Domicilio, datos que pueden ser reemplazados por el logotipo de dicha empresa.
+Tipo de combustible.
+Cantidad en litros.
+Leyenda Advertencia: "Combustible Propiedad del Estado de Chile. Uso exclusivo de la DGAC. Prohibida su Venta”.
+
+La entrega del combustible solicitado se hará contra presentación de la "Orden de Entrega de Combustibles", debiendo emitirse una guía de despacho de la estación de servicio que surte el combustible requerido por la DGAC a través de la(s) orden(es) de entrega correspondiente(s). 
+
+La guía de despacho que se emitirá por cada entrega de combustible deberá consignar, además, el siguiente detalle especial para este tipo de entregas: 
+
+Placa Patente del o de los Vehículos que carguen combustible. 
+Número de Serie de la(s) Orden(es) de Entrega de Combustibles de la DGAC. 
+Señalar, en forma clara y destacada la frase: ”Combustible DGAC. No Constituye Venta”. 
+
+El ejemplar de la guía de despacho, Duplicado de Control Tributario, deberá ser conservado por la estación de servicio, durante seis años, conforme lo previene el Artículo N° 58 del DL N° 825, de 1974. La estación de servicio deberá, además, remitir mensualmente a la empresa productora o distribuidora de combustibles, un detalle por periodo mensual, de las guías de despacho emitidas en la entrega de combustibles a la DGAC que contenga el número, fecha, cantidad de litros y tipo de combustible, junto con las órdenes de entrega recibidas en el periodo. 
+
+La empresa mayorista encargada del almacenamiento y distribución, deberá llevar el registro timbrado por el Servicio, que más abajo se indica:
+
+Registro mensual de guías de despacho de combustibles emitidos por concepto de entregas a la DGAC por cada estación de servicio, con mención de su número y fecha, cantidad de litros y tipo de combustibles. Además deberá conservar las órdenes de entrega ya utilizadas por la DGAC, dentro del plazo establecido en el Art. 58° del D.L. N° 825 de 1974.
+
+A nivel nacional y para cada estación de servicio deberá totalizarse, el tipo de producto y cantidad de litros.
+
+Copia del registro de guías de despacho de combustibles entregado a la DGAC, correspondiente a cada estación de servicio, deberá ser remitida por la distribuidora mayorista a ella y ser mantenida en el establecimiento.
+
+Para fines de control y fiscalización de los despachos de combustibles efectuados con este Sistema, las distribuidoras mayoristas de combustibles autorizadas para utilizar el procedimiento de distribución de esta Resolución, deberán remitir información de las operaciones del sistema cuando el Servicio lo solicite, en la forma y por los períodos que éste determine. De igual forma, la Dirección General de Aeronáutica Civil deberá proporcionar información que sobre la materia solicite este Servicio, a través de los canales institucionales correspondientes.
+
+La emisión de las guías de despacho que establece este procedimiento de distribución, sin cumplir con los requisitos señalados en la presente Resolución y el incumplimiento de cualquiera de las obligaciones dispuestas en ella, se sancionará de acuerdo a las disposiciones pertinentes del Código Tributario. En particular, la no emisión, o emisión sin consignar la totalidad de los antecedentes requeridos, Patente (s), Número (s) de Serie de las Ordenes de Entrega, e indicación de la frase ”Combustible DGAC. No Constituye Venta”, hará incurrir en infracción a la normativa tributaria vigente a la estación de servicio que efectúa el despacho, en virtud de lo que establece el Art. 97 N° 10 o el Art. 109 del Código Tributario, según corresponda.  
+
+La presente Resolución entrará en vigencia a partir de la fecha de su publicación.
+
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+(FDO) BERNARDO LARA BERRIOS  	            DIRECTOR (S)
+
+
+
+Lo que transcribo a Ud. para su conocimiento y demás fines,
+
+Saluda a Ud. 
+
+
+
+
+DISTRIBUCION
+SR. DIRECTOR
+SRES. SUBDIRECTORES
+SRES. DIRECTORES REGIONALES DEL PAIS
+DEPARTAMENTO DE FISCALIZACION INTERNA
+DEPARTAMENTO DE ASESORIA JURIDICA
+SECRETARIA GENERAL
+BOLETIN
+INTERNET
+DIARIO OFICIAL (EXTRACTO)
+OFICINA DE PARTES
+
+PÁGINA  1
+
+
+PÁGINA  2
+		
+
+
+
+
+

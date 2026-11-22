@@ -1,0 +1,68 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso25.doc
+titulo: Word – Resolución Exenta SII N°25 del 08 de Marzo del 2006 Reemplaza Modelo del Informe Sobre Estado de los Ingresos y Uso de Donaciones Establecido en la Ley N° 19.712, Sobre Donaciones Efectuadas con Fines Deportivos, Reglamentado en la Circular N° 81, de 2001. Fuente: Departamento de Fiscalizació
+categoria: otros
+---
+RESOLUCION EXENTA SII N°25 DEL 08 DE MARZO DEL 2006 MATERIA : REEMPLAZA MODELO DEL INFORME SOBRE ESTADO DE LOS INGRESOS Y USO DE DONACIONES ESTABLECIDO EN LA LEY N° 19.712, SOBRE DONACIONES EFECTUADAS CON FINES DEPORTIVOS, REGLAMENTADO EN LA CIRCULAR N° 81, DE 2001.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; los artículos 62° y siguientes de la Ley N° 19.712 publicada en el Diario Oficial de 09 de Febrero del 2001 y las necesidades del Servicio, y
+ 
+CONSIDERANDO:  
+
+1.- Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se hace necesario optimizar el uso de los recursos y de la información que se utiliza para el buen logro de esta función.
+
+2.- Que, el artículo 65° de la Ley N° 19.712, establece que: “El donatario deberá elaborar anualmente un informe del estado de ingresos proveniente de la donación y del uso detallado de dichos recursos. Para estos efectos, el Servicio de Impuestos Internos determinará los contenidos que deberá incluir el informe y la forma de llevar la contabilidad del donatario.
+
+Un ejemplar de dicho informe deberá remitirse por el donatario a la Dirección Regional del Servicio de Impuestos Internos correspondiente a su domicilio, dentro de los tres primeros meses de cada año.
+
+El incumplimiento de lo dispuesto en este artículo será sancionado en la forma prescrita en el número 2) del artículo 97° del Código Tributario, siendo solidariamente responsable del pago de la multa respectiva los administradores o representantes legales del donatario.”
+ 
+	3.- Que, el Servicio a través de la Circular N° 81 de 09 de Noviembre del 2001, impartió las instrucciones respectivas relacionadas con los aspectos tributarios contenidos en la Ley N° 19.712, dentro de las cuales se estableció las menciones que debe contener el Estado de Ingresos y Egresos de los recursos recibidos por concepto de donaciones efectuadas al amparo de las normas de esta ley.
+
+4.- Que, de acuerdo con el resolutivo N° 1, de la Res. Ex. N° 5.225 del 2000, modificado por la Res. Ex. N° 38 del 12.12.2002, esta Dirección dispuso que: “ Los contribuyentes que, en virtud de lo dispuesto en la Resolución Exenta N° 4228, de 24.06.99, estén autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales deberán presentar las Declaraciones Juradas mediante transmisión electrónica de datos vía Internet.”
+
+SE RESUELVE:  
+
+1.- Las instituciones y organismos donatarios, que reciban donaciones al amparo de la Ley N° 19.712 del 2001, vale decir, el Instituto Nacional de Deportes respecto de las donaciones recibidas en beneficio de la Cuota Nacional o una o más de las Cuotas Regionales del Fondo Nacional para el Fomento del Deporte; las Corporaciones de Alto Rendimiento, las Corporaciones Municipales y las Organizaciones Deportivas respecto de las donaciones recibidas en beneficio de un proyecto aprobado por el Instituto Nacional de Deportes de Chile mediante concurso público, que se encuentre vigente en el respectivo Registro de Proyectos Deportivos a que se refiere el artículo 68° de la ley, estarán obligados a presentar el Informe sobre el Estado de Ingresos y Uso de las donaciones a que se refiere el artículo 65°, en la forma y plazo que se señala en los párrafos y resolutivos siguientes.
+
+En el Informe que se indica, se deberán incluir los ingresos por concepto de donaciones recibidas y/o el uso de éstas, de acuerdo con el detalle de la información que se solicita por medio del Formulario a que se refiere el resolutivo N° 3 siguiente y sus instrucciones respectivas.
+
+2.- La obligación que se establece mediante la presente Resolución, regirá cualquiera que sea el monto de las donaciones recibidas.  
+
+3.- El Informe a que se refiere el resolutivo N° 1, deberá presentarse hasta el 31 de Marzo de cada año mediante transmisión electrónica de datos, respecto de las donaciones recibidas o bien respecto del uso de éstas ocurrido en el año comercial anterior, y por medio del Formulario de Declaración Jurada N° 1828, “Declaración Jurada Anual de Estado de Ingresos y Uso de Donaciones  recibidas, conforme a los arts. 62° y siguientes de la Ley N° 19.712”, cuyo formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl" www.sii.cl  
+
+4.- El incumplimiento de la obligación establecida en la presente Resolución, está sancionado en el Art. 97 N° 2 del Código Tributario, siendo solidariamente responsables del pago de la multa respectiva los administradores o representantes legales del donatario.
+
+5.- El Formulario N° 1828, reemplaza el modelo “Informe de Estado de Ingresos y Uso Detallado de Donaciones Recibidas, conforme los Arts. 62° y siguientes de la Ley N° 19.712”, contenido en el numeral 1.1.1, de la letra J, del capitulo III, de la Circular N° 81, del 2001.
+
+6.- La presente Resolución regirá para los informes que deban efectuarse a partir del Año Tributario 2006, respecto de las donaciones recibidas o bien respecto del uso de éstas ocurrido en el año comercial 2005 y para los años tributarios siguientes.  
+  
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO   
+
+
+
+
+JUAN TORO RIVERA         DIRECTOR 
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+ERH/PSM/ADP/kcm
+DISTRIBUCION:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Subdirección de Informática.
+Directores Regionales I a XVI Dirección Regional.
+Director Grandes Contribuyentes
+Departamento de Fiscalización Selectiva e Internacional.
+Departamento de Operación Renta.
+Oficina de Partes.
+Boletín del Servicio.
+Diario Oficial.
+Internet.
+

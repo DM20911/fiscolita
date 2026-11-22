@@ -1,0 +1,69 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso136.doc
+titulo: Word – Resolución Exenta SII N°136 del 09 de Noviembre del 2007 Fija Formato de Mandato para la Liquidación y Transferencia de Cuotas de Fondos Mutuos, de Conformidad con el Inciso Tercero del Artículo 18 Quater de la Ley de Impuesto a la Renta. Fuente: Departamento Diseño Procedimientos de Fiscaliz
+categoria: otros
+---
+RESOLUCION EXENTA SII N°136 DEL 09 DE NOVIEMBRE DEL 2007 MATERIA : FIJA FORMATO DE MANDATO PARA LA LIQUIDACIÓN Y TRANSFERENCIA DE CUOTAS DE FONDOS MUTUOS, DE CONFORMIDAD CON EL INCISO TERCERO DEL ARTÍCULO 18 QUATER DE LA LEY DE IMPUESTO A LA RENTA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el artículo 6°, letra A), N°1 del Código Tributario, contenido en el artículo 1° del D.L. N°830, de 1974; en el artículo 1°, N°3 de la Ley N°20.190, de 2007; y en los artículos 1°, 7° y 42° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L. N°7, de 1980; y 
+
+CONSIDERANDO:
+
+1.-	Que, el cumplimiento del mandato de velar por una eficiente administración y fiscalización de los impuestos, impone a este Servicio el deber de ejercer las facultades y atribuciones que la ley le otorga.
+
+2.-	Que, el artículo 1° N°3, de la Ley N°20.190, publicada en el Diario Oficial de 5 de junio de 2007, incorporó en el artículo 18 quater de la Ley de Impuesto a la Renta los nuevos incisos tercero a sexto, en los cuales se establece el beneficio consistente en no considerar rescate la liquidación de las cuotas de un fondo mutuo que haga el partícipe para reinvertir el producto de la misma en otro fondo mutuo que no sea de los descritos en el inciso cuarto del artículo 18 ter de la mencionada ley, estableciendo los requisitos y condiciones a que deben sujetarse los contribuyentes que se acojan a dicho beneficio, indicando que el partícipe deberá instruir a la sociedad administradora del fondo mutuo en que mantiene su inversión, mediante un poder que deberá cumplir las formalidades y contener las menciones mínimas que el Servicio de Impuestos Internos establecerá mediante resolución, para que liquide y transfiera, todo o parte del producto de su inversión, a otro fondo mutuo administrado por ella o por otra sociedad administradora, con el objeto que ésta lo destine a la adquisición de cuotas en uno o más de los fondos mutuos administrados por ella.
+
+3.-	Que, es necesario establecer las formalidades y menciones mínimas que deben cumplir los mandatos para la liquidación y transferencia de cuotas de fondos mutuos, de conformidad con el inciso tercero del artículo 18 quater de la Ley de la Renta.
+
+SE RESUELVE:
+
+1.-	El mandato a que se refiere el inciso tercero del artículo 18 quater de la Ley de Impuesto a la Renta, que con el objeto de acogerse al beneficio que establece la norma referida, debe otorgar el partícipe a la sociedad administradora de los fondos mutuos respectivos para la liquidación y transferencia del todo o parte del producto de su inversión, a otro fondo mutuo administrado por la misma sociedad o por una sociedad administradora distinta, quien lo destinará a la adquisición de cuotas en uno o más de los fondos mutuos administrados por ella, deberá conferirse por escrito, de conformidad con el formato adjunto en anexo a la presente resolución, y contener al menos las siguientes menciones:
+
+Nombre o razón social del partícipe mandante, su RUT, el nombre o razón social de su representante si lo hubiere, el RUT de dicho representante, y domicilio del partícipe mandante;
+Lugar, fecha y hora en que se otorga el mandato;
+Identificación de la sociedad administradora a quien se confiere mandato; 
+El o los fondos mutuos en los cuales se mantienen las cuotas a liquidar y transferir, con indicación del nombre del fondo y el código de identificación otorgado por la autoridad competente o reconocido por ésta; 
+Número de cuotas o monto a liquidar;
+Indicar si la transferencia es por la totalidad de la inversión mantenida en el o los fondos mutuos, o por una fracción de ésta.
+Monto o porcentaje de la inversión a transferir, a otro u otros fondos mutuos; 
+Identificación de la sociedad administradora del o los fondos mutuos a los cuales se requiere realizar la transferencia, cuando sean administrados por una sociedad diversa;
+El o los fondos mutuos a los cuales se requiere realizar la transferencia, con indicación del nombre del fondo y el código de identificación o registro otorgado por la autoridad competente o reconocido por ésta; y
+Número de folio correlativo que le corresponde al mandato;
+
+2.-	De conformidad con lo dispuesto por el artículo 2124 del Código Civil, la aceptación del mandato por parte de la sociedad administradora de fondos mutuos podrá ser expresa o tácita.
+
+3.-	Las sociedades administradoras de fondos mutuos deberán asignar un número correlativo a cada mandato y deberán conservar los referidos mandatos como respaldo de sus operaciones para ponerlos a disposición del Servicio de Impuestos Internos, en caso que éste lo requiera.
+
+4.-	El otorgamiento del mandato con omisión de alguna de las menciones mínimas que debe contener de acuerdo con la presente resolución, traerá como consecuencia la improcedencia del beneficio legal que contempla la citada norma consistente en no considerar rescate la liquidación de las cuotas del fondo mutuo, debiendo enterarse los impuestos que procedan de conformidad con las normas de la primera categoría, impuesto global complementario o impuesto adicional de la Ley de Impuesto a la Renta, según corresponda. Los errores en las menciones que debe contener el mandato, en la medida que no alteren sustancialmente el mismo ni impidan su acertada inteligencia, serán sancionados de acuerdo con lo dispuesto en el artículo 109 del Código Tributario.
+
+5.-	La presente resolución regirá a contar de su publicación en extracto en el Diario Oficial.
+
+
+ANOTÉSE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+
+RICARDO ESCOBAR CALDERÓN
+DIRECTOR
+
+
+Anexo: HYPERLINK "reso136_anexo.pdf"Formato Mandato liquidación por transferencia
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+JTP/EMG/HGM/PGN/kmc
+DISTRIBUCIÓN:
+Internet.
+Diario Oficial (en extracto).
+

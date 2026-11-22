@@ -1,0 +1,37 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso89_ANEXO_1.pdf
+titulo: ANEXO 1 – ANEXO 2 ANEXO 3
+categoria: otros
+---
+ANEXO 1
+Contribuyentes autorizados para el para reemplazar la emisión de boletas de ventas y servicios
+afectos al Impuesto al Valor Agregado, por cuenta propia o por cuenta de terceros, por los
+comprobantes que sean emitidos a través de Terminales POS.
+
+RAZÓN SOCIAL
+LUIS HUMBERTO SALINAS GAONA
+SONIA MARGOT FUENTES PALMA
+FRANCISCO ANTONIO LAGOS CORTES
+GLORIA MONICA QUEZADA CANALES
+NELSON SEGUNDO GUAJARDO ARANEDA
+OSCAR FERNANDO AMPUERO RIVAS
+JUAN CARLOS CAYUL CANIL
+NOLBER MATEO RAMOS
+DISTRIBUIDORA VALENZUELA LECAROS LIMITADA
+IBANEZ Y HORMAZABAL LIMITADA
+RESTAURANT ELKIKA ILMENAU LIMITADA
+RESTAURANT PANORAMA GIRATORIO Y CIA LTDA
+
+RUT
+7.898.295-0
+8.004.159-4
+8.330.478-2
+8.491.781-8
+8.677.390-2
+9.167.129-8
+12.143.902-6
+22.155.850-2
+76.049.329-5
+76.136.124-4
+77.956.350-2
+87.522.500-6

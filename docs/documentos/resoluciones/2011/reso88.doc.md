@@ -1,0 +1,276 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso88.doc
+titulo: Word – Resolución Exenta SII N°88 del 07 de Julio del 2011 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°88 DEL 07 DE JULIO DEL 2011 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Julio del 2011, a los siguientes contribuyentes:
+
+- AGRICOLA FORESTAL SANTA LUCIA LTDA.					78.022.300-6 
+- CELSOUTH S.A. 									76.109.627-3 
+- CENTRAL TERMOELECTRICA ANDINA S.A. 					76.708.710-1 
+- CERAMICAS CORDILLERA COMERCIAL S.A. 					76.121.797-6 
+- CHILECAR S.A.									76.038.897-1 
+- CIA. INDUSTRIAL DE CAUCHO LTDA.						80.201.600-K 
+- COMERCIAL MI CAMION LTDA. 						76.137.929-1 
+- COMERCIALIZACION Y DISTRIBUCION COMPUTACIONAL S.A. 		78.611.770-4 
+- COMERCIALIZADORA CORMIN CHILE LTDA. 					77.251.130-2 
+- COMERCIALIZADORA DE PRODUCTOS INDUSTRIALES IPROTEC LTDA. 	76.067.865-1 
+- COMERCIALIZADORA GLOBAL SELECTUS FOOD LTDA. 			76.087.670-4 
+- COMERCIALIZADORA PEDRO ANTONIO TORO GONZALEZ E.I.R.L. 		76.034.337-4 
+- CONSTRUCTORA DIMARO Y CIA. LTDA. 					76.110.545-0 
+- CONSTRUCTORA Y METALURGICA LTDA. 					86.206.000-8 
+- DAVID BROWN CHILE S.A. 							76.130.276-0 
+- DELL COMPUTER DE CHILE LTDA. 						77.099.980-4 
+- DELPA SERVICIOS LOGISTICOS LTDA. 					76.069.087-2 
+- DESSAU CHILE INGENIERIA S.A. 						77.330.120-4 
+- ETEX FARMACEUTICA LTDA. 							78.026.330-K 
+- EUROMAQ S.A.									96.759.900-K 
+- EXPORTADORA E IMPORTADORA TECNICA EXIMTEC LTDA. 			88.922.800-8 
+- F G F ANALISIS MINEROS LTDA. 						77.794.250-6 
+- HIDRONOR CHILE S.A.								96.607.990-8 
+- IMPALA CHILE SPA 								76.113.372-1 
+- INGENIERIA SUDAMERINOX S.A. 						96.991.480-8 
+- INVERSIONES E INMOBILIARIA HOLDING PROMEC S.A. 			76.088.828-1 
+- INVERSIONES HORNITOS S.A. 							76.009.698-9 
+- IPAL S.A.									 	91.482.000-6 
+- JAIME COLVIN CENTRO DE ENTRENAMIENTO PROFESIONAL E.I.R.L. 	76.062.072-6 
+- JONATHAN ARIEL CONTRERAS MUNOZ 					15.816.568-6 
+- KOFKE S.A. 									76.094.629-K 
+- LABORATORIO DE SUELOS UCT LTDA. 					76.000.746-3 
+- LABORATORIOS STIEFEL DE CHILE Y CIA. LTDA 				79.541.150-K 
+- LILLO MONLEZUN & ORREGO ABOGADOS S.A.			 	96.822.490-5 
+- OCCIDENTAL CHEMICAL CHILE LTDA. 						93.797.000-5 
+- ROUX Y CIA. LTDA. 								76.017.314-2 
+- SAZO CECI E HIJOS LTDA. 							76.082.528-K 
+- SCHAFFNER S.A.							 	89.091.900-6 
+- SEGUROS CLC S.A 								76.573.480-0 
+- SNC LAVALIN CHILE S.A. 							79.563.120-8 
+- SOC. DE INVERSIONES SUDAMERICA LTDA. 					77.847.990-7 
+- SOC. DE PRODUCTOS PLASTICOS LTDA. 					77.489.910-3 
+- SOC. DE TRANSPORTES Y SERVICIOS QUETRALMAVIDA LTDA. 		78.795.960-1 
+- SOCIEDAD COMERCIAL F.L. LTDA. 						76.020.765-9 
+- TECNICAS DE CONTROL LASER ELECTRIC LTDA. 				76.375.350-6 
+- TIVAR HELICOPTEROS, ASESORIAS E INVERSIONES LTDA. 			76.031.716-0 
+- URIOSTE Y RAZETO LTDA. 							77.530.990-3 
+- ZUBLIN INTERNATIONAL GMBH CHILE LTDA. 					77.555.640-4
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+		    
+
+ (Fdo.) CAROLINA SARAVIA MORALES
+         SUBDIRECTOR DE FISCALIZACIÓN (S)
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

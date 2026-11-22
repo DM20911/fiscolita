@@ -1,0 +1,69 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso49.doc
+titulo: Word – Resolución Exenta N°49 del 07 de Diciembre del 2001 Modifica Resolución N° EX. 6.509, de 1993, que Establece Obligación de emitir certificado con información sobre Retenciones de Impuestos Practicadas según los N°s.1, 2 y 3 del Artículo 74 de la Ley de la Renta y Sobre intereses Pagados por B
+categoria: otros
+---
+RESOLUCION EXENTA N°49 DEL 07 DE DICIEMBRE DEL 2001 MATERIA : MODIFICA RESOLUCIÓN N° EX. 6.509, DE 1993, QUE ESTABLECE OBLIGACIÓN DE EMITIR CERTIFICADO CON INFORMACIÓN SOBRE RETENCIONES DE IMPUESTOS PRACTICADAS SEGÚN LOS N°S.1, 2 Y 3 DEL ARTÍCULO 74 DE LA LEY DE LA RENTA Y SOBRE INTERESES PAGADOS POR BANCOS E INSTITUCIONES FINANCIERAS.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS:  Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el  artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980; en el artículo 6°, letra A, N° 1 y en el artículo 63, inciso primero del Código Tributario, contenido en el D.L. N° 830, de 1974, y en los artículos pertinentes de la Ley sobre Impuesto a la Renta contenida en el artículo 1 del D.L. 824, de 1974, y 
+
+
+CONSIDERANDO:
+
+
+1.- Que, mediante la Resolución N° Ex 6509, publicada en el D.O. del 20.12.93,  modificada por las Resoluciones N°s. Ex  4571, D.O. 31.10.94; Ex 7211, de 10.12.98 y Ex 5224, D.O. de 30.11.00 se ha establecido la obligación de emitir certificado con información sobre retenciones de impuestos y sobre los intereses pagados que en ella se indica.
+
+2.- Que, para los efectos de que los contribuyentes que perciban rentas por concepto de intereses pagados por el Banco Central de Chile, puedan cumplir con sus obligaciones tributarias deben contar con la información respecto de las rentas pagadas por dicho concepto. 
+
+
+SE RESUELVE:
+
+
+1.- Introdúcense las siguientes modificaciones a la  Resolución N° Ex 6509, publicada en el D.O. del 20.12.93,  modificada por las Resoluciones N°s. Ex  4571, D.O. 31.10.94; Ex 7211, de 10.12.98 y Ex 5224, D.O. de 30.11.00 
+a) En el encabezamiento  a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+b) En el resolutivo N° 2, a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+
+
+
+
+2.- La presente resolución regirá a contar del Año Tributario 2002, respecto del informe que debe presentarse por las operaciones efectuadas durante el año comercial 2001 y siguientes.  
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+
+
+
+
+(Fdo) ALFREDO ECHEVERRIA HERRERA
+ DIRECTOR (S)
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+Secretaria Director
+Subdirección Fiscalización
+Oficinas de Partes 
+Internet
+Diario Oficial (en extracto)
+
+
+
+
+
+
+
+
+
+
+
+

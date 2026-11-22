@@ -1,0 +1,188 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso36.doc
+titulo: Word – Resolución Exenta SII N°36 del 24 de Marzo del 2008 Crea Consejo Consultivo del Director del Servicio de Impuestos Internos y Establece Reglamento para su Funcionamiento. Fuente: Departamento de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°36 DEL 24 DE MARZO DEL 2008 MATERIA : CREA CONSEJO CONSULTIVO DEL DIRECTOR DEL SERVICIO DE IMPUESTOS INTERNOS Y ESTABLECE REGLAMENTO PARA SU FUNCIONAMIENTO.
+
+
+Hoy se ha resuelto lo que sigue:
+ 	
+VISTOS: lo dispuesto en el artículo 6º letra A N° 1 del Código Tributario; en las letras b), b bis), c), i), ñ) y p) del artículo 7° y en la letra c) del artículo 40, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7 del Ministerio de Hacienda, de 1980, y
+
+
+C O N S I D E R A N D O  :
+
+	1°.- Que, ha sido permanente preocupación de la Administración el perfeccionar los procedimientos a través de los cuales se ejerce la atribución de interpretar las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos, de manera que el resultado de la ejecución de esta facultad se encuentre siempre revestido de la mayor precisión y consistencia, y que además de su estricto apego a la ley, considere los efectos prácticos que el pronunciamiento interpretativo de la norma provoca en la sociedad;  
+
+	2°.-  Que, en la actualidad, el desarrollo de la actividad económica en un mundo globalizado, en la que conviven temas financieros, tecnológicos, nuevas formas de contratación y transacciones internacionales de gran incidencia tributaria, requiere del Servicio una perspectiva general de estas materias, en la que considere también  la visión y experiencia práctica que el sector privado pueda tener de las diversas instituciones y formas de contratación; y 
+
+	3°.-  Que, atendido lo expuesto, se estima conveniente que exista un órgano colegiado, de carácter consultivo, integrado por abogados y contadores dedicados al ejercicio libre de la profesión, especialistas en asuntos tributarios y económicos, de reconocida trayectoria y por profesionales del Servicio, destinado a emitir su opinión en las materias aludidas en el considerando precedente, en los casos que la Dirección así lo requiera.
+
+
+R E S U E L V O  :
+
+PRIMERO.- Créase un Consejo Consultivo, integrado por profesionales funcionarios del Servicio y abogados y contadores auditores externos, que coadyuvará al Director con su conocimiento o  experiencia en materias tributarias o económicas, cuando en el ejercicio de las labores que le encomienda el ordenamiento jurídico, éste considere conveniente escuchar opiniones sobre dichas materias.
+ 
+Las opiniones emitidas por el Consejo Consultivo, de manera alguna constituirán criterio del Servicio y para el Director tendrán un valor meramente informativo.  
+
+SEGUNDO.- El Consejo Consultivo estará integrado por 6 miembros: tres funcionarios del Servicio  y  dos abogados y un contador público o auditor externos. 
+
+TERCERO.- El Consejo Consultivo tendrá una Secretaría encargada de los archivos, de las funciones que le asigne el Presidente del Consejo y de las que determine el Reglamento. 
+
+CUARTO.- El Consejo Consultivo se regirá  por lo dispuesto en esta resolución y por el siguiente: 
+
+REGLAMENTO DEL CONSEJO CONSULTIVO 
+
+TITULO I
+De la naturaleza administrativa del Consejo Consultivo
+
+Artículo 1°.- El Consejo Consultivo, en adelante el Consejo, es un órgano colegiado destinado a coadyuvar al Director con sus conocimientos y experiencia tributaria y/o financiera en las materias que éste estime conveniente.
+ 
+TITULO II
+De las funciones
+
+Artículo 2°.- El Consejo cumplirá una labor consultiva emitiendo opiniones técnicas a petición del Director, con el fin de cooperar en la determinación del sentido y alcance de aquellas normas que el Director estime pertinente someter a su consideración.
+
+Asimismo, el Director podrá solicitar opinión del Consejo sobre otras materias, sean de carácter normativo o contingente que, a su juicio, requieran el aporte del conocimiento y experiencia de sus miembros.
+
+TÍTULO III
+De la integración
+
+Artículo 3°.-  El Consejo estará integrado por el Subdirector Jurídico del Servicio, quien lo presidirá, un Jefe de Departamento dependiente de la Subdirección de Fiscalización y por un funcionario abogado, ubicado en la Dirección Nacional del Servicio, y por dos abogados y un contador público o auditor externos de reconocida trayectoria y experiencia en el ámbito tributario y económico. 
+		
+En ausencia del Subdirector Jurídico titular, la presidencia del Consejo será ejercida por el Consejero titular de más alta jerarquía dentro del escalafón del Servicio.
+
+Existirá, además, un Secretario Abogado del Consejo, el cual no emitirá opiniones ni votos. 
+			
+Artículo 4°.- El Director designará nominativamente, mediante resolución, al directivo de la Subdirección de Fiscalización, al abogado ubicado en la Dirección Nacional y a los abogados y al contador público o auditor externos que deban integrar el Consejo, tanto en calidad de titulares como de suplentes.
+
+Para la designación de los Consejeros externos abogados, uno de ellos será propuesto al Director por el Colegio de Abogados de Chile A.G., y el otro, alternativamente, por el Instituto Chileno de Derecho Tributario (ICHDT.) y por la International Fiscal Association Chile A.G. (IFA.) La persona del Consejero externo contador público o auditor será propuesta, alternativamente, por el Colegio de Contadores de Chile A.G. y por el Colegio de Contadores Auditores, Contadores Públicos y Contadores Generales de Chile A.G. Las proposiciones de integrantes que efectúen las entidades mencionadas deberán contemplar los nombres de los profesionales que debieran desempeñar el cargo en las calidades de titular y de suplente. Dichas instituciones deberán elevar su propuesta dentro del mes anterior a aquel en que finalice el lapso a que se refiere el inciso segundo del artículo 6°.
+
+Artículo 5°.-  A falta del Subdirector Jurídico, su lugar en el Consejo, será ocupado por el subrogante legal respectivo. Los demás Consejeros serán reemplazados por el suplente que corresponda.
+
+Artículo 6°.- Los funcionarios del Servicio que forman parte del Consejo, cumplirán sus labores en éste sin perjuicio de sus funciones y obligaciones habituales.
+
+Los integrantes externos del Consejo desempeñarán sus funciones ad-honorem, durarán en el cargo un año y no podrán ser designados por más de dos períodos consecutivos.
+
+Artículo 7°.- Los demás funcionarios del Servicio, dentro de su ámbito de competencia y funciones, deberán prestar toda la colaboración que el Consejo les solicite.
+
+Artículo 8°.- Corresponde al Presidente del Consejo: 
+ a)	Citar al Consejo;
+ b)	Ser portador de las consultas que el Director estime conveniente formular  al Consejo;
+ c)	Presidir y dirigir las sesiones del Consejo; 
+Determinar la tabla de los asuntos que se tratarán en cada sesión;
+Determinar si el pronunciamiento del Consejo será emitido por medio de Informe o del Acta de la Sesión respectiva, en conformidad a lo dispuesto en el artículo 17;
+ f)	Firmar, en representación del Consejo, las comunicaciones y documentos que procedan; y 
+ g)	Supervisar la labor general del Consejo y preparar una cuenta anual de su labor.
+
+
+TITULO IV 
+De las Sesiones y los acuerdos 
+
+Artículo 9°.- Las sesiones del Consejo se celebrarán los días y horas que determine el Presidente.
+
+Artículo 10.- El Presidente confeccionará la respectiva tabla de sesión en la cual se incluirán  todos los asuntos sometidos por el Director a la consideración del Consejo. 
+
+La tabla de la sesión se remitirá a los Consejeros conjuntamente con la citación para la respectiva sesión, con una antelación de, a lo menos, una semana respecto de la fecha en que aquélla deba realizarse.
+
+En la tabla de sesión las materias estarán divididas en la siguiente forma:
+
+a) Relación de las materias sometidas a opinión del Consejo; y 
+b) Debate y  opinión sobre dichas  materias.
+ 
+Por orden del Presidente podrán agregarse a la tabla de sesión asuntos no comprendidos en ella, que el Director haya considerado pertinente se incluyan.
+
+Artículo 11.- El Consejo podrá requerir la opinión de expertos en las materias sometidas a su conocimiento o pedir informes a especialistas, Colegios Profesionales u otros que estime conveniente.
+
+Artículo 12.- El quórum para sesionar será de la mayoría de los Consejeros en ejercicio, y a lo menos dos Consejeros cuyo cargo corresponda a un funcionario del Servicio. 
+
+Artículo 13.- La sesión será dirigida por el Presidente del Consejo y en ella las materias serán tratadas en el orden en que figuren en la tabla de sesión. 
+
+El Presidente podrá abrir de inmediato debate sobre los asuntos planteados por el Director de conformidad con lo dispuesto en el inciso final del artículo 10.
+
+Artículo 14.- El Director podrá asistir a las sesiones del Consejo, en las que tendrá derecho a voz.
+
+Artículo 15.- Los acuerdos deben adoptarse por la mayoría de los Consejeros asistentes, debiendo dejarse, en su caso, constancia de las opiniones disidentes. Al no producirse mayoría para un acuerdo, el Informe respectivo deberá indicar la opinión de cada uno de los Consejeros, ya sea que todas ellas sean diferentes o bien, que algunas coincidan entre sí.
+
+En casos especiales, el Presidente podrá convocar a sesiones destinadas exclusivamente a tratar el asunto en el que se ha producido desacuerdo, si el Director lo estimare conveniente.
+  
+Artículo 16.-  En el acta que el Secretario levante de la sesión se dejará constancia, a lo menos, de los miembros asistentes, de los acuerdos que se adopten y  las opiniones  disidentes y la firma de los Consejeros asistentes a la sesión respectiva.
+
+TITULO V
+De los Informes 
+
+Artículo 17.- Adoptado el acuerdo del Consejo, si el asunto sometido a su conocimiento requiere de Informe, corresponderá al Consejero que designe el Presidente redactar el borrador respectivo, el cual deberá ser aprobado conforme al procedimiento establecido en el artículo 19. En caso contrario, bastará el Acta de la sesión; uno u otro documento, según corresponda, será remitido al Director como la opinión del órgano consultivo sobre el problema planteado.
+
+Artículo 18.- Los Informes podrán comprender, en el mismo orden en que se indican, las siguientes partes:  
+
+Antecedentes: en la cual deberá hacerse una exposición de la materia sometida a conocimiento del Consejo, señalando los antecedentes de hecho y de derecho que se hacen valer, y precisando los términos y alcances de ésta. Se indicarán nominativamente los Consejeros que hubieren concurrido a la sesión en se haya adoptado el acuerdo, y quien la ha presidido.
+
+Consideraciones: en esta parte han de exponerse las razones y  argumentaciones, de hecho y de derecho que sirvan de fundamento a la opinión que el Consejo emite sobre la materia planteada. 
+
+Conclusión: en ella ha de exponerse en forma clara, precisa y resumida la opinión que el Consejo emite respecto de cada uno de los puntos que comprende el asunto sometido a su conocimiento, expresándose si ésta importa un cambio de doctrina del  Servicio, o si lo opinado se refiere a temas sobre los cuales no haya precedentes.
+
+Opiniones disidentes: si el acuerdo no hubiere sido adoptado por la unanimidad del Consejo, en la parte final del Informe se hará mención a las opiniones disidentes, con expresión del nombre del Consejero que las emita; indicándose brevemente las razones que éste ha tenido para disentir de la opinión de la mayoría del Consejo. Las discrepancias deberán ser redactadas por los Consejeros que las hayan emitido. 
+
+Artículo 19.- Los borradores de Informes deberán ser sometidos a la aprobación del Consejo. Para estos efectos, dentro del plazo que hubiere fijado el Presidente para su elaboración, el Consejero redactor entregará el borrador al Secretario Abogado, quien deberá distribuirlo a los demás integrantes del Consejo con una antelación no inferior a 15 días de la sesión en que corresponda su examen y aprobación.  
+
+Artículo 20.- Si el Consejo acordare introducir modificaciones en el texto del proyecto de Informe, ellas se efectuarán por el Consejero redactor, incluyéndose el borrador enmendado en la tabla de la próxima sesión, a menos que se acuerde un procedimiento de aprobación final más expedito. 
+
+Artículo 21.- Las opiniones del Consejo contenidas en los Informes o en las Actas de las sesiones en caso alguno podrán ser consideradas, por si solas, como el criterio del Servicio sobre las materias tratadas.
+
+ Artículo 22.- Aprobado un Informe por el Consejo con la firma de los Consejeros que concurrieron al acuerdo y de los disidentes, si los hubiere, será entregado por el Presidente al Director para los fines que éste estime conveniente. 
+
+TÍTULO VI
+De la Secretaría del Consejo y sus archivos
+
+Artículo 23.- El Director designará, mediante resolución, un Secretario Abogado a cargo de la Secretaría del Consejo. Asimismo designará un suplente para el caso de ausencia del titular por cualquier motivo.
+
+Las labores de esta Secretaría, sin perjuicio de las establecidas en el presente reglamento, serán fijadas por el  Subdirector Jurídico en su calidad de Presidente del Consejo.
+
+Artículo 24.-  La Secretaría llevará un archivo de las Actas de las sesiones celebradas por el Consejo y de los Informes aprobados.
+ 
+Artículo 25.- La Secretaría mantendrá, además, un archivo de los documentos que digan relación con el Consejo y que su Presidente determine.
+
+
+QUINTO.- Para los fines de la primera designación de los integrantes externos del Consejo Consultivo conforme a lo dispuesto en el inciso segundo del artículo 4° del Reglamento, las entidades que ahí se mencionan deberán formular su propuesta dentro del mes de abril de 2008. 
+
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial.
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERON
+DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.
+
+
+
+
+
+Internet
+Diario Oficial en extracto
+Boletín
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

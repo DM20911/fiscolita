@@ -1,0 +1,57 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso43.doc
+titulo: Word – Resolución Exenta SII N°43 del 03 de Abril del 2008 Incorpora al Ámbito de las Obligaciones Establecidas por la Resolución Exenta N° 2, de 04.01.2005, sobre “Auxiliar de Registro de Impuesto de Timbres y Estampillas”, a Notarios y Oficiales del Registro Civil. Fuente: Departamento Medianas y 
+categoria: otros
+---
+RESOLUCION EXENTA SII N°43 DEL 03 DE ABRIL DEL 2008 MATERIA : INCORPORA AL ÁMBITO DE LAS OBLIGACIONES ESTABLECIDAS POR LA RESOLUCIÓN EXENTA N° 2, DE 04.01.2005, SOBRE “AUXILIAR DE REGISTRO DE IMPUESTO DE TIMBRES Y ESTAMPILLAS”, A NOTARIOS Y OFICIALES DEL REGISTRO CIVIL.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los artículos 6°, letra A), N°1 y 60° inciso penúltimo del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974, en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, de 1980, y
+
+CONSIDERANDO:
+
+1.-	Que, en el cumplimiento del objetivo específico a que está llamado por la ley este Servicio, de aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente, se encuentra entre otras funciones, la de fiscalizar en forma eficiente y oportuna la correcta aplicación y determinación del Impuesto de Timbres y Estampillas establecido en el Decreto  Ley N°3.475, de 29.08.1980.
+
+2.-	Que, mediante Circular N°72, de 08.10.1980, complementada por Circular N°18, de 03.04.1981, se creó Libro Auxiliar de Registro y Control de Letras de Cambio y otros documentos a que se refiere el artículo 1 N°3 del Decreto Ley N°3.475 de 1980, que deben llevar los contribuyentes que, en virtud del artículo 15 N°2 del Decreto Ley antes mencionado, deben pagar mediante ingreso en dinero en la Tesorería los impuestos que afectan a sus letras de cambio, pagarés y demás documentos a que se refiere el artículo 1 N°3 del Decreto Ley precitado.
+
+3.-	Que, mediante Resolución Exenta N°2, de 04.01.2005, se creó el Auxiliar de Registro de Impuesto de Timbres y Estampillas que deben llevar los Bancos e Instituciones Financieras para el control del impuesto que establece el Decreto Ley N°3.475, de 1980, y se fijó el formato y las instrucciones respectivas para su remisión semestral al Servicio.
+
+4.-	Que, mediante Resolución Exenta N°140, de 23.11.2006, se incorporó a la obligación de llevar el Auxiliar de Registro de Timbres y Estampillas establecida en la Resolución Exenta N°2, de 04.01.2005, a otras entidades fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras no obligadas anteriormente por dicha resolución, a todas las entidades fiscalizadas por la Superintendencia de Valores y Seguros, como igualmente, a todas aquellas instituciones fiscalizadas por la Superintendencia de Seguridad Social. Asimismo, mediante Resolución Exenta N°87, de 01.08.07, se estableció como medio de envío de la información registrada por el contribuyente en el “Auxiliar de Registro de Impuesto de Timbres y Estampillas” su remisión a través de Internet de acuerdo al formato de registro publicado en la página Web de este Servicio. Dicha Resolución fijó también el límite bajo el cual no deberá enviarse el detalle de las operaciones en la declaración jurada de dicho registro, y se introdujeron otras modificaciones a la Resolución Exenta N°2, de 04.01.2005. Además, la Resolución Exenta N°101, de 24.08.07, liberó a los contribuyentes a que se refiere el resolutivo N°1 de la Resolución Exenta N°140, de 23.11.2006, del deber de enviar a este Servicio a través de los medios a que se refiere, la información contenida en el “Auxiliar de Registro de Impuesto de Timbres y Estampillas”.
+
+5.-	Que, de acuerdo a lo establecido en el artículo 78 del Código Tributario y en el artículo 16 del Decreto Ley N°3.475 de 1980, los Notarios y Oficiales del Registro Civil tienen la obligación de vigilar el pago de los tributos que corresponda aplicar en conformidad a la Ley de Timbres y Estampillas, siendo responsables de su pago, sin perjuicio del derecho a retener los gravámenes y salvo que se trate de documentos que deban pagar los tributos con arreglo a lo dispuesto en el N°2 del artículo 15 del Decreto Ley N°3.475 de 1980.
+
+
+
+RESUELVO:
+
+
+1.-	Incorpórese como  sujetos pasivos afectos a las obligaciones establecidas por la Resolución Exenta N°2, de 04.01.2005, de llevar el Auxiliar de Registro de Impuesto de Timbres y Estampillas y de remitir la información en él contenida al Servicio de Impuestos Internos en los términos y usando los mecanismos señalados en dicha Resolución y sus modificaciones posteriores, a los Notarios y Oficiales del Registro Civil que autoricen o protocolicen escrituras públicas o privadas o documentos afectos a los impuestos establecidos por el Decreto Ley N°3.475, de 1980.
+
+2.-	Los Notarios y Oficiales del Registro Civil deberán consignar en dicho Auxiliar de Registro, los datos relativos a actuaciones y documentos que den cuenta de los actos jurídicos, contratos y otras convenciones que autoricen o protocolicen, gravadas con el Impuesto de Timbres y Estampillas establecido en el Decreto Ley N°3.475 de 1980, respecto de los cuales les corresponde, conforme a la ley, la obligación de vigilar, solicitar acreditación y/o retener y pagar el mencionado tributo.
+
+Los funcionarios señalados, estarán exceptuados de incorporar en el Auxiliar de Registro de Impuesto de Timbres y Estampillas, los documentos exentos y aquellos cuyo impuesto deba ser enterado en la forma dispuesta en el artículo 15, N°s 2 ó 3, del Decreto Ley N°3.475 de 1980, casos en los cuales, conforme a lo indicado en Circular N°72, de 08.10.1980,  deberán verificar que los documentos que se presenten para autorización o protocolización estén previamente timbrados por el Servicio de Impuestos Internos y cuenten con la leyenda que diga: “El impuesto de Timbres y Estampillas que grava a este documento se paga por ingresos mensuales de dinero en Tesorería, según Decreto Ley N°3.475, artículo 15, N°2.”, salvo que, se trate de documentos emitidos por Bancos o por Compañías de Seguro, las cuales no se encuentran obligadas a timbrar los referidos documentos, según lo señalado en la Resolución Exenta N°160, de 12.12.2006.
+ 
+3.- 	La obligación de llevar el Auxiliar de Registro de Impuesto de Timbres y Estampillas establecida en la presente Resolución respecto de los Notarios y Oficiales del Registro Civil, regirá a contar del 01.01.2009. Asimismo, dichos funcionarios estarán obligados a remitir la información a que se refiere esta Resolución al Servicio de Impuestos Internos, a contar del 01.07.2009, por las operaciones efectuadas en el período enero a junio de 2009. 
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+RICARDO ESCOBAR CALDERÓN
+                        DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+JTP/EMG/JMP/HGM/kcm.
+DISTRIBUCIÓN:
+AL BOLETÍN
+A INTERNET
+AL DIARIO OFICIAL, EN EXTRACTO
+
+

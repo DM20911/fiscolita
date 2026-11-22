@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/pagina/juradas/operaciones/Suplemento_2001/anexob/cert01.htm
+titulo: Certificado N° 1
+categoria: otros
+---
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Home](http://www.sii.cl/) | [Suplemento](https://alerce.sii.cl/DEJ2000/DJ_info.htm)  |  | | --- | | B.1 CERTIFICADO Nº1  MODELO DE CERTIFICADO Nº1, SOBRE HONORARIOS |   |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  | | --- | --- | | Nombre o Razón Social de la Empresa | :..................................... | | RUT Nº | :...................................... | | Dirección | :...................................... | | Giro o Actividad | :...................................... |  CERTIFICADO SOBRE HONORARIOS  |  | | --- | | CERTIFICADO Nº.................... | | Ciudad y fecha........................ |  La empresa, sociedad o institución ......................., certifica que al Sr...........................RUT Nº............................durante el año 2000, se le han pagado las siguientes rentas por concepto de .................................., y sobre las cuales se le practicaron las retenciones de impuestos que se señalan:    Se extiende el presente certificado en cumplimiento de lo dispuesto en la Resolución Ex. Nº 6509 del Servicio de Impuestos Internos, publicada en el Diario Oficial de fecha 20 de Diciembre de 1993.     |  | | --- | | --- | | Nombre, Nº RUT y Firma del dueño o representante legal de la empresa, sociedad o institución, según corresponda | | |

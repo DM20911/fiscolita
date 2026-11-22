@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/preguntas_frecuentes/catastro/arbol_documentos_tributarios_1111.htm
+titulo: Preguntas Frecuentes de Documentos tributarios
+categoria: faq
+---
+|  |
+| --- |
+| [Documentos tributarios](preg_documentos_tributarios.htm) | [Facturas](arbol_documentos_tributarios_432.htm) | [Factura Electrónica](arbol_documentos_tributarios_438.htm) | [Facturación Electrónica SII](arbol_documentos_tributarios_1103.htm) | Postulación e Inscripción   - [¿Quiénes pueden operar como emisores de Facturas Electrónicas?](001_012_4572.htm) - [¿Por qué si cumplo con todos los requisitos para inscribirme en el Sistema de facturación gratuito del SII, el sistema me indica que no los cumplo?](001_012_6399.htm) - [¿Es la verificación de actividad, requisito para inscribirme en el Sistema de facturación gratuito del SII ?](001_012_6401.htm) - [Quiero emitir factura electrónica y por error postulé a Facturación de Mercado, en lugar de inscribirme en la Facturación gratuita del SII, ¿Qué debo hacer para anular esa postulación?](001_012_6493.htm) - [Soy el representante legal de la empresa y sin embargo en determinadas tareas no me reconoce como tal, ¿qué debo hacer?](001_012_6494.htm) - [¿Puedo usar Firma Electrónica Avanzada en el Sistema de facturación gratuito del SII?](001_012_6495.htm) - [¿Puedo usar el Sistema de facturación gratuito del SII con Sistema Operativo Mac?](001_012_6496.htm) - [¿Registré mi empresa a través de “Tu empresa en un día”, puedo usar el mismo certificado digital en el Sistema de Facturación Gratuito del SII?](001_012_6497.htm) - [¿Es posible integrar el Sistema de facturación gratuito del SII con un sistema contable?](001_012_6498.htm) |

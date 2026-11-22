@@ -1,0 +1,84 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso44.doc
+titulo: Word – Resolución Exenta SII N°44 del 31 de Marzo del 2004 Crea Oficina de Atención y Asistencia a Grandes Contribuyentes Fuente: Dirección Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°44 DEL 31 DE MARZO DEL 2004 MATERIA : CREA OFICINA DE ATENCIÓN Y ASISTENCIA A GRANDES CONTRIBUYENTES
+
+“Hoy se ha resuelto lo que sigue
+
+VISTOS: Las necesidades del Servicio; las facultades que se me confieren en el Art. 3° y en las letras a), b), c), h) y n) del Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de Hacienda, de 1980; lo establecido en el Art. 6° letra A., N° 1° del Código Tributario, contenido en el Art. 1° del D.L.N° 830 de 1974; lo dispuesto en la Resolución N° Ex. 34 y Resolución Ex. N° 45 de fechas 24.08.01 y 19.11.01, de esta Dirección; lo establecido en el Art. 11 N° 1, de la Ley N° 19.738 y lo dispuesto en la Resolución Ex. N° 7590, de 15.11.99, de esta Dirección  y,
+
+
+CONSIDERANDO:
+
+
+1.   Las normas para combatir la evasión tributaria, contenidas en la Ley N° 19.738;  así como  la necesidad de organizar, planificar y coordinar el funcionamiento del Servicio, estableciendo en esta Dirección Nacional los Departamentos Subdirecciones que corresponda, con sujeción a la planta de personal del Servicio, a fin de obtener el máximo de eficiencia en su accionar, todas razones que se tuvo en cuenta para la creación en la Dirección Nacional el Departamento Subdirección de Fiscalización denominado Dirección Grandes Contribuyentes, en adelante y para todos los efectos, “DIRECCIÓN GRANDES CONTRIBUYENTES”.
+
+2.  Que mediante Resolución Ex. N° 34 de 24.08.01 se estableció que a la Dirección Grandes Contribuyentes, le corresponderían las siguientes atribuciones, responsabilidades y obligaciones:
+
+a. Asumir la fiscalización directa de los contribuyentes establecidos en la nómina de Grandes Contribuyentes, notificar denuncios por infracciones a las leyes tributarias, proceder a citar a dichos contribuyentes y otras personas en cuanto diga relación con la fiscalización del cumplimiento de las obligaciones tributarias y liquidar y girarles impuestos, reajustes, intereses y multas, todo ello sin perjuicio de las atribuciones que el Código Tributario y otras disposiciones legales confieren al Subdirector de Fiscalización y a los Directores Regionales;
+
+b. Fiscalizar las solicitudes de devolución de Impuestos a las Ventas y Servicios o de otros impuestos que presenten los exportadores que figuren en la nómina de Grandes Contribuyentes, bajo el régimen de los Arts. 1° ó 6° del D. S.N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción;
+
+c. Fiscalizar el debido cumplimiento de las Resoluciones del Ministerio de Economía, Fomento y Reconstrucción para los contribuyentes que consten en la nómina de Grandes Contribuyentes, acogidos al Art. 6° del D. S. N° 348, de 1975, del citado Ministerio;
+
+d. Fiscalizar las solicitudes de devolución  de Impuesto a las Ventas y Servicios y de otros impuestos, presentadas por los contribuyentes que consten en la nómina a que se refiere el dispositivo N° 3°, de esta resolución, acogiéndose a las normas del artículo 126, N° 3, inciso 1° del Código Tributario;
+
+e. Fiscalizar el cumplimiento de la ley tributaria chilena por los contribuyentes que figuren en la nómina de Grandes Contribuyentes, respecto de los ingresos generados en el exterior y de los convenios internacionales sobre exención de impuestos, eliminación de la doble tributación internacional o sobre intercambio de información;
+
+3°.- Que para tales efectos se crearon tres unidades dependientes de la  “Dirección Grandes Contribuyentes” a los cuales, se asignaron  labores detalladas en la Resolución Ex. N°34 del 2001, sin perjuicio de llevar a cabo las actividades que el Director Grandes Contribuyentes estime de su  competencia. Estas Unidades son:
+
+Departamento de Fiscalización Grandes Empresas Nacionales.
+Departamento de Fiscalización Grandes Empresas Internacionales
+Oficina de Fiscalización Grandes Organizaciones Sin Fines De Lucro y Grandes Entidades Fiscales. 
+
+4° Que con el objeto de optimizar la fiscalización, la calidad en la atención de los contribuyentes de la Nomina de Grandes Contribuyentes, establecida de acuerdo a lo dispuesto en las Resolución Ex N°s 34, 45 y 68 de fechas 24.08.01,19.11.01 y 02.12.03 respectivamente, todas de este Servicio, se ha estimado necesario, generar una sección especializada dentro de dicha Unidad, que facilite la tramitación de ciertas presentaciones de carácter administrativo ante esta última.
+
+
+RESUELVO
+
+1°  Agréguese la siguiente letra d en el dispositivo cuarto de la Resolución Ex. N°34 de 24.08.01:
+
+“d.  Oficina de Atención y Asistencia a los Grandes Contribuyentes. Corresponderá a esta Unidad las siguientes funciones: 
+
+Recibir  y procesar las solicitudes de Exportadores, registrando de acuerdo a la Hoja de Vida del Exportador, el ingreso y seguimiento de dichas peticiones.
+
+Recibir y procesar las peticiones y/o presentaciones que efectúen los contribuyentes de la nómina con casa matríz ubicadas en la Región Metropolitana, las que podrán ser presentadas, a través de los siguientes formularios:
+
+Form. N° 2117	Trámites generales. Solicitudes
+Form. N° 3238	Trámites generales.  Aviso Informe de pérdidas de documentos
+Form. N° 2121	Ciclo de Vida. Comunica término de giro y solicita certificado
+Form. N° 2125	Ciclo de Vida.  Declaración jurada de suspensión temporal del giro
+Form. N° 3239	Ciclo de Vida. Modificación y actualización de la información
+
+La atención de contribuyentes de la Nómina Grandes Contribuyentes respecto de los cuales, en sus declaraciones de impuestos, se registren observaciones relativas al proceso de Operación Renta y procesos de fiscalización Operación IVA, que definirá la Dirección de Grandes Contribuyentes.
+
+Los Contribuyentes de la Nómina Grandes Contribuyentes, cuyas casas matrices no estén en la Región Metropolitana, podrán indistintamente hacer sus presentaciones en la Dirección Regional correspondiente a su jurisdicción o en la Dirección de Grandes Contribuyentes.”
+
+Incorporar un Centro de Atención al Contribuyente.
+
+
+2° La presente resolución regirá a contar del 01 de Abril del 2004.
+
+ANÓTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO
+
+
+
+
+							JUAN TORO RIVERA
+					        			DIRECTOR
+Lo que transcribo a Ud.; para su conocimiento y fines que procedan”.
+Distribución:
+-Internet
+-Diario Oficial
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,86 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso16.doc
+titulo: Word – Resolución Exenta SII N°16 del 30 de Enero del 2008 Deroga Res. Ex. N° 9 de 29.01.2004 y Establece Obligación de Presentar Declaracion Jurada sobre Retencion de Impuestos a que se Refiere el Artículo 74 Nº 4, en Concordancia con los Artículos 79 y 82 de la Ley sobre Impuesto a la Renta, por R
+categoria: otros
+---
+RESOLUCION EXENTA SII N°16 DEL 30 DE ENERO DEL 2008 MATERIA : DEROGA RES. EX. N° 9 DE 29.01.2004 Y ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACION JURADA SOBRE RETENCION DE IMPUESTOS A QUE SE REFIERE EL ARTÍCULO 74 Nº 4, EN CONCORDANCIA CON LOS ARTÍCULOS 79 Y 82 DE LA LEY SOBRE IMPUESTO A LA RENTA, POR RENTAS AFECTAS AL IMPUESTO ADICIONAL DE LOS ARTÍCULOS 58 N°S 1° Y 2, 59, 60 Y 61; POR RENTAS ACOGIDAS A CONVENIOS VIGENTES PARA EVITAR LA DOBLE TRIBUTACIÓN INTERNACIONAL, INCLUYENDO AQUELLAS QUE SE ENCUENTREN EXENTAS O SE TRATE DE AQUELLAS RENTAS O CANTIDADES QUE DEBAN TRIBUTAR EN EL RESPECTIVO PAÍS DE RESIDENCIA, EN VIRTUD DE LA APLICACIÓN DE TALES CONVENIOS; SOBRE LOS GASTOS RECHAZADOS A QUE SE REFIERE EL ARTÍCULO 21 DE LA LEY Y POR LAS CANTIDADES PROVENIENTES DE LAS OPERACIONES SEÑALADAS EN LAS LETRAS A), C), D), E), H) Y J), DEL N° 8, DEL ARTÍCULO 17 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+					VISTOS: Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de 1980, del Ministerio de Hacienda; y en los artículos 59°, 74° N° 4, 79°, 82° y 101° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824 de 1974, Resolución Ex. N° 6.173, del 09 de Diciembre de 1997, y la Resolución Ex. N° 9, de 29.01.2004.
+
+
+					CONSIDERANDO:
+1. Que, el N° 4, del artículo 74° de la Ley sobre Impuesto a la Renta, establece que: “Estarán igualmente sometidos a las obligaciones del artículo anterior:”  
+“4º.- Los contribuyentes que remesen al exterior, retiren, distribuyan o paguen rentas afectas al impuesto adicional de acuerdo con los artículos 58, 59, 60 y 61. Respecto de las rentas referidas en el inciso primero del artículo 60 y 61, y por las cantidades a que se refiere el inciso primero del artículo 21, la retención se efectuará con una tasa provisional del 20% que se aplicará sobre las cantidades que se paguen, se abonen en cuenta, se pongan a disposición o correspondan a las personas referidas en dicho inciso, sin deducción alguna, y el monto de lo retenido provisionalmente se dará de abono al conjunto de los impuestos de categoría, adicional y/o global complementario que declare el contribuyente respecto de las mismas rentas o cantidades afectadas por la retención. Con todo, podrá no efectuarse la retención si el preceptor del retiro le declara al contribuyente que se acogerá a lo dispuesto en la letra c) del N° 1 de la letra A) del artículo 14. El Servicio de Impuestos Internos determinará la forma, plazo y condiciones que deberá cumplir la referida declaración, así como el aviso que la sociedad receptora de la reinversión deberá dar tanto a dicho Servicio como a la sociedad fuente del retiro. En este caso, si dentro de los veinte días siguientes al retiro no se formaliza dicha reinversión, la empresa de la cual se hubiere efectuado el retiro o remesa será responsable del entero de la retención a que se refiere este número, dentro de los primeros doce días del mes siguiente a aquel en que venza dicho plazo, sin perjuicio de su derecho a repetirse en contra del contribuyente que efectuó el retiro, sea con cargo a las utilidades o a otro crédito que el socio tenga contra la sociedad. No obstante, tratándose de la remesa, retiro, distribución o pago de utilidades o de las cantidades retiradas o distribuidas a que se refiere el artículo 14 bis, la retención se efectuará con tasa del 35%, con deducción del crédito establecido en el Artículo 63. En el caso de dividendos pagados por sociedades anónimas o en comandita por acciones, si la deducción del crédito resultare indebida, total o parcialmente, la sociedad deberá restituir al Fisco el crédito deducido en exceso, por cuenta del contribuyente de impuesto adicional. Esta cantidad se pagará reajustada en la proporción de la variación del índice de precios al consumidor entre el último día del mes anterior al de la retención y el último día del mes anterior a la presentación de la declaración de impuesto a la renta de la sociedad anónima, oportunidad en la que deberá realizar la restitución. 
+	Igual obligación de retener tendrán las personas que remesen al exterior, a contribuyentes sin domicilio ni residencia en Chile, cantidades provenientes de las operaciones señaladas en las letras a), c), d), e), h) y j) del número 8º del artículo 17°. La retención se efectuará con la tasa de 5% sobre el total de la cantidad a remesar, sin deducción alguna, salvo que pueda determinarse el mayor valor afecto a impuesto, caso en el cual dicha retención se hará con la tasa del impuesto de primera categoría sobre esta renta, sin perjuicio del derecho que tenga el contribuyente de imputar en su declaración anual el remanente que resultare a otros impuestos anuales de esta ley o a solicitar su devolución en la forma prevista en el artículo 97°”. 
+2. 	Que, el artículo 101° de la Ley sobre Impuesto a la Renta establece, en su inciso primero, que las personas naturales o jurídicas que estén obligadas a retener el impuesto, deberán presentar al Servicio de Impuestos Internos o a la Oficina que éste designe, antes del 15 de Marzo de cada año, un informe en que expresen con detalle los nombres y direcciones de las personas a las cuales hayan efectuado durante el año anterior el pago que motivó la obligación de retener, así como el monto de la suma pagada y de la cantidad retenida, en la forma y cumpliendo las especificaciones que indique la Dirección de este Servicio. 
+
+3. Que, con el objeto de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar correctamente el cumplimiento de las disposiciones tributarias que la ley le encomienda, es preciso contar con el detalle de las referidas retenciones, practicadas por los agentes retenedores antes indicados, con el fin de verificar su correcta declaración o entero en arcas fiscales por parte de las personas obligadas a efectuarlas. 
+
+4. Que, en consideración al creciente número de convenios para evitar la doble tributación internacional suscritos por el Estado de Chile con otros países, en los que en la generalidad de los casos se establecen tasas especiales de retención de impuestos, se ha estimado conveniente contar con la información detallada de estas retenciones, incluidas aquellas rentas que por aplicación del Convenio que se trate, deban tributar en el respectivo país de residencia.
+5. Que, la Resolución Ex. N° 6.173, del 09 de Diciembre de 1997 incorporaba además la obligación de informar al Servicio por medio de una declaración jurada, aquellas asociadas a las rentas del artículo 58° N°1, 60° inciso primero y 61° de la Ley de la Renta, informadas por parte de las empresas individuales, contribuyentes del artículo 58 Nº 1 de la ley, las sociedades de personas, sociedades en comandita por acciones, respecto de los socios gestores, sociedades de hecho y comunidades, incluyendo además los gastos rechazados de acuerdo al artículo 21° del la Ley de la Renta asociados a esos contribuyentes, estimándose que este tipo de retenciones deben ser informadas en el Formulario N° 1850.
+6. Que, teniendo presente las modificaciones incorporadas por la Res. Ex. N°15 de 30 de enero de 2008 a la Declaración Jurada F1811, denominada “Declaración Jurada Anual sobre Retenciones efectuadas conforme a los artículos 73° y 74° N° 6 de la ley sobre Impuesto a la Renta”, se ha determinado más adecuado solicitar que se informe a través de la Declaración Jurada a que se refiere la presente resolución, la información sobre retenciones de Impuesto Adicional que se informaban a través del referido 1811.
+7. 	Que, de acuerdo a lo señalado en el considerando anterior y en uso de las facultades de esta Dirección, se ha estimado necesario reemplazar el formato de Declaración Jurada 1850, y su respectivo instructivo, incorporando dentro de la información que se debe proporcionar a través de dicho formulario, las retenciones de Impuesto Adicional asociadas a las rentas de los artículos 58° N° 1, 60° inciso primero y 61° de la Ley sobre Impuesto a la Renta, y los gastos rechazados del artículo 21° del mismo cuerpo legal, todo ello a fin de optimizar los procesos de fiscalización y administración de la información requerida. 
+					SE RESUELVE :
+
+Los contribuyentes con domicilio o residencia en Chile que en conformidad con las disposiciones contenidas en el artículo 74° N° 4 de la Ley sobre Impuesto a la Renta, en concordancia con lo señalado en los artículos 79° y 82° del mismo texto legal, deban practicar las retenciones de Impuesto Adicional que corresponda por el pago, distribución, retiro, remesa, abono en cuenta o puesta a disposición del interesado de las rentas de los artículos 58° N°s 1 y 2, 59°, 60° y 61° de esta ley, a las mismas rentas acogidas a convenios vigentes para evitar la doble tributación internacional, incluyendo aquellas que se encuentren exentas de impuesto o se trate de aquellas rentas o cantidades que deban tributar en el respectivo país de residencia, en virtud de la aplicación de tales convenios, sobre los gastos rechazados a que se refiere el artículo 21° de la ley determinados al término del ejercicio respecto de los empresarios individuales, socios de sociedades de personas y de hecho, socios gestores de sociedades en comandita por acciones y comuneros; y sobre las cantidades correspondientes a las operaciones señaladas en las letras a), c), d), e), h) y j), del N° 8, del artículo 17° de la ley precitada, deberán presentar al Servicio de Impuestos Internos, antes del 15 de Marzo de cada año, una Declaración Jurada con las retenciones efectuadas durante el año calendario anterior. 
+
+La referida información deberá proporcionarse mediante el Formulario N° 1850 denominado “Declaración Jurada Anual sobre Impuesto Adicional de la Ley sobre Impuesto a la Renta que grava a las rentas de fuente nacional percibidas o devengadas por personas sin domicilio ni residencia en Chile”, aportando los antecedentes que se detallan en el referido Formulario. 
+
+Tratándose de contribuyentes autorizados para sustituir los libros de contabilidad por hojas sueltas llevadas computacionalmente, de conformidad a la Resolución Ex. N° 4.228, de 24 de Junio 1999, y sus modificaciones posteriores, la remisión de la declaración en comento se hará mediante la transmisión electrónica de datos vía INTERNET. Los demás contribuyentes podrán hacer uso de estos mismos medios tecnológicos para cumplir con las obligaciones señaladas. El formato e instrucciones se encuentra disponible en la página Web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl" www.sii.cl.
+
+El retardo o la omisión de la entrega de la información señalada, será sancionado de acuerdo a lo prescrito en el artículo 97°, Nº1 del Código Tributario, esto es, con una multa de una Unidad Tributaria Mensual a una Unidad Tributaria Anual. 
+
+Las personas que hayan efectuado las retenciones de Impuesto Adicional de los artículos 58° Nº1, 60° inciso primero y 61° de la Ley de la Renta, sobre las remesas de rentas al exterior y las correspondientes a gastos rechazados deberán certificar a los contribuyentes las retenciones efectuadas durante el ejercicio comercial respectivo, mediante la emisión de un certificado denominado “Certificado sobre Retenciones de Impuesto de Adicional efectuadas conforme al artículo 74 N°4 de la Ley de La Renta” documento que deberá ser emitido antes del 15 de marzo de cada año, de acuerdo al modelo de certificado N° 14, que se encuentra disponible en la página Web del Servicio de Impuestos Internos: www.sii.cl. 
+
+La omisión de la certificación precedente, su certificación parcial, errónea o fuera de plazo de la información a que ella se refiere, será sancionada de acuerdo a la forma dispuesta por el artículo 109° del Código Tributario, por cada persona a quien debió emitírsele el citado documento.
+
+Deróguese la Resolución Ex. N° 9 de 29.01.2004.
+
+La presente Resolución comenzará a regir a contar del Año Tributario 2008 respecto de las retenciones de impuestos efectuadas durante el año comercial 2007 y siguientes.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+RENE GARCIA GALLARDO DIRECTOR (S)
+
+Lo transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+
+DISTRIBUCION
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Directores Regionales I a XVI Dirección Regional.
+Director Grandes Contribuyentes
+Departamento de Diseño de Procedimientos de Fiscalización e Internacional.
+Internet.
+Diario Oficial (en extracto)
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  4
+
+
+
+
+

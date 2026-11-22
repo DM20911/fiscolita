@@ -1,0 +1,110 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso36.doc
+titulo: Word – Resolución Exenta N°36 del 24 de Agosto del 2001 Autoriza al Jefe del Departamento Subdirección de Fiscalización "Dirección Grandes Contribuyentes" para Delegar Facultades que Indica en Funcionarios que Señala. Fuente: Subdirección de Fiscalización.
+categoria: otros
+---
+RESOLUCION EXENTA N°36 DEL 24 DE AGOSTO DEL 2001 MATERIA : AUTORIZA AL JEFE DEL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN "DIRECCIÓN GRANDES CONTRIBUYENTES" PARA DELEGAR FACULTADES QUE INDICA EN FUNCIONARIOS QUE SEÑALA.
+
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS:
+Las facultades que se me confieren en las letras a), c), h), i) y n) del Artículo 7º y lo dispuesto en los artículos 3º, 8º,  20º, 42° y 49º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda; las necesidades del Servicio,  y
+
+
+							CONSIDERANDO:
+
+
+							1º.- Que el suscrito en uso de las atribuciones que le confiere el artículo 3° y las letras c), h) y n) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, mediante Resolución Nº Ex. 34, xde 24---de agosto de 2001, ha creado en la Dirección Nacional, el Departamento Subdirección de Fiscalización denominado para todos los efectos “Dirección Grandes Contribuyentes”, asignándole, las siguientes atribuciones, obligaciones y responsabilidades:
+
+a.	      Asumir la fiscalización directa de los contribuyentes establecidos en la nómina a que se refiere el dispositivo N° 3° de dicha  resolución, notificar denuncios por infracciones a las leyes tributarias, proceder a citar a dichos contribuyentes y otras personas en cuanto diga relación con la fiscalización del cumplimiento de las obligaciones tributarias y liquidar y girarles impuestos, reajustes, intereses y multas, todo ello sin perjuicio de las atribuciones que el Código Tributario y otras disposiciones legales confieren al Subdirector de Fiscalización y a los Directores Regionales;
+
+b.	      Fiscalizar las solicitudes de devolución de Impuestos a las Ventas y Servicios o de otros impuestos que presenten los exportadores establecidos en la nómina a que se refiere el dispositivo N° 3°, de la citada resolución, bajo el régimen de los artículos 1° ó 6° del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción;
+
+c.	      Fiscalizar el debido cumplimiento de las Resoluciones del Ministerio de Economía, Fomento y Reconstrucción para los contribuyentes establecidos en la nómina a que se refiere el dispositivo N° 3°, de esa resolución, acogidos al artículo 6° del Decreto Supremo N° 348, de 1975, del citado Ministerio;
+
+d.	      Fiscalizar las solicitudes de devolución  de Impuesto a las Ventas y Servicios y de otros impuestos, presentadas por los contribuyentes establecidos en la nómina a que se refiere el dispositivo N° 3°, de la resolución antes citada, acogiéndose a las normas del artículo 126, N° 3, inciso 1° del Código Tributario; y,
+
+e.	      Fiscalizar el cumplimiento de la ley tributaria chilena por los contribuyentes establecidos en la nómina a que se refiere el dispositivo N° 3°, de la referida resolución, respecto de los ingresos generados en el exterior y de los convenios internacionales sobre exención de impuestos, eliminación de la doble tributación internacional o sobre intercambio de información;
+
+
+	      2º.-  Que, el Art. 49º de la misma Ley Orgánica señala que se entienden conferidas al Subdirector de Fiscalización todas las facultades que el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales; y
+
+							3°.- Que, el Art. 43º de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, expresa que el ejercicio de las atribuciones y facultades propias podrá ser delegado en funcionarios de la dependencia del delegante y, que asimismo, podrá delegarse la facultad de firmar, por orden de la autoridad delegante, en determinados actos sobre materias especificas.
+
+
+							RESUELVO:
+
+
+                                                                                   I.- Autorizar al Jefe de la “Dirección Grandes Contribuyentes”, para delegar en los Jefes de los Departamentos de “Fiscalización Grandes Empresas Nacionales”, Fiscalización Grandes Empresas Internacionales”, o en el Jefe la Oficina de “Fiscalización Grandes Organizaciones Sin Fines de Lucro y Grandes Entidades Fiscales”,  las facultades necesarias para fiscalizar a los contribuyentes incluidos en la nómina a que se refiere el dispositivo N° 3° de la resolución citada en el Considerando 1° de esta resolución.  En uso de estas facultades, podrá:                             
+
+Practicar liquidaciones y girar impuestos, reajustes, intereses y multas.
+Requerir a los contribuyentes para atestiguar bajo juramento, de acuerdo al Art. 34º del Código Tributario.
+Disponer que los contribuyentes presenten un estado de situación que incluya, además, el valor de costo y fecha de adquisición de los bienes que especifique, conforme al Art. 60º, inciso 2º y 3º del Código Tributario.
+Ordenar la confrontación de inventarios con auxilio de la fuerza pública, según el Art. 60º, inciso 6º del Código Tributario.
+Solicitar declaración jurada por escrito o citar a toda persona, conforme al Art. 60º, inciso 8º del Código Tributario.
+Citar a los contribuyentes conforme al Art. 63º, inciso 2º, del Código Tributario y ampliar por una sola vez, hasta por un mes, el plazo referido en el inciso citado.
+Efectuar tasaciones en los casos a que se refiere el Art. 64º del Código Tributario.
+Tasar de oficio en las situaciones que señala el Art. 65º del Código Tributario.
+Emitir planillas de anulación de giros de impuestos emitidos por el Departamento de Fiscalización de la Tributación Internacional, en caso de duplicidad o cuando se han girado impuestos en exceso de lo debido por error de cálculo o errores manifiestos de hecho o por ser diferentes a lo ordenado en una resolución.
+Solicitar a los Bancos y demás Instituciones de crédito copia de los balances y estados de situación que les presenten los contribuyentes, conforme a Art. 84º del Código Tributario.
+Determinar la renta líquida imponible conforme al Art. 35º de la Ley de la Renta.
+Determinar la renta líquida imponible de importadores y/o exportadores, según Art. 36º de la Ley de la Renta
+Determinar la renta líquida imponible de las agencias, sucursales y otras formas de establecimientos permanentes de empresas extranjeras que operan en Chile, conforme al Art. 38º de la Ley de la Renta.
+Comprobar el monto líquido de las rentas acreditadas por los contribuyentes y, cuando proceda, fijar o tasar dicho monto, de acuerdo al Art. 71º de la Ley de la Renta.
+Disponer el examen de los registros y libros de contabilidad de los contribuyentes para verificar las sumas retenidas por impuestos, conforme al Art. 77º de la Ley de la Renta.
+Determinar el valor de los bienes muebles en los casos contemplados en el Art. 8º, letra d), del D.L. Nº 825, según dispone el Art. 16º, letra b), del mismo cuerpo legal.
+Tasar el valor de los bienes corporales muebles del giro del vendedor comprendidos en la venta de universalidades efectuada por suma alzada, conforme al Art. 16º, letra d), del D.L. Nº 825.
+Determinar el valor de los bienes corporales muebles en los casos a que se refiere el Art. 19º del D.L. Nº 825.
+
+
+  II.- Autorizar además, al Jefe de la “Dirección Grandes Contribuyentes”,   para delegar en los Jefes de los Departamentos “Fiscalización Grandes Empresas Nacionales”, “Fiscalización Grandes Empresas Internacionales”, o en el Jefe de la Oficina de “Fiscalización Grandes Organizaciones Sin Fines de Lucro y Grandes Entidades Fiscales”, la facultad de firmar los Oficios Ordinarios, Reservados y cualquier otro tipo de comunicaciones que se dirijan al Servicio de Tesorerías, Servicio Nacional de Aduanas, Banco Central de Chile y otros Organismos Públicos o Privados, referidos a las obligaciones y atribuciones inherentes a las mencionadas Unidades y que digan relación con los grandes contribuyentes incluidos en la nómina a que se refiere el dispositivo 3° de la resolución citada en el considerando 1° de esta resolución;  bajo las siguientes condiciones:
+
+ a) En la documentación que firmen los Jefes de las referidas unidades, en virtud de la delegación que se autoriza, deberán  anteponer a su firma, la expresión  “Por Orden del Jefe de la Dirección Grandes Contribuyentes”.
+
+ b) Quedarán excluidos de la mencionada delegación de firma los Oficios de cualquier naturaleza y todo otro tipo de comunicación cuyo destinatario sea el Presidente de la República, Ministros de Estado, el Presidente de la Corte Suprema y el Contralor General de la República.
+
+
+ANÓTESE Y COMUNÍQUESE
+
+
+
+
+JAVIER ETCHEBERRY CELHAY
+DIRECTOR.
+
+                                                        
+
+
+
+						
+
+
+Distribución:
+Internet
+Boletín
+Secretaría Director
+Subdirección de Fiscalización
+Dirección Grandes Contribuyentes
+Oficina de Partes.
+
+
+					
+
+
+
+
+PÁGINA  3
+
+
+
+          (Fdo.)
+
+Lo que transcribo a Ud.,  para su conocimiento y demás fines
+
+Saluda a Ud.,
+
+
+
+

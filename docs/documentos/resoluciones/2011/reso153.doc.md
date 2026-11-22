@@ -1,0 +1,185 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso153.doc
+titulo: Word – Resolución Exenta SII N°153 del 23 de Diciembre del 2011 Crea Departamento de Delitos Tributarios. Fuente: Depto. de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°153 DEL 23 DE DICIEMBRE DEL 2011 MATERIA : CREA DEPARTAMENTO DE DELITOS TRIBUTARIOS.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: El artículo 6°, letra A) N° 3 del Código Tributario; el artículo 7°, letras c), j) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos y los respectivos requisitos de ingreso y promoción; y las Resoluciones Ex. N° 379 de 1991; N° 7590 de 1999; N° 130 de 2009; N°114 de 2010 y N°139 de 2010, y
+
+CONSIDERANDO:   
+
+1. Que las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para dictar las órdenes que sean convenientes para la más expedita marcha del Servicio y para fijar y modificar la organización interna de sus unidades así como sus atribuciones y obligaciones; 
+
+2.- Que la letra j) del artículo 7° de la Ley Orgánica del Servicio y la letra A) N° 3 del artículo 6° del Código Tributario lo facultan para autorizar a los Subdirectores, Directores Regionales o a otros funcionarios para hacer uso de sus atribuciones;
+
+3.- Que se ha estimado necesario dividir las funciones que se han asignado al Departamento de Defensa Judicial y Delitos Tributarios, con el propósito que dos estamentos independientes las ejecuten, actuando colaborativamente;
+
+4.- Que para el cumplimiento de dicho fin, se ha decidido modificar la organización del Departamento Subdirección Jurídica, creando un Departamento que asuma parte de esas funciones;
+
+5.- Que es necesario establecer las atribuciones y obligaciones que deberá ejercer o asumir el citado Departamento;
+
+6.- Que la instauración del referido Departamento no altera la planta de personal del Servicio y
+
+7.- Las necesidades del Servicio.
+
+RESUELVO:  
+
+PRIMERO: Sustitúyese el N° 6 de la letra A de la Resolución N° 379, de 4 de diciembre de 1991, por el siguiente:
+"6.- Departamento Subdirección Jurídica:
+6.1. Departamento de Asesoría Jurídica.
+6.2. Departamento de Defensa Judicial.
+6.3. Departamento de Delitos Tributarios.
+
+SEGUNDO: Intercálase la siguiente letra l) en el número 7 del dispositivo I. de la Resolución Exenta N° 7.590 de 1999, pasando la actual l) a ser m):
+“l)  Efectuar acciones de inteligencia fiscal para asesorar al Servicio en la planificación y ejecución de sus atribuciones legales, particularmente en el combate a la evasión fiscal.
+
+TERCERO: Modifícase la Resolución N° 114 de 2010, en el siguiente sentido:
+
+Agrégase la siguiente letra g) en el resolutivo 1., pasando la actual g) a ser h): “g) Supervisar la gestión de las unidades regionales en materias de su competencia, función que podrá ejercerse por el Departamento o por las oficinas bajo su dependencia”.
+
+Agrégase la siguiente letra b) al apartado III del resolutivo 2., pasando las letras b), c), d), e), f), g) y h) a ser c), d), e), f), g), h) e i): “b) Supervisar, asesorar y coordinar la confección de actas de denuncia que deban levantarse de acuerdo con el procedimiento establecido en el artículo 161 del Código Tributario y dictar políticas al respecto, en coordinación con los Departamentos de Defensa Judicial y de Delitos Tributarios”.
+En el resolutivo 3., efectúanse los siguientes cambios:
+Sustitúyase la letra e) por la siguiente: “e) Recomendar al Jefe de Departamento Subdirección Jurídica la presentación de querellas o denuncias ante la justicia ordinaria cuando, a su juicio, existan antecedentes suficientes para que prospere la acción.”
+Sustitúyase en la letra g), la frase “a las Direcciones Regionales en materias de competencia del Departamento.” por “y supervisar la gestión de las unidades regionales en materias de su competencia, función que podrá ejercerse tanto por el Departamento como por las oficinas bajo su dependencia”.
+Elimínanse las letras j), ll) y m), pasando las letras k), l) y n) a ser j), k) y l), respectivamente.
+Elimínase en la letra k), que pasa a ser j), la frase “, procesos de recopilación de antecedentes por delitos tributarios”.
+Elimínase el apartado II. del resolutivo 4, pasando el apartado III. a ser II.
+
+CUARTO: El Departamento de Delitos Tributarios tendrá las siguientes funciones:
+a) Apoyar, coordinar, supervisar y formular directrices respecto de las actuaciones de detección, recopilación de antecedentes y cuidado de los documentos de respaldo recabados en los casos de irregularidades tributarias susceptibles de ser sancionadas con pena privativa de libertad, que se practiquen en las Direcciones Regionales, en la Dirección de Grandes Contribuyentes y demás unidades de este Servicio, así como también proponer estrategias de acción relativas a casos específicos que sean conocidos por estos estamentos.
+
+b) Realizar la recopilación de antecedentes a que se refieren el artículo 7° letra f) de la Ley Orgánica del Servicio de Impuestos Internos y el artículo 161 N° 10 del Código Tributario, sin perjuicio de las instrucciones impartidas en la Circular N° 08, de 2010.
+
+c) Informar al Jefe del Departamento Subdirección Jurídica de los procesos de recopilación de antecedentes practicados por el Servicio.
+
+d) Remitir a las Direcciones Regionales y Dirección de Grandes Contribuyentes los antecedentes que correspondan para la aplicación de las sanciones de su competencia que fuesen procedentes y la determinación y cobro de los impuestos adeudados.
+
+e) Colaborar en la generación de planes y programas de prevención, detección y fiscalización de actividades indiciarias de delitos tributarios, en conjunto con las unidades internas y organismos externos que corresponda.
+
+f) Informar a los jueces y a los fiscales del Ministerio Público en los casos a que se refiere el resolutivo Undécimo de la presente resolución.
+
+g) Coordinar, supervisar y apoyar el cumplimiento de las funciones que competen a la oficina y grupos bajo su dependencia.
+
+h) Supervisar la gestión de las unidades regionales en materias de su competencia, función que podrá ejercerse tanto por el Departamento como por la oficina o grupos bajo su dependencia.
+
+i)  Plantear al Departamento de Formación y Desarrollo las necesidades de capacitación detectadas en el cumplimiento de sus funciones.
+
+j) Realizar toda otra función que le encomiende expresamente el Director o el Jefe del Departamento Subdirección Jurídica.
+
+QUINTO: Establécese bajo la dependencia directa del Departamento de Delitos Tributarios, la Oficina de Inteligencia Tributaria, con las siguientes funciones:
+a) Participar en la elaboración e implementación de un sistema de inteligencia fiscal que, mediante el empleo metódico de técnicas especializadas, permita establecer proyectos integrales para la detección y planificación de actuaciones contra el fraude tributario;
+
+b) Retroalimentar a las Subdirecciones de Fiscalización y de Avaluaciones y proponer normas, instrucciones, metodologías y medidas administrativas, para mejorar la eficacia, eficiencia y oportunidad de la acción fiscalizadora, a partir de las conclusiones obtenidas de los casos ejecutados;
+
+c) Generar, analizar y consolidar información fiscal, financiera y patrimonial de que dispusiere el Servicio, relacionada con conductas que pudieran estar vinculadas con la comisión de ilícitos tributarios sancionados por la ley con penas privativas de libertad;
+
+
+d) Requerir a la autoridad competente que se solicite a otros órganos la entrega de información y documentación necesarias para el ejercicio de las atribuciones que le competen y emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que se obtenga;
+
+e) Coordinar, con las autoridades competentes la práctica de los actos de fiscalización que resulten necesarios en el ejercicio de sus facultades; 
+
+f) Mantener sistemas de información sobre procesos de recopilación de antecedentes; 
+
+g) Hacer presente a las jefaturas que corresponda las necesidades de capacitación que se detecten a partir de las labores que realiza y
+
+h) Otras funciones que le sean encomendadas por el Director, Subdirector Jurídico o Jefe de Departamento de Delitos Tributarios.
+
+SEXTO: Créanse en el Departamento de Delitos Tributarios, los siguientes grupos de trabajo:
+
+1.- Grupo Operativo N°1, y
+2.- Grupo Operativo N°2.
+
+SÉPTIMO: Cada uno de los grupos mencionados estará bajo la dependencia de un “Jefe de Grupo”.
+
+Dichos cargos serán ejercidos en forma indefinida, pudiendo ponérseles término, previo informe del Jefe del Departamento Subdirección Jurídica, en virtud de las siguientes causales:
+
+a. Si, producto del proceso de calificación, el afectado presenta una evaluación inferior a los 8 puntos en alguno de los siguientes factores: cumplimiento de la labor realizada; calidad de la labor realizada; interés por el trabajo que realiza y  capacidad para realizar trabajos en equipo. 
+
+b. En cualquier momento del período de ejercicio de la función, cuando reiteradamente el Jefe de Grupo no dé cumplimiento a las funciones propias de su cargo. Lo anterior deberá constar por escrito, a través de informes de desempeño efectuados por el jefe directo.
+
+c. Cuando haya sido sancionado por una falta grave a los deberes, obligaciones y prohibiciones que establece la ley para los funcionarios del Servicio y, en especial, por haber incurrido en alguna de aquellas infracciones que rigen para las jefaturas. 
+
+d. Cuando se produzca un cambio, de carácter permanente, de las condiciones del Departamento, que hagan innecesaria la existencia del cargo.
+
+e. Por aceptación de renuncia voluntaria presentada por el funcionario, con la antelación adecuada, siempre que ella no afecte los intereses del Servicio ni el cumplimiento normal de las funciones del grupo.
+
+Cada grupo será integrado por la jefatura del mismo y por, a lo menos, 7 funcionarios.
+
+OCTAVO: Se asignan a los grupos las funciones que a continuación se detallan:
+
+
+a) Realizar análisis preliminares respecto de conductas presumiblemente constitutivas de delitos tributarios, a fin de determinar la procedencia de efectuar recopilaciones de antecedentes;
+
+b) Desarrollar labores de recopilación de antecedentes, en virtud del artículo 161 N° 10 del Código Tributario;
+c) Desarrollar pericias solicitadas por el Ministerio Público o Tribunales de Justicia y elaborar los respectivos informes;
+
+d) Efectuar la recopilación de antecedentes solicitados por Tribunales de Justicia, en los casos requeridos por el Jefe de Departamento de Delitos Tributarios o por el Subdirector Jurídico; y
+
+e) Otras funciones que le sean encomendadas.
+
+
+NOVENO: Derógase los resolutivos Primero y Segundo de la Resolución Exenta SII N° 139, de 2010.
+
+
+
+
+DÉCIMO: Delégase en el Jefe del Departamento de Delitos Tributarios las siguientes facultades, para ser ejercidas en los procesos de recopilación de antecedentes a que se refiere el artículo 161 N°10 del Código Tributario, que sean llevados a cabo por el Departamento de Delitos Tributarios:
+a) Requerir el testimonio bajo juramento sobre los puntos contenidos en una declaración, de los contribuyentes y personas a que se refiere el artículo 34 del Código Tributario, en los términos que dicha norma establece.
+b) Disponer, con arreglo a lo establecido en el inciso primero del artículo 60 del Código Tributario, y con el objeto de verificar la exactitud de las declaraciones o de obtener información, el examen de los inventarios, balances, libros de contabilidad y documentos del contribuyente, en todo lo que se relacione con los elementos que deban servir de base para la determinación del impuesto o con otros puntos que figuren o debieran figurar en la declaración; así como también ordenar el examen de los libros y documentos de las personas obligadas a retener un impuesto.
+c) Requerir la presentación de declaración jurada por escrito o citar a toda persona para que concurra al Servicio a declarar bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas, en los términos establecidos por el artículo 60 inciso octavo del Código Tributario.
+d) Ordenar, de conformidad con lo dispuesto en el artículo 60 inciso sexto del Código Tributario, la confrontación de inventario con auxilio de la fuerza pública, cuando exista oposición del contribuyente, siempre que dicha oposición haya sido certificada por los funcionarios que intervinieron en la diligencia primitiva llevada a cabo conforme a lo dispuesto en los incisos cuarto y quinto de la misma disposición.
+e) Ordenar la aposición de sellos y la incautación de libros de contabilidad y demás documentos relacionados con el giro del negocio del presunto infractor, de conformidad a lo establecido en el artículo 161 N°10, incisos segundo y tercero del Código Tributario.
+f) Disponer la práctica de la citación a que se refiere el artículo 63 inciso segundo del Código Tributario.
+g) Tasar la base imponible de los impuestos, de conformidad a lo establecido en el artículo 64 del Código Tributario.
+h) Tasar de oficio en las situaciones que señala el artículo 65 del Código Tributario.
+i) Ordenar la práctica de liquidaciones de impuestos, en las condiciones que para cada caso establecen los artículos 21, 22, 24 inciso primero y 27 del Código Tributario. 
+UNDÉCIMO: Delégase en el Jefe del Departamento de Delitos Tributarios la facultad de firmar los oficios en los que se entregue información o, si corresponde, se deniegue dicha entrega, en los siguientes casos:
+a) Cuando la información sea requerida por los jueces.
+b) Cuando la información sea solicitada por fiscales del Ministerio Público, cuando investiguen hechos constitutivos de delito.
+Quedan excluidos de esta delegación los oficios de cualquier naturaleza y todo otro tipo de comunicaciones, cuyo destinatario sea el Presidente de la Corte Suprema.
+DUODÉCIMO: Toda mención, asignación de funciones, delegación de facultades u otras que aluda a la Oficina de Análisis y Prevención del Delito Tributario o al DIDET (Departamento de Investigación de Delitos Tributarios), contenida en resoluciones o instrucciones, se entenderá referida al Departamento de Delitos Tributarios.
+
+Por su parte, cualquier mención, asignación de funciones, delegación de facultades u otras que aluda al Departamento de Defensa Judicial y Delitos Tributarios, contenida en resoluciones o instrucciones, se entenderá referida al Departamento de Defensa Judicial.
+
+Sin perjuicio de lo señalado en el párrafo precedente, toda norma contenida en resoluciones o instrucciones que asigne, imponga o atribuya tareas, funciones o facultades al Departamento de Defensa Judicial y Delitos Tributarios, que sean inherentes al ejercicio de las labores de recopilación de antecedentes, debe entenderse referida al Departamento de Delitos Tributarios.
+  
+
+
+
+
+DECIMOTERCERO: La presente resolución regirá a partir de su publicación en extracto en el Diario Oficial, fecha desde la cual las instrucciones que ella contiene primarán sobre toda norma que pugne con sus disposiciones.
+
+
+ANÓTESE,  COMUNÍQUESE  Y  PUBLÍQUESE  EN  EXTRACTO EN EL DIARIO OFICIAL.
+ 
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+
+	Lo que transcribo a Ud. paa su conocimiento y fines pertinentes.
+
+
+Distribución:
+Internet
+Boletín
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+

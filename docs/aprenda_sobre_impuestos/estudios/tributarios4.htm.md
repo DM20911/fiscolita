@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/aprenda_sobre_impuestos/estudios/tributarios4.htm
+titulo: Reforma Tributaria y Distribución del Ingreso en Chile
+categoria: otros
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl/) | [Económicos - Tributarios](tributarios.htm) **REFORMA TRIBUTARIA Y DISTRIBUCION DEL INGRESO EN CHILE.**  Autor: Eduardo Engel - Alexander Galetovic - Claudio Raddatz.  Agosto 1998.   ---   Mediante una evaluación detallada de la estructura tributaria chilena vigente en 1996, mostramos que cambios bastante más drásticos que aquellos considerados en la discusión pública no afectan de manera importante la distribución del ingreso que se obtiene después de cobrar impuestos pero antes de que estos impuestos financien el gasto fiscal. En  consecuencia no es cierto que un incremento del IVA en dos puntos porcentuales o una reducción drástica de la tasa marginal máxima del  impuesto a la Renta (por ejemplo a un 30%) aumenten la desigualdad significativamente.  La conclusión anterior nos lleva a argumentar que la redistribución del ingreso se debe realizar mediante el gasto social, no mediante la recaudación de impuestos. Esto sugiere incrementar los impuestos que recaudan mucho y que son eficientes en su recaudación (tales como el IVA) y reducir las tasas marginales más altas de los impuestos Global Complementario y de Segunda Categoría, los que son altamente distorsionadores, costosos de administrar y recaudan relativamente poco  Documento completo en formato Adobe PDF [Pdf (371 Kb)](e0808per.pdf)  Si Ud. no tiene un visualizador de formato PDF,  puede bajar uno  [aquí.](https://www.sii.cl/pagina/websrelacionados/descargas.htm) |

@@ -1,0 +1,212 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso160.doc
+titulo: Word – Resolución Exenta SII N°160 del 22 de Octubre del 2010 Modifica Res. Ex. Sii N° 19, De 12.02.2008, en lo Relativo al Ancho Mínimo para Representaciones Impresas de Boletas Electrónicas, y el Tamaño Mínimo del Timbre Electrónico, para Contribuyentes que no son Prestadores de Servicios Periódic
+categoria: otros
+---
+RESOLUCION EXENTA SII N°160 DEL 22 DE OCTUBRE DEL 2010 MATERIA : MODIFICA RES. EX. SII N° 19, DE 12.02.2008, EN LO RELATIVO AL ANCHO MÍNIMO PARA REPRESENTACIONES IMPRESAS DE BOLETAS ELECTRÓNICAS, Y EL TAMAÑO MÍNIMO DEL TIMBRE ELECTRÓNICO, PARA CONTRIBUYENTES QUE NO SON PRESTADORES DE SERVICIOS PERIÓDICOS.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: El Art. 6º, letra A) Nº 1, del Código Tributario, contenido en el Art. 1º del D.L. Nº 830, de 1974; lo dispuesto en la letra b) del Art. 7º del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; los incisos tercero y cuarto del Art. 56, del D.L. Nº 825, de 1974; la Ley N° 19.983, de 2004; la Circular N° 64, de 14.09.2001; la Circular N° 32, de 20.06.2005; la Res. Ex. SII N° 18, de 22.04.2003; la Res. Ex. SII N° 45, de fecha 01.09.2003; la Res. Ex. SII N° 76, de 25.07.2005; la Res. Ex. SII N° 84, de 16.08.2005; la Res. Ex. SII N° 157, de 28.12.2007; la Res. Ex. SII N° 19, de 12.02.2008; y
+
+
+
+CONSIDERANDO:
+
+1°  Que, corresponde al Servicio de Impuestos Internos establecer los requisitos que deben cumplir el formato y los procedimientos de emisión de las representaciones impresas de los Documentos Tributarios Electrónicos, de modo que se resguarde debidamente el interés fiscal.
+
+2°  Que, el sistema de Facturación Electrónica permite introducir alternativas en la emisión de representaciones impresas de Documentos Tributarios Electrónicos, que redundan en una mayor flexibilidad, eficiencia, aumentos de productividad y ahorro para los contribuyentes, sin que ello se traduzca en un menoscabo del debido resguardo del interés fiscal.
+
+
+						     SE RESUELVE:
+
+Primero:	REEMPLÁCESE el resolutivo Sexto: “De la representación impresa de las boletas electrónicas y boletas no afectas o exentas electrónicas”, de la Res. Ex. SII N° 19, de 12.02.2008, por lo siguiente:
+1.      La representación impresa de la boleta electrónica, o de la boleta no afecta o exenta electrónica, de aquellos contribuyentes prestadores de servicios periódicos, deberá cumplir con lo señalado en la Res. Ex. SII N° 18, de 2003, modificada por la Res. Ex. SII N° 76, de 2005 y la Res. Ex. SII N° 84, de 2005. Aquellos contribuyentes que no son prestadores de servicios periódicos deberán cumplir con las siguientes exigencias:   
+a)   Indicar el nombre del documento: “Boleta Electrónica” o “Boleta No Afecta o Exenta Electrónica”, según corresponda. 
+b)   Consignar en la impresión del documento los datos requeridos según lo especificado en el documento: “Formato Boletas Electrónicas”, disponible en la Oficina Virtual del SII en Internet, HYPERLINK "http://www.sii.cl/"www.sii.cl. 
+c)   En la parte inferior del documento o en el reverso de éste deberá incluir un timbre electrónico impreso de acuerdo al formato de Documentos Tributarios Electrónicos, publicado en la Oficina Virtual del SII en Internet, con un tamaño mínimo de 2 por 4,5 centímetros. Para garantizar una correcta lectura del timbre electrónico cuyo tamaño se encuentre entre 2 por 4,5 centímetros y 2 por 5 centímetros, éste se deberá generar con una resolución mayor a 200 puntos por pulgada.
+d)   Debajo del timbre deberá imprimirse la leyenda "Timbre Electrónico SII"; bajo ésta la palabra "Res." y a continuación el número y año de la Resolución que autoriza al contribuyente para emitir boletas electrónicas. Además, se deberá indicar el sitio web donde se debe verificar el documento, de acuerdo a lo señalado en el numeral 7, del resolutivo cuarto. Los contribuyentes que, a la fecha de publicación de la presente Resolución, se encuentren autorizados como emisores de boletas electrónicas y boletas no afectas o exentas electrónicas, deberán ajustarse a lo establecido en este punto, a más tardar, el 1° de Enero de 2011.  
+e)   El ancho mínimo del papel que se utilice para estas representaciones impresas deberá ser de 5,7 centímetros. Para garantizar una correcta lectura del timbre electrónico cuyo tamaño se encuentre entre 2 por 4,5 centímetros y 2 por 5 centímetros, este documento se deberá imprimir con una resolución mayor a 200 puntos por pulgada.
+f)	El ancho del documento debe permitir señalar correctamente los datos del emisor, receptor y de la operación; de manera tal que no impida su correcta legibilidad.
+	 Cuando los antecedentes señalados en el punto b), con respecto a Razón Social, Casa Matriz o Sucursal, y Giro o Actividad del Contribuyente Emisor, no puedan ser consignados en forma completa o con sus abreviaturas razonables e inteligibles en la faz principal de las representaciones impresas de las boletas electrónicas, se podrán indicar impresos al reverso de ellos, en forma repetitiva y horizontal, de tal manera que al reverso de cada boleta figure a lo menos un conjunto completo de los antecedentes tributarios del emisor.
+2.      La representación impresa de estos documentos, podrá efectuarse mediante impresoras de inyección de tinta, láser y de transferencia térmica. 
+Segundo:	La presente Resolución entrará en vigencia a contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+                  (Fdo.)  JULIO PEREIRA GANDARILLAS
+		              	 DIRECTOR
+ Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+CSM/RPA/HSS/RGV
+
+Distribución:
+Al Diario Oficial
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

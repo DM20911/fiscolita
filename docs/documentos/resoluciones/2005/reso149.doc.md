@@ -1,0 +1,64 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso149.doc
+titulo: Word – Resolución Exenta SII N°149 del 29 de Diciembre del 2005 Modifica Resolución exenta N° 08 de 2005 que establece la obligación de presentar una declaración jurada sobre operaciones realizadas por contribuyentes usuarios de las zonas francas a que se refiere el D.F.L. N° 341 de 1977. Fuente: De
+categoria: otros
+---
+RESOLUCION EXENTA SII N°149 DEL 29 DE DICIEMBRE DEL 2005 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 08 DE 2005 QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR UNA DECLARACIÓN JURADA SOBRE OPERACIONES REALIZADAS POR CONTRIBUYENTES USUARIOS DE LAS ZONAS FRANCAS A QUE SE REFIERE EL D.F.L. N° 341 DE 1977.
+
+
+	Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los Artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en Artículo 1° del Decreto Ley Nº 830, de 1974; lo establecido en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; lo previsto en el Artículo 19 de la Ley 19.880 y las normas contenidas en el D.F.L. N° 341, de 1977 del Ministerio de Hacienda, sobre Zonas y Depósitos Francos, cuyo texto refundido y coordinado fue fijado por el D.F.L. N° 2 del Ministerio de Hacienda, publicado en el Diario Oficial de 10 de agosto del 2001; y
+
+
+CONSIDERANDO:
+
+
+1.- Que, la Resolución exenta N° 08 del 2005 establece la obligación de presentar una declaración jurada sobre operaciones realizadas por contribuyentes usuarios de las Zonas Francas a que se refiere el D.F.L. N° 341 de 1977.
+
+SE RESUELVE:
+
+
+1.- Reemplácese el Resolutivo N° 1 de la Resolución exenta N° 08 del 2005 que dice: 
+
+
+“Los contribuyentes usuarios de Zonas Francas a que se refiere el D.F.L. N° 341 de 1977, deberán presentar al Servicio de Impuestos Internos, antes del 15 de Marzo de cada año, una Declaración Jurada Anual con información sobre las operaciones de entradas y salidas de la Zona o Depósito Franco, realizadas con terceros en el año calendario inmediatamente precedente.” 
+
+por el Resolutivo siguiente: 
+
+“Los contribuyentes usuarios de Zonas Francas a que se refiere el D.F.L. N° 341 de 1977, deberán presentar al Servicio de Impuestos Internos, antes del 15 de Marzo de cada año, una Declaración Jurada Anual con información sobre las operaciones de entradas y salidas de la Zona o Depósito Franco,  realizadas en el año calendario inmediatamente precedente.”
+
+	2.- La presente Resolución entrará en vigencia a partir de su publicación en extracto en el Diario Oficial.
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO   
+
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+	DIRECTOR
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+  
+ 
+ERH/PSM/ADP/kcm DISTRIBUCION: ·   Secretaría del Director. ·   Subdirección Normativa. ·   Subdirección Jurídica. ·   Subdirección de Estudios. ·   Subdirección de Fiscalización. ·   Directores Regionales I a XVI Dirección Regional. ·   Director Grandes Contribuyentes ·   Departamento de Fiscalización Selectiva e Internacional. ·   Oficina de Partes. ·   Boletín del Servicio. ·   Internet.
+PAGE  1
+
+
+PAGE  
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+---
+url: https://www.sii.cl/portales/reforma_tributaria/pequena_empresa.htm
+titulo: Normativas - Portal de la Reforma
+categoria: portal
+---
+# MICRO Y PEQUEÑAS EMPRESAS
+
+| Impuesto | Materia | Fecha entrada en Vigencia | Normativa | Fecha publicación | Artículo de la Ley 20.780 / 20.899 | Artículo de la Ley que modifica |
+| Renta | Tributación de pequeños y medianos agricultores | 01-01-2016 | [Jurisprudencia N° 2342](https://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja2342.htm) | 23.08.2016 | Art. Primero | Art. 34 |
+| Renta | Solicita cambiar normativa tributaria que afecta a las microempresas. | 01-01-2015 | [Jurisprudencia N° 1943](https://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja1943.htm) | 05.07.2016 | Art. 8 N° 1 letra c) | Art.14 Ter Art. 22 |
+| Renta | Modificaciones introducidas por les Leyes N° 20.780 y N° 20.899, en materia tributaria. | -.- | [Jurisprudencia N° 877](https://www.sii.cl/pagina/jurisprudencia/adminis/2016/renta/ja877.htm) | 05.04.2016 | -.- | Art. 14 Ter |
+| Renta | Normas que rigen al Régimen simplificado de tributación 14 ter a partir del 1 de enero de 2017 | 01.01.2017, salvo algunas reglas especiales que se indican y que parten antes. | [Circular 48](https://www.sii.cl/documentos/circulares/2015/circu48.pdf) | 15.06.2015 | Art. 1 N° 6 | Art. 14 ter, Ley de la Renta |
+| Código Tributario | Sustitución de multas por programas de capacitación para contribuyentes 14 Ter | 30.09.2015 | [Circular 39](https://www.sii.cl/documentos/circulares/2015/circu39.pdf) | 05.06.2015 | Art. 10 N° 30 | Crea N° 3 del Art. 165 del Código Tributario. |
+| Renta | Modificaciones al régimen de tributación en base a Renta Presunta. Y modificaciones a la tributación por las rentas de bienes raíces. | 01.01.2016 | [Circular 37](https://www.sii.cl/documentos/circulares/2015/circu37.pdf) | 15.05.2015 | Art. 1° N° 10 letra b) y Art. 1° N° 18. | Art. 20 N° 1 y Art. 34 de la Ley de la Renta |
+| Renta | Se elimina posibilidad de acumular pagos provisionales mensuales obligatorios para contribuyentes que exploten vehículos en el transporte terrestre de carga ajena y que tributen en base a renta presunta. | 01-01-2015 | [Circular 1](https://www.sii.cl/documentos/circulares/2015/circu1.pdf) | 02-01-2015 | Art. 1 N°49  letra b) y el Art. 1 letra b) de las disposiciones transitorias | Art. 91-LIR |
+| IVA | Cambio de Sujeto por volumen de ventas o servicios, o bien por ingresos registrados. | 01-01-2015 | [Circular 51](https://www.sii.cl/documentos/circulares/2014/circu51.pdf) | 03-10-2014 | Art. 2 N°2 | Art. 3 del DL N° 825 (Ley del IVA) |
+| IVA | Postergación del Pago del IVA para los contribuyentes que se indican. | 01-01-2015 | [Circular 61](https://www.sii.cl/documentos/circulares/2014/circu61.pdf) | 01-12-2014 | Art. 2 N°11 | Art. 64 del DL N° 825 (Ley del IVA) |
+| Renta | Depreciación acelerada para las micro, pequeñas y medianas empresas. | 01-10-2014 | [Circular 62](https://www.sii.cl/documentos/circulares/2014/circu62.pdf) | 02-12-2014 | Art. 1, N° 15, letra f);  Art. 1 letra a) y Art. 3 numeral XII) de disposiciones transitorias | Art. 31 N° 5 bis,  Ley de la Renta |
+| Renta | Modifica normas sobre Crédito por inversiones en Activo Fijo. | 01-10-2014 | [Circular 62](https://www.sii.cl/documentos/circulares/2014/circu62.pdf) | 02-12-2014 | Art. 1 N°17 ley ; Art. 1 letra b) y Art. 3 numeral VII de  disposiciones transitorias | Art. 33 bis, Ley de la Renta |
+| Renta | Amplía régimen simplificado de tributación para las Micro, pequeñas y Medianas empresas conforme al Art. 14 ter. | 01-01-2015 | [Circular 69](https://www.sii.cl/documentos/circulares/2014/circu69.pdf) | 30-12-2014 | Art. 1 N° 6 ley y Art. 2 N°2), de las disposiciones transitorias | Art. 14 ter, Ley de la Renta |
+| Renta | Deroga 14 bis | 01-01-2015 | [Circular 69](https://www.sii.cl/documentos/circulares/2014/circu69.pdf) | 30-12-2014 | Art. 1 N° 5 ley y Art. 1 letra b) de las disposiciones transitorias. | Art. 14 bis, Ley de la Renta |
+| Renta | Deroga 14 quáter | 01-01-2015 | [Circular 69](https://www.sii.cl/documentos/circulares/2014/circu69.pdf) | 30-12-2014 | Art. 1 N°7 y Art. 1 letra b), de las disposiciones transitorias. | Art. 14 quater, Ley de la Renta |
+| No aplica | Crea Subdirección de Asistencia al Contribuyente  y establece funciones y ámbitos de competencia. | 25-10-2014 | [Resolución Ex N° 98](https://www.sii.cl/documentos/resoluciones/2014/reso98.pdf) | 21-10-2014 | Art. 15, Art 16 | Art. 1 del DFL N° 1  de 2004, Plantas del SII y Art. 3 del DFL N° 7 de 1980, Ley Orgánica del SII |
+| IVA | Establece la forma y procedimiento para la postergación del pago del IVA. | 01-01-2015 | [Resolución Ex N° 110](https://www.sii.cl/documentos/resoluciones/2014/reso110.pdf) | 02-12-2014 |  | Art. 64 del DL N° 825-Ley del VA |

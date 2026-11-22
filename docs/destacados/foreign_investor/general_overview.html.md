@@ -1,0 +1,32 @@
+---
+url: https://www.sii.cl/destacados/foreign_investor/general_overview.html
+titulo: Foreign Investor - SII
+categoria: destacado
+---
+## GENERAL OVERVIEW
+
+Income tax law levies taxes on the worldwide income of residents, and on Chilean sourced income of nonresidents.
+
+**A taxpayer is treated as a resident if:**
+
+* For an entity, it has been incorporated in Chile;
+* For an individual, if he is present in Chile for more than 6 months (objective test), or there is proof of his disposition or willingness of staying in Chile (subjective test).
+
+Income is defined as profits and benefits derived from an activity (return test) and any increase of wealth perceived, accrued or attributed without consideration of their nature, origin or denomination (wealth increase test). This would include ordinary income as well as capital gains.
+
+**Income will be generally treated as sourced in Chile if:**
+
+* Movable or real estate property: they are situated in Chile;
+* Activities: they are carried on in Chile;
+* Royalties: the intangible is used or exploited in Chile;
+* Interests: the payer is resident of Chile, or the head office is resident of Chile if debt was contracted for the purposes of a permanent establishment situated abroad;
+* Distribution of dividends or profits: the entity that issued the shares is incorporated in Chile;
+* Capital gains from the disposition of shares: the entity that issued the shares is incorporated in Chile;
+* Services: the payer is resident of Chile (some exemptions may apply);
+
+**Tax rates in Chile are:**
+
+* Income from commercial, industrial and mining activities (***business income tax***): either 25% or 27%, whether carried on by an entity or an individual;
+* Other activities carried on by individuals (***individual income tax***): 0% up to 10,000 euros approx. (USD 12,000) and 4% to 35% from there.
+
+Tax returns must be submitted in April each year, in relation to profits derived during the previous year, using form 22.

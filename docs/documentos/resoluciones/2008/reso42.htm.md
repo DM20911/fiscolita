@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso42.htm
+titulo: Resolución Exenta SII N°42 del 03 de Abril del 2008 – Word Deroga Autorización Otorgada para Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyente que Señala. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+|  |  |
+| --- | --- |
+| [Home](https://www.sii.cl/) | [Resoluciones 2008](res_ind2008.htm)  **RESOLUCION EXENTA SII N°42 DEL 03 DE ABRIL DEL 2008  MATERIA : DEROGA AUTORIZACIÓN OTORGADA PARA PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTE QUE SEÑALA.**     |  | | --- | | Hoy se ha resuelto lo que sigue:  **VISTOS:** Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974;  en la Resolución Ex. SII N°150 de diciembre de 2005 y,    **CONSIDERANDO:**  **1°**Que, el contribuyente que se detalla en el único Resolutivo de esta resolución, ha solicitado a este Servicio la derogación de su autorización para operar de acuerdo al modelo de operación de Contabilidad Electrónica, la cual le fue otorgada en Res. EX. SII N°100 del 18 de Agosto de 2006.    **SE RESUELVE:**    **Primero:**        Derógase la autorización otorgada para operar de acuerdo al modelo de Contabilidad Electrónica establecido en la Res. Ex. SII N° 150, de diciembre de 2005,  a Sociedad Industrial Comercial y Agrícola Tamarugal Ltda. RUT 79.783.790-3     Anótese, Comuníquese y Publíquese en Internet    **(Fdo) RICARDO ESCOBAR CALDERÓN  DIRECTOR**    Lo que transcribo a Ud., para su conocimiento y demás fines    **Distribución:**  -   Internet | |

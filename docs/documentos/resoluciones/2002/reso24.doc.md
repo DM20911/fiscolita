@@ -1,0 +1,112 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso24.doc
+titulo: Word – Resolución Exenta N°24 del 18 de Octubre del 2002 Establece normas a las empresas que decidan comercializar y a los contribuyentes usuarios de impresoras fiscales. Fuente: Depto. Fiscalización Interna.
+categoria: otros
+---
+RESOLUCION EXENTA N°24 DEL 18 DE OCTUBRE DEL 2002 MATERIA : ESTABLECE NORMAS A LAS EMPRESAS QUE DECIDAN COMERCIALIZAR Y A LOS CONTRIBUYENTES USUARIOS DE IMPRESORAS FISCALES.
+
+
+Hoy se ha resuelto lo que sigue:
+
+							VISTOS:
+Lo dispuesto en el Art. 6°, letra A, N° 1 del Código Tributario, contenido en el D.L. N° 830, de 1974; el Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de 15 de Octubre de 1980,  y el Art. 56° de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.L. N° 825, de 1974, y
+
+
+							CONSIDERANDO:
+
+1.- Que, el progreso tecnológico y el incremento de los medios de seguridad permiten masificar la utilización de máquinas de impresión para emitir vales en reemplazo de boletas.
+2.- Que, existen en el mercado empresas que desean implementar la comercialización de Impresoras Fiscales.
+3.- Que, en atención a las consideraciones precedentes, resulta necesario regular sobre este nuevo medio de impresión de vales en reemplazo de boletas.
+
+SE RESUELVE:
+1.- Autorízase el uso de máquinas de impresión para la emisión de vales en reemplazo de boletas, en adelante “Impresoras Fiscales”.
+2.- Esta autorización estará condicionada al cumplimiento de los siguientes requisitos:
+A) Para que una Impresora Fiscal sea considerada como tal y sea autorizada para la emisión de vales en reemplazo de boletas, independientemente de los periféricos o equipos a los cuales se encuentre conectada, debe cumplir al menos  con siguientes requisitos:
+La Impresora Fiscal debe contar con un sistema de control fiscal que permita monitorear las acciones que realiza la impresora, el cual debe estar incorporado y sellado desde la fabricación en la estructura de la impresora y no en dispositivos anexos o externos;
+El sistema de control fiscal de la impresora fiscal debe recibir directamente la información de los valores de cada ítem registrado en el vale. Esto con la finalidad que el microcódigo de este sistema, pueda realizar los cálculos aritméticos contenidos en los vales que reemplazan a las boletas. Es decir, debe calcular descuentos, realizar sumas  y totalizar el vale;
+El sistema de control fiscal de la impresora fiscal debe recibir directamente la secuencia de comandos fiscales para su validación, luego, es necesario que, al menos,  posea comandos para los eventos que se indican, los que deben ser validados en el orden que a continuación se presentan: encabezado de vale boleta, ítem de venta, ítem negativo, subtotal o total, tipo de pago, descuento o sobrecargo, fin de transacción del vale de boleta y comentario;
+La memoria del sistema de control fiscal de la Impresora Fiscal debe almacenar, al menos, los últimos 72 meses móviles de los reportes Z. Estos informes deben contener el número inicial y final de las boletas; número de Z; ventas del período por tipo de medio de pago; ventas acumuladas por tipo de medio de pago; número de caja, número de serie; fecha y hora del informe y período en el cual se extraen los datos requeridos;
+La memoria del sistema de control fiscal de la Impresora Fiscal debe almacenar, al menos, los últimos 72 meses móviles de los Informes de Transacciones. Estos informes deben contener el tipo de transacción; medio de pago; número de vale boleta; monto; fecha y hora del informe y período del cual se extraen los datos requeridos;
+El sistema de control fiscal debe permitir la emisión del Informe X, el cual muestre la información no traspasada a la memoria del sistema de control fiscal y que se debe acumular en el informe Z; 
+El sistema de control fiscal de la impresora debe permitir generar archivos y reportes impresos de Z e Informe de Transacciones por días específicos, mes específico y por un rango de fechas del período en el cual se encuentra obligada a guardar la información;
+El sistema de control fiscal de la impresora debe generar archivos firmados de Informes Z e Informe de Transacciones con algún sistema de encriptación reconocido en el mercado;
+En el caso que la Impresora no sea capaz de almacenar 72 meses de  Informes Z o de Transacciones, deberá guardar, al menos, los últimos 12 meses móviles; sin embargo, la empresa a la cual se le autorice comercializar esta Impresora Fiscal, deberá guardar todos los archivos de Informes Z e Informes de Transacciones firmados que son generados y recibidos a través de un medio seguro de todas las Impresoras que se encuentren en uso. Esta información deberá ser guardada  por un período de  72 meses por la empresa a la cual se le ha autorizado la comercialización, mediante resolución, en medios seguros, los cuales deben respetar la privacidad de la información suministrada por el contribuyente usuario. Esta información podrá estar desfasada, como máximo, un mes y deberá quedar disponible para el evento en que el Servicio de Impuestos Internos la solicite.
+B) Las empresas que decidan comercializar Impresoras Fiscales deberán cumplir con las  siguientes condiciones:
+1.- Requisitos generales:
+Estar constituidas como sociedades anónimas o de responsabilidad limitada;
+Acreditar su calidad de importador, fabricante o representante de las marcas de Impresoras Fiscales que presenten para su autorización en este Servicio;
+Contar con aviso de inicio de actividades de al  menos un año de antigüedad en Chile;
+Contar con antigüedad de al menos un año en el rubro de la comercialización de Máquinas Registradoras  o Terminales de Punto de Venta, la cual debe ser acreditada mediante copia de factura legalizada ante notario;
+Contar con un capital efectivo declarado en Chile no inferior a 1.000 UTA al momento en que soliciten la autorización respectiva;
+No haber sido infraccionado en razón de lo dispuesto en los N°s 4, 10, 20, 21 o 22  del Art. 97° del Código Tributario dentro de los últimos 24 meses contados desde la fecha de solicitud de autorización de la Impresora Fiscal;
+Contar con la capacidad suficiente de servicios técnicos autorizados para entregar los servicios de mantención e inicialización de las Impresoras Fiscales.
+Cumplir con las exigencias técnicas que este Servicio imponga en el momento de otorgar la autorización;
+Facilitar al Servicio de Impuestos Internos  un software que permita validar los archivos firmados que genere la impresora.
+Realizar una presentación de autorización por escrito al Subdirector de Fiscalización del Servicio de Impuestos Internos, la que deberá contener, al menos, los siguientes antecedentes:
+Solicitud firmada por el representante legal, acompañada de documento que acredite su calidad de tal.
+Manuales técnicos completos en español.
+Explicación detallada de cómo da cumplimiento a cada uno de los requisitos impuestos por la presente resolución,  la impresora presentada.
+Detallar el proceso de sellado propuesto del modelo de  Impresora Fiscal. 
+Presentación de una etiqueta autoadhesiva de dimensiones 7 cms. x 7 cms., con un formato similar al Formulario 2773, del Servicio de Impuestos Internos que se coloca actualmente en las máquinas autorizadas en funcionamiento.
+2.- Procedimiento para la comercialización de las Impresoras Fiscales autorizadas:
+Por cada Impresora Fiscal que se comercialice, deberá obtener un número  fiscal, vía web, el cual  autoriza el uso de la Impresora Fiscal, indicando la siguiente información respecto del contribuyente usuario: 
+Rut del contribuyente usuario
+Dirección en que se encuentra ubicada la Impresora Fiscal
+Marca de la Impresora Fiscal
+Modelo de la Impresora Fiscal
+Número de serie de la Impresora Fiscal
+Número  y fecha de la resolución de autorización de la marca y modelo
+Fecha en la cual se autoriza el uso de la Impresora Fiscal para el contribuyente usuario
+Cada Impresora Fiscal vendida deberá ser inicializada con los datos del contribuyente usuario y, además, deberá efectuarse el sellado correspondiente colocando la etiqueta adhesiva que indique:
+Logo representativo de la empresa autorizada para comercializar la Impresora Fiscal.
+Rut de la empresa autorizada para comercializar la Impresora Fiscal, razón social y dirección de la casa matriz.
+Rut del contribuyente usuario
+Dirección en que se encuentra ubicada la Impresora Fiscal
+Número y fecha de la presente resolución.
+Número y fecha de la resolución que autoriza la marca y modelo de Impresora Fiscal.
+Número fiscal asignado que autoriza el uso de la Impresora Fiscal.
+Fecha en la cual se autoriza el uso para el contribuyente usuario.
+Marca de la Impresora Fiscal
+Modelo de la Impresora Fiscal
+Número de serie de la Impresora Fiscal
+Informar las manteciones, vía web, que se realicen a las Impresoras Fiscales del contribuyente usuario cada vez que haya rotura de sellos o manipulaciones del sistema de control fiscal registrando:
+Número fiscal asignado en la autorización
+Mantenciones efectuadas a la Impresora Fiscal Correspondiente.
+Derogar la autorización de uso de las Impresoras Fiscales, retirando previamente las etiquetas adhesivas, o sus pedazos, de las máquinas autorizadas y luego, vía web, registrar:
+Rut del contribuyente usuario
+Número fiscal asignado en la autorización
+Esto podrá ser efectuado cuando el contribuyente usuario de las Impresoras Fiscales lo solicite o cuando se detecte mal uso o roturas de sellos no autorizadas por la empresa autorizada para  la comercialización del modelo de Impresora Fiscal correspondiente.
+Mantener actualizada la información que se solicite, vía web, en las bases del Servicio de Impuestos Internos de los equipos que suministra.
+C) Los contribuyentes usuarios que utilicen Impresoras Fiscales deberán cumplir con las siguientes condiciones y requisitos:
+Cumplir con las exigencias vigentes y las  que el Servicio de Impuestos Internos determine en la resolución de autorización del modelo respectivo;
+Mantener la impresora y sellos de la empresa autorizada para comercializar la Impresora Fiscal, en buenas condiciones. En  caso de requerir mantención, deberá utilizar los servicios de la empresa autorizada por el Servicio de Impuestos Internos para el modelo correspondiente para que, aquella,  rompa los sellos correspondientes y vuelva a sellar la Impresora fiscal una vez finalizada la mantención.
+En caso que el contribuyente opere con Impresoras Fiscales, no podrá operar con ningún otro equipo que no se encuentre autorizado para emitir vales en reemplazo de boletas.
+En caso que el contribuyente decida sustituir la Impresora Fiscal o deje de utilizarla, debe avisar a la empresa autorizada para comercializar la Impresora Fiscal correspondiente, para que retire los sellos y adhesivos que autorizan la máquina y, proceda vía web, a derogar la autorización del equipo correspondiente. 
+En el caso que estas Impresoras Fiscales no tengan la capacidad de almacenar los últimos 72 meses móviles, debe facilitar la información de los archivos firmados de Z e Informes de Transacciones a la empresa autorizada para comercializar las Impresoras Fiscales. En el caso que el contribuyente usuario estime que cuenta con la capacidad tecnológica suficiente que le permita almacenar la información de archivos Z e Informes de Transacciones, éste podrá solicitar a la  Subdirección de Fiscalización del Servicio de Impuestos Internos que lo autorice, si fuere procedente.
+Mantener disponible, para cuando el Servicio de Impuestos Internos lo requiera una copia de la resolución que autoriza la comercialización del modelo de Impresora Fiscal. 
+El contribuyente usuario no estará obligado a mantener el libro de informes impresos Z en las cajas que utilicen Impresoras Fiscales; sin embargo, deberá traspasar la información de cierre diaria al libro de ventas y, en  el evento que sea fiscalizado, debe facilitar los reportes  de Informes Z, de Transacciones a los funcionarios del Servicio de Impuestos Internos.
+3.- El incumplimiento de los requisitos que deben cumplir por parte de las empresas o contribuyentes que se incorporen al sistema reglamentado en la presente Resolución, se sancionará en la forma prevista en el Art. 109 del Código Tributario, sin perjuicio de la aplicación de la sanción establecida en el N° 10 del Art. 97 del mismo cuerpo legal, si procediere.
+Lo anterior, sin perjuicio que se derogue la resolución respectiva, tanto para el contribuyente usuario como para el contribuyente que comercialice las Impresoras Fiscales cuando, a juicio del Servicio de Impuestos Internos, el incumplimiento no resguarde debidamente el interés fiscal.
+
+ 
+
+ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+Lo que comunico a Ud. Para su conocimiento y fines correspondientes
+
+DISTRIBUCION:
+Internet
+Diario oficial
+Boletín
+
+
+
+

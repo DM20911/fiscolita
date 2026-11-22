@@ -1,0 +1,19 @@
+---
+url: https://www.sii.cl/noticias/ivanet.html
+titulo: ivanet.html
+categoria: noticia
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Ahorro de tiempo y trámites    S.I.I. Habilitó Internet para recibir Declaraciones Mensuales de IVA   *** Desde el 8 de enero se encuentra disponible aplicación para presentar el formulario 29 a través de esta red.**       * Por ahora esta opción rige sólo para las declaraciones sin pago o sin movimiento, pero desde abril podrán enviarse por este sistema las 900 mil declaraciones que se efectúan cada mes en el país.        * Se espera masificación del uso de estas aplicaciones por los beneficios evidentes que ello representa para los contribuyentes, que pueden efectuar el trámite directamente desde su computador, sin tener que hacer colas en bancos o en el propio SII.           El Servicio de Impuestos Internos puso a disposición de los contribuyentes una aplicación tecnológica que permite presentar el formulario de Declaración y Pago simultáneo del Impuesto al Valor Agregado a través de Internet.  La iniciativa -denominada IVAnet- constituye un nuevo avance concreto dentro del plan de modernización del S.I.I. que contempla la masificación del uso de esta red computacional con propósitos tributarios, de manera que a futuro los contribuyentes puedan realizar sus trámites directamente desde sus computadores, sin tener que concurrir a las oficinas del organismo.  La aplicación está disponible para las empresas y contribuyentes usuarios de esta red desde el 8 de enero en el servidor del Servicio de Impuestos Internos, cuya dirección es ***www.sii.cl***. En primera instancia esta opción rige sólo para las 400 mil declaraciones sin pago o sin movimiento, pero desde abril podrán enviarse por este sistema la totalidad de las 900 mil declaraciones de IVA que se efectúan cada mes en todo el país.  El sistema presenta considerables ventajas para el propio contribuyente, al facilitarle el cumplimiento de sus obligaciones, permitirle un notable ahorro de tiempo y otorgarle mayor seguridad al reducir los errores producto de operaciones o procesos de redigitación, sin necesidad de tener que concurrir a los bancos o a una oficina del SII.       Santiago, 3 de Febrero de 1999 | |  | | --- | | **Máxima Seguridad en la Operación** | | Además, para su puesta en marcha se han incorporado los mecanismos tecnológicos de seguridad más modernos vigentes a nivel mundial, lo que permite mantener el debido resguardo de la información. Entre otros aspectos, se opera con registros de claves o password que permiten asegurar que el que envía la información es efectivamente el contribuyente dueño de ella o su mandatario.  Gracias a este sistema el contribuyente puede "bajar" un formulario 29 a través de Internet y llenarlo con los antecedentes correspondientes. El sistema posee un mecanismo que va chequeando en forma automática la consistencia aritmética de la declaración, con lo que se asegura que ésta no contendrá errores de forma ( omisión de datos como el RUT o el domicilio) ni de sumas u otras operaciones. Una vez despachada, el interesado obtiene en pantalla el folio de su declaración y un código de atención que certifica que su declaración fue procesada.  Posteriormente, el contribuyente dispone de una opción de consulta para conocer el estado de su declaración al interior del sistema o si ésta fue impugnada por contener inconsistencias tributarias. En este último caso, podrá obtener una copia de la carta de notificación a través de la cual el S.I.I. lo cita a alguna de sus oficinas para aclarar las dudas.  Asimismo, el contribuyente podrá consultar y obtener copias de las declaraciones presentadas en meses anteriores.  Cabe señalar que anteriormente todos estos trámites debían efectuarse directamente en las Unidades del S.I.I., en forma manual y en papel. | |
+
+|  |
+| --- |
+|  |
+|  |  |  |
+|  | | |
+|  |

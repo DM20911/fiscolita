@@ -1,0 +1,331 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso121.doc
+titulo: Word – Resolución Exenta SII N°121 del 17 de Octubre del 2011 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes Que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°121 DEL 17 DE OCTUBRE DEL 2011 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Octubre del 2011, a los siguientes contribuyentes:
+
+- A FIN CONSTRUCTORA S.A.							 76.545.610-K
+- ALIFOOD COMERCIALIZADORA DE ALIMENTOS LTDA.			 76.773.120-5
+- ALIMENTOS Y CONGELADOS LTDA.						 76.077.067-1
+- ALS PATAGONIA S.A.								 96.802.440-K
+- ANODOS DE CHILE S.A.								 99.560.020-K
+- ARAYA HERMANOS S.A.							 78.567.810-9
+- ARTICULOS DE ESCRITORIO LAMYMANIA LTDA.				 76.269.280-5
+- ASESORIA Y VENTAS INDUSTRIALES AVI S.A.					 96.638.630-4
+- AVAL CHILE S.A.G.R.								 76.037.556-K
+- BENSON Y SALAS S.A.								 76.121.131-5
+- BOB MAQUINARIA Y CONSTRUCCION LTDA.					 86.136.700-2
+- CARNES ESPERANZA LTDA.							 76.080.282-4
+- CDO SERVICIOS EMPRESARIALES LTDA.					 77.710.570-1
+- CENTRAL TELEFONICA S.P.A.							 76.125.307-7
+- CESAR ANDRES GONZALEZ NUNEZ						 13.492.837-9
+- CHESTA INGENIERIA S.A.							 96.838.980-7
+- CLAUDIO ANDRES ESPINOZA PEREZ						 15.748.654-3
+- COMERCIAL ARANCIBIA TAGLE Y CIA. LTDA.					 78.027.540-5
+- COMERCIAL ARDUINI LTDA.							 76.052.668-1
+- COMERCIAL CARLOS ALBERTO MORALES LEAL E.I.R.L.			 76.091.557-2
+- COMERCIAL DIFONT LTDA.							 77.849.740-9
+- COMERCIAL E INDUSTRIAL COLINA VERDE LTDA.				 76.033.618-1
+- COMERCIAL E INDUSTRIAL LIBESA LTDA.					 92.986.000-4
+- COMERCIAL FLU CHILE S.P.A.							 76.391.930-7
+- COMERCIAL KLIMATIZA CHILE LTDA.						 76.111.193-0
+- COMERCIAL MIRASOL S.A.							 96.789.760-4
+- COMERCIAL SAMSTORE LTDA.							 76.149.465-1
+- COMERCIAL TECNOELECTRICA S.A.						 76.071.208-6
+- COMERCIALIZADORA A C B INGENIERIA LTDA.				 77.264.810-3
+- COMERCIALIZADORA MAXSERVICE LTDA.					 76.064.348-3
+- CONFITES MERELLO S.A.							 90.823.000-0
+- CONSTRU CLIMA LTDA.								 77.252.980-5
+- CONSTRUCTORA RUTA 160 S.A.						 76.034.353-6
+- DIFEM PHARMA S.A.								 79.581.120-6
+- DUCTOSUR S.A.									 76.103.567-3
+- EDITEC S.A.									 99.558.960-5
+- EDMUNDO ZUNIGA VALENCIA							 03.240.606-8
+- EMILIO SILVA HIJOS Y CIA.							 82.888.200-7
+- EMPRESA DE COBRANZA M LTDA.						 76.019.865-K
+- FUNDICION Y MAESTRANZA OMAMET LTDA.					 77.079.000-K
+- GEOEQUIPOS S.A.								 88.901.300-1
+- GONZALO ANDRES TAPIA LEIVA						 13.668.650-K
+- GRAFISOFT CHILE LTDA.							 76.202.350-4
+- IMPORTADORA Y COMERCIAL CARES LTDA.					 76.667.340-6
+- IMPORTADORA Y COMERCIALIZADORA DE PRODUCTOS			 76.373.640-7
+  DE CONSUMO S.A. 
+- IMPORTADORA Y COMERCIALIZADORA IMMEDIC CHILE LTDA.		 76.034.732-9
+- INGENIERIA AMBIENTAL Y SERVICIOS S.A.					 77.472.950-K
+- INGENIERIA Y SERVICIOS A LA MINERIA INGORA LTDA.			 76.160.302-7
+- INGOMAR S.A.									 92.617.000-7
+- INMOBILIARIA Y CONSTRUCTORA LAS NIEVES S.A.				 99.502.690-2
+- INSER TRANSFIELD SERVICES S.A.						 76.050.301-0
+- INSERCON MONTAJES LTDA.							 76.161.824-5
+- INVERSIONES Y ASESORIAS CARLOS VEGA RIVAS E.I.R.L.			 76.135.555-4
+- JACQUELINE PATRICIA VENEGAS ALFARO					 09.084.183-1
+- JUAN ENRIQUE DASTRES ZELADA						 05.163.399-7
+- KNIGHT PIESOLD S.A.								 96.680.350-9
+- L&H SOUTH AMERICA SERVICIOS INDUSTRIALES LTDA.			 76.123.241-K
+- LABORATORIO VOLTA S.A.							 79.802.770-0
+- LINCOLN & ASOCIADOS CIA. LTDA.						 77.646.420-1
+- LUIS ALBERTO GUTIERREZ ROJAS						 06.529.628-4
+- M R MARKETING PROMOCIONAL S.A.						 96.779.370-1
+- MALLAS PROTEKTA LTDA.							 77.505.400-K
+- MI BODEGA S.A.									 76.156.598-2
+- NICOLAS IGNACIO FAUNDEZ MUNOZ						 16.942.758-5
+- PHARMA INVESTI DE CHILE S.A.						 94.544.000-7
+- PRODUCCIONES GODOY Y MARCHANT LTDA.				 76.117.987-K
+- PUERTO CENTRAL S.A.								 76.158.513-4
+- RCB COMERCIAL S.A.								 84.772.600-8
+- RODOTRANS CHILE S.A.							 96.994.950-4
+- RODRIGO HORACIO DEVIA DEVIA						 09.358.585-2
+- RUNGE PTY LTD LATIN AMERICA LTDA.					 77.549.420-4
+- SALFAVEL COMERCIAL S.A.							 96.805.600-K
+- SERVICIOS COMPUTACIONALES INETWORK LTDA.				 77.382.360-K
+- SERVICIOS DE INTEGRACION TECNOLOGICA LTDA.				 76.137.747-7
+- SERVICIOS MARITIMOS PATILLOS S.A.					 96.721.040-4
+- SERVICIOS TECHNOLAB CHILE LTDA.						 76.037.438-5
+- SHERPAS SOLUTIONS S.P.A.							 76.148.732-9
+- SIEMENS S.A.									 94.995.000-K
+- SISTEMAS DE INFORMACION PARA LA GESTION ADMINISTRATIVA LTDA.	 78.290.820-0
+- SOC. AGROINDUSTRIAL Y COMERCIAL LAS CARDAS LTDA.			 78.472.290-2
+- SOC. COMERCIAL EL SALITRE LTDA.						 79.638.870-6
+- SOC. COMPACTADORA Y COMERCIALIZADORA DE EXCEDENTES		 78.726.260-0 
+  INDUSTRIALES FERRIKO LTDA. 
+- SOC. DE TRANSPORTES Y COMERCIAL INTER AMERICAN CARGO LTDA.	 78.478.170-4
+- SOC. DISTRIBUIDORA DE PERNOS LTDA.					 76.219.820-7
+- SOC. SALSA COLOR IMPRESORES LTDA.					 77.030.480-6
+- SOCIEDAD COMERCIAL DECOTEX LTDA.					 76.134.543-5
+- SOCIEDAD DE SERVICIOS DE ASEO CLEAN LINES LTDA.			 76.160.275-6
+- SOCIEDAD IMPORTADORA, EXPORTADORA Y				 76.084.386-5
+  COMERCIAL MUNDO ASIATICO LTDA.
+- SOCIEDAD J.M. INGENIERIA ELECTRICA LTDA.				 76.025.957-8
+- SOCIEDAD PUBLICITARIA NILS STRANDBERG LTDA.				 76.090.705-7
+- SOLGAS S.A.									 76.134.397-1
+- SOLUCIONES INDUSTRIALES INTEGRADAS LTDA.				 76.485.760-7
+- SOUTH-AM FREEZE DRY S.A.							 99.563.660-3
+- TECNOLOGIA EN VENTANAS TERMOACUSTICAS LTDA.			 77.517.060-3
+- TRANSPORTES MERCOTRANS NACIONAL E INTERNACIONAL LTDA.	 77.430.960-8
+- TRANSPORTES SISTERSTAP - LTDA.						 76.094.236-7
+- URZUA & CIA. ABOGADOS LTDA.						 76.164.785-7
+- VADELL S.A.									 99.567.880-2
+- VELIZ BELTRAN LTDA.								 78.615.580-0
+- VICENTE ROSSI MARTINANGELI						 11.400.015-9
+- VINA Y CAVA VALLE SECRETO S.A.						 76.000.659-9
+- VTR WIRELESS S.A.								 76.114.143-0
+- YASNA PAMELA ALBORNOZ SOTO						 15.469.697-0
+	
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+   
+(Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

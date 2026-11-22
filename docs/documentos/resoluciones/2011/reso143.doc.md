@@ -1,0 +1,97 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso143.doc
+titulo: Word – Resolución Exenta SII N°143 del 15 de Diciembre del 2011 Modifica Resolución que Indica en lo Relacionado con el Departamento Subdirección de Recursos Humanos y Establece Ámbito de Competencia de las Unidades que la Conforman. Fuente: Subdirección de Recursos Humanos
+categoria: otros
+---
+RESOLUCION EXENTA SII N°143 DEL 15 DE DICIEMBRE DEL 2011 MATERIA : MODIFICA RESOLUCIÓN QUE INDICA EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS Y ESTABLECE ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LA CONFORMAN.
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las necesidades del Servicio; lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, y lo dispuesto en las Resoluciones exentas N° 379 de 04 de diciembre de 1991, N° 7.590, de 15 de noviembre de 1999; y sus modificaciones posteriores, y, 
+
+CONSIDERANDO: 
+
+La necesidad de adecuar la organización de la Subdirección de Recursos Humanos, a fin de abordar con éxito y con el máximo de eficiencia las labores propias de esa Subdirección, identificando las distintas áreas o procesos que competen a la gestión del personal del Servicio; 
+
+
+RESUELVO: 
+
+1°.  Reemplázase el número 8° de la Letra A de la Resolución N° 379, de 4 de diciembre de 1991, modificada por el dispositivo 1° de la Resolución Ex. SIIPERS N° 15.549, de 28 de diciembre de 2007, por el siguiente:
+
+“8.- Departamento Subdirección de Recursos Humanos:
+Departamento de Gestión de las Personas, y
+Departamento de Formación.”
+
+2°. A partir del 01 de diciembre de 2011, suprímase la Oficina “De Calidad de Vida Laboral”, creada por resolución Ex. SIIPERS N° 15549, del 28 de diciembre de 2007.
+
+3°. En consecuencia, la Subdirección de Recursos Humanos tendrá bajo su dependencia los Departamentos y Oficina que se indican: 
+
+-     Departamento de Gestión de las Personas,
+-     Departamento de Formación, y
+-     Oficina de Bienestar y Servicio a las Personas.
+ 
+4°. Toda mención que en cualquier texto de carácter legal o reglamentario y en resoluciones de uso interno se haga al “Jefe del Departamento de Formación y Desarrollo”, se entenderá referida al “Jefe del Departamento de Formación”. Del mismo modo y para todos los efectos, toda cita que haga referencia al “Departamento de Formación y Desarrollo”, se entenderá referida al “Departamento de Formación”.
+
+5°. Sustitúyase el número 9 del dispositivo de la Resolución exenta N° 7.590, de 15 de noviembre de 1999, por el siguiente:
+
+“9.- 	En la Subdirección de Recursos Humanos se establecen las siguientes atribuciones, responsabilidades y obligaciones del Subdirector respectivo:
+
+Proponer al Director la estrategia institucional de Recursos Humanos, estableciendo lineamientos orientados al desarrollo integral de las personas en su dimensión técnica, personal e interpersonal.
+Asesorar a la Dirección del Servicio en materias propias de gestión de Recursos Humanos, como asimismo, entregar orientaciones a los distintos equipos directivos y unidades funcionales de la institución.
+Proponer al Director políticas y programas de capacitación para los funcionarios del SII, a realizarse en conjunto con las distintas Subdirecciones y Direcciones Regionales del Servicio.
+Diseñar y ejecutar programas tendientes al desarrollo de habilidades de liderazgo en las jefaturas del SII.
+Apoyar los procesos de modernización institucional, mediante la implementación de programas de Gestión del Cambio. 
+Proponer políticas comunicacionales al interior del SII y gestionar su implementación.
+Promover, al interior del SII, la integridad y el respeto a las personas como valores centrales y elementos esenciales de la gestión de la institución.
+Implementar y realizar seguimiento a políticas, programas e iniciativas estratégicas de Recursos Humanos, alineados con el Plan Estratégico de la Institución.
+Gestionar el clima laboral al interior del SII, asesorando, a través de monitoreos periódicos, a todas las unidades organizacionales en la ejecución de planes de acción tendientes al mejoramiento del mismo.
+Impulsar iniciativas que apunten a facilitar el mejoramiento de la seguridad funcionaria, la prevención de accidentes del trabajo y enfermedades profesionales, a través de la promoción e instalación de una cultura del autocuidado.
+
+
+6°. Al Departamento de Gestión de las Personas le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:
+
+Diseñar, implementar, y gestionar todas aquellas acciones, actividades y/o procedimientos vinculados a los procesos de reclutamiento y selección en la Institución.
+Gestionar los procesos administrativos relacionados al ciclo laboral del funcionario del SII: ingreso, mantención y desvinculación.
+Diseñar, implementar y gestionar todas aquellas acciones, actividades y/o procedimientos relativos al desarrollo de carrera: movilidad interna, concursos de promoción y concursos de tercer nivel jerárquico.
+Diseñar, implementar y gestionar todas aquellas acciones, actividades, procedimientos y/o sistemas vinculados al proceso de Gestión del Desempeño. 
+Proveer información a usuarios internos y externos, mediante elaboración de informes, análisis y estudios que constituyan elementos para la toma de decisiones en materias de Recursos Humanos.
+Otras actividades que el Subdirector de Recursos Humanos, dentro de sus atribuciones y facultades, estime de competencia de este Departamento.
+
+7°. Al Departamento de Formación le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:
+
+Diseñar, implementar y evaluar cursos u otras actividades de capacitación, basados en metodologías de educación presencial o a distancia, dirigidas a los funcionarios del SII.
+Elaborar el material educativo requerido para la óptima ejecución de las actividades de formación, impartidas por este Departamento.
+Efectuar las gestiones operativas necesarias para la adecuada ejecución, monitoreo y evaluación de los cursos u otras actividades de formación en el SII.
+Diseñar, gestionar y evaluar la implementación de proyectos y planes de capacitación regional, que contribuyan al fortalecimiento de la formación local.
+Diseñar, implementar y evaluar acciones de perfeccionamiento para el equipo de monitores a cargo de la realización de las distintas actividades de formación en el SII.
+Otras actividades que el Subdirector de Recursos Humanos, dentro de sus atribuciones y facultades, estime de competencia de este Departamento.
+
+8°. A la Oficina de Bienestar y Servicio a las Personas le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:
+
+Diseñar, implementar y actualizar una malla de beneficios y servicios sociales para los funcionarios afiliados al Servicio de Bienestar, considerando las necesidades e intereses de los mismos.
+Gestionar el presupuesto de afiliados al Servicio de Bienestar, conforme a la normativa correspondiente, presentando ante la Superintendencia de Seguridad Social, los anteproyectos de presupuestos, balances y otras informaciones requeridas por este organismo, para su conocimiento y aprobación.
+Administrar la Sala Cuna y Jardín Infantil Institucional, de acuerdo a la legislación vigente y presupuesto asignado. 
+Diseñar e implementar estudios que permitan caracterizar los intereses y necesidades de los usuarios, así como medir sus niveles de satisfacción con los servicios y beneficios entregados, a nivel nacional y regional.
+Coordinar y supervisar técnicamente el trabajo realizado por Asistentes Sociales y Delegados de Bienestar a nivel nacional.
+Supervisar la entrega de beneficios otorgados por entidades a las que se encuentre adscrito el Servicio, tales como Cajas de Compensación y Asignación Familiar.
+Administrar y supervisar otros servicios dependientes encomendados por la institución y que se encuentren relacionados con esta Oficina, como también la administración y control de los fondos que se recauden por dichos conceptos. 
+Otras actividades que el Subdirector de Recursos Humanos estime de competencia de esta Oficina.
+9°. Corresponderá al Subdirector de Recursos Humanos implementar las medidas que procedan, tendientes a optimizar el funcionamiento de la Subdirección.  Para tal efecto, podrá establecer bajo su dependencia directa, áreas que lo asesoren en materias comunicaciones, modernización y desarrollo organizacional.
+
+10°.  La presente Resolución regirá a contar del 01 de diciembre de 2011.
+
+
+ Anótese, comuníquese y publíquese en extracto en el Diario Oficial
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS                            DIRECTOR  
+	Lo que transcribo a usted para su conocimiento
+	Saluda atentamente,
+
+
+DISTRIBUCIÓN:
+INTERNET
+BOLETIN
+DIARIO OFICIAL, EN EXTRACTO
+

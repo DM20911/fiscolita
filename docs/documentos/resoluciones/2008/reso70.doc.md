@@ -1,0 +1,122 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso70.doc
+titulo: Word – Resolución Exenta SII N°70 del 27 de Mayo del 2008 Autoriza a los Directores Regionales de las Direcciones Regionales de la Región de los Ríos y de la Región de Arica y Parinacota Para Delegar las Funciones que Señala en los Funcionarios que Indica Fuente: Depto. de Asesoría Jurídica
+categoria: otros
+---
+ 
+RESOLUCION EXENTA SII N°70 DEL 27 DE MAYO DEL 2008 MATERIA : AUTORIZA A LOS DIRECTORES REGIONALES DE LAS DIRECCIONES REGIONALES DE LA REGIÓN DE LOS RÍOS Y DE LA REGIÓN DE ARICA Y PARINACOTA PARA DELEGAR LAS FUNCIONES QUE SEÑALA EN LOS FUNCIONARIOS QUE INDICA
+
+
+
+ Hoy se resolvió lo que sigue:
+
+
+VISTOS: lo dispuesto en el artículo 6º, letra B, Nº 7 del Código Tributario, y en el artículo 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, del Ministerio de Hacienda, de 1980, y
+
+
+CONSIDERANDO :
+
+
+1°.-Que los artículos 6º, letra B, Nº 7 del Código Tributario y 20 de la citada Ley Orgánica del Servicio de Impuestos Internos, facultan a los Directores Regionales para autorizar a funcionarios de su dependencia, para resolver determinadas materias o para hacer uso de alguna de sus atribuciones, debiendo obrar para estos efectos de acuerdo a las instrucciones impartidas por el Director, y
+		
+2º.- Teniendo presente lo dispuesto en el artículo 41 de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales  de la Administración del Estado, 
+
+
+RESUELVO:
+
+
+	PRIMERO.- Autorízase al Director Regional de la Dirección Regional de la Región de Los Ríos para delegar en el Jefe del Departamento  Jurídico Regional:
+1°.-  La facultad establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros o resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo.
+
+					2°.- Aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nºs.  6, 7, 10,17, 19, 20 y 21 del Código Tributario y conceder las condonaciones que se soliciten en relación con dichas sanciones, siempre que se cumplan con los requisitos establecidos en las resoluciones e instrucciones emitidas al efecto; y la de aplicar las sanciones administrativas que correspondan a las infracciones señaladas, cuando transcurrido el plazo legal, no se haya reclamado de ellas. 
+
+
+	SEGUNDO.- Autorízase al Director Regional de la Dirección Regional de la Región de Arica y Parinacota para delegar en el  funcionario abogado ubicado en la Oficina Jurídica de la sede de la Dirección Regional, encargado de supervisar las labores que realiza dicha Oficina Jurídica: 
+
+1°.-  La facultad establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros o resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo.
+
+						 2°- Aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el artículo 97 Nºs.  6, 7, 10,17, 19, 20 y 21 del Código Tributario y conceder las condonaciones que se soliciten en relación con dichas sanciones, siempre que se cumplan con los requisitos establecidos en las resoluciones e instrucciones emitidas al efecto; y la de aplicar las sanciones administrativas que correspondan a las infracciones señaladas, cuando transcurrido el plazo legal, no se haya reclamado de ellas. 
+
+La resolución delegatoria deberá indicar nominativamente al funcionario al que se delega la mencionada atribución, como igualmente al funcionario que la ejercerá en caso de impedimento o inhabilidad del primero:
+
+TERCERO- Autorízase a los Directores Regionales de las Direcciones Regionales de la Región de los Ríos y de la Región de Arica y Parinacota para delegar, mediante resolución, las facultades a que se refieren las resoluciones que a continuación se indican, en las condiciones que en ellas se señalan, en los funcionarios de su dependencia que correspondan de acuerdo a lo señalado en dichas resoluciones :
+
+a)  N° Ex. 136 de 24 de julio de 1981, modificada por las Resoluciones N° Ex. 202, de 25 de Agosto de 1987, N° Ex. 2.410, de 25 de Junio de 1992 y  adecuada por Resolución N° Ex 3.822, de 4 de agosto de 2000, con excepción de aquéllas a que se refieren el  dispositivo 1.- numeral II, números 29 y 30.A.- y  las del numeral III, que se opongan con las delegadas en funcionarios del Área de Término de Giro;
+
+b)  N° Ex. 968, de 11 de Marzo de 1992, modificada por Resoluciones N° Ex. 2.410, de 25 de junio de 1992; Resolución N° Ex. 618, de 15 de febrero de 1994; Resolución N° Ex. 2.908, de 25 de junio de 1996, rectificada por Resolución N° Ex.3.198, de 9 de julio de 1996; Resolución N° Ex. 3.311, de 16 de julio de 1996; Resolución N° Ex.76, de 7 de enero de 1999  y Resolución N° Ex. 20, de 16 de febrero de 2006 modificada, esta última, por Resolución N° Ex. 21 de  1 de Marzo de 2006;
+
+c)	N° Ex. 2.242, de 16 de abril de 1993, modificada por Resolución N° Ex. 2.992, de 5 de julio de 1994 y por Resolución N° Ex. 3.311, de 16 de julio de 1996; 
+
+N° Ex. 4.544, de 30 de julio de 1993, modificada por Resolución N° Ex. 5.801, de 1 de Octubre de 1998;
+
+N° Ex. 2.482, de 3 de junio de 1994, sólo en lo que no se oponga a las facultades autorizadas delegar en funcionarios del Área de Término de Giro;
+
+   N° Ex.1.371, de 27 de marzo de 1977;
+
+N° Ex. 3.235, de 2 de Julio de 1997;
+
+N° Ex. 4.791, de 3 de octubre de 1997; 
+
+   N° Ex. 5.575, de 30 de agosto de 1999;
+
+   N° Ex. 5.170, de 22 de noviembre de 2000;
+
+N° Ex. 58, de 24 de diciembre de 2001;
+
+   N° Ex. 90, de 21 de Septiembre de 2004;
+
+N° Ex. 114, de 28 de octubre de 2005;
+
+N° Ex. 48, de 28 de abril de 2006; 
+
+N° Ex. 55,  de 11 de mayo de 2006.
+
+
+
+CUARTO.- Autorízase al Director Regional de la Dirección Regional de la Región de Arica y Parinacota para delegar las facultades a que se refiere la Resolución N° Ex. 1.870, de 13 de abril de 1995, en el Jefe del Departamento de Resoluciones de su dependencia.
+
+
+QUINTO.- La resoluciones delegatorias de facultades que dicten los Directores Regionales deberán citar la presente  resolución, mencionándola por su número y fecha en la parte considerativa y deberán publicarse en extracto en el Diario Oficial.
+
+
+ANÓTESE, COMUNIQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERÓN
+DIRECTOR
+
+
+
+
+
+
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.
+
+
+
+
+
+
+
+
+Distribución:
+Directores Regionales de las Direcciones Regionales
+de las Regiones de los Ríos y de Arica y Parinacota
+Internet
+Diario Oficial. 
+
+
+
+
+
+
+
+

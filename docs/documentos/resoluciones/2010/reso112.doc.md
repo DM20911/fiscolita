@@ -1,0 +1,99 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso112.doc
+titulo: Word – Resolución Exenta SII N°112 del 12 de Julio del 2010 Autoriza Emisión de Boletas Electrónicas por Cuenta de Terceros, en Reemplazo de las Boletas a que se Refiere la Resolución Ex. N° 5028, de 1998. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°112 DEL 12 DE JULIO DEL 2010 MATERIA : AUTORIZA EMISIÓN DE BOLETAS ELECTRÓNICAS POR CUENTA DE TERCEROS, EN REEMPLAZO DE LAS BOLETAS A QUE SE REFIERE LA RESOLUCIÓN EX. N° 5028, DE 1998.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: 
+   
+Lo dispuesto en el Art. 6°, Letra A), N°s 1 y 3, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; Art. 56, incisos 3° y 4°, y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; en la Resolución Ex. N° 45, del 01 de Septiembre de 2003; en la Resolución Ex. N° 5028, de 28 de Agosto de 1998, en la Resolución Ex. N° 1251, de de 29 de julio de 1980 y en la Resolución Ex. N° 19, de 12 de Febrero de 2008.
+
+
+
+CONSIDERANDO:
+
+1° Que, el artículo 56, inciso tercero, de la Ley sobre Impuesto a las Ventas y Servicios, faculta a la Dirección Nacional del Servicio de Impuestos Internos para autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel. 
+
+2°  Que, mediante Resolución Nº 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, estableció que los contribuyentes que realicen espectáculos y reuniones pagadas, sean ocasionales o habituales, deben emitir boletas de servicios por el ingreso a estos, fijando los requisitos mínimos para ello. 
+
+3° Que, mediante Resolución Ex. N° 5028, de 28 de Agosto de 1998, el Director del Servicio Impuestos Internos autorizó a las empresas organizadoras o productoras de espectáculos públicos para emitir, por medio de mandatarios, las boletas de servicios correspondientes a las ventas de entradas para el ingreso a espectáculos públicos y reuniones pagadas. Conforme a su resolutivo 9°, la autorización correspondiente es concedida mediante resolución dictada por el Subdirector de Fiscalización, siempre que se halle debidamente resguardado el interés fiscal. 
+
+4° Que, mediante Resolución Ex. N° 19, de 12 de Febrero de 2008, el Director del Servicio de Impuestos Internos, sin perjuicio de la aplicación de la Resolución Ex. SII N° 45, de 2003, estableció requisitos y procedimientos específicos para autorizar la emisión de boletas electrónicas y boletas no afectas o exentas electrónicas. La facultad anterior fue delegada en el Subdirector de Fiscalización, mediante Resolución Ex. SII N° 08, de 23 de Enero de 2004. 
+
+
+5° Que, a partir de la vigencia de las resoluciones anteriores, el sistema de venta de entradas a espectáculos públicos ha experimentado cambios, especialmente, en lo que se refiere a la introducción en el mercado de nuevos mecanismos de comercialización electrónica; lo que hace necesario actualizar los procedimientos de emisión de documentos tributarios que efectúan las empresas organizadoras o productoras de espectáculos públicos por medio de mandatarios.
+
+6º Que, es deber del Servicio de Impuestos Internos facilitar permanentemente el cumplimiento tributario de los contribuyentes.
+				   
+
+
+
+SE RESUELVE:
+
+1° AUTORÍZASE a las empresas organizadoras o productoras de espectáculos públicos para emitir, por medio de mandatarios, boletas de servicios electrónicas por las ventas de entradas para el ingreso a espectáculos públicos y reuniones pagadas. Podrán también encomendarles que en su nombre y representación emitan las boletas electrónicas de servicios correspondientes, en reemplazo de la emisión de boletas de servicios impresas en papel a que se refiere la Resolución Ex. SII N° 5028, de 1998, previo cumplimiento de los requisitos establecidos en la presente resolución. 
+
+2° Para hacer uso de la autorización a que se refiere el dispositivo anterior, los interesados deberán tener la calidad de emisores de boletas electrónicas en la fecha que se emita la boleta, en los términos establecidos en la Resolución Ex. SII N°19 de 2008; sin perjuicio de dar cumplimiento a lo dispuesto en la Resolución Ex. SII N° 45, de 2003, especialmente, en lo relativo a los requisitos y procedimientos específicos para autorizar la emisión de boletas electrónicas y boletas no afectas o exentas electrónicas.
+
+3° Adicionalmente, las boletas electrónicas que emitan los contribuyentes, para los fines previstos en la presente resolución, deberán contener la siguiente información, en la forma que señala el documento técnico anexo a esta resolución, a saber:
+
+Ticket
+Descripción del espectáculo
+Tipo ticket
+Código del evento
+Fecha y Hora del Evento
+Lugar del evento,
+Sector de la ubicación ó Numeración del asiento
+Cantidad
+Precio Unitario
+Exención, cuando corresponda
+Referencias
+Folio del Ticket
+Fecha y Hora Generación del Ticket
+Resolución de la exención del servicio, cuando corresponda.
+Valor Servicio
+Indicar que es Comisión
+Cantidad
+Precio Unitario
+
+4° El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+5° La presente  resolución regirá a contar de la fecha de su publicación, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+                  (Fdo.)  JULIO PEREIRA GANDARILLAS
+		              	 DIRECTOR
+ Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/RPA/HSS/RGV
+
+Distribución:
+Oficina de Gestión Normativa
+Al Diario Oficial
+Internet
+Boletín SII
+
+Anexo: Datos e Información Adicional en el formato Boleta Electrónica.
+
+
+
+
+
+
+
+
+
+
+

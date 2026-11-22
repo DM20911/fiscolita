@@ -1,0 +1,103 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso53.doc
+titulo: Word – Resolución Exenta SII N°53 del 31 de Mayo del 2004 Actualiza Requisitos que Deben Cumplir los Vales Emitidos por Máquinas Registradoras, Terminales de Punto de Venta e Impresoras Fiscales Autorizadas por el Servicio de Impuestos Internos Para Reemplazar A Las Boletas. Deroga Res. Ex. N° 21 De
+categoria: otros
+---
+RESOLUCION EXENTA SII N°53 DEL 31 DE MAYO DEL 2004 MATERIA : ACTUALIZA REQUISITOS QUE DEBEN CUMPLIR LOS VALES EMITIDOS POR MÁQUINAS REGISTRADORAS, TERMINALES DE PUNTO DE VENTA E IMPRESORAS FISCALES AUTORIZADAS POR EL SERVICIO DE IMPUESTOS INTERNOS PARA REEMPLAZAR A LAS BOLETAS. DEROGA RES. EX. N° 21 DEL 01 DE JUNIO DEL 2001.
+
+
+SANTIAGO, 
+
+Hoy se ha resuelto lo que sigue:
+
+	VISTOS:
+		
+	Las facultades contempladas en el Art. 6°, letra A), N° 1, contenido en el Art. 1° del D.L. N° 830, de 1974 sobre Código Tributario; la letra b), del Art. 7° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, que contiene la Ley orgánica del Servicio de Impuestos Internos; el Título IV del D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios; el Título XIII del D.S. de Hacienda N° 55, de 1977, reglamentario del D.L. N° 825, de 1974; y
+
+
+	C O N S I D E R A N D O:
+
+
+	1°	Que, corresponde al Servicio de Impuestos Internos establecer los requisitos que deben cumplirse en la emisión de vales en reemplazo de boletas, emitidos por máquinas registradoras, terminales de punto de venta e impresoras fiscales autorizadas previamente por este Servicio con arreglo a las disposiciones vigentes, para lo cual esta Dirección debe arbitrar las medidas que procuren resguardar el interés fiscal y el cumplimiento de la obligación de emitir la documentación legal correspondiente.
+	
+	2°	Que, para ello se ha estimado necesario incorporar nuevos requisitos respecto de estos comprobantes, de manera que el consumidor final pueda distinguir claramente un vale de control interno de un vale en reemplazo de la boleta que cumple los requisitos establecidos por este Servicio, y así comprobar si efectivamente se le ha entregado el documento tributario correspondiente.
+
+
+SE RESUELVE:
+
+
+	1°	Los vales emitidos por una máquina registradora, terminal de punto de venta o impresora fiscal, previamente autorizada por el Servicio de Impuestos Internos, destinadas a ser entregados al público, deberán consignar como mínimo, los siguientes antecedentes: 
+
+Número del ROL UNICO TRIBUTARIO del emisor;
+Nombre o razón social del contribuyente;
+Domicilio o casa matriz del contribuyente;
+Giro o actividad del emisor;
+Dirección del negocio con indicación de ciudad, lugar, calle y número; donde funcionará la máquina registradora, terminal de punto de venta o impresora fiscal;
+Número y fecha de la resolución de la Dirección Nacional de este Servicio, que autorizan al equipo para emitir vales en reemplazo de boletas;
+Registro del monto de las operaciones realizadas. Todos los valores deberán expresarse en pesos ($);
+El equipo autorizado debe desglosar, por valor, los servicios entregados o los productos vendidos. Es decir, el vale debe detallar cada transacción de acuerdo a la lista de precios del establecimiento;
+Número consecutivo de los vales y su fecha de emisión con indicación del día, mes y año. En caso de usarse palabras o abreviaturas de ellas para referirse al mes de emisión, estas deberán consignarse en castellano;
+Las siguientes leyendas: “BOLETA DE VENTA AUTORIZADA POR EL SII”  o sus abreviaturas “BOLETA AUTORIZADA POR SII”, “BOLETA AUT. SII”, menciones que podrán imprimirse al momento de la emisión de los respectivos vales o podrán estar pre-impresas en las mismas. En el caso de estar pre-impresa, la leyenda puede constar en el anverso o en el reverso del documento, en forma repetitiva;
+Los establecimientos que tengan en uso dos o más máquinas registradoras, terminales de punto de venta e impresoras fiscales autorizadas, deberán emitir los vales indicando la frase "Caja 1, 2, 3", etc. según corresponda.
+
+Cuando los antecedentes señalados en los puntos b), c) y d) no puedan ser consignados en forma completa o con sus abreviaturas razonables e inteligibles en la faz principal de las boletas, se podrán indicar impresos al reverso de ellos, en forma repetitiva y horizontal, de tal manera que al reverso de cada boleta figure a lo menos un conjunto completo de los antecedentes tributarios del emisor.
+
+	2°	En caso de efectuarse anulaciones, descuentos o correcciones de partidas registradas, que hayan sido permitidas según las autorizaciones particulares de uso, podrán utilizarse signos negativos (-) para clarificar dichas operaciones. No se permitirá la emisión de boletas con totales negativos.
+
+	3°	Los contribuyentes que a la fecha de publicación de esta Resolución emitan boletas por medio de máquinas registradoras, terminales de punto de venta o impresoras fiscales deberán cumplir con todos los requisitos señalados en esta Resolución, dentro del plazo de tres meses contados desde su entrada en vigencia. No será necesario emitir nuevas Resoluciones que autoricen a cada contribuyente a usar máquinas registradoras para la emisión de boletas, manteniéndose vigentes las actuales.
+
+	4°	En caso que las máquinas registradoras y terminales de punto de venta requieran romper sellos, será necesario la presencia de un ministro  de fe, por lo cual, el contribuyente deberá solicitar su presencia en la Dirección Regional correspondiente.
+
+	5°	A partir de la entrada en vigencia de la presente Resolución, para toda nueva autorización que se solicite para emitir vales en reemplazo de boletas, a través de máquinas registradoras, terminales de punto de venta e impresoras fiscales, se exigirá el cumplimiento de los requisitos antes señalados.
+
+	6°	Derógase la Res. Ex. N° 21 del 01 de Junio del 2001.
+
+	7°	La presente Resolución entrará en vigencia a contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+
+ANÓTESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.
+
+	
+
+
+
+			
+SECRETARIA GENERAL
+
+
+
+
+
+
+Distribución:
+Gabinete Director
+Subdirección de Fiscalización
+Departamento de Operación IVA y Catastro de Contribuyentes
+Internet
+Oficina de Partes
+Diario Oficial (en extracto)
+Archivo
+PAGE  
+
+
+PAGE  3
+
+
+
+
+

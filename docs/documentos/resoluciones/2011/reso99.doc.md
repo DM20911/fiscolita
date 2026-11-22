@@ -1,0 +1,66 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso99.doc
+titulo: Word – Resolución Exenta SII N°99 del 08 de Agosto del 2011 Amplía Excepcionalmente Plazo de la Resolución Ex. Sii N° 126, del 01.09.2009. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°99 DEL 08 DE AGOSTO DEL 2011 MATERIA : AMPLÍA EXCEPCIONALMENTE PLAZO DE LA RESOLUCIÓN EX. SII N° 126, DEL 01.09.2009.
+ Hoy se ha resuelto lo siguiente:
+
+
+VISTOS: 
+
+Las facultades contenidas en el Artículo 6°, letra A), N° 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. N° 7, de Hacienda de 1980; lo dispuesto en el Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios y en su reglamento, contenido en el Decreto Supremo de Hacienda N° 55, de 1977; la Resolución Ex. SII N° 126, del 1° de septiembre de 2009, que autoriza temporalmente a Petrobras Chile Distribución Ltda., la utilización de sistema de emisión de documentos que se indica, y la Resolución Ex. SII N° 146, del 8 de septiembre de 2010.
+
+La presentación efectuada por don Mario Arce Garcés RUT N° 10.663.451-3, fechada el 21 de abril de 2010, en representación de Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, en la que solicita prórroga de la autorización para operar con el sistema integrado de venta de combustibles y lubricantes a través de tarjetas de crédito; y de venta de combustibles a través de tarjetas prepagadas, denominado “Petrobras Flota – Ticket Car”, otorgada por Resolución Ex. SII N° 126, de 01 de septiembre de 2009, y ampliada por la Resolución Ex. SII N° 146, de 08 de septiembre de 2010. 
+
+CONSIDERANDO:
+
+1° Que, el contribuyente Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, es emisor electrónico.
+
+						 2° Que, dicho contribuyente se encuentra en proceso de implementación, de los siguientes procesos, que concluirá en el mes de diciembre de este año:
+
+Emisión de DTE en Terminales de Distribución.
+Emisión de DTE en Petrobras Chile Red.
+Emisión de Guías de Despacho Electrónicas para el producto Flota Ticket Car en toda la cadena de estaciones de servicio Petrobras.
+
+3° Que, el resolutivo 3° de la Resolución Ex. SII N° 126, del 01 de septiembre de 2009, señala que el contribuyente Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, puede solicitar la renovación de la vigencia de autorización de emisión especial de documentos tributarios, fundado en la existencia de razones de fuerza mayor.
+
+4° Que, a juicio de este Servicio, en mérito a las razones antes expuestas, en conformidad a lo dispuesto en el artículo 56° del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, resulta procedente acceder a lo solicitado por el contribuyente. 
+
+
+
+SE RESUELVE:
+
+
+1°.- AMPLÍASE hasta el 31 de diciembre de 2011, el plazo de la autorización otorgada a Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, establecido en el resolutivo 3° de la Resolución Ex. SII N° 126, del 01.09.2009.
+
+
+2°.- Si el contribuyente manifestara razones de fuerza mayor que, a su juicio, puedan calificarse como atendibles para eventualmente acceder a la renovación del aplazamiento de esta autorización de emisión especial de documentos tributarios y uso de los sistemas descritos en detalle en la Resolución Ex. SII N°126, del 01.09.2009, podrá solicitar aquella antes del vencimiento del plazo otorgado en el resolutivo anterior, mediante formulario 2117 de peticiones administrativas, el que se tramitará conforme al procedimiento general.
+
+3°.- La presente resolución se publicará, en extracto, en el Diario Oficial.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+                         DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/RPA/HSS/cpg
+DISTRIBUCIÓN:
+-	Al Boletín
+-	A Internet
+-	Al Diario Oficial en Extracto
+

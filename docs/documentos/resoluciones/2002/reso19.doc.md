@@ -1,0 +1,91 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso19.doc
+titulo: Word – Resolución Exenta N°19 del 30 de Agosto del 2002 Rectifica Tasación de Vehículos Livianos. Fuente: Subdir. Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA N°19 DEL 30 DE AGOSTO DEL 2002 MATERIA : RECTIFICA TASACIÓN DE VEHÍCULOS LIVIANOS
+
+
+Vistos: Lo dispuesto en el artículo 6°, letra A), del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, las Resoluciones números 16 y 18 exentas , de 11 de Julio de 2002 y 29 de Agosto de 2002, respectivamente, y el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales, y
+
+CONSIDERANDO:
+
+1. Que en virtud de las disposiciones legales citadas precedentemente, se dictó la Resolución N° 2 exenta, de fecha 14 de Enero de 2002, publicada en el Diario Oficial del día 19 del mismo mes y año, y
+2. Que, es necesario rectificar la lista anexa de dicha resolución;
+
+SE RESUELVE:
+ Rectifícase las tasaciones que se señalan, de la lista anexa que contiene la Resolución N° 2 exenta, de fecha 14 de enero de 2002, publicada en el diario El Mercurio el día 30 del mismo mes y año:
+
+MARCA/MODELO
+CODIGO
+AÑO
+DICE
+DEBE DECIR
+FORD
+ TAURUS LX
+AUT / FULL
+
+A140864
+
+
+1996
+
+
+$6.890.000
+
+
+$6.300.000
+
+ LAND ROVER
+RANGE ROVER HSE
+AUT/ FULL
+
+J300056
+
+
+1996
+
+$21.350.000
+
+
+$17.000.000
+
+OPEL OMEGA 3.0 
+I-24
+AUT/ FULL
+
+A400063
+
+
+1997
+
+$10.680.000
+
+
+$8.500.000
+
+FORD RANGER
+XLT DOBLE CABINA
+MEC / FULL
+C140190
+
+2001
+$11.560.000
+$8.300.000
+
+
+
+Anótese, comuníquese y publíquese
+
+
+
+		ERNESTO TERAN MORENO
+	SUBDIRECTOR DE AVALUACIONES
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Distribución:
+Internet
+extracto en Diario Oficial
+Boletín
+

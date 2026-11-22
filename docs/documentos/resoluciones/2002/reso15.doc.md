@@ -1,0 +1,126 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso15.doc
+titulo: Word – Resolución Exenta N°15 del 25 de Junio del 2002 Establece Documentos y Normas Administrativas y de Control para las Operaciones que Realicen las Empresas Industriales Manufactureras Acogidas a las Disposiciones de la Ley Nº 19.709, Publicada el 31-01-2001, que Crea Régimen de Zona Franca Indu
+categoria: otros
+---
+RESOLUCION EXENTA N°15 DEL 25 DE JUNIO DEL 2002
+MATERIA : ESTABLECE DOCUMENTOS Y NORMAS ADMINISTRATIVAS Y DE CONTROL PARA LAS OPERACIONES QUE REALICEN LAS EMPRESAS INDUSTRIALES MANUFACTURERAS ACOGIDAS A LAS DISPOSICIONES DE LA LEY Nº 19.709, PUBLICADA EL 31-01-2001, QUE CREA RÉGIMEN DE ZONA FRANCA INDUSTRIAL DE INSUMOS, PARTES Y PIEZAS PARA LA MINERÍA EN LA COMUNA DE TOCOPILLA DE LA II REGIÓN.
+
+						Hoy se ha resuelto lo que sigue:
+
+                                                          		VISTOS: lo dispuesto en el artículo 6º letra A, Nº 1 y 4 del Decreto Ley Nº 830, de 1974, sobre Código Tributario; el artículo 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda; los artículos 12º letra D, 36º y 50º del Decreto Ley  Nº 825, de 1974 sobre Impuesto a las Ventas y Servicios; los artículos 1º y 2º del Decreto Supremo Nº 348, de 1975 del Ministerio de Economía, Fomento y Reconstrucción;  los artículos 4°, 7° y 8° de la Ley N° 19.709, publicada en Diario Oficial del 31-01-2001; la Resolución N° 4.454 de la Dirección Nacional de Aduanas, publicada en Diario Oficial del 07-12-2001 que aprueba el Reglamento del Régimen Industrial de Zona Franca de Tocopilla, y
+
+
+                                                 			CONSIDERANDO:
+
+1.-	Que, según el artículo 1º de la Ley Nº 19.709, a contar del 01-01-2002 y por un período de 25 años, se establece un régimen preferencial aduanero y tributario para la comuna de Tocopilla, de la Provincia del mismo nombre, ubicada en la II Región de Antofagasta.
+
+2.-	Que, gozarán de las franquicias de esta ley, las empresas industriales manufactureras constituidas como sociedades de cualquier tipo, que tengan por único objeto elaborar insumos, partes o piezas o reparar bienes de capital para la minería y que, con posterioridad a la publicación de la presente ley y dentro del lapso de cinco años, contado desde dicho evento, se instalen físicamente en terrenos ubicados dentro de los deslindes administrativos de la comuna de Tocopilla, que cumplan los requisitos exigidos en la ley y así lo certifique, mediante resolución fundada, el Intendente de la II Región o la certificación de Notario Público.
+
+3.-	Que, el artículo 7° de la citada Ley, determina que las ventas que se hagan a las empresas mencionadas en el punto anterior, de mercaderías nacionales o nacionalizadas necesarias para el desarrollo de sus actividades, procesos o ampliaciones y que ingresen al territorio de la comuna de Tocopilla, se considerarán para todos estos fines como exportación exclusivamente para los efectos tributarios previstos en el Decreto Ley N° 825, de 1974.
+
+4.- 	Que, en consecuencia, la venta de mercancías nacionales o nacionalizadas a las empresas industriales establecidas en la Zona Franca Industrial de Tocopilla, faculta al vendedor para recuperar el crédito fiscal generado en la adquisición de las mismas, hasta el porcentaje equivalente a la tasa del impuesto respectivo sobre el monto de las citadas ventas.
+	
+5.-  	Que, el procedimiento de esta recuperación que establece el  D.S. Nº 348, de 1975 del Ministerio de Economía, Fomento y Reconstrucción, hace necesario la creación de una factura especial, que reemplace para el efecto al conocimiento o declaración de embarque que habitualmente se utiliza para acreditar la efectividad de la exportación.
+
+6.-	Que, el inciso 2° del mismo artículo 7° de la Ley N° 19.709, establece que el ingreso de las referidas mercancías a dicho territorio, deberá verificarse y certificarse por el Servicio Nacional de Aduanas, en la forma y condiciones que determine el Servicio de Impuestos Internos; como asimismo, acreditarse de acuerdo a las normas que fije dicho Servicio.
+
+7.-	Que, se podrá abonar al pago de los impuestos del D.L. N° 825, de 1974, que se determinen por la importación al resto del país de las materias primas, partes o piezas de origen extranjero y/o con materias primas, partes o piezas nacionales o nacionalizadas que formen parte del producto final, las sumas recargadas por concepto de los mismos impuestos en las ventas al resto del país de las mismas mercaderías, en la forma y condiciones que establezca el Servicio de Impuestos Internos. 
+
+8.-	Que, las ventas de insumos, partes y piezas a empresas mineras establecidas en la II Región de Antofagasta, para ser usadas en los procesos productivos dentro de esta región, también se deberán verificar y certificar por el Servicio de Aduanas y acreditarse en la forma y condiciones que determine el Servicio de Impuestos Internos.
+
+9.-	Que, para el cumplimiento de las medidas de control y resguardo del interés fiscal que competen a este Servicio en las operaciones que se realicen al amparo de la Ley N° 19.709, se hace necesario la creación de documentos especiales para que respalden estas transacciones y asimismo, la implantación de otras normas administrativas y contables.
+
+
+                                                 		 	RESUELVO:
+
+1.- 	Establécese una factura especial para respaldar la venta de mercaderías nacionales o nacionalizadas a las empresas industriales de la comuna de Tocopilla destinadas al desarrollo de sus actividades de elaborar insumos, partes o piezas o reparar bienes de capital para la minería, que sean autorizadas para operar conforme a las normas de la Ley N° 19.709.
+ 
+2.- 	Esta factura especial deberá cumplir con los siguientes requisitos:
+a)	Tener numeración correlativa distinta de las facturas usadas en el resto de las operaciones del  contribuyente.
+b)	Ser extendidas en sextuplicado, todas de diferente color, con la siguiente distribución: Original en papel de color blanco para el comprador, contribuyente establecido en la Zona Franca Industrial de Tocopilla; la primera copia para el vendedor, la segunda copia para el Servicio Nacional de Aduanas, la tercera  copia Control Tributario, la cuarta copia para acompañar a la declaración jurada que debe presentar en caso que conforme al artículo 36 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825 de 1974, solicite devolución de impuestos y, la quinta copia para el talonario o archivo.
+c)	Llevar impreso en la parte superior el título " FACTURA DE VENTA EXENTA A EMPRESA ESTABLECIDA EN ZONA FRANCA INDUSTRIAL DE TOCOPILLA ".       
+d)	En la parte inferior, llevar un recuadro con la indicación:
+"Para uso exclusivo del Servicio Nacional de Aduanas" y la siguiente leyenda: "CERTIFICO QUE LA MERCADERÍA A QUE SE REFIERE ESTA FACTURA FUE INGRESADA A LA ZONA FRANCA INDUSTRIAL DE TOCOPILLA, CON FECHA  ...,  NOMBRE DEL FUNCIONARIO  ...,   Nº DE RUT  ...,  FIRMA  ...,  TIMBRE DE ADUANAS”.
+e)	Indicar detalle de la mercadería vendida; estar numerada en forma correlativa; estar debidamente autorizada por este Servicio; además, cumplir con los requisitos contenidos en el artículo 69º del D.S. de Hacienda Nº 55, de 1977,  Reglamento del D.L. Nº 825, de 1974.  
+f) 	Al individualizar al comprador, se deberá señalar número y fecha de la resolución de la Intendencia Regional que certificó el cumplimiento de los requisitos legales para el establecimiento de la empresa industrial en la Zona Franca de Tocopilla o, cuando proceda, el nombre del Notario Público, número y fecha de la acreditación, a que se refiere el inciso cuarto del artículo 1° de la Ley N° 19.709.
+
+3.-	Las mercaderías nacionales o nacionalizadas, vendidas a empresas industriales establecidas en la Zona Franca Industrial de Tocopilla, deberán ser trasladadas con el original y las cuatro primeras copias de esta factura especial, la que deberá exhibirse a requerimiento de funcionarios de este Servicio, durante el traslado de las especies, en vehículos destinados al transporte de carga.       
+
+4.- 	Al ingresar las mercaderías a la Zona Franca Industrial de Tocopilla, el funcionario del Servicio Nacional de Aduanas que corresponda, procederá a verificar y certificar su ingreso, llenando el recuadro mencionado en la letra d) del Nº 2, de esta resolución, tanto en el original como en las cuatro copias de cada una de las facturas presentadas para su comprobación y visación y, dejará en su poder la segunda copia, debidamente certificada.     
+
+5.-	El original de la factura especial y la copia control tributario, certificadas, quedarán en poder del comprador establecido en la Zona Franca Industrial de Tocopilla; la primera y cuarta copia con igual certificación, en poder del vendedor, quién deberá adherir la primera, a la copia que quedó en su talonario o archivo y, la cuarta copia servirá para acompañar a la declaración jurada a que se refiere el número siguiente de esta resolución.        
+
+6.-	La cuarta copia certificada de la factura especial, deberá adjuntarse a la declaración jurada a que se refiere el artículo 2º del Decreto Supremo Nº 348, de 1975 del Ministerio de Economía, Fomento y Reconstrucción, para solicitar al Servicio de Impuestos Internos la devolución de impuestos conforme al artículo 36º del Decreto Ley Nº 825, de 1974; siempre que el contribuyente no haya recuperado el crédito fiscal, que corresponda a la adquisición de las especies vendidas a las empresas industriales de la Zona Franca de Tocopilla, imputándolo al débito fiscal del mismo período.             
+
+7.-	El reembolso de los impuestos deberá solicitarse al mes siguiente al de la certificación por el Servicio de Aduanas en la factura especial, respecto del ingreso de las mercaderías vendidas a empresas industriales de la Zona Franca Industrial de Tocopilla. 
+
+8.- 	Para los efectos de esta recuperación de impuestos, su monto debe corresponder como máximo dentro del crédito fiscal respectivo, al porcentaje equivalente a la tasa del tributo aplicado al monto de  las ventas que constan en estas facturas especiales del período tributario que se trate. (Art. 7° inc.1º Ley 19.709).   
+
+9.-	A  la solicitud respectiva le serán exigibles, en lo pertinente, todos los requisitos que determinan las normas reglamentarias del artículo 36º del D.L. Nº 825, de 1974, contenidas en el D.S. Nº 348, de 1975 del Ministerio de Economía, Fomento y Reconstrucción, siéndole aplicable asimismo, para su tramitación y aprobación, las instrucciones que sobre la materia haya impartido el Servicio.
+
+10.-	Con el objeto de permitir un adecuado control de las mercaderías nacionales o nacionalizadas, tanto de sus compras, existencias y de las utilizadas como materia prima en la obtención de insumos, partes o piezas para la minería o destinadas a reparar bienes de capital, los contribuyentes acogidos a la Ley N° 19.709, deberán registrar separadamente en sus anotaciones contables, todas las operaciones que correspondan a estas mercaderías.
+
+11.-	De igual forma, en las facturas de venta que emitan las empresas industriales manufactureras autorizadas para operar bajo el régimen de Zona Franca Industrial de Insumos, Partes  y Piezas para la Minería en la comuna de Tocopilla de la II Región, deberán indicar separadamente, como información adicional, el valor de los componentes de origen nacional o nacionalizados y/o el valor de los componentes de origen extranjero, según corresponda. Tratándose de ventas al resto del país, el usuario deberá consignar en la respectiva factura el IVA retenido correspondiente a los insumos nacionales o nacionalizados y el Servicio de Aduanas girará el IVA correspondiente a los insumos extranjeros.
+
+12.-	Establécese una factura especial para respaldar la venta de insumos, partes y piezas efectuada por las empresas instaladas en la comuna de Tocopilla al amparo de la Ley N° 19.709 a empresas mineras establecidas en la II Región de Antofagasta, adquiridas para ser usadas en sus procesos productivos dentro de la citada Región. Este documento deberá cumplir con los siguientes requisitos:
+Tener numeración correlativa distinta de las facturas usadas por el contribuyente en otras operaciones.
+Ser extendidas en cinco ejemplares, todos de diferente color, con la siguiente distribución: original de color blanco para el comprador, empresa minera de la II Región; la primera copia para el vendedor, la segunda copia para el Servicio Nacional de Aduanas, la tercera copia control tributario y la cuarta copia para el talonario o archivo.
+Llevar impreso en la parte superior el título “FACTURA DE VENTA A EMPRESA MINERA II REGION” y junto a los datos de identificación del emisor, señalar número y fecha de la resolución de la Intendencia Regional que certificó el cumplimiento de los requisitos legales para el establecimiento de la empresa industrial en la Zona Franca de Tocopilla o, cuando proceda, el nombre del Notario Público, número y fecha de la acreditación, a que se refiere el inciso cuarto del artículo 1° de la Ley N° 19.709.
+En la parte inferior, llevar un recuadro con la indicación:
+“Para uso exclusivo del Servicio Nacional de Aduanas” y la siguiente leyenda: "CERTIFICO QUE LA MERCADERÍA A QUE SE REFIERE ESTA FACTURA FUE VENDIDA A EMPRESA MINERA DE LA II REGION, SALIO CON FECHA  ...,  NOMBRE DEL FUNCIONARIO  ...,   Nº DE RUT  ...,  FIRMA  ...,  TIMBRE DE ADUANAS”.
+e)	Indicar detalle de la mercadería vendida; estar numerada en forma correlativa; estar debidamente autorizada por este Servicio; además, cumplir con los requisitos contenidos en el artículo 69º del D.S. de Hacienda Nº 55, de 1977,  Reglamento del D.L. Nº 825, de 1974. 
+
+13.-	Los insumos, partes y piezas vendidas a empresas mineras de la II Región, deberán salir de la Zona Franca de Tocopilla con el original y las tres primeras copias de esta factura especial; en el recinto habilitado, el Servicio de Aduanas procederá a verificar y certificar su salida, llenando el recuadro mencionado en la letra d) del número anterior de esta resolución, tanto en el original como en las tres copias de cada una de las facturas presentadas para su comprobación y visación y, dejará en su poder la segunda copia certificada. El transportista llevará debidamente visadas el original y la tercera copia, documentos que deberán exhibirse a requerimiento de funcionarios de este Servicio, durante el traslado de las especies en vehículos destinados al transporte de carga. La primera copia vendedor, debidamente visada por Aduana, deberá archivarse adjunto a la respectiva copia talón. 
+
+14.-	Establécese una guía de despacho especial para el traslado de bienes de capital para la minería, que sean sometidos a reparaciones en las empresas industriales de la comuna de Tocopilla que se encuentren autorizadas para funcionar bajo el régimen de Zona Franca. Esta guía se denominará “GUÍA DE DESPACHO BIENES DE CAPITAL PARA LA MINERÍA A REPARACIÓN EN ZONA FRANCA INDUSTRIAL  TOCOPILLA” y deberá cumplir los siguientes requisitos:
+Tener numeración distinta de las guías de despacho a que se refiere el Artículo 55° del D.L. N° 825, de 1974.
+Extenderse en cinco ejemplares, todos de diferente color, con la siguiente distribución: original de color blanco para la empresa industrial prestadora de servicios ubicada en la Zona Franca Industrial de Tocopilla, la primera copia Control Tributario, la segunda copia para el Servicio de Aduanas, la tercera copia para acompañar al respectivo documento de salida del bien de capital enviado a reparación y la cuarta copia para el talonario o archivo. 
+Los bienes de capital para la minería, sometidos a reparaciones en la Zona Franca Industrial de Tocopilla, deberán presentarse a la Aduana con el original y las tres primeras copias de este documento.
+Llevar impreso en la parte superior el título “GUIA DE DESPACHO BIENES DE CAPITAL PARA LA MINERIA A REPARACIÓN EN ZONA FRANCA INDUSTRIAL DE TOCOPILLA” .
+Indicar la descripción del o los bienes de capital sometidos a reparación, señalando tipo del bien, marca y otros datos que permitan una clara identificación; cumplir con los requisitos contenidos en el artículo 70° del D.S. de Hacienda N° 55, de 1977, Reglamento del D.L. N° 825, de 1974.
+En la parte inferior, llevará un recuadro con la siguiente indicación: “Para uso exclusivo del Servicio Nacional de Aduanas” y la siguiente leyenda: "CERTIFICO QUE EL BIEN DE CAPITAL PARA LA MINERIA, A QUE SE REFIERE ESTA GUIA DE DESPACHO, INGRESA PARA REPARACIONES A LA ZONA FRANCA INDUSTRIAL DE TOCOPILLA, CON FECHA  ...,  NOMBRE DEL FUNCIONARIO  ...,   Nº DE RUT  ...,  FIRMA  ...,  TIMBRE DE ADUANAS”, antecedentes  que completará en todas las divisionales que debe presentar a la Aduana, según se indica en la letra c) anterior.
+
+15.-	Para la salida de estos bienes de capital para la minería, desde la Zona Franca Industrial de Tocopilla, deberán hacerlo amparados de la respectiva factura emitida por la empresa industrial, en la que señalará en el cuerpo del documento el número y fecha de la Orden de Trabajo que exige el Servicio de Aduanas y número y fecha de la Guía de Despacho a que se refiere el resolutivo anterior y acompañará la tercera copia, debidamente visada en su oportunidad por funcionario del Servicio de Aduanas.		
+
+16.-	Las empresas industriales que se dediquen a la reparación de bienes de capital para la minería, deberán llevar además, en forma separada, registros permanentes de inventario de mercancías importadas desde el extranjero o del resto del país, con indicación: para los efectos de las compras, del número y fecha del respectivo documento de importación y, para las utilizadas en los procesos de reparaciones, señalando número y fecha de Orden de Trabajo y número y fecha de la respectiva factura emitida.
+
+17.-	La no emisión de estos documentos o la emisión en una forma distinta a la exigida en cada caso, constituirá infracción sancionada por el artículo 97° N° 10 del Código Tributario. 
+
+18.-	La presente Resolución entrará en vigencia a contar de su publicación en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE  Y  PUBLÍQUESE EN EXTRACTO.	
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+					Lo que transcribo a usted para su conocimiento y demás fines.
+					Saluda a Ud.	
+
+
+DISTRIBUCIÓN:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Fiscalización.
+I Dirección Regional SII. – Iquique.
+II Dirección Regional SII. – Antofagasta.
+Departamento Fiscalización Tributación Internacional.
+Oficina de Partes.
+Boletín del Servicio.
+Internet.
+Diario Oficial en Extracto.
+
+PÁGINA  4
+
+
+
+
+
+
+

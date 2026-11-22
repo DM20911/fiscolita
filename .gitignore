@@ -1,0 +1,28 @@
+# memoria e identidad de cada instalación
+config/*
+!config/.gitkeep
+memoria/*
+!memoria/README.md
+
+# índice generado (construir_indice.py)
+busqueda.sqlite
+busqueda.sqlite.tmp
+
+# regeneración desde sii.cl
+raw/
+_tools/crawl.sqlite
+_tools/*.log
+_tools/stats.json
+
+__pycache__/
+*.pyc
+*.bak
+.DS_Store
+
+# secretos del bot
+.env
+.env.*
+!.env.example
+
+# Vercel
+web/.vercel/

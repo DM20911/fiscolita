@@ -1,0 +1,36 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso03.doc
+titulo: Word – Resolución Exenta SII N°03 del 07 de Enero del 2008 Derógase la Resolución Ex. N° 26, de 06.02.2004 y sus Modificaciones Posteriores, que Establece Obligación de Presentar Declaración Jurada sobre Rentas del Art. 42, N°1, de la Ley de la Renta (Sueldos), Retenciones del Impuesto Único y Capac
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°03 DEL 07 DE ENERO DEL 2008 MATERIA : DERÓGASE LA RESOLUCIÓN EX. N° 26, DE 06.02.2004 Y SUS MODIFICACIONES POSTERIORES, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE RENTAS DEL ART. 42, N°1, DE LA LEY DE LA RENTA (SUELDOS), RETENCIONES DEL IMPUESTO ÚNICO Y CAPACITADOS POR SENCE.
+
+Hoy se ha resuelto lo siguiente:
+
+VISTOS: Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974, el artículo 101 de la Ley de Impuesto a la Renta, los artículos 5° y 19° de la Ley N° 19.880; la Res. Ex. N° 26 de 06.02.2004 y sus modificaciones posteriores; y 
+CONSIDERANDO:   
+1.            Que, en virtud del texto actual de la Res. Ex. N° 26, de fecha 06 de Febrero de 2004, de esta Dirección Nacional, las instituciones, organismos y personas naturales o jurídicas que hagan uso del crédito por gastos de capacitación y respecto de las cuales se verifique que las remuneraciones imponibles pagadas a su personal durante el año, fluctúen entre 35 y 900 unidades tributarias mensuales inclusive, deben presentar  a este Servicio la declaración jurada contenida en el formulario 1827.
+
+
+2.            Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, existe un interés constante por mejorar todos los procesos de fiscalización que aplica, así como de optimizar  la información que se utiliza para el logro de esta función. 
+  
+			                               RESUELVO:  
+1.- DERÓGASE la Resolución Exenta N° 26, de 06 de Febrero de 2004, modificada por la Res. Ex N° 13, del 26 de Enero del 2006, que estableció la obligación de presentar Declaración Jurada Anual N° 1827, denominada “Declaración Jurada Anual sobre Rentas del Art.42 N°1 de la Ley de la Renta (Sueldos), Retenciones del Impuesto Único y Capacitados por SENCE”
+2.- En virtud de la derogación de la Res. Ex. N° 26, de 06 de Febrero de 2004 y sus modificaciones posteriores, establecida en el Resolutivo N° 1 precedente, los contribuyentes que en virtud de ella se encontraban eximidos de la obligación de presentar el Formulario 1887, sobre rentas del Art. 42 N° 1, establecido en la Res. Ex. N° 6836, D.O 06.01.94 y sus modificaciones posteriores, deberán a partir de la vigencia de la presente Resolución, retomar el cumplimiento de dicha obligación
+3.- La presente Resolución rige a partir del Año Tributario 2008. 
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+ (FDO) RENÉ GARCÍA GALLARDO DIRECTOR (S)
+
+
+
+Lo que comunico a Ud., para su conocimiento y demás fines, 
+Saluda a Ud., 
+
+CSM/PMS
+DISTRIBUCIÓN: 
+Al Diario Oficial, En Extracto
+Al Boletín 
+A Internet
+
+

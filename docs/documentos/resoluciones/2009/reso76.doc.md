@@ -1,0 +1,241 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso76.doc
+titulo: Word – Resolución Exenta SII N°76 del 28 de Mayo del 2009 Autoriza Como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°76 DEL 28 DE MAYO DEL 2009 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso 1°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+
+
+
+						     SE RESUELVE:
+
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Junio del 2009, a los siguientes contribuyentes:
+
+ - AGRICOLA TARAPACA LTDA. 							 85.120.400-8
+ - ANA MARIA CATALAN TORRICO  						 06.225.466-1 - ASESORIA & CONSTRUCCION, MAURICIO GONZALEZ SALGADO E.I.R.L. 	 76.029.375-K - ASESORIA COMPUTACIONAL IONET LTDA.  					 76.172.660-9 - BANFF CHEMICAL LTDA. 							 77.121.970-5 - CARLOS ANIBAL QUINTANA MAUREIRA 					 06.028.700-7 - CLUB HIPICO DE SANTIAGO S.A. 						 90.212.000-9 - COGNIS B V Y COMPANIA LTDA.  						 77.849.600-3 - COMERCIAL ICOM LTDA. 							 78.018.550-3 - COMERCIALIZADORA DE INSUMOS PARA 					 77.079.100-6
+   MINERIA Y CONSTRUCCION LTDA.  - COMPANIA AGROPECUARIA COPEVAL S.A. 					 81.290.800-6 - DISAL CHILE SANITARIOS PORTABLES S.A. 					 96.824.110-9 - DIST GASOLUB LTDA. 								 76.798.420-0 - DOCUFILMS CINE & TELEVISION LTDA. 					 76.050.858-6 - ERAL CHILE S.A. 							 	 96.533.660-5 - EURO PLANT CHILE S.A. 							 96.855.060-8 - FLOWSERVE CHILE S.A. 							 96.959.580-K - GUSTAVO SALVADOR REYES NUNEZ 						 06.149.625-4 - HOTEL ANTOFAGASTA S.A. 							 96.884.900-K - IMPRENTA M Y F LTDA. 							 78.205.260-8 - IMPRENTAS UNIDAS S.A. 							 91.641.000-K - INCOFIN S.A. 									 96.626.570-1 - INDUSTRIAS DE TECNOLOGIA HIDRAULICA 					 84.912.700-4
+   EN MINERIA Y CONSTRUCCION S.A.  - INGENIERIA ELECTRICA JUAN CARLOS GUERRA DONOSO E.I.R.L. 		 76.010.949-5 - INGIENERIA ELECTRICA GASTON VILLARROEL LTDA.  			 76.101.560-5 - INMOBILIARIA FLORENCIA LTDA. 						 78.915.620-4 - JOSE ENRIQUE AVALOS MORA 						 05.982.236-5 - MARIA FRANCISCA RAAB GOMEZ  						 08.233.752-0 - ORLANDO ESTEBAN AGUIRRE 						 03.550.511-3 - PATROLL SERVICIOS INTEGRADOS LTDA. 					 77.384.410-0 - PRODUCTORA CUATRO LTDA. 						 78.300.230-2 - RIZZO ASSOCIATES CHILE S.A. 						 96.960.790-5 - ROSTEK SERVICIO S.A. 							 96.968.330-K - RR WINE LTDA.  								 78.478.460-6 - SAINT-GOBAIN ENVASES S.A. 							 76.092.970-0 - SALAMANCA FOODS S.A. 							 78.843.530-4 - SERVICIOS AGROSISTEMAS LTDA. 						 78.083.710-1 - SERVICIOS AMBIENTALES S.A. 						 79.651.730-1 - SERVICIOS DE GRUAS CARMONA LTDA. 					 78.627.780-9 - SERVICIOS DE INGENIERIA Y VENTAS TECNICAS LTDA.  			 78.862.580-4 - SFR PROTECCION CONTRA INCENDIO SPA.  					 76.003.257-3 - SIERRA ALTO CACHAPOAL S.A. 						 96.813.780-8 - SOC COMERCIAL KAPIN LTDA. 						 77.100.890-9 - SOC DE INVERSIONES SIMPLIFIKA CL LTDA. 					 77.935.980-8 - TANNER CORREDORES DE BOLSA S.A. 					 80.962.600-8 - TELECOMUNICACIONES COPIAPO LTDA. 					 78.493.510-8 - TRANSAUTO S.A. 								 96.615.460-8 - TRANSPORTES OSSA LTDA.  							 77.748.910-0 - WURTH CHILE LTDA.  								 78.701.740-1 - RESTAURANT EL SUIZO LTDA. 						 78.198.040-4
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+                           (Fdo.)  IVÁN BELTRAND CRUZ
+                        SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/RGV
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso114.doc
+titulo: Word – Resolución Exenta SII N°114 del 25 de Septiembre del 2008 Incorpora a la Res. N°43, de 2001, las Rentas Obtenidas en Compra y Venta de Moneda Extranjera y en Operaciones de Derivados Financieros. Fuente: Departamento Medianas y Grandes Empresas e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°114 DEL 25 DE SEPTIEMBRE DEL 2008 MATERIA : INCORPORA A LA RES. N°43, DE 2001, LAS RENTAS OBTENIDAS EN COMPRA Y VENTA DE MONEDA EXTRANJERA Y EN OPERACIONES DE DERIVADOS FINANCIEROS.
+					       
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las facultades contempladas en los Artículos 6°, letra A, N° 1; y en el inciso 2° del Artículo 68 del Código Tributario contenido en el artículo 1° del decreto ley 830, de 1974, en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, y en los Artículos 65 N° 1 y 68 inciso 2° ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley 824, de 1974 y lo dispuesto en la Res. Ex. N° 43 de 22.10.2001. 
+
+CONSIDERANDO:
+
+1.- 	Que,  el inciso 2° del Artículo 68 del Código Tributario,  el N° 1 del Artículo 65 y el inciso 2° del Artículo 68° ambos de la Ley sobre Impuesto a la Renta, disponen, respectivamente, que el Director del Servicio podrá eximir de la obligación de presentar una declaración jurada sobre iniciación de actividades, de la obligación de presentar anualmente una declaración jurada de sus rentas y de la obligación de llevar contabilidad, a aquellos contribuyentes no domiciliados ni residentes en el país, que solamente obtengan rentas de capitales mobiliarios, sea producto de su tenencia o enajenación, aun cuando estos contribuyentes hayan designado un representante a cargo de dichas inversiones en el país.
+
+2.-	Que, con fecha 2 de mayo de 2008, se publicó en el Diario Oficial la Ley N° 20.263 que modificó las disposiciones legales citadas en el considerando anterior, autorizando al Director del Servicio a eximir de las obligaciones indicadas,  esto es, de presentar una declaración jurada sobre  iniciación de actividades, de presentar anualmente una declaración jurada de sus rentas y de llevar contabilidad  a  los contribuyentes no domiciliados ni residentes en el país, que obtengan “rentas de aquellas que establezca el Servicio de Impuestos Internos mediante resolución”.
+
+3.-	Que, mediante Resolución Exenta N° 43, de 2001, se eximió de la obligación de dar inicio de actividades, llevar contabilidad y declarar sus rentas anualmente a contribuyentes sin domicilio ni residencia en Chile que sólo obtengan rentas de capitales mobiliarios.
+
+4.- 	Que, con el objeto de incentivar el flujo de inversión extranjera y debido al desarrollo del mercado de capitales chileno, se ha estimado necesario hacer uso de las facultades establecidas en las normas citadas en el considerado 2 anterior, respecto de los inversionistas que no tengan residencia ni domicilio en Chile, que obtengan en el país rentas provenientes únicamente de instrumentos derivados o de la enajenación de moneda extranjera.
+
+
+SE RESUELVE:
+
+1.-	Los contribuyentes sin domicilio ni residencia en Chile que obtengan rentas provenientes exclusivamente de instrumentos derivados, de la enajenación de moneda extranjera, o de aquellas referidas en la Resolución Ex. N°43, de 2001, que cumplan con los requisitos establecidos en dicha resolución podrán acogerse a las liberaciones de las obligaciones a que ella se refiere. 
+
+2.- Los contribuyentes que se acojan a lo indicado en el resolutivo anterior, y los agentes intermediarios con quienes operen quedarán sujetos a las condiciones, obligaciones y sanciones señaladas en la Resolución Ex. N° 43, de 2001.
+
+3.-	Para los efectos previstos en esta Resolución, se entenderá por:
+
+Moneda Extranjera o Divisas. Los billetes o monedas, acuñados emitidos por países extranjeros, cualquiera que sean su denominación o características, y las letras de cambio, cheques cartas de crédito, órdenes de pago, pagarés, giros y cualquier otro documento en que conste una obligación pagadera en dicha moneda.
+
+Instrumentos Derivados. Los denominados forwards, futuros, swaps, y demás instrumentos que se deban reconocer como tales de acuerdo a normas legales o aquellas normas dictadas, en uso de sus atribuciones legales, por la Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Banco Central, u otros organismos o entidades de derecho público con facultades de supervisión o fiscalización de la actividad financiera.
+
+4.- 	La presente Resolución regirá a partir de su publicación en extracto en el Diario Oficial.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+(Fdo.)RICARDO ESCOBAR CALDERÓN 
+       DIRECTOR
+
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+JTP/EMG/JMP/kcm
+
+Distribución:
+Boletín del SII
+Internet
+Diario Oficial (Extracto)
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+
+

@@ -1,0 +1,1130 @@
+---
+url: https://www.sii.cl/aprenda_sobre_impuestos/estudios/Antecede.doc
+titulo: Antecede.doc
+categoria: otros
+---
+
+ESTIMACION DE LA EVASION TRIBUTARIA EN CHILE
+
+
+Patricio Barra         Michael Jorratt
+
+
+
+Junio 1999
+
+
+
+Departamento de Estudios, Servicio de Impuestos Internos. Teatinos Nº 120, 6º Piso, Of. 600. Santiago, Chile. Teléfonos (562)6921494 · (562)6921495 · Fax (562) 6921087. 
+E-mail autores: pbarra@sii.cl, mjorrat@sii.cl. P R E S E N T A C I O N
+
+
+El presente trabajo entrega una versión revisada del documento homónimo publicado en octubre de 1998. La revisión más importante se ha originado en la utilización de nuevas cifras-fuente para la cuantificación de la evasión en el ámbito de Cuentas Nacionales, dadas a conocer en mayo de este año por el Banco Central en el "Anuario de Cuentas Nacionales 1999". 
+
+En la serie de evasión de IVA publicada anteriormente, se empleaba desde 1989 en adelante cifras expresadas en pesos constantes de 1986, debido a que en algunas de las variables no se disponía de la información necesaria para obtener una serie nominal homogénea. Este hecho obligaba a aplicar algunas aproximaciones para valorar consistentemente la recaudación de IVA y estimar su nivel de evasión. En esta oportunidad, se ha podido salvar esta limitación en virtud de la nueva serie de cifras publicada por el Banco Central que cierra con información nominal y de carácter definitivo hasta el año 1996. 
+
+En el caso de la evasión del Impuesto a la Renta de Primera Categoría, la disponibilidad de nuevas cifras relativas a las cuentas de Excedente de Explotación también ha introducido algunos ajustes a la serie de evasión estimada en este gravamen. 
+
+Con todos estos nuevos antecedentes se han actualizado las estimaciones de evasión en el IVA, en los impuestos a la renta y en total para el sistema tributario, respecto de las que fueron presentadas en oportunidades anteriores.
+
+I N D I C E
+
+ TOC \O "1-3" 1	MEDIR LA EVASION	 PAGEREF _TOC455916935 \H 4
+2	EVASION EN EL SISTEMA TRIBUTARIO CHILENO	 PAGEREF _TOC455916936 \H 5
+2.1	FORMAS DE EVADIR	 PAGEREF _TOC455916937 \H 5
+2.2	LA RELACIÓN ENTRE EVASIÓN DE IVA Y EVASIÓN EN IMPUESTO A LA RENTA	 PAGEREF _TOC455916938 \H 6
+3	METODOS DE MEDICION	 PAGEREF _TOC455916939 \H 9
+4	APLICACION DEL METODO DEL POTENCIAL TEORICO	 PAGEREF _TOC455916940 \H 10
+4.1	ESTIMACIÓN DE LA EVASIÓN EN EL IVA	 PAGEREF _TOC455916941 \H 10
+4.1.1	Metodología de Cálculo	 PAGEREF _Toc455916942 \h 10
+4.1.2	Resultados de la Estimación	 PAGEREF _Toc455916943 \h 10
+4.2	ESTIMACIÓN DE LA EVASIÓN EN EL IMPUESTO A LA RENTA DE PRIMERA CATEGORÍA	 PAGEREF _TOC455916944 \H 12
+4.2.1	Metodología de Cálculo	 PAGEREF _Toc455916945 \h 12
+4.2.2	Resultados de la Estimación	 PAGEREF _Toc455916946 \h 12
+4.3	ESTIMACIÓN DE LA EVASIÓN EN IMPUESTOS PERSONALES A LA RENTA	 PAGEREF _TOC455916947 \H 14
+4.3.1	Metodología de Cálculo	 PAGEREF _Toc455916948 \h 14
+4.3.2	Resultados de la Estimación	 PAGEREF _Toc455916949 \h 14
+4.3.3	Un Método Alternativo de Estimación	 PAGEREF _Toc455916950 \h 14
+4.4	ESTIMACIÓN DE LA EVASIÓN EN OTROS IMPUESTOS	 PAGEREF _TOC455916951 \H 16
+4.5	APROXIMACIÓN A LA EVASIÓN AGREGADA	 PAGEREF _TOC455916952 \H 18
+4.6	LIMITACIONES DEL MÉTODO DEL POTENCIAL TEÓRICO	 PAGEREF _TOC455916953 \H 20
+5	APLICACION DE METODO MUESTRAL PARA MEDIR EVASION EN EL IVA	 PAGEREF _TOC455916954 \H 21
+5.1	EVASIÓN DE IVA POR SUBDECLARACIÓN DE VENTAS FINALES	 PAGEREF _TOC455916955 \H 21
+5.1.1	Metodología	 PAGEREF _Toc455916956 \h 21
+5.1.2	Resultados	 PAGEREF _Toc455916957 \h 22
+5.2	EVASIÓN DE IVA POR ABULTAMIENTO DE CRÉDITOS	 PAGEREF _TOC455916958 \H 24
+5.3	LIMITACIONES	 PAGEREF _TOC455916959 \H 24
+6	LA EVASION SEGUN LA OPINION DE LOS CONTRIBUYENTES	 PAGEREF _TOC455916960 \H 26
+7	NIVEL DE EVASION EN CHILE VERSUS OTROS PAISES	 PAGEREF _TOC455916961 \H 28
+8	RESUMEN Y CONCLUSIONES	 PAGEREF _TOC455916962 \H 29
+ANEXOS
+ANEXO N° 1: METODOLOGIA DEL POTENCIAL TEORICO PARA MEDIR EVASION EN EL IVA
+ANEXO N° 2: METODOLOGIA DEL POTENCIAL TEORICO PARA MEDIR EVASION EN EL IMPUESTO A LA RENTA DE PRIMERA CATEGORIA
+
+1	MEDIR LA EVASION
+
+La discusión tributaria del último tiempo en Chile ha puesto de manifiesto que el cumplimiento tributario debe ser un tema a incluir dentro de las orientaciones y objetivos de reforma fiscal. A mediados del año pasado, por ejemplo, el parlamento aprobó una ley que aumentó las pensiones y que contemplaba como medida de financiamiento, una reducción de la evasión tributaria. Recientemente, se ha podido constatar que la evasión seguirá ocupando un papel importante en el debate tributario de los próximos años, según ha sido manifestado por diversos sectores de opinión. En este sentido, también se ha observado en varios países latinoamericanos una tendencia a privilegiar más los objetivos de reducción de la evasión en las reformas tributarias.
+
+Al margen de la contingencia, para la administración tributaria estimar la magnitud de la evasión tiene un interés permanente. Conocer en qué medida los contribuyentes están cumpliendo sus obligaciones tributarias es de gran importancia para evaluar periódicamente su desempeño como organismo encargado de la fiscalización y consecuentemente, para orientar sus estrategias de control.
+
+En el contexto de lo señalado resulta indispensable contar con cifras acerca del nivel de evasión tributaria que exhibe nuestra economía. El objetivo de este informe es precisamente ofrecer una síntesis de los trabajos que han sido realizados en Chile en los últimos años para medir la evasión, en diferentes impuestos y bajo distintas metodologías de medición, presentando sus resultados a fin de contribuir a la discusión actual y futura del tema.
+
+El resto del informe se ha organizado como sigue. La sección 2 sintetiza las principales características que exhibe la evasión en nuestro país. En la sección 3 se hace una breve presentación de los métodos disponibles para medirla, de la información que utilizan y de las áreas en las que se aplican dichos métodos. La sección 4 se refiere específicamente a las estimaciones obtenidas bajo el método denominado del Potencial Teórico, la sección 5 en tanto aborda las estimaciones originadas por métodos muestrales. En la sección 6 se presentan algunos de los resultados que arrojan estudios de opinión aplicados a los contribuyentes acerca del cumplimiento tributario. Estos, si bien no pueden ser catalogados como mediciones de evasión, resultan bastante ilustrativos y complementan las estimaciones de evasión obtenidas en las secciones precedentes. En la sección 7 se presentan algunos índices de comparación internacional en el tema de evasión y en la sección 8, se concluye.
+
+
+2	EVASION EN EL SISTEMA TRIBUTARIO CHILENO
+
+2.1	Formas de Evadir
+
+En el IVA, que es el principal impuesto de nuestro sistema tributario, todos los mecanismos utilizados para evadir su pago pasan necesariamente por una subdeclaración de los débitos, o bien, por un abultamiento de los créditos. En términos simples, lo anterior significa que el evasor registra menos ventas y por tanto menos débitos de IVA (o bien, más compras y más créditos de IVA) de los que en realidad realiza y que según lo establece la ley deberían ser consignados por éste para determinar su obligación fiscal.
+
+Las figuras evasoras de débitos más recurrentes son las ventas sin comprobante, en especial las ventas que se realizan a consumidor final; el uso fraudulento de notas de crédito y la subdeclaración en los registros contables y en las declaraciones tributarias. Para abultar créditos, en tanto, los evasores recurren entre otros mecanismos, a comprobantes de transacción falsos; compras personales que se registran a nombre de la empresa; compras a contribuyentes ficticios y sobredeclaración en los registros contables y en las declaraciones tributarias.
+
+En el Impuesto a la Renta de Primera Categoría se deben contabilizar todas las formas de evasión del IVA; la declaración de salarios y honorarios ficticios; el traspaso de rentas entre empresas bajo sistema de renta presunta y bajo el sistema de renta efectiva y el uso indebido de créditos del impuesto. En lo referente a figuras de elusión, algunos vacíos legales como el tratamiento de los retiros en sociedades de inversión y la aplicación de depreciación acelerada es empleado por algunas empresas para postergar la tributación. Debe consignarse también la subdeclaración en los registros contables y en las declaraciones tributarias como otra forma de evadir este impuesto.
+
+En el caso de los impuestos personales, se encuentran situaciones como las siguientes. En el Impuesto Global Complementario, todas las formas de evadir IVA y todas las formas de evadir el Impuesto a la Renta de Primera Categoría son formas de evadir el primero. También el consumo personal a través de la empresa, la creación de sociedades de inversión usadas para fraccionar retiros y mecanismos como el que exime de impuestos personales el retiro de utilidades cuando éstas son reinvertidas en otras empresas, son mecanismos vinculados a la elusión de este gravamen. En el impuesto de Segunda Categoría, probablemente donde más limitadas están las posibilidades de evasión, se han detectado situaciones irregulares como el uso indebido de asignaciones de gastos (colación, traslados, viáticos, becas) que inducen un menor pago de este impuesto. Desde luego, debe consignarse también la subdeclaración en los registros contables y en las declaraciones tributarias.
+2.2	La relación entre Evasión de IVA y Evasión en Impuesto a la Renta 
+
+Como señalamos en la sección anterior, las formas de evasión del IVA son también formas de evasión del Impuesto a la Renta de Primera Categoría y, a su vez, formas de evasión del Impuesto Global Complementario.
+
+En efecto, cuando una empresa subdeclara ventas (o sobredeclara compras) reduce su obligación de pago de IVA, pero junto con eso aminora la base imponible de Primera Categoría y como consecuencia, reduce también el pago de impuesto corporativo. La componente de utilidades no declaradas en Primera Categoría constituye luego ingreso disponible para el dueño de la empresa, ingreso que evidentemente no se incluirá en la base imponible a declarar en el Global Complementario. El siguiente ejemplo permite ilustrar esta relación. 
+
+Ejemplo: Un empresario vende mercaderías por $100 millones, cuyo costo de adquisición fue de $40 millones. Su margen de venta (diferencia entre ventas y compras) será de $60 millones. Este monto constituye al mismo tiempo la base del IVA. Si además se pagan remuneraciones por $30 millones, entonces la utilidad de la empresa será de $30 millones, lo que es, al mismo tiempo, la base del Impuesto de Primera Categoría. A continuación, en la Tabla A se muestran estos cálculos:
+
+Tabla A: Datos Iniciales
+   Ventas
+-  Compras
+=Margen (Base de IVA)
+- Remuneraciones
+=Utilidad (Base 1ª. Categ.) 
+100
+40
+60
+30
+30
+
+
+
+Evasión en el IVA
+
+Supongamos ahora que, del total de ventas, el empresario decide vender $12 millones sin boleta. Consecuentemente, en su declaración de IVA registrará como ventas sólo $88 millones. Tal como muestra la tabla B más abajo, la recaudación teórica de IVA (el impuesto que debería pagar si no evadiera) corresponderá a $10,8 millones, mientras que la recaudación efectiva de IVA (el impuesto que declara) sólo ascenderá a $8,64 millones. El monto de la evasión en el IVA resultante será de $2,16 millones y la tasa de evasión, de un 20%.
+
+
+
+
+
+
+Tabla B: Cálculo de la Evasión en el IVA
+   Ventas Reales
+-  Ventas Evadidas
+=Ventas Declaradas
+
+Recaud. Teórica IVA
+Recaud. Efectiva IVA
+
+Monto Evasión IVA
+Tasa de Evasión IVA
+100
+12
+88
+
+10,80
+8,64
+
+2,16
+20%
+
+
+
+
+18%*Ventas Reales-18%*Compras
+18%*Ventas Declaradas-18%*Compras
+
+Rec.Teór.IVA-Rec.Efec.IVA
+(Monto Evasión/Rec.Teór.IVA) *100(%)
+
+
+Evasión en Primera Categoría 
+
+Las ventas 'evadidas' de $12 millones, tampoco serán registradas como ingresos por la empresa, por lo tanto, se traducirán en evasión en el Impuesto de Primera Categoría. Es decir, de la utilidad total de $30 millones, la empresa declarará sólo $18 millones. Tal como muestra la Tabla C, la recaudación teórica de Primera Categoría corresponderá a $4,5 millones, mientras que la recaudación efectiva sólo ascenderá a $2,7 millones. El monto de la evasión en Primera Categoría será de $1,8 millones y la tasa de evasión, de un 40%.
+
+Tabla C: Cálculo de la Evasión en Primera Categoría
+   Utilidad Real
+-  Utilidad Evadida
+= Utilidad Declarada
+
+Recaud. Teórica 1ª. Categ.
+Recaud. Efectiva 1ª. Categ.
+
+Monto Evasión 1ª. Categ.
+Tasa de Evasión 1ª. Categ.
+30
+12
+18
+
+4,5
+2,7
+
+1,8
+40%
+
+Ingreso por la Venta sin Boleta
+
+
+15%*Utilidad Real
+15%*Utilidad Declarada
+
+Rec.Teór. 1ª. Categ. -Rec.Efec. 1ª. Categ.
+(Monto Evasión/Rec.Teór. 1ª. Categ.)*100(%)
+
+
+Evasión en el Impuesto Global Complementario
+
+A su vez, la 'utilidad evadida' da pie al retiro de esos ingresos por parte del empresario y por tanto a evasión del Global Complementario. Consideremos que el empresario retira un 60% de las utilidades reales, es decir, efectúa un retiro real de $18 millones. Esa cifra corresponderá al 100% de la utilidad evadida en la forma de un 'retiro negro' de $12 millones, y además a otros $6 millones que retirará de su utilidad declarada. Supongamos que los ingresos del empresario están afectados por una tasa de Impuesto Global Complementario de 25% (que por simplicidad se supone como tasa media). La recaudación teórica del gravamen corresponderá a la aplicación de dicha tasa sobre el retiro real, descontando naturalmente el Impuesto de Primera Categoría, ya que es crédito contra el Global Complementario. Tal como se muestra en el Cuadro D, esta recaudación teórica alcanzará a $1,8 millones, mientras que la recaudación efectiva sólo ascenderá a $0,6 millones. El monto de la evasión en Global Complementario será de $1,2 millones y la tasa de evasión, de un 67%.
+
+
+Tabla D: Cálculo de la Evasión en Global Complementario
+   Retiro Real
+-  Retiro Evadido
+= Retiro Declarado
+
+   Recaud. Bruta Teórica IGC.
+-  Créd. 1ª. Categ
+=Recaud. Neta Teórica IGC.
+
+   Recaud. Bruta Efectiva IGC.
+-  Créd. 1ª. Categ
+=Recaud. Neta Efectiva IGC.
+
+Monto Neto Evasión IGC.
+Tasa de Evasión IGC.
+18
+12
+6
+
+4,5
+2,7
+1,8
+
+1,5
+0,9
+0,6
+
+1,2
+67%
+
+Asociado a Utilidad por Venta sin Boleta
+
+
+25%*Retiro Real
+15%*Retiro Real
+
+
+25%* Retiro Declarado
+15%*Retiro Declarado
+
+
+Rec. Neta Teór. IGC-Rec.Neta Efec.IGC..
+(Monto Evasión/ Rec. Neta Teór. IGC) *100(%)
+		
+En síntesis, la evasión total de este contribuyente es de $5,16 millones, de los cuales $2,2 millones corresponden a evasión directa del IVA y $3 millones corresponden a evasión de Impuesto a la Renta, originada en la evasión de IVA.
+
+
+Más allá de los resultados precisos, de este ejemplo se pueden extraer dos conclusiones. Por un lado, establecer cómo la evasión de IVA, en este caso por subdeclaración de ventas, se va transfiriendo a evasión en el Impuesto a la Renta de Primera Categoría como una menor utilidad declarada y ésta, a su vez, a evasión en el Impuesto Global Complementario como un menor ingreso afecto al impuesto. Lo segundo es que tasa de evasión de 20% en IVA se asocia con una tasa de evasión de 40% en Primera Categoría y de 67% en Global Complementario. Esta relación incremental, se explica simplemente porque la base imponible del IVA es siempre mayor que la base imponible de los impuestos a la renta. Así, un mismo peso subdeclarado en ventas representará porcentualmente una cantidad mayor respecto de la base de Primera Categoría y Global Complementario, que respecto de la base de IVA.
+
+3	METODOS DE MEDICION 
+
+Medir la evasión no es una tarea fácil. Por razones obvias, preguntar directamente es la forma menos confiable para observar esta variable: los agentes involucrados difícilmente revelarán cuánto impuesto han dejado de pagar en un período dado, aun cuando se les garantice total anonimato. En este sentido, los métodos de medición deben seguir vías indirectas para obtener resultados más confiables. 
+
+Los métodos de medición más difundidos siguen dos enfoques para obtener estimaciones. Un primer enfoque basado en el ‘potencial teórico’ recurre a variables relacionadas para aproximar la recaudación que se obtendría si todos los contribuyentes pagasen sus impuestos, la que luego puede ser comparada con la recaudación efectiva para determinar evasión. Un segundo enfoque de carácter ‘muestral’ utiliza las capacidades de la administración tributaria para detectar incumplimiento, fiscalizando una muestra representativa de contribuyentes y extendiendo luego sus resultados al universo de ellos.
+
+En este informe se presentan estimaciones obtenidas para Chile mediante ambos enfoques. El enfoque del potencial teórico se ha aplicado para estimar la evasión en el IVA y en el Impuesto a la Renta de Primera Categoría, usando información de Cuentas Nacionales para aproximar la base tributaria teórica. En el caso del IVA, se utiliza información de Gasto en Consumo Final y en el caso del Impuesto a la Renta de Primera Categoría se emplean datos de Excedente de Explotación. A partir de los resultados obtenidos se trata de aproximar un orden de magnitud para la evasión total. Adicionalmente, se presenta una estimación de evasión en impuestos personales que usa la Encuesta CASEN como antecedente de ingresos teóricos. 
+
+Respecto al enfoque muestral, éste se ha empleado para medir evasión de IVA en el ámbito de las ventas a nivel de consumidor final. En este caso, las estimaciones de evasión se obtienen por la comparación entre el nivel de ventas de cada contribuyente sometido a un control de ‘punto fijo’ por la administración tributaria y el nivel de venta declarado por el contribuyente en períodos anteriores.
+
+
+
+4	APLICACION DEL METODO DEL POTENCIAL TEORICO
+4.1	Estimación de la Evasión en el IVA
+4.1.1	Metodología de Cálculo
+
+El IVA es un impuesto que grava la mayor parte de las transacciones de bienes y servicios de la economía. Sin embargo, por su forma de operación basada en el sistema de débitos y créditos, estas transacciones no generan un ingreso fiscal neto excepto cuando ocurren a nivel de consumidor final. De aquí que la base teórica del IVA pueda ser relacionada con agregados macroeconómicos como el gasto en consumo final. Acá, se aplica un método que utilizando esta información de Cuentas Nacionales (CN, en lo que sigue) permite obtener una serie de la tasa de incumplimiento en el IVA. El método considera las cifras de consumo final de hogares, sobre el que se descuenta la fracción de consumo que está exento y se agrega la componente de consumo intermedio gravado de los sectores exentos, dado que éstas últimas pasan a ser transacciones con IVA que no puede ser deducido. Aplicando la tasa de impuesto a la base que se construye con este método, se obtiene la recaudación teórica de IVA, la que se compara con la recaudación efectiva de IVA, esto es, con la recaudación que proviene de las declaraciones de los contribuyentes. La brecha entre ambos valores, teórico y efectivo, se considera evasión.
+
+En el anexo N° 1 al final de este informe, se incluye el detalle metodológico de las estimaciones de evasión en el IVA.
+
+4.1.2	Resultados de la Estimación
+
+En el cuadro Nº 1 se sintetizan los resultados de la estimación de la evasión en el IVA para el período 1989-1997. A continuación en el gráfico N° 1 se ilustra la evolución de la tasa de evasión en el mismo período. De acuerdo a la estimación, el monto de evasión en el IVA para 1997 alcanzó a unos $702 mil millones, lo que equivale a unos US$ 1.475 millones, correspondiendo una tasa de evasión de 19,7%. Cabe señalar en todo caso, que debido a la metodología utilizada, los resultados son bastante sensibles a la estimación de consumo del sistema de cuentas nacionales y, por ende, los ajustes futuros que sufran estas cifras pueden alterar la estimación de evasión de 1997 incluida acá.
+
+
+CUADRO N° 1
+ESTIMACION DE LA EVASION EN EL IVA: 1989-1997
+	Cifras en miles de millones de $ enero de 1999
+Conceptos198911990119911992199319941995199619972Recaudación Teórica Neta3 de IVA
+
+Recaudación Efectiva Neta3 de IVA
+
+Monto de Evasión
+
+Tasa Evasión Neta(%)2.171
+
+
+1.542
+
+
+629
+
+29,02.181
+
+
+1.536
+
+
+646
+
+29,62.372
+
+
+1.736
+
+
+636
+
+26,82.663
+
+
+2.053
+
+
+611
+
+22,92.820
+
+
+2.305
+
+
+515
+
+18,32.952
+
+
+2.375
+
+
+577
+
+19,63.191
+
+
+2.544
+
+
+647
+
+20,33.368
+
+
+2.695
+
+
+673
+
+20,03.561
+
+
+2.859
+
+
+702
+
+19,7Fuente: Departamento de Estudios (SII), en base a información del Banco Central.
+Notas: 								
+1	En 1989, la alícuota del IVA correspondía a 16%. A partir de julio de 1990, ésta cambió a 18%. En ambos años se ha utilizado una recaudación normalizada a tasa de 18%.
+2	Cifra provisional.
+3	La recaudación ‘neta’ de IVA considera la recaudación de IVA Tasa General e IVA Tasa General Importaciones.
+
+
+4.2	Estimación de la Evasión en el Impuesto a la Renta de Primera Categoría
+4.2.1	Metodología de Cálculo
+
+El método utilizado para estimar el incumplimiento en el Impuesto a la Renta de Primera Categoría calcula la recaudación potencial del impuesto, considerando como base teórica agregada el Excedente de Explotación de CN, el cual debe ser apropiadamente corregido para reflejar las diferencias entre este concepto macroeconómico y la renta líquida imponible de Primera Categoría.
+
+A grandes rasgos, el método consiste en determinar en primer lugar el Resultado Tributario Teórico de las empresas, restando del Excedente de Explotación una estimación del excedente de las actividades no afectas y exentas del impuesto de Primera Categoría, el excedente de las empresas sujetas a renta presunta y las pérdidas de ejercicios anteriores - deducibles para fines tributarios - y sumando los ajustes por corrección monetaria. Posteriormente, se determina la Base Imponible Teórica excluyendo del Resultado Tributario Teórico las pérdidas tributarias del ejercicio, siendo este ajuste necesario para una comparación adecuada con el Resultado Tributario Efectivo que se desprende de las declaraciones. Finalmente, la Recaudación Teórica se estima como la Base Imponible Teórica multiplicada por la tasa del impuesto, descontados los créditos efectivos contra el impuesto.
+
+En el anexo N° 2 al final de este informe, se incluye el detalle metodológico de las estimaciones de evasión en el Impuesto de Primera Categoría.
+
+4.2.2	Resultados de la Estimación
+
+En el cuadro Nº 2 y gráfico Nº 2 se presentan los resultados de la estimación de la evasión en el Impuesto a la Renta de Primera Categoría para el período 1989-1997. De ese cuadro se desprende que el monto estimado de evasión en 1997 fue de $ 647 mil millones, equivalentes a unos US$1.360 millones. Un aspecto que puede llamar la atención a la luz de lo anterior, es que a primera vista las tasas de evasión obtenidas en Primera Categoría parecen algo excesivas si se las compara con las tasas de evasión en el IVA, las que están más cerca del 20%, para los años más recientes. Esto, sin embargo, no significa que exista una incongruencia entre ambas cifras. En efecto, y como se ilustró ya en el ejemplo del capítulo 2, la simple transferencia de la evasión de IVA a evasión en Impuestos a la Renta, genera de por sí porcentajes de evasión superiores a los de IVA.
+
+
+CUADRO Nº 2
+ESTIMACION DE LA EVASION EN EL IMPUESTO A LA RENTA DE PRIMERA CATEGORIA: 1989-19971
+	Cifras en miles de millones de $ enero de 1999
+Conceptos198921990219911992199319941995199619973Recaudación Teórica 
+
+Recaudación Efectiva 
+
+Monto de Evasión
+
+Tasa Evasión Neta (%)1.158
+
+486
+
+672
+
+58,01.104
+
+556
+
+548
+
+49,61.118
+
+559
+
+559
+
+50,01.239
+
+638
+
+602
+
+48,51.139
+
+637
+
+502
+
+44,11.297
+
+764
+
+533
+
+41,11.470
+
+896
+
+574
+
+39,11.462
+
+861
+
+601
+
+41,11.550
+
+903
+
+647
+
+41,7Fuente: Departamento de Estudios (SII), en base a información del Banco Central.
+Notas: 								
+1	  Corresponde a años comerciales, es decir, año n corresponde a la información de Operación Renta de año n+1.
+2	En 1989 y 1990, la alícuota del impuesto correspondía a 10%. A partir de 1991, ésta cambió a 15%. Para ambos años se ha utilizado una recaudación equivalente a tasa de 15%. Además en 1989, el impuesto operó únicamente sobre base retirada de rentas, por lo cual las cifras de ese año se ajustaron a la aplicación del gravamen sobre base tributaria devengada, para hacerla comparables al resto del período.
+3	Cifra provisional.
+
+4.3	Estimación de la Evasión en Impuestos Personales a la Renta
+
+4.3.1	Metodología de Cálculo
+
+En esta sección, se trata de aproximar la evasión en los impuestos personales a partir de la evasión de Primera Categoría que se transfiere a éstos. Se considera que el incumplimiento en Primera Categoría indirectamente se traduce en evasión del Impuesto Global Complementario, tratándose de rentas que obtiene efectivamente el dueño de la empresa pero al margen de los registros tributarios. La estimación supone que las utilidades subdeclaradas ‘se distribuyen’ en un 100%. 
+
+El monto evadido de Global Complementario se obtiene aplicando a esta cifra la tasa marginal promedio de impuesto que pagan efectivamente los contribuyentes receptores de dividendos que se sitúa en torno al 25%, y deduciendo el correspondiente crédito por Primera Categoría. No se incluyen en la estimación otras formas de evasión de este gravamen personal. Tampoco se consideran estimaciones para la evasión del Impuesto de Segunda Categoría y del Impuesto Adicional, al no disponerse de un método de estimación adecuado a estos gravámenes. Teniendo presente estas limitaciones, se ha considerado más apropiado asociar el resultado de la estimación descrita al agregado de impuestos personales ya que se considera que la mayor brecha de evasión se da precisamente en el impuesto Global Complementario.
+
+
+4.3.2	Resultados de la Estimación
+
+Como en este caso la estimación está basada en las estimaciones de evasión de Primera Categoría se ha preferido calcular simplemente la evasión del último año disponible, es decir, 1997, en lugar de presentar una serie temporal. La evasión resultante es del orden de los $431 mil millones, equivalentes a unos US$ 907 millones. Este nivel de evasión significa una tasa de evasión sobre el agregado de impuestos personales (Global Complementario, Segunda Categoría y Adicional) de un 35,8%.
+
+4.3.3	Un Método Alternativo de Estimación 
+
+Engel, Galetovic y Raddatz [1998] desarrollan una estimación alternativa del incumplimiento en los impuestos a la renta, cubriendo el Impuesto Global Complementario y el Impuesto Unico de Segunda Categoría. Esta estimación considera como base teórica del impuesto, los ingresos declarados en la Encuesta de Caracterización Socioeconómica Nacional (CASEN) del año 1996, llevada a cabo por MIDEPLAN.
+
+La estimación se realiza primero calculando el impuesto que debería haber pagado cada individuo encuestado con la escala de tasas correspondientes según sus rentas anualizadas. En seguida, se agrupa la recaudación calculada en percentiles de ingreso y se la compara con la recaudación efectiva declarada ante el SII a nivel de esos mismos percentiles de ingreso. La comparación se realiza ‘pareando’ grupos de individuos y no a nivel de cada uno de ellos, porque no se dispone de la información suficiente para hacerlo.
+
+En el cuadro Nº 3 se presentan los resultados de la estimación de evasión del año 1996, agrupados a nivel de decil de ingreso, según este método. 
+
+
+CUADRO N° 3
+ESTIMACION DE LA EVASION EN LOS IMPUESTOS A LA RENTA PERSONAL 1
+1996
+Decil
+Tasa de Evasión [%]
+1 (más pobre)
+      - (2)
+2
+       - (2)
+3
+13,0
+4
+37,0
+5
+46,0
+6
+60,0
+7
+53,0
+8
+55,0
+9
+49,0
+10 (más rico)
+58,0
+Total
+57,0
+Fuente: Engel, Galetovic y Raddatz [1998a].
+Notas:
+1	Considera Impuesto Global Complementario según Operación Renta 1997 (generado por rentas obtenidas en 1996) e Impuesto Unico de Segunda Categoría de 1996, sólo para individuos con rentas superiores a 12 UTM (unos US$650/mes).
+2	En estos deciles de ingreso se obtiene medida de evasión.
+
+Considerando que la tasa de evasión de impuestos a la renta personal agregada es de 57% y suponiendo que esta estimación pudiese extenderse a todo el Impuesto Global Complementario e Impuesto de Segunda Categoría, se obtendría un monto de evasión para 1996 (año de la medición) de unos $ 678 mil millones, equivalentes a unos US$ 1.427 millones. Sin embargo, esta extensión no es del todo correcta por cuánto la estimación basada en la CASEN omite algunas reducciones legales a la base imponible tales como la presunción de gastos de los contribuyentes receptores de honorarios y el retiro de utilidades no tributables denominado ‘exceso de retiros’, entre otros.
+4.4	Estimación de la Evasión en Otros Impuestos
+
+Como se explicó anteriormente, la metodología del potencial teórico se basa en la estimación de la recaudación teórica a partir de una variable independiente que pueda representar la base agregada del impuesto. En las secciones anteriores, se han presentado estimaciones de evasión para el IVA, para el Impuesto a la Renta de Primera Categoría y para los Impuestos a la Renta Personal, donde los agregados de Cuentas Nacionales y la CASEN permiten aproximaciones relativamente homogéneas y sistemáticas de las bases imponibles. En esta sección, se trata de aproximar la evasión en los restantes impuestos, donde los cálculos se hallan aún más limitados que los anteriores, por la insuficiencia de información para aproximar el potencial teórico o para derivar indirectamente sus montos de evasión. En este sentido, se han debido aplicar una serie de supuestos y aproximaciones gruesas, basadas en la experiencia del SII, con la finalidad de fijar órdenes de magnitud para la evasión que podría estarse registrando en los restantes impuestos. A continuación se describen los supuestos aplicados en cada caso y sus resultados.
+
+Para el caso del impuesto a la renta de empresas fiscales (Tasa 40% D.L. 2398) no se dispone de estimación, por lo que no se incluye. En el caso de los denominados gastos rechazados (Art. 21 L.I.R.) se supone una tasa de evasión igual a la estimada vía Primera Categoría para el Global Complementario. El monto de evasión asociado a estas componentes de la tributación de renta alcanza a unos $31 mil millones, es decir, unos US$65 millones y la tasa de evasión equivale a un 32,8%.
+
+En el caso de los gravámenes denominados ‘Tasas Especiales de IVA’ (que incluyen los impuestos a los alcoholes, a los suntuarios y a los vehículos) se supone una tasa de evasión igual a la estimada para el IVA Neto. Eso significa que al considerar la tasa de evasión del 19,7%, se llega a estimar un monto de evasión del orden de los $36 mil millones, es decir, unos US$76 millones.
+
+Para el caso del impuesto específico a los combustibles, se utiliza una estimación de devolución teórica del gravamen al petróleo diesel, basada en las estadísticas de consumo nacional de este combustible registradas por la Comisión Nacional de Energía por sector usuario. De esta cifra se calcula el impuesto que es teóricamente susceptible de devolución y luego se compara con el crédito que declaran y recuperan efectivamente los contribuyentes. Se supone que no existe evasión del impuesto en la primera venta o en la importación, dado que esta primera etapa productiva está concentrada en un número reducido de grandes empresas. El monto de evasión estimado alcanza a los $8 mil millones, equivalentes a unos US$17 millones. Respecto de evasión en el Impuesto a las Gasolinas y en el Impuesto a los Tabacos, éstas no se ha incluido al no disponerse de una estimación. La tasa de evasión expresada para el conjunto de impuestos a productos específicos es de 1,4%.
+
+En el caso de los Impuestos al Comercio Exterior no se dispone de estimación de evasión por lo tanto, no se incluye. En el caso de Impuestos sobre Actos Jurídicos, se estima la evasión para el impuesto de Timbres y Estampillas sobre operaciones de crédito, aplicando la tasa de evasión de IVA sobre las colocaciones realizadas fuera del sistema financiero. Se incluye además el impuesto a Herencias y Donaciones, Patentes de Minas y Juegos de Azar. Para estos tres componentes se supone una tasa de evasión igual a la estimada para el IVA Neto. En conjunto todos estos gravámenes, agrupados en el concepto ‘Otros’, representan un monto de evasión estimado de $20 mil millones, es decir, unos US$43 millones. La tasa de evasión correspondiente alcanza a un 2,1%.
+
+Finalmente, en el caso de las Devoluciones de IVA se estimó el monto teórico de las devoluciones de IVA a partir de información de CN de 1986 relativas a exportaciones sectoriales. Esta cifra se compara con las devoluciones efectivas otorgadas a los contribuyentes, considerándose la diferencia entre ambos valores como el monto de evasión estimado. Para proyectar el monto de evasión medido en 1986 a 1997 se considera que el nivel de evasión ha experimentado una evolución similar a la del nivel de evasión en el IVA Neto, entre ambos años. La estimación resultante alcanza a $76 mil millones, que equivalen a unos US$159 millones y que significan un nivel de evasión de un 6,5%.
+
+4.5	Aproximación a la Evasión Agregada
+
+A continuación en el cuadro Nº 4, se presentan una síntesis de los resultados de la estimación de evasión para los diferentes impuestos. 
+
+
+
+CUADRO Nº 4
+ESTIMACION DE LA EVASION POR TIPO DE IMPUESTO
+-- Cifras Provisionales --
+Año 19971
+Tipo de Impuesto
+Monto Evasión
+[Miles de Mill.$ene99]       [Mill. US$ene99]
+Tasa de Evasión
+[%]
+Impuestos a la Renta
+           Primera Categoría
+       Impuestos Personales2
+       Otros3
+
+IVA 
+       IVA Neto
+       Tasas Especiales
+
+Imp. Productos Específicos4
+
+Otros5
+
+Devoluciones6
+1.109
+647
+431
+31
+
+738
+702
+36
+
+8
+
+20
+
+76
+2.332
+1.360
+907
+65
+
+1.551
+1.475
+76
+
+17
+
+43
+
+159
+39,2
+41,7
+35,8
+32,8
+
+19,7
+19,7
+19,7
+
+1,4
+
+2,1
+
+6,5
+Total
+1.951
+4.101
+23,9
+Fuente: Departamento de Estudios (SII), en base a información propia e información del Banco Central. 		
+Notas:					
+1	Corresponde al año comercial 1997.
+2	Considera Global Complementario, Segunda Categoría e Impuesto Adicional.
+3	Considera recaudación de Impuesto Tasa 40% y recaudación Art. 21 L.I.R.
+4	Considera Impuesto a Tabacos e Impuesto a Combustibles.
+5	Incluye Impuestos a Comercio Exterior, Actos Jurídicos, Herencias y Donaciones, Patentes de Minas y Juegos de Azar.
+6	Esta evasión corresponde a devoluciones improcedentes de IVA y la tasa de evasión se ha medido como el porcentaje que representa dicho monto sobre las devoluciones teóricas.
+
+
+La estimación global indica un monto de evasión del orden de los US$ 4.101 millones, que en su mayor parte se componen de evasión en Impuestos a la Renta y en IVA. La tasa de evasión global de acuerdo a esta estimación sería del orden de un 23,9% de los ingresos tributarios teóricos.
+
+De acuerdo con información de CN, sobre las cuales se estiman los agregados teóricos de IVA y de Primera Categoría, se puede establecer que la evasión de IVA origina alrededor de un 75% de la evasión de Primera Categoría mediante mecanismos como el que describe el ejemplo anterior. El mismo porcentaje de 75% de evasión en Impuesto Global Complementario encuentra su explicación en la evasión de IVA. Aplicando este factor sobre las estimaciones de evasión en los Impuestos a la Renta y agregando a ello, la propia estimación de evasión en el IVA se puede llegar a estimar que ésta última explica de manera directa e indirecta unos $3.300 millones, lo que representa un 80% de la evasión agregada para 1997. Lo anterior pone de manifiesto la importancia de invertir mayores esfuerzos de fiscalización en el IVA.
+4.6	Limitaciones del Método del Potencial Teórico
+
+En términos generales, las limitaciones del método de medición del potencial teórico se relacionan con la confiabilidad de la fuente usada para cuantificar la recaudación potencial. En el caso de CN, esta limitación comprende al menos tres aspectos. Primero, el valor agregado informal que no registra CN y el cual generaría una subestimación del potencial de recaudación. Segundo, el uso de antecedentes tributarios en la construcción de CN y de fuentes aparentemente independientes que pueden estar ‘contaminadas’ con evasión como balances o estados contables, también podrían implicar una subestimación. Tercero, la precisión con que se mide la variación de inventarios en ciertos sectores, lo cual podría subestimar o sobreestimar la recaudación potencial del IVA, según sea el caso. En el caso de la encuesta CASEN, las principales limitantes se refieren al hecho de que ésta tiene sólo una cobertura parcial de los ingresos obtenidos por empresarios y accionistas y a que los datos que registra no es claro si corresponden a ingreso antes o después de impuesto, lo que obliga a estimar el ingreso antes de impuesto y descuentos previsionales.
+
+Durante 1996, el SII encargó a un grupo de académicos de la Universidad de Chile estudiar la confiabilidad de las estimaciones de evasión a partir del método del potencial teórico basado en CN, tanto desde el punto de vista de las metodologías como de la calidad de las fuentes de información utilizadas. La conclusión de este estudio es que la principal limitación de estos métodos son consecuencia de las limitaciones de la información que se usa para construir las Cuentas Nacionales, aunque por otra parte, el estudio también destaca que en la construcción de las Cuentas Nacionales se concilian datos provenientes de diversas fuentes de información. Si con fuentes independientes de información (por ejemplo, encuestas de precios o de consumo) se logra captar las cantidades efectivamente transadas y sus precios, es posible que las subestimaciones o sobreestimaciones no sean tales. Según el estudio, la falta de criterios claramente establecidos en el trabajo de los sectorialistas, impide evaluar esta conjetura. 
+
+Con todo lo anterior, se considera que los estudios de evasión que usan el método del Potencial Teórico son útiles para determinar órdenes de magnitud de la evasión y su evolución, aún cuando no es posible evaluar cuán confiables son.
+5	APLICACION DE METODO MUESTRAL PARA MEDIR EVASION EN EL IVA
+
+El método del potencial teórico basado en cuentas nacionales entrega una estimación global de la evasión en el IVA, por tanto no se puede deducir de ella la importancia de distintas formas y mecanismos que utilizan los evasores para vulnerar el pago del impuesto. Además con el método del potencial teórico no es posible evaluar la precisión de las estimaciones. En este terreno los métodos muestrales adquieren especial relevancia. En el caso del IVA, las dos formas básicas de evasión de acuerdo a lo que estiman las autoridades tributarias, son la subdeclaración de ventas a nivel de consumidor final (en adelante, ventas finales) y el abultamiento de créditos. En esta sección, se proponen dos metodologías específicas a través de las cuales se pueden obtener medidas de evasión en dichos ámbitos.
+
+5.1	Evasión de IVA por Subdeclaración de Ventas Finales
+
+La venta final de un bien ofrece mayores espacios para la evasión del IVA que las etapas intermedias de comercialización. Lo anterior se debe a que en la venta final no existe la característica contraposición de intereses entre comprador y vendedor para aplicar el IVA, ya que el consumidor final no tiene derecho a crédito por el impuesto. Por contraste, en las etapas anteriores éste constituye un incentivo para exigir el comprobante de venta.
+
+En Chile, la empresa contribuyente de IVA que efectúa una venta final debe respaldar dicha transacción emitiendo primero una ‘boleta de venta’, registrándola después en el ‘libro de ventas’ y finalmente transcribiéndola a su declaración mensual de IVA. Por esta razón, para dar seguimiento a la evasión del IVA en la venta se debe observar el comportamiento del contribuyente en las tres instancias. 
+
+5.1.1	Metodología
+
+El método de Punto Fijo empleado comúnmente para fiscalizar o presumir obligaciones de pago para el contribuyente, consiste en la visita de un fiscalizador a una empresa, el que permaneciendo durante toda la jornada comercial asegura que se observe perfecto cumplimiento tributario. Este método también puede ser usado para medir subdeclaración de ventas, en base al siguiente principio: una empresa contribuyente sometida al control de un fiscalizador en terreno, se verá en la obligación de emitir boletas por la totalidad de sus ventas, llevándolas además al registro contable que corresponda y declarándolas más tarde en el formulario de IVA. Luego, para obtener una medida de evasión, lo que se hace es comparar las ventas registradas durante el período de control con las ventas registradas en períodos anteriores en condiciones similares.
+
+En la práctica, el método supone la visita de un fiscalizador a una empresa -sin aviso previo- dando a conocer la realización de un control tributario ‘normal’ y permaneciendo durante toda la jornada comercial diaria. No obstante, el verdadero objetivo que se persigue con este método es que la presencia del fiscalizador obligue a emitir todas las boletas por las ventas finales y que se traspase fidedignamente la información de ventas desde el talonario de boletas (o desde el Informe Z, tratándose de una máquina registradora) hacia el libro de ventas. Este método fue aplicado en nuestro país a finales de 1996 y mediados de 1997, considerando una muestra de alrededor de 300 empresas extraídas del universo de contribuyentes de IVA que emiten boletas de venta. Fiscalizadores del SII aplicaron un día de ‘punto fijo’ en cada empresa, extrayendo además la información de ventas diarias para semanas y meses anteriores al día de aplicación. 
+
+La comparación entre el día de control y días anteriores ‘similares’ en la práctica impuso algunas dificultades, al observarse una fuerte variabilidad en los datos de ventas. Este problema fue abordado en el procesamiento estadístico de los datos desarrollado por Engel, Galetovic y Raddatz [1998b] para tratar de subsanar estas dificultades y obtener medidas adecuadas de evasión.
+
+
+5.1.2	Resultados
+
+A continuación se presentan en el cuadro N° 5 los resultados preliminares obtenidos en el estudio estadístico antes citado.
+
+CUADRO Nº 5
+ESTIMACION DE LA EVASION DE IVA EN VENTAS FINALES
+MEDIANTE METODO PUNTO FIJO
+Sector Económico
+Tasa de Evasión1  [%]
+Desv. Est.
+Agricultura
+5,64
+12,44
+Comercio Mayorista
+73,08
+7,12
+Comercio Minorista de Productos Alimenticios
+12,18
+3,53
+Comercio Minorista de Productos No Alimenticios
+11,61
+3,06
+Restaurantes y Hoteles
+13,18
+4,59
+Servicios Financieros y Servicios Diversos2
+26,82
+3,15
+Otras Actividades3
+6,74
+7,55
+Todos los Sectores
+24,6
+4,8
+Fuente: Engel, Galetovic y Raddatz [1998b].		
+Notas:
+1	Tasa de evasión que expresa el monto evadido como porcentaje del débito teórico de IVA.
+2	Servicios Diversos considera servicios educacionales, de salud, de diversión y esparcimiento, culturales y otros servicios personales y del hogar.
+3	Comprende a contribuyentes que declaran bajo la categoría ‘actividad económica no especificada u otra’.
+
+
+La tasa de evasión derivada de este estudio mide sólo evasión en ventas finales y no es directamente comparable con la tasa de evasión que se obtuvo antes a través del potencial teórico de Cuentas Nacionales, la cual mide evasión total de IVA, es decir, considerando todas las formas de incumplimiento de este gravamen. Usando los datos de ingresos de IVA de 1996 se estima que por la vía de subdeclaración de ventas finales se estarían evadiendo unos US$ 860 millones. Bajo el supuesto de que estas cifras son consistentes con las estimaciones del potencial teórico, se concluye que un 60% de la evasión de IVA se lleva a cabo por la subdeclaración de ventas con boleta.
+
+5.2	Evasión de IVA por Abultamiento de Créditos
+
+El abultamiento del crédito de IVA es otra forma básica de evasión. El crédito de IVA se origina en una etapa intermedia de la cadena de comercialización de un producto, cuando la empresa que opera como compradora paga el IVA correspondiente en la transacción. La empresa tiene derecho a rebajar el impuesto recargado descontándolo de la obligación de IVA originada por sus ventas. 
+
+En Chile, este crédito sólo es admisible para efectos tributarios si la transacción se ha documentado a través de una ‘factura’ y si representa una compra atingente al giro del negocio. Vulnerando estas dos condiciones, los agentes evasores pueden aplicar créditos de IVA por sobre lo que la legislación establece. De una forma análoga a lo que ocurre en las ventas, en el caso de las compras los agentes deben disponer del respaldo de factura, del registro contable en el libro de compras y de su transcripción fidedigna a la declaración mensual de IVA, de manera que también la sobredeclaración de créditos puede manifestarse en distintas instancias.
+
+Medir este tipo de evasión de IVA por muestreo es más complejo. Si bien las ventas finales pueden ser monitoreadas en la mayor parte de los casos sin interferir las transacciones, en las compras de una empresa, en cambio, la no interferencia es más improbable. Como las compras son decisiones de la empresa, al ser sometida a un punto fijo ésta puede alterar su comportamiento de tal modo que la comparación con períodos similares pierda todo sentido. En este caso, el método que parece más aconsejable es la realización de ‘auditorías expertas’ a los créditos. A partir de una muestra de contribuyentes auditados se podrá estimar la evasión de IVA por esta vía. Este tipo de métodos se encuentran actualmente en estudio en el SII y permitirá en el futuro cerrar cifras de evasión de IVA globales comparables con las obtenidas por el método del potencial teórico.
+
+5.3	Limitaciones
+
+Las mayores limitaciones del método muestral de punto fijo radican en la medición del nivel teórico de ventas. Este método supone que cuando el contribuyente está sometido al control, las transacciones que realiza reflejan el verdadero nivel que tendrían sus ventas con cero evasión. Como se señaló en secciones previas, la presencia del fiscalizador en el local puede interferir con el comportamiento del contribuyente y de los compradores, por ejemplo porque se vende con mayores descuentos de lo habitual, se posterga la compra, se cierra el local antes de lo normal, etc. En ese caso la cifra medida bajo el control no será directamente comparable con la que se registra en otros períodos. Se supone que esta distorsión es mayor en las ventas intermedias y en la ventas finales de bienes durables, y que en el caso de las ventas finales como las medidas acá, el efecto es menos importante. Algunas razones para suponer que este efecto es menor son la impersonalidad de este tipo de ventas, el número alto de transacciones y el hecho de que al consumidor final en la mayoría de los casos le resulta indiferente a su decisión de compra, la presencia de un agente tributario. 
+
+Una segunda limitación del método del punto fijo es la variabilidad estadística que muestran las ventas diarias usadas en la medición. Esto obliga a realizar las estimaciones para agregaciones de contribuyentes similares, a fin de reducir esta variabilidad y mejorar el nivel de precisión de las estimaciones. Además, por tratarse de un método muestral sólo arroja índices puntuales, es decir, vigentes sólo para el período que se controla, mientras que otros métodos permiten obtener series temporales para los indicadores en base a una sola estimación.
+
+
+
+6	LA EVASION SEGUN LA OPINION DE LOS CONTRIBUYENTES
+
+El Servicio de Impuestos Internos ha llevado a cabo, por intermedio de la empresa Adimark, una serie de estudios de imagen corporativa. Estos se han realizado en los años 1990, 1992 y 1996 a través de una encuesta aplicada sobre muestras de 300 contribuyentes, en cada oportunidad.
+
+En relación al tema de la evasión tributaria, de los resultados de la encuesta se desprende que los contribuyentes mayoritariamente consideran un delito grave la evasión tributaria y una competencia desleal respecto de aquellos que no evaden. Al mismo tiempo, existe una opinión favorable hacia un mayor control de la evasión de impuestos y hacia la existencia de sanciones para aquellos que incurren en este delito. En efecto, tal como se muestra en el cuadro Nº 6, en 1996, un 61,4% se manifiesta en favor de un mayor control para reducir la evasión. Por otro lado, se aprecia un porcentaje alto sobre el 71% que señala que los contribuyentes buscan resquicios para reducir su pago de impuestos y también es interesante notar que un porcentaje similar cree que la evasión es mayor en contribuyentes de mayores niveles de ingresos.
+
+
+PRIVADO CUADRO Nº 6
+OPINION DE LOS CONTRIBUYENTES FRENTE A LA EVASION DE IMPUESTOS
+(% que señala estar muy de acuerdo y de acuerdo con cada afirmación)
+
+AFIRMACION
+1990
+(%)
+1992
+(%)
+1996
+(%)
+
+“Debería existir un mayor control para que no exista evasión de impuestos”
+
+“Las personas y las empresas usan todo tipo de resquicios para pagar lo menos posible en impuestos”
+
+“La gente de más alta renta evade más”
+
+“Hay gente que evade impuestos y se siente orgullosa de ello”
+
+“Si a un comerciante lo sorprenden no dando la boleta o factura, deberían cerrarle el local por un período de tiempo”
+
+
+73,9
+
+56,5
+
+
+59,5
+
+55,4
+
+52,1
+
+65,9
+
+57,3
+
+
+57,2
+
+48,5
+
+44,2
+
+61,4
+
+71,4
+
+
+69,4
+
+58,4
+
+49,1
+Fuente: “Imagen del SII”, Informes 1991, 1992 y 1996. Adimark.
+
+
+Otro resultado de alto interés en este estudio es la opinión de los entrevistados en relación al nivel de evasión tributaria en Chile. Como se muestra en el gráfico Nº 3, en 1990 la creencia de los entrevistados sobre el porcentaje total de impuestos evadidos era en promedio de un 26,6%, mientras que en 1992 este porcentaje se redujo a 23,4%. En el estudio de 1996, la creencia de evasión de los contribuyentes se mantuvo relativamente alineada con la de 1992, alcanzando al 23,0%. Cabe mencionar en este punto, que los estudios de evasión basados en CN, fueron divulgados por el SII recién a partir de 1993, por lo que al menos las creencias de los contribuyentes en 1990 y en 1992 no deberían estar influenciadas por éstos.
+
+
+EMBED Excel.Chart.8 \s
+
+
+Otro aspecto relevante que se incluyó en el estudio de opinión de 1996, corresponde a la percepción de incumplimiento asociable a distintas formas de evasión. Como se muestra en el Cuadro Nº 6, la encuesta indica que casi el 40% de los encuestados se declara en acuerdo con la sentencia “se evade mucho” a través de transacciones sin boleta o factura. Mientras que la no emisión de boletas de honorarios y la compras personales cargadas a gasto de la empresa ocupan los siguientes lugares en la lista de figuras de evasión, con porcentajes próximos al 25% de los entrevistados en ambos casos.
+
+
+
+PRIVADO CUADRO Nº 6
+PERCEPCION DE LAS DISTINTAS FORMAS DE EVASION DE IMPUESTOS
+(% que señala estar de acuerdo y muy de acuerdo con la sentencia ‘se evade mucho’)
+Forma de Evasión
+1996
+(%)
+
+Compra o Venta sin Boleta o Factura
+
+Profesionales que no emiten boleta de honorarios
+
+Cargar Gastos Personales a Gasto de la Empresa
+
+No declarar intereses o dividendos ganados
+
+Conseguir facturas para disminuir pago de IVA
+
+
+39,6
+
+25,9
+
+24,4
+
+23,4
+
+20,1
+Fuente: “Imagen del SII”, Informes 1991, 1992 y 1996. Adimark.
+
+ 
+7	NIVEL DE EVASION EN CHILE VERSUS OTROS PAISES
+
+A continuación se presenta, en el cuadro Nº 7, una comparación de los niveles de cumplimiento en el IVA estimados para un conjunto de países, utilizando en todos los casos la metodología del potencial teórico en base a CN.
+
+PRIVADO CUADRO Nº 7
+CUMPLIMIENTO TRIBUTARIO EN EL IVA NETO EN CHILE
+EN COMPARACION CON OTROS PAISES - 1993
+	País
+Tasa de Cumplimiento 1
+Nueva Zelandia
+	Suecia
+	Israel
+	Portugal
+	Sudáfrica
+5,1
+5,4
+7,8
+14,0
+14,6
+Chile (1997)
+19,7
+	Canadá 
+España
+	Uruguay
+	Argentina
+	Honduras
+	Colombia
+	Hungría
+	México
+	Ecuador
+	Filipinas
+	Bolivia
+	Guatemala
+	Perú
+23,0
+26,0
+29,7
+31,5
+35,4
+35,8
+36,3
+37,1
+38,2
+40,8
+43,9
+52,5
+68,2
+Fuente: Silvani y Brondolo [1993].
+Nota: 
+1	Corresponde a la razón porcentual entre la Recaudación Efectiva de IVA y la Recaudación Teórica de IVA, considerando en ambos casos el agregado IVA Tasa General e IVA Importaciones.
+
+Se constata que la tasa de evasión del IVA en Chile, cercana al 20% en 1997, es bastante menor que la registrada en el resto de Latinoamérica, en que los niveles se sitúan del 30% hacia arriba, y de un orden similar a lo que se registra en Canadá que registra un 23% de evasión. Países como Nueva Zelandia, Israel, Suecia, exhiben tasas de evasión de tan solo un dígito. Si bien no se tiene el dato preciso, para Francia e Inglaterra se estiman cifras de evasión inferiores al 10%. En Estados Unidos, las autoridades hablan de cifras globales de evasión de alrededor del 18%, tasa que por la estructura tributaria de ese país corresponde principalmente a evasión del impuesto a la renta
+8	RESUMEN Y CONCLUSIONES
+
+Respecto de los resultados, se debe señalar que la tasa de evasión estimada para el IVA en 1997 alcanzó a un 19,7%, la tasa de evasión para el Impuesto a la Renta de Primera Categoría a un 41,7%, mientras que la tasa de evasión estimada para el agregado de los impuestos personales a la renta (Global Complementario, Segunda Categoría e Impuesto Adicional) se situó en torno al 35,8%. 
+
+Incorporando estimaciones de evasión en otros impuestos, se llega a una evasión total para 1997 del orden de los US$4.101 millones, lo que representa una tasa de evasión para ese año de un 23,9%. Cabe mencionar, que de acuerdo con nuestras estimaciones alrededor de un 75% de la evasión de Primera Categoría se explica por la evasión de IVA y, consecuentemente, el mismo porcentaje de la evasión de Global Complementario se explica también por evasión de IVA. Esto nos permite estimar que la evasión de este último gravamen llega a explicar en forma directa e indirecta en torno a unos US$3.200 millones, es decir, cerca de un 80% de la evasión total. Lo anterior pone de manifiesto la importancia de invertir mayores esfuerzos de fiscalización en el IVA.
+
+Bajo las estimaciones muestrales de punto fijo, se obtiene un monto de evasión de IVA por ventas finales del orden de los US$ 860 millones. Si se considera que los montos de evasión obtenidos por ambos métodos son consistentes, entonces se tendría que la subdeclaración de ventas finales explicaría más del 60% de la evasión de IVA. Esta participación tan alta también es consistente con la percepción de los contribuyentes respecto de la primera importancia de la ventas sin comprobante como mecanismo de evasión.
+
+Por último, cabe señalar que si bien las estimaciones de evasión tienen una serie de supuestos y limitaciones, se observa similitud entre la estimación en base a Cuentas Nacionales y la percepción de evasión de los contribuyentes. Por otro lado, las estimaciones muestrales de evasión para la principal forma de evadir el IVA confirman su importancia.
+
+Por otro lado, a nivel internacional el cumplimiento tributario del IVA en Chile aparece en un nivel por sobre varios otros países del mundo. En particular, nuestro sistema tributario muestra la mejor tasa de cumplimiento de toda Latinoamérica. No obstante ello, todavía se está lejos de alcanzar niveles de evasión de un dígito como los que exhiben las economías más desarrolladas. En ese sentido y teniendo en cuenta las favorables perspectivas de crecimiento del país, acortar esa diferencia en el mediano plazo debiera ser un objetivo de modernización del SII, el cual debería ser apoyado por un sustancial aumento de sus recursos, así como de una simplificación del sistema tributario.
+
+
+
+
+REFERENCIAS
+
+
+-	Serra, P. [1991] Evasión Tributaria en IVA. Documento de Trabajo N° 5. Departamento de Ingeniería Industrial. Facultad de Ciencias Físicas y Matemáticas. Universidad de Chile.
+
+-	Toro, J. y Trujillo, J. [1992] Estimación de la Evasión Tributaria en el IVA: Período 1980-1991. Mimeo Servicio de Impuestos Internos.
+
+-	Jorratt, M. y Serra, P. [1997] Estimación de la Evasión en el Impuesto a la Renta de Primera Categoría. Período 1985-1995. Documento de Trabajo-Fondecyt N° 19-60730. 
+
+-	Engel, E.; Galetovic, A. y Raddatz, C.[1998a] Impuestos y Distribución del Ingreso en Chile. Mimeo.
+
+-	Engel, E.; Galetovic, A. y Raddatz, C.[1998b] Medición de la Evasión en el IVA mediante el Método de Punto Fijo. Mimeo.
+
+-	Adimark. [1991], [1992] y [1996] Informes de Imagen del SII.
+
+Silvani, C. y Brondolo, J. [1993] Medición del Cumplimiento Tributario en el IVA y Análisis de sus Determinantes. Fondo Monetario Internacional - Centro Interamericano de Administraciones Tributarias. 
+
+Banco Central de Chile [1999] Anuario de Cuentas Nacionales 1999. Versión Preliminar Mayo 1999.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXOSANEXO N° 1
+METODOLOGIA DEL POTENCIAL TEORICO PARA MEDIR EVASION EN EL IVA
+
+
+1	Conceptos Previos 
+
+El IVA es un impuesto que grava la mayor parte de las transacciones de bienes y servicios en la economía. Este impuesto opera sobre la base del sistema de débitos y créditos. En una transacción intermedia, el agente que actúa como vendedor tiene la obligación de recargar el impuesto y pagarlo al Fisco (Débito de IVA), mientras que el que actúa como comprador tiene derecho a rebajar de su obligación fiscal el impuesto pagado (Crédito de IVA). Bajo este mecanismo, para cada agente que actúa en una etapa intermedia de comercialización, la obligación de pago corresponde a la diferencia entre su Débito de IVA o impuesto recargado en sus ventas, y su Crédito de IVA o impuesto pagado en sus compras. Esta diferencia se denomina Débito Neto de IVA.
+
+En la última etapa de comercialización, quien actúa como comprador es un consumidor final, para quien no está disponible el crédito de IVA, por lo cual el impuesto recargado en esta transacción resulta ser un impuesto ‘terminal’ para el consumidor.
+
+
+2	Estimación vía Potencial Tributario 
+
+De lo descrito en el punto anterior, se desprende que el consumidor final es quien soporta el pago total del impuesto, no obstante éste sea recaudado fraccionadamente por el Fisco a través de los débitos netos de los distintos agentes intermedios participantes en la cadena productiva. En consecuencia, surgen dos formas a través de las cuales se podría medir el potencial de recaudación. La primera forma es medirlo por el lado de la producción, agregando el Débito Neto Potencial de los distintos sectores de la economía y la segunda forma, por el lado del consumo, agregando las compras finales de la economía para construir la base del impuesto. El estudio de Serra [1991] realiza una estimación por ambas vías para el año 1986, calculando el débito neto potencial de los 75 sectores económicos definidos por la Matriz de Insumo-Producto de ese año y estimando también la base de gasto gravado con IVA. El estudio de Toro y Trujillo [1993], extiende las estimaciones basadas en el gasto del Sistema de Cuentas Nacionales para obtener una serie anual del potencial de recaudación. 
+
+Las cifras de evasión presentadas en este informe, están basadas en este último estudio que se basa en la agregación de la compras que involucran un pago de IVA. Ello por cuanto, construir una serie temporal del Débito Neto potencial para cada sector económico demandaría una MIP para cada año, lo que hace infactible aplicar este método para tales fines.
+
+
+
+3	Aplicación del Método
+
+3.1	Estimación de la Base Teórica
+
+El método del potencial teórico construye la base agregada del impuesto a partir del gasto en bienes y servicios con IVA no deducible. La principal componente de este gasto es el consumo final de hogares, información que es publicada anualmente por el Banco Central en las cifras de cuentas nacionales. Sin embargo, no todo el consumo forma parte de la base del IVA, dado que existe un conjunto de transacciones finales que están favorecidas por exenciones, según lo establece la ley. Estas exenciones denominadas ‘exenciones parciales’ operan sólo sobre el valor agregado en la última etapa de la cadena productiva, lo cual determina que las empresas que efectúan estas transacciones no tengan ni débitos ni créditos de IVA. Así, la adquisición de bienes y servicios que éstas realicen constituye también un gasto con IVA no deducible y por ende, forma parte de la base potencial del impuesto.
+
+De acuerdo a lo anterior, esta aproximación de la base corresponderá a:
+
+Gasto IVA ND =  Consumo Final Afecto  +  Gasto Afecto de Empresas Exentas  (1)
+
+El Consumo Final Afecto se estima, como ya se señaló, utilizando las cifras del SCN de Consumo Final de Hogares e Instituciones sin Fines de Lucro (CF). Sobre esta cifra se descuenta el consumo final exento compuesto principalmente por el consumo final de los sectores favorecidos con la exención (CSE) más otras componentes menores, que corresponden a Donaciones (D), Importaciones de Zona Franca (IZF), consumo realizado por chilenos en el exterior (CEXT), autoconsumo agrícola (AA) y propinas (P). Al mismo tiempo, se adiciona a esta cifra el consumo gravado realizado por extranjeros no residentes (CNR) que también involucra un gasto con IVA no deducible.
+
+La expresión de cálculo para el Consumo Final Afecto es entonces:
+
+Consumo Final Afecto = CF - CSE - D - IZF - CEXT - AA - P + CNR 	(2)
+
+El consumo final de los sectores exentos se estima a partir de cifras de consumo y PIB sectorial del SCN, utilizando la proporción de exención por sector económico calculada en Serra [1991]. De ese mismo estudio, se extrae la proporción de consumo que corresponde al resto de componentes, salvo las importaciones de Zona Franca que se estiman a partir de las solicitudes de registro de facturas de Aduanas, y el consumo de chilenos en el exterior y de extranjeros en Chile, los cuales se estiman a partir de cifras de gasto y permanencia promedio del turismo publicados por el INE.
+
+Por otra parte, el Gasto Afecto de Empresas Exentas se compone del Consumo Intermedio gravado que se destina a la producción exenta (CIGDEX) y de la Inversión Gravada con ese mismo destino (IGDEX). Es decir,
+
+Gasto Afecto de Empresas Exentas =  CIGDEX + IGDEX    	(3)
+
+
+Tanto el consumo intermedio gravado como la inversión gravada con destino exento se estiman en base a consumo intermedio y PIB sectorial del SCN, utilizando la proporción de exención calculada por sector económico en Serra [1991].
+
+Para estimar la base teórica del impuesto se debe efectuar un ajuste de consistencia que radica en descontar del agregado denominado Gasto con IVA No Deducible, la recaudación efectiva de IVA. 
+
+Base Teórica = Gasto IVA ND - Recaudación Efectiva     (4)
+
+Este ajuste se aplica porque todas las cifras de gasto del SCN incluyen IVA, sin embargo la base sobre la cual se aplica la tasa del impuesto no la incluye. La cifra de recaudación efectiva se obtiene de los informes anuales de Ingresos Tributarios de Tesorerías y corresponde al IVA Neto, es decir, aquél que deduce las devoluciones del impuesto. 
+
+
+3.2	Estimación de la Recaudación Teórica
+
+Para estimar la recaudación teórica simplemente se aplica la tasa legal vigente del impuesto sobre la base teórica estimada. Es decir,
+
+Recaudación Teórica = Base Teórica * Tasa       (5)
+
+La tasa legal o alícuota del IVA ha experimentado cambios a lo largo del período en el cual se obtienen las cifras. Hasta 1987 correspondía a un 20%, luego a mediados de 1988 se rebajó a 16% y posteriormente a mediados de 1990 se volvió a subir, esta vez a 18%, nivel que se ha mantenido vigente hasta ahora. Para hacer comparables las cifras, se ha utilizado una tasa homogénea para todo el período de 18%, denominando este concepto como recaudación teórica normalizada (Recaudación Teórica’).
+
+Recaudación Teórica‘ = Base Teórica * 18%       (5)
+
+
+3.3	Estimación de la Evasión
+
+La recaudación efectiva normalizada a 18% (Recaudación Efectiva’), se obtiene aplicando una proporción lineal sobre la cifra original, considerando la tasa legal vigente en cada período, es decir:
+
+Recaudación Efectiva‘ = Recaudación Efectiva * (18%/Tasa Vigente)       (6)
+
+El monto de evasión se define como la diferencia entre la recaudación efectiva y la recaudación teórica, ambas cifras normalizadas a 18%.
+
+Monto Evasión  =  Recaudación Teórica’  -  Recaudación Efectiva’      (7)
+
+Finalmente, la tasa de evasión expresa el monto de evasión como porcentaje de la recaudación teórica.
+
+Tasa de Evasión =  (Monto Evasión / Recaudación Teórica’) * 100       (8)
+
+
+
+3.4	Correcciones a la Estimación de Evasión respecto a Estudios Precedentes
+
+Nuevas Cifras Cuentas Nacionales: la antigua serie de evasión medida por Toro y Trujillo[1992] y por el SII, empleaba desde 1989 en adelante todas las cifras de CN a pesos de 1986 (consumo final hogares total , consumo final hogares por sector, consumo intermedio por sector, inversión, etc.). Esto por cuanto no se contaba con información en algunas de las variables necesarias para una estimación nominal. Así, la comparación con la recaudación efectiva --que se mide naturalmente a moneda nominal-- obligaba a llevar esta última cifra a pesos de 1986. Para ajustar esta variable se aplicaba simplemente variación de IPC promedio anual. En esta oportunidad se ha trabajado con una nueva serie de cifras publicadas en el "Anuario de Cuentas Nacionales 1999", que cierra con información nominal y definitiva hasta el año 1996. Con la nueva información disponible de cuentas nacionales se ha evitar el error asociado a ajuste por IPC, calculando una nueva serie de evasión.
+
+Otros Ajustes: la disponibilidad de otra información que se utiliza en el cálculo de la evasión ha permitido introducir los siguientes ajustes adicionales: (i) se eliminan los créditos de impuesto al petróleo de los créditos de IVA Tasa General, ya que no corresponde contabilizarlos en la recaudación de IVA, y (ii) se reemplazó en el cálculo de la recaudación teórica, el descuento de recaudación efectiva de IVA por el descuento de lo que el Banco Central denomina "IVA Neto Recaudado", lo cual hace más preciso el cálculo de la base neta potencial.
+
+ANEXO N° 2
+METODOLOGIA DEL POTENCIAL TEORICO PARA MEDIR EVASION EN EL IMPUESTO A LA RENTA DE PRIMERA CATEGORIA
+
+
+1	Conceptos Previos
+
+El Impuesto a la Renta de Primera Categoría opera sobre la Renta Líquida Imponible de la empresa, la cual se determina a partir del resultado tributario que ésta obtenga (utilidad del período determinada de acuerdo a las normas de la legislación tributaria). Cuando el resultado tributario del período es negativo, es decir, se produce una pérdida tributaria entonces la base imponible y el impuesto son cero, pudiendo estas pérdidas ser deducidas de las utilidades tributarias de períodos posteriores, o bien rebajadas en el mismo ejercicio de las utilidades acumuladas. 
+
+					RT  =  IB  -  CD  - GNPR  - RE +  GR + CM				(1)
+
+Como se indica en (1), el Resultado Tributario (RT) del período se obtiene restando de los ingresos brutos (IB) el costo directo de los bienes y/o servicios (CD), los gastos necesarios para producir la renta (GNPR) y las rentas exentas (RE); y adicionando los gastos rechazados (GR) y la corrección monetaria (CM). 
+
+
+
+2	Estimación vía Potencial Tributario 
+
+En el Sistema de Cuentas Nacionales (SCN), la variable a través de la cual se intenta aproximar la base del impuesto es el Excedente de Explotación (EE), el cual se obtiene restando del valor bruto de producción(VBP), a precios de productor, el consumo intermedio(CI), las remuneraciones de los trabajadores(R), el consumo de capital fijo(D), los intereses netos pagados(NI) y los impuestos indirectos distintos al IVA (II).
+
+EMBED Equation.3SEQ Equation  \* ARABIC  \r0  \h0 				(2)
+
+Por cierto para un contribuyente particular la depreciación legal puede diferir de la económica, pero en régimen estable no debiera esperarse ningún sesgo por este concepto. A continuación se relacionan los conceptos tributarios que componen la Renta Liquida Imponible de los contribuyentes sujetos a renta efectiva con la definición de excedente de explotación en el SCN.
+
+	RT  =  EE  -  PEA  -  DON  -  RE  +  CM				(3)
+
+Donde PEA corresponde a las pérdidas de ejercicios anteriores, DON corresponde a las donaciones, RE a rentas exentas y CM a corrección monetaria.
+  
+Por su parte, la Renta Líquida o Base Imponible del impuesto agregada para el universo de empresas considera sólo la sumatoria de los resultados tributarios positivos, es decir, de las utilidades tributarias; por lo tanto, a nivel agregado, para obtener esta magnitud debemos sumar al resultado tributario las pérdidas tributarias del ejercicio, que llamaremos PT. De esta forma, llegamos a la siguiente expresión para aproximar la base agregada de este impuesto:
+
+BI Agregada 1ª Categoría = EE  - PEA  -  DON  -  RE  + CM +  PT	(4)
+
+
+3	Aplicación del Método
+
+3.1	Estimación de la Base Teórica
+
+Tal como se vio en el capítulo anterior, la base imponible del impuesto de Primera Categoría se puede aproximar por el Excedente de Explotación de Cuentas Nacionales. Las diferencias ya comentadas darán origen a una serie de correcciones, las cuales se resumen en el siguiente esquema:
+
+	Excedente de Explotación
+-	Excedente de Explotación de Actividades no Afectas y Exentas
+Propiedad y Arriendo de Viviendas
+Arriendos comerciales
+Profesionales Independientes
+Bosques acogidos al DL 4.363
+Empresas instaladas en Zonas Francas
+Pescadores Artesanales y Comerciantes Ambulantes
+-	Excedente de Explotación Contribuyentes afectos a Renta Presunta
+-	Pérdidas Ejercicios Anteriores Efectivas
++	Ajuste por Corrección Monetaria
+=	Resultado Tributario Teórico
++	Pérdidas Tributaria del Ejercicio Efectivas
+=	Base Imponible de Primera Categoría Teórica
+
+
+3.2	Estimación de la Recaudación Teórica
+
+Para estimar cada una de las componentes y variables de ajuste que establece el método se recurrió a las cuentas anuales del excedente de explotación, publicadas por el Banco Central y a información sectorial contenida en la MIP de 1986. A continuación se describen las principales áreas de estimación.
+
+En el caso del excedente de explotación de actividades exentas y no afectas, se emplearon las proporciones medidas en la MIP de 1986 de esta componente sobre el PIB de cada sector. Las cifras disponibles en moneda de ese año fueron llevadas a moneda de cada año, usando factores sectoriales de ajuste, por ejemplo en el caso de Propiedad y Arriendo de Viviendas se usó el índice de variación de precios de arriendos, o en el caso de empresas de renta presunta se aplicó variación de IPC sectorial, usando los ponderadores de la Encuesta de Presupuestos Familiares de 1988, publicadas por el INE.
+
+Para ajustar por corrección monetaria se recurrió a los estados financieros de las sociedades anónimas abiertas, desde donde se obtuvo la fracción que representa la corrección monetaria de las utilidades, aplicándose posteriormente esta fracción al excedente de explotación corregido.
+
+Para corregir por las pérdidas tributarias de cada período, se usó información efectiva, dado que no era posible estimar este ajuste a partir de cuentas nacionales.
+
+La renta presunta afecta a Primera Categoría en el período 1985-89, se calculó usando la fracción entre la renta presunta de Primera Categoría y la renta presunta del Global Complementario para el período 1990-95, aplicando luego esta fracción sobre la base imponible de Primera Categoría de cada año del primer período mencionado.
+
+El ajuste por artículo 14 bis se ha realizado a nivel de información efectiva. Para estimar esta componente se dividió la base imponible de los contribuyentes acogidos al artículo 14 bis por el porcentaje promedio de distribución de utilidades de los contribuyentes de tamaño similar que tributan en el régimen general.
+
+Finalmente, se calculó la recaudación teórica aplicando la tasa del impuesto sobre la base imponible agregada, descontando los créditos aplicados efectivamente por los contribuyentes, como sigue:
+
+	Recaudación Teórica 	=	Base Imponible Teórica * Tasa - Créditos Efectivos	(5)
+
+Al restar los créditos efectivos, ante la imposibilidad de estimarlos teóricamente, se está excluyendo la posibilidad de evasión por el abultamiento de éstos,  lo cual puede generar un subestimación de la evasión.
+
+3.3	Estimación de la Evasión
+
+La recaudación efectiva normalizada a 15% (Recaudación Efectiva’), se obtiene aplicando una proporción lineal sobre la cifra original, considerando la tasa legal vigente en cada período, es decir:
+
+Recaudación Efectiva‘ = Recaudación Efectiva * (15%/Tasa Vigente)       (6)
+
+El monto de evasión se define como la diferencia entre la recaudación efectiva y la recaudación teórica, ambas cifras normalizadas a 15%.
+
+Monto Evasión  =  Recaudación Teórica’  -  Recaudación Efectiva’      (7)
+
+Finalmente, la tasa de evasión expresa el monto de evasión como porcentaje de la recaudación teórica.
+
+Tasa de Evasión =  (Monto Evasión / Recaudación Teórica’) * 100       (8)
+	Ley 19.598 de 1998, Ministerio de Hacienda.
+	En las transacciones a nivel de consumidor final el comprobante de venta es una ‘boleta de venta’. En las transacciones intermedias, el comprobante es una ‘factura’.
+	Esta disposición que estaba contemplada en el artículo 14 de la Ley de la Renta, fue modificada recientemente en la ley de aumento de pensiones (Ley 19.598 de 1998), eliminando la posibilidad de reinvertir en acciones de pago.
+	En efecto, tratándose de transacciones intermedias, el débito de IVA recargado por el vendedor tiene como contrapartida inmediata un crédito de IVA de igual monto para el comprador, de manera que el ingreso neto fiscal es nulo. (Para una descripción más detallada véase el anexo N° 1).
+	Las cifras presentadas en este informe corrigen las series estimadas por Toro y Trujillo [1992] (véase el anexo Nº 1). 
+	Tanto ésta como el resto de cifras contenidas en el informe se han expresado en moneda de enero de 1999. Para la conversión de moneda se emplea variación mensual de IPC (Indice de Precios al Consumidor) y tipo de cambio observado promedio mensual (Fuente: Boletín Mensual, Banco Central de Chile).
+	Entre estos ajustes futuros debe contarse la aplicación de la nueva Matriz de Insumo-Producto de la economía chilena que se encuentra aún en preparación por parte del Banco Central.
+	Las cifras presentadas acá constituyen una revisión y actualización de las cifras obtenidas por este  método en Jorrat y Serra [1997].
+	Comprende arriendos, propiedad de vivienda, rentas de profesionales independientes, rentas de bosques exentas por franquicias, zonas francas y pequeños contribuyentes.
+	Comprende empresas medianas y pequeñas de los sectores agrícola, minero y transporte.
+	Al no disponerse de una estimación de los créditos teóricos, se utilizan los créditos efectivos en la construcción de la recaudación teórica del impuesto.
+	La experiencia de las áreas de fiscalización del SII indica que el impuesto de Segunda Categoría ofrece posibilidades de evasión más limitadas que el Global Complementario, especialmente porque se trata de un gravamen de retención, que puede ser fiscalizado en la fuente. Respecto al Impuesto Adicional, se ha observado que las empresas extranjeras en general no evaden por subdeclaración de Primera Categoría sino que las figuras de evasión están asociadas con el encubrimiento de remesas bajo la apariencia de gastos o pago de servicios. 
+	La identidad de las personas encuestadas por la CASEN que permitiría comparar impuesto por individuo, no está disponible.
+	Se considera que la naturaleza estatal de las empresas contribuyentes limita fuertemente las posibilidades y los incentivos a evadir el impuesto.
+
+	Por actividad informal se entiende aquella actividad económica que ha quedado fuera de las estadísticas nacionales, pero en la cual está involucrada la transacción de un bien o servicio con existencia legal.
+	Para cada agente que actúa en una etapa intermedia de comercialización, la obligación de pago corresponde a la diferencia entre su Débito de IVA o impuesto recargado en sus ventas, y su Crédito de IVA o impuesto pagado en sus compras. Para justificar esta diferencia se hace imprescindible el comprobante de compra-venta.
+	En Chile, a diferencia de lo que acontece en otros países, el método de punto fijo no constituye un mecanismo respaldado por la legislación para presumir obligación de pago y por tanto es usado sólo como informe preliminar para decidir una fiscalización en mayor profundidad.
+
+	Si bien los autores del estudio citado no lo hacen presente, es importante señalar que en Canadá -- a diferencia de los otros países -- se adoptó el IVA pocos años antes de la medición, por lo que la cifra de evasión consignada en dicho estudio está probablemente influenciada por esta etapa preliminar de su aplicación.
+
+
+
+
+
+ 
+
+ 
+
+PAGE  4
+
+
+
+ EMBED Excel.Sheet.8  
+
+
+ EMBED Excel.Sheet.8  
+
+
+
+

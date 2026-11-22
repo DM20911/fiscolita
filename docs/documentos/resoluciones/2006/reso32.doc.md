@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso32.doc
+titulo: Word – Resolución Exenta SII N°32 del 24 de Marzo del 2006 Aclara Res. Ex. SII N° 14, del 08.02.2005. Fuente: Departamento de Operación IVA y Catastro de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°32 DEL 24 DE MARZO DEL 2006 MATERIA : ACLARA RES. EX. SII N° 14, DEL 08.02.2005.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las facultades contempladas en el artículo 6º letra A) Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L. Nº 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; lo dispuesto en el D. L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y su reglamento, contenido en el D.S. N° 55, del Ministerio de Hacienda, de 1977 y,
+
+CONSIDERANDO:
+
+1°	Que, el artículo 71-bis del D.S. N° 592, del Ministerio de Hacienda, de 1985, publicado en el Diario Oficial de fecha 08.07.1985, incorporó al D.S. N° 55, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974, la facultad de la Dirección del Servicio de Impuestos Internos, para fijar las características de las Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Liquidaciones Facturas, Notas de Débito, Notas de Crédito, Facturas Exentas o No Afectas y todos aquellos documentos que deban confeccionarse con dichas características.
+
+2°	Que, mediante Res. Ex. N° 1661, de 08.07.1985, publicada en el Diario Oficial de fecha 9 de Julio del mismo año, se procedió a fijar las características de los documentos enunciados en el considerando anterior.
+
+3°		Que, la Res. Ex. SII N° 14, de 08.02.2005, fijó nuevos requisitos y estableció nuevas características respecto de algunos documentos tributarios, específicamente en relación al término de vigencia de los mismos.
+
+4°	Que, con el fin de evitar mayores costos a aquellos contribuyentes que mantienen documentos en stock sin timbrar, se ha establecido instruir que en el momento del timbraje de los respectivos documentos en que su fecha de vigencia impresa en los mismos señalara el mismo año del timbraje y no el año siguiente,
+
+
+SE RESUELVE:
+
+1°	Agrégase el siguiente punto d) a continuación del punto 3°.c) de la Res. Ex. SII N° 14, del 08.02.2005:
+ 
+El Servicio autorizará el timbraje de documentos que señalen como fecha de vigencia el 31 de diciembre del mismo año en que sean timbrados. Es decir, hasta el 31 de diciembre de cada año podrán timbrarse documentos que tengan como fecha de vigencia pre-impresa ese mismo año.
+
+La fecha de vigencia de estos documentos será la indicada en los mismos (31 de diciembre del mismo año).
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+     
+
+
+		(Fdo)  RICARDO ESCOBAR CALDERON
+							                 DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines 
+
+Saluda a Ud.
+
+
+
+
+DISTRIBUCION:
+Secretaria Director
+Subdirección de Fiscalización
+Oficina de Partes
+Internet.
+Diario Oficial (en extracto)
+
+

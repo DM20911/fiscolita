@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso30.doc
+titulo: Word – Resolución Exenta SII N°30 del 23 de Febrero del 2012 Establece nuevos modelos de Declaraciones Juradas Formularios Nº 1812 y 1895 e instrucciones de Certificado N° 23, para proporcionar la información a que se refieren las Resoluciones Exentas Nºs 6.836 y 35, de fechas 28.12.1993 y 13.12.200
+categoria: otros
+---
+RESOLUCION EXENTA SII N°30 DEL 23 DE FEBRERO DEL 2012 MATERIA: ESTABLECE NUEVOS MODELOS DE DECLARACIONES JURADAS FORMULARIOS Nº 1812 Y 1895 E INSTRUCCIONES DE CERTIFICADO N° 23, PARA PROPORCIONAR LA INFORMACIÓN A QUE SE REFIEREN LAS RESOLUCIONES EXENTAS NºS 6.836 Y 35, DE FECHAS 28.12.1993 Y 13.12.2002, RESPECTIVAMENTE.
+Hoy se ha resuelto lo que sigue:
+VISTOS : Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1 y 60° inciso octavo del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974; en los artículos 42 bis, 42 ter, 42 quáter y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L. Nº 824, de 1974; en los artículos 20 y 20 L del D.L Nº 3.500, de 1980, y en el artículo 2° de la Ley N° 20.455 publicada en el Diario Oficial de 31 de Julio del 2010, y
+
+
+CONSIDERANDO:
+
+1°. Que, mediante la Resolución Ex Nº 6.836, de fecha 28.12.1993, y sus modificaciones posteriores, se ha establecido la obligación para las personas naturales o jurídicas de presentar declaración jurada sobre el pago de rentas del artículo 42 N°1 de la Ley sobre Impuesto a la Renta y sobre la retención del Impuesto Único de Segunda Categoría correspondiente.
+
+2°. Que, mediante la Resolución Ex. Nº 35, de fecha 13.12.2002, y sus modificaciones posteriores, se ha establecido la forma en que las Administradoras de Fondos de Pensiones deben cumplir con la obligación de informar al SII y de certificar a sus afiliados, la información sobre la situación tributaria de los excedentes de libre disposición a que se refiere el artículo 42 ter de la Ley sobre Impuesto a la Renta.  
+
+					3°. Que, la Ley Nº 20.455, publicada en el Diario Oficial el 31 de Julio de 2010, modificó el artículo 42 ter de la Ley sobre Impuesto a la Renta, sustituyendo la oración final del inciso primero de dicho artículo por la siguiente: "Aquella parte del excedente de libre disposición que corresponda a recursos originados en depósitos convenidos, tributará de acuerdo al siguiente artículo."
+
+Asimismo, la mencionada ley agregó el artículo 42 quáter a la Ley sobre Impuesto a la Renta, estableciendo dicho precepto legal, que el monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley N° 3.500, de 1980, que corresponda a depósitos convenidos efectuados por sobre el límite establecido en el inciso tercero del artículo 20 del citado decreto ley, podrá ser retirado libre de impuestos. Con todo, la rentabilidad generada por dichos depósitos, tributará conforme a las reglas generales. Aquella parte de los excedentes de libre disposición que correspondan a recursos originados en depósitos convenidos de montos inferiores al límite contemplado en el artículo 20 del decreto ley N° 3.500, de 1980, tributará conforme a las reglas generales.
+
+4°. Que, con el objeto de velar por una eficiente administración y fiscalización de las disposiciones tributarias que la ley le encomienda a este Servicio. 
+
+
+
+SE RESUELVE:
+
+	1°. Establécense como Modelos de Declaración Jurada Formularios Nºs 1812 y Nº 1895, e instrucciones de llenado de Modelo Certificado N° 23, para proporcionar la información y antecedentes a que se refieren las Resoluciones Exentas Nºs 6.836 y 35, de fechas 28.12.1993 y 13.12.2002, respectivamente, los modelos que se adjuntan como Anexos Nºs 1, 2 y 3 a la presente resolución.
+   
+2° Las Declaraciones Juradas, deberán enviarse mediante la transmisión electrónica de datos, vía Internet, y sus formatos e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos: HYPERLINK "http://www.sii.cl/"www.sii.cl
+3°. La presente Resolución regirá a contar del Año Tributario 2012, respecto de la información que debe proporcionarse por las rentas percibidas y  retiros efectuados durante el año comercial 2011 y siguientes. 
+4°. Los Anexos N°s 1, 2 y 3, de esta Resolución, y que se entienden forman parte íntegra de ella, se publicarán oportunamente en la página Internet de este Servicio, HYPERLINK "http://www.sii.cl"www.sii.cl.  
+Toda modificación de los anexos aludidos en el párrafo anterior, se efectuará mediante su oportuna publicación en la página web de este Servicio.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+
+
+
+ 
+
+(FDO.) MARIO VILA FERNÁNDEZ
+DIRECTOR (S)
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+IBC/RNS/KCC/pcg
+DISTRIBUCIÓN:
+AL BOLETÍN
+A INTERNET
+AL DIARIO OFICIAL
+
+Anexo 1:  HYPERLINK "reso30_anexo1_layout_dj1812.pdf" Modelo Formulario N° 1812 y sus respectivas  HYPERLINK "reso30_anexo1_instruc_dj1812.pdf" instrucciones de llenado
+Anexo 2:  HYPERLINK "reso30_anexo2_layout_dj1895.pdf" Modelo Formulario N° 1895 y sus respectivas  HYPERLINK "reso30_anexo2_instruc_dj1895.pdf" instrucciones de llenado
+Anexo 3:  HYPERLINK "reso30_anexo3_instruc_certif23_dj_1812_1895.pdf" Instrucciones de llenado de Certificado N°23
+
+

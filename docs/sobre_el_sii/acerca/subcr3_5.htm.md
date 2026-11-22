@@ -1,0 +1,35 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr3_5.htm
+titulo: subcr3_5.htm
+categoria: sobre_el_sii
+---
+**3. DESARROLLO DE LAS PERSONAS Y LA ORGANIZACION**
+
+3.5 Nivel de Compromiso del Personal con los Objetivos Institucionales.
+
+El Servicio de Impuestos Internos mediante las reuniones y talleres descritos en el
+subcriterio 3.1. y los cursos de capacitación incrementa en todo el personal la
+responsabilidad, la vocación de servicio, las atribuciones, la capacidad de innovar y
+aportar ideas y la formación de equipos de trabajo.
+
+Además, el sistema de trabajo para el rediseño de los procedimientos o la creación
+de nuevos procesos, por medio de la conformación de equipos de trabajo, permite integrar
+a todos los funcionarios involucrados y trabajar hacia un mismo fin. Es así como el
+diagnóstico es hecho en terreno, con la colaboración de quienes operan los sistemas, de
+tal modo que en gran parte las soluciones y proposiciones de cambio surgen del propio
+personal. La participación en estas reuniones obliga a quienes asisten, a hacerse
+responsables por los diseños y los acuerdos tomados en conjunto, y a través de ellos
+entender mejor y comprometerse con los Objetivos Institucionales.
+
+Es parte de la responsabilidad de las jefaturas encargadas de alguna operación,
+proyecto o plan, planificar cómo y de qué manera se dará la participación
+específicamente en cada caso. En general, como apoyo técnico para lograr mejores grados
+de compromiso y participación, se cuenta con asesoría interna del Area de Capacitación,
+que ha diseñado metodologías e instrumentos destinados a facilitar estas actitudes en
+los funcionarios y en eventos grupales.
+
+El éxito de los esfuerzos desplegados por cada jefatura en lograr la adhesión y el
+compromiso de sus dirigidos es parte de la observación y vigilancia permanente de los
+Directivos Superiores, y que los obliga a estar permanentemente yendo a terreno,
+entrevistándose con el personal y asistiendo a las reuniones que se convocan en las
+distintas instancias.

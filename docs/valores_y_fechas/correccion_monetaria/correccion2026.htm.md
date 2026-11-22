@@ -1,0 +1,30 @@
+---
+url: https://www.sii.cl/valores_y_fechas/correccion_monetaria/correccion2026.htm
+titulo: Corrección Monetaria Mensual
+categoria: valores
+---
+## Corrección Monetaria Mensual
+
+Años Anteriores
+
+En la siguiente tabla se presentan los porcentajes de corrección monetaria para término de giro para los meses del año 2026:
+
+#### Porcentajes de Actualización Corrección Monetaria (Término de Giro), Año 2026
+
+|  | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Capital Inicial | -0,2 | 0,2 | 0,2 | 1,2 | 2,5 | 2,6 | 2,6 | 2,7 | 3,4 | 3,8 | 4,3 |  |
+| Enero |  | 0,4 | 0,4 | 1,4 | 2,7 | 2,8 | 2,8 | 2,9 | 3,6 | 4,0 | 4,5 |  |
+| Febrero |  |  | 0,0 | 0,9 | 2,3 | 2,4 | 2,4 | 2,5 | 3,1 | 3,5 | 4,0 |  |
+| Marzo |  |  |  | 1,0 | 2,3 | 2,4 | 2,4 | 2,5 | 3,1 | 3,5 | 4,0 |  |
+| Abril |  |  |  |  | 1,3 | 1,5 | 1,4 | 1,5 | 2,2 | 2,6 | 3,1 |  |
+| Mayo |  |  |  |  |  | 0,2 | 0,2 | 0,2 | 0,9 | 1,3 | 1,7 |  |
+| Junio |  |  |  |  |  |  | 0,0 | 0,1 | 0,7 | 1,1 | 1,6 |  |
+| Julio |  |  |  |  |  |  |  | 0,1 | 0,7 | 1,1 | 1,6 |  |
+| Agosto |  |  |  |  |  |  |  |  | 0,6 | 1,0 | 1,5 |  |
+| Septiembre |  |  |  |  |  |  |  |  |  | 0,4 | 0,9 |  |
+| Octubre |  |  |  |  |  |  |  |  |  |  | 0,5 |  |
+| Noviembre |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diciembre |  |  |  |  |  |  |  |  |  |  |  |  |
+
+**NOTA**: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de corrección monetaria de la Ley de la Renta, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose éste a un valor cero (0), normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.

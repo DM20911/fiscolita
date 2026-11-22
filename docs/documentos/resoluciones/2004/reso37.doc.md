@@ -1,0 +1,44 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso37.doc
+titulo: Word – Resolución Exenta SII N°37 del 20 de Febrero del 2004 Modifica Resoluciones Ex. Nos 13 y 20 de 29.01.2004. Fuente: Depto. Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°37 DEL 20 DE FEBRERO DEL 2004 MATERIA : MODIFICA RESOLUCIONES EX. NOS 13 Y 20 DE 29.01.2004.
+
+		Hoy se ha resuelto lo que sigue:
+
+	
+VISTOS: Lo dispuesto en el artículo 60, inciso 8° del D.L. Nº 830, de 1974, los artículos 5° y 19° de la Ley 19.880, de 2003, Resolución Ex. N° 4.228 de 1999, y
+
+
+CONSIDERANDO:
+
+
+1.- Que, en la Resolución Ex. N° 13 de 29.01.2004 y en la Resolución Ex. N° 20 de 29.01.2004, se han establecido obligación de presentar información del Banco de Chile y del Banco Santander-Chile, respectivamente. 
+
+2.-  Que, de acuerdo a lo indicado en el artículo 60, inciso octavo, del Código Tributario, para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el servicio puede pedir declaración jurada, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas.
+
+
+SE RESUELVE:
+
+
+1.- Sustitúyese, en los Dispositivos N° 1 de las Resoluciones Ex. N° 13, de 29.01.2004 y Ex. N° 20, de 29.01.2004, la expresión “Ley 18.041” por “Ley N° 18.401”.
+2.- La presente Resolución regirá a partir del Año Tributario 2004, respecto de los antecedentes existentes en el Banco Santander-Chile durante el año comercial 2003 y para los años tributarios siguientes, entregando la información del año comercial respectivo.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+
+
+ALFREDO ECHEVERRIA HERRERA
+DIRECTOR (S)
+
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.,
+DISTRIBUCIÓN: 
+BOLETÍN SII
+INTERNET
+
+

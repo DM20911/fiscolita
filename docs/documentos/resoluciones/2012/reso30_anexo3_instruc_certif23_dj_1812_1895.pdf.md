@@ -1,0 +1,60 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso30_anexo3_instruc_certif23_dj_1812_1895.pdf
+titulo: Instrucciones de llenado de Certificado N°23 – Anexo 1: Modelo Formulario N° 1812 y sus respectivas instrucciones de llenado Anexo 2: Modelo Formulario N° 1895 y sus respectivas instrucciones de llenado Anexo 3:
+categoria: otros
+---
+INSTRUCCIONES PARA CONFECCIONAR EL CERTIFICADO MODELO Nº 23
+Este Certificado debe ser emitido por las Administradoras de Fondos de Pensión
+informando a sus afiliados -que a partir de la fecha de vigencia del Artículo 42 ter de la
+Ley de la Renta (1° de marzo del 2002) hayan efectuado el primer retiro de excedentes
+de libre disposición- la situación tributaria de los mismos retiros de excedentes de libre
+disposición que hayan realizado durante el ejercicio comercial respectivo (Res. Ex. N°
+35 de 13.12.2002).
+El referido documento se confeccionará de acuerdo con las siguientes instrucciones:
+Columna (2): Registre el monto mensual de los retiros de excedentes de libre
+disposición realizados por el afiliado, sin actualizar.
+Columna (3): Registre los factores de actualización del IPC que publica oportunamente
+el SII.
+Columna (4): Registre el monto mensual de los retiros de excedentes de libre
+disposición realizados por el afiliado, debidamente actualizado. Para tales efectos, el
+monto mensual de los retiros deberá actualizarse bajo la forma dispuesta por el inciso
+penúltimo del Artículo 54 de la Ley de la Renta, esto es, de acuerdo al porcentaje de
+variación experimentado por el Índice de Precios al Consumidor en el período
+comprendido entre el último día del mes que antecede al del retiro y el último día del
+mes de noviembre del año calendario respectivo. Para efectos prácticos multiplique la
+columna (2) por el factor de actualización registrado en la columna (3).
+Columna (5): Sólo en el caso de los afiliados que hayan optado por mantener el
+régimen tributario del Ex-Artículo 71 del D.L. N° 3.500, registre el monto actualizado del
+retiro de excedente de libre disposición que se afectó con el referido Impuesto Único.
+Es decir, la parte de la cantidad registrada en la columna anterior que se haya afectado
+con el referido impuesto, en la parte que haya sido imputada a fondos originados por
+cotizaciones voluntarias enteradas antes del 7 de noviembre del 2001. Cabe aclarar
+que el monto de estos retiros sólo se afecta con el Impuesto Único ya señalado,
+es decir, no se afecta con ningún impuesto de la Ley de la Renta.
+Columna (6): Sólo en el caso de los afiliados que hayan optado por mantener el
+régimen tributario del Ex-Artículo 71 del D.L. N° 3.500, registre el monto actualizado del
+retiro de excedente de libre disposición que se debe afectar con el Impuesto Global
+Complementario. Es decir, la parte de la cantidad registrada en la columna (4) que
+deba afectarse con el referido impuesto por haber sido imputada a fondos originados
+por cotizaciones obligatorias enteradas antes del 7 de noviembre del 2001 y/o a fondos
+originados por depósitos convenidos, fondos originados por cotizaciones obligatorias y
+fondos originados por depósitos de ahorro previsional voluntario, cotizaciones
+voluntarias y ahorro previsional voluntario colectivo, enteradas estas tres últimas
+después del 7 de noviembre del 2001.
+Columna (7): Sólo en el caso de los afiliados que NO hayan optado por mantener el
+régimen tributario del Ex-Artículo 71 del D.L. N° 3.500, y que por tanto sus retiros de
+excedentes de libre disposición se encuentren afectos al Artículo 42 ter de la Ley de la
+Renta, registre la misma cantidad registrada en la columna (4). Cabe aclarar que sólo
+la parte del total de esta columna que exceda los montos exentos de 800 ó 1.200
+UTM del mes de diciembre a que se refiere el artículo 42 ter de la Ley de la Renta,
+se debe declarar como renta afecta al impuesto Global Complementario
+(instrucciones en Circular N° 23 de 2002).
+En esta columna también deben registrarse los retiros de excedente de libre
+
+disposición que hayan sido financiados con cargo a Depósitos Convenidos, incluida la
+rentabilidad generada por tales recursos, que se hayan beneficiado con la liberación
+tributaria del Impuesto Único de Segunda Categoría o del Impuesto Global
+Complementario por no exceder su monto del límite de 900 UF establecido en los
+artículos 20 del DL N° 3.500/80 y 42 quáter de la LIR, los cuales se encuentran afectos
+al Impuesto Global Complementario; todo ello conforme a las instrucciones contenidas
+en la Circular N° 63, de 2010, publicada en Internet (www.sii.cl).

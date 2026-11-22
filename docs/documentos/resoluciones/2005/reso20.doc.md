@@ -1,0 +1,96 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso20.doc
+titulo: Word – Resolución Exenta SII N°20 del 11 de Febrero del 2005 Establece obligación a los contribuyentes a que se refiere el artículo 1° de la Ley N° 19.885, que utilicen el beneficio tributario establecido en el artículo 8° de la citada ley, sobre donaciones a entidades de carácter público, de inform
+categoria: otros
+---
+RESOLUCION EXENTA SII N° 20 DEL 11 DE FEBRERO DEL 2005 MATERIA : ESTABLECE OBLIGACIÓN A LOS CONTRIBUYENTES A QUE SE REFIERE EL ARTÍCULO 1° DE LA LEY N° 19.885, QUE UTILICEN EL BENEFICIO TRIBUTARIO ESTABLECIDO EN EL ARTÍCULO 8° DE LA CITADA LEY, SOBRE DONACIONES A ENTIDADES DE CARÁCTER PÚBLICO, DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LA CIRCUNSTANCIA DE NO TENER PROHIBICIONES PARA REALIZAR LOS APORTES A QUE SE REFIERE EL ARTÍCULO 25 DE LA LEY N° 19.884.
+
+
+		
+VISTOS: Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de Hacienda, de fecha 30 de Septiembre de 1980; lo establecido en el artículo 6° Letra A) N° 1), en el artículo 30 y en el artículo 34 del Código Tributario, contenido en el Artículo Primero del D.L. 830, de 1974; lo dispuesto en la Ley N° 19.884, de 2003, texto legal que regula el gasto electoral y lo dispuesto en la Ley N° 19.885, de 2003, que normas el buen uso de donaciones de personas jurídicas que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos; y 
+
+
+
+CONSIDERANDO:
+
+
+Que, el artículo 25 de la Ley N° 19.884, establece en su inciso segundo y tercero que: “Se prohíben, también, los aportes de campaña electoral provenientes de toda persona jurídica que reciba subvenciones o aportes del Estado, siempre que dichas subvenciones o aportes representen más del quince por ciento de sus ingresos en cualquiera de los dos últimos años calendarios, como también de aquellas que contraten con él o sus órganos la provisión de bienes, la prestación de servicios o la realización de obras, si los montos a que ascendieren los contratos respectivos representan un porcentaje superior al cuarenta por ciento del total de su facturación anual en el respectivo año calendario o en alguno de los dos años calendarios precedentes.  Dicha prohibición afectará también a las personas jurídicas que, durante la campaña electoral, se encuentren postulando a licitaciones públicas o privadas con algunos de los organismos a que se refieren los incisos precedentes, siempre y cuando el monto de la licitación represente un porcentaje superior al cuarenta por ciento del total de su facturación anual en cualquiera de los dos años calendario inmediatamente anteriores. Su incumplimiento significará su eliminación del proceso licitatorio que esté en curso o la terminación anticipada del contrato que se encuentre vigente, según corresponda”;
+
+Que, el N° 1 del artículo 8° de la Ley N° 19.885, establece cierto límite dentro del cual los donantes pueden aprovechar los beneficios tributarios que otorga dicha norma, cuyo correcto cumplimiento corresponde verificar a este Servicio;
+
+Que, el artículo 34 del Código Tributario, obliga a atestiguar bajo juramento sobre puntos contenidos en una declaración, a los contribuyentes, a los que hayan firmado y a los técnicos y asesores que hayan intervenido en la confección o en su preparación o de sus antecedentes, cuando el Servicio de Impuestos Internos así lo requiera;
+
+Que, por otro lado, el inciso segundo del artículo 30 del Código Tributario, faculta a la Dirección del Servicio para autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+
+Que, la entrega de información a través de la transmisión electrónica de datos vía Internet es la que ofrece las mayores garantías de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante.
+
+Que, la información que se envía a través de Internet se efectúa a través de un sistema que garantiza su debido resguardo, evitando que un tercero pueda acceder a los datos que se están transmitiendo; y,
+
+Que, con el objeto de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar el correcto cumplimiento de las disposiciones tributarias, es preciso establecer la obligación de efectuar la declaración jurada a que se refiere la presente resolución.
+
+
+SE RESUELVE:
+
+
+Los contribuyentes mencionados en el artículo 1° de la Ley N° 19.885, de 2003, que hagan uso del beneficio tributario establecido en el artículo 8° de la mencionada ley, deberán presentar al Servicio de Impuestos Internos una Declaración Jurada Anual, informando no tener prohibición para realizar donaciones a partidos políticos y/o a candidatos a ocupar cargos de elección popular, en período eleccionario, según lo establece el artículo 25 de la Ley N° 19.884, de 2003.
+
+La Declaración Jurada establecida en el N° 1 anterior, deberá ser presentada sólo cuando exista período de campaña electoral.
+
+El respectivo formulario electrónico de esta declaración jurada estará disponible a partir del 1° de abril de cada año y el plazo para presentarlo vencerá el 1° de mayo de cada año. La referida declaración puede ser presentada después de realizada la Declaración de Impuestos Anuales a la Renta (Formulario N° 22).
+
+La referida información deberá proporcionarse mediante la transmisión electrónica de datos, vía Internet, a través del Formulario denominado “Declaración Jurada para contribuyentes que utilicen el beneficio tributario establecido en el artículo 8° de la Ley 19.885 por aportes realizados en período eleccionario a partidos políticos y/o candidatos a ocupar cargos de elección popular”, cuyo formato e instrucciones se encuentran disponibles en el anexo de esta resolución y en la página web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl" www.sii.cl.
+El retardo u omisión en la presentación de la Declaración Jurada, será sancionado de acuerdo a lo dispuesto en el N° 15 del artículo 97 del Código Tributario.
+
+Lo establecido en la presente resolución regirá a partir del Año Tributario 2005, respecto de los aportes realizados durante el año comercial 2004 y siguientes, entregando la información cada vez que se realicen aportes en los períodos de campaña electoral, definidos en el inciso primero del artículo 3° de la Ley N° 19.884, a los partidos políticos y/o a candidatos a ocupar cargos de elección popular.
+
+
+
+
+
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+(FDO.) BERNARDO LARA BERRIOS
+DIRECTOR (S)
+
+
+
+
+
+Lo que comunico a Ud. para su conocimiento y demás fines.
+
+
+Saluda a Ud.,
+
+
+
+
+
+
+
+
+
+
+
+
+ERH/MJD/CDM
+DISTRIBUCIÓN: 
+SECRETARÍA DIRECTOR
+SUBDIRECCIÓN DE FISCALIZACIÓN
+SUBDIRECCIÓN NORMATIVA
+SUBDIRECCIÓN JURÍDICA
+SUBDIRECCIÓN DE INFORMÁTICA
+DEPARTAMENTO DE OPERACIÓN RENTA 
+DEPARTAMENTO IMPUESTOS DIRECTOS
+OFICINA DE PARTES 
+DIARIO OFICIAL, EN EXTRACTO
+INTERNET
+
+

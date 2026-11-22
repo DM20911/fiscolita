@@ -1,0 +1,132 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso01.doc
+titulo: Word – Resolución Exenta N°01 del 03 de Enero del 2003 Fija Procedimiento, Plazos y Modelos de Formularios a Utilizar para Proporcionar Información Sobre Operaciones Exentas del Impuesto Adicional en Virtud de lo Dispuesto en el Articulo 59, Inciso Cuarto, N°2, de la Ley Sobre Impuesto a la Renta. F
+categoria: otros
+---
+RESOLUCION EXENTA N°01 DEL 03 DE ENERO DEL 2003 MATERIA : FIJA PROCEDIMIENTO, PLAZOS Y MODELOS DE FORMULARIOS A UTILIZAR PARA PROPORCIONAR INFORMACIÓN SOBRE OPERACIONES EXENTAS DEL IMPUESTO ADICIONAL EN VIRTUD DE LO DISPUESTO EN EL ARTICULO 59, INCISO CUARTO, N°2, DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+						Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7 de fecha 30 de Septiembre de 1980; lo establecido en el artículo 6° letra A) N° 1), artículo 34 y 60 inciso penúltimo del artículo 1° del D.L. N° 830 de 1974 sobre Código Tributario; los artículos 6° del D.L. N° 2.564 de 1979 y 10° de D.L. N° 3059 de 1979; el artículo 59 N° 2 de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del D.L. N° 824 de 1974, lo instruido en las Circulares N° 52 del 01.12.92, N° 8 del 20.01.93, N° 61 del 23.12.93, N° 62 del 15.10.97 y N° 19 del 28.02.02, y
+
+
+
+CONSIDERANDO:
+
+Que, el artículo 59 inciso cuarto de la Ley sobre Impuesto a la Renta grava con una tasa de 35%, por concepto de Impuesto Adicional, las rentas o cantidades que dicha norma señala, pagadas o abonadas en cuenta a personas sin domicilio ni residencia en Chile.
+
+Que, dicha norma en su número 2, grava con la tasa señalada a las remuneraciones por servicios prestados en el extranjero y establece exenciones de dicho impuesto, las que favorecen a determinados servicios, cuando se cumplen las condiciones y requisitos que la misma norma señala. 
+
+Que, por medio de la Circular N°52 de 01 diciembre de 1992 y Circular N°8 del 20 de enero de 1993, este Servicio instruyó acerca de la información a entregar respecto de las operaciones exentas en virtud del inciso primero del citado precepto, requiriéndose la identificación del pagador de las rentas, la individualización completa del beneficiario de la misma, una descripción breve del servicio prestado, copia debidamente autorizada del contrato o documento que acredita la operación y monto a pagar en la moneda extranjera que corresponda.
+
+Que, la Ley N°19.270, publicada en el Diario Oficial el 06 de diciembre de 1993, por medio de su artículo 1, número 3, agregó al artículo 59 N°2, los actuales incisos segundo y tercero, los que este Servicio comentó e instruyó mediante Circular N°61 del 23 de diciembre de 1993.  Posteriormente, la Ley 19.506 publicada en el Diario Oficial de 30 julio de 1997, mediante su Artículo 1, número 9, introdujo modificaciones a dichos incisos, las que fueron comentadas en la Circular N°62 del 15 de octubre de 1997.
+
+Que, por su parte, las Leyes N°s 19.738, publicada en Diario Oficial de 19 de junio de 2001, y 19.768, publicada en Diario Oficial de 07 de noviembre de 2001, introdujeron modificaciones al inciso primero del citado artículo 59 N°2, las cuales fueron comentadas por este Servicio en la Circular N°19 del 28 de febrero de 2002, por lo que a contar del 19 de junio de 2001, tanto las operaciones señaladas en dicho párrafo como sus condiciones, deben ser informadas al Servicio de Impuestos Internos en el plazo que éste determine, pudiendo este Servicio ejercer las mismas facultades que confiere el Artículo 36°, inciso primero, de la Ley sobre Impuesto a la Renta.  Por su parte, la Ley N°19.768 eliminó del señalado inciso la expresión "previamente autorizadas por el Banco Central de Chile en conformidad con la legislación vigente y que las sumas", por lo que las referidas operaciones ya no requieren autorización previa para quedar liberadas del impuesto.
+
+Que, las modificaciones señaladas en el párrafo anterior se introdujeron con la única finalidad de permitir un procedimiento más expedito que permita verificar que las sumas que se remesen al exterior por los conceptos a que se refiere dicha norma, cumplen con las condiciones necesarias para poder gozar de la exención del Impuesto Adicional que establece dicho precepto legal.
+
+Que, considerando lo anterior, se hace necesario actualizar las instrucciones contenidas en las Circulares N°52 de 1992, N°8 de 1993, N°61 de 1993 y N°62 de 1997, citadas previamente, a objeto de establecer un procedimiento uniforme de entrega de información por parte del contribuyente, interesado en gozar de alguna de las exenciones señaladas.
+
+Que, consecuente con todo lo anterior y en uso de las facultades antes mencionadas, este Servicio estima conveniente requerir a los contribuyentes, de manera periódica y normalizada, un detalle de las operaciones que, en virtud de los incisos primero, segundo o tercero del número 2 del artículo 59° de la Ley sobre Impuesto a la Renta, dan origen a la exención del Impuesto Adicional.
+
+
+RESUELVO:
+
+
+Fíjase modelos de formularios de declaraciones juradas sobre condiciones de las operaciones del artículo 59, inciso cuarto, número 2, de la Ley sobre Impuesto a la Renta, según formatos que se acompañan en Anexos N°1, sobre Formulario 1854 “Declaración Jurada Anual sobre Exención de Impuesto Adicional  Art. 59 N°2”, y  N°2, sobre “Declaración Jurada Anual Complementaria para Asociaciones Gremiales”, de esta resolución.
+
+Aquellos contribuyentes que deseen acogerse a la exención contenida en el artículo 59, número 2, inciso primero; los exportadores que deseen impetrar la exención contenida en el inciso segundo de dicha norma y los que en virtud del inciso tercero soliciten la autorización pertinente para acogerse a la exención, respecto de las remuneraciones por servicios prestados en el exterior contempladas en cada inciso, pagadas, remesadas, abonadas en cuenta o puestas a disposición del interesado, deberán presentar el Formulario 1854 “Declaración Jurada Anual sobre Exención de Impuesto Adicional Art. 59 N°2”.
+
+En la declaración jurada se detallarán las condiciones de las operaciones acogidas a exención, incluyendo una descripción del servicio prestado, datos del receptor de la renta, del prestador del servicio y el monto de los pagos correspondientes, todo ello de acuerdo al formato e instrucciones contenidos en el Anexo N°1 de esta Resolución.
+
+Respecto de las operaciones comprendidas en el inciso primero de la citada norma, se entenderá que con la presentación en tiempo y forma del Formulario 1854 “Declaración Jurada Anual sobre Exención de Impuesto Adicional Art. 59 N°2”, se cumple con el requisito establecido en la parte final de dicho inciso, que señala que, para gozar de la exención, las respectivas operaciones y sus condiciones sean informadas a este Servicio.
+
+En lo relativo a las operaciones comprendidas en el inciso segundo de la citada norma y de conformidad a la parte final del mismo, para que proceda la exención, los servicios deben guardar estricta relación con la exportación de bienes y servicios producidos en el país y los pagos correspondientes, considerarse razonables a juicio de este Servicio, debiendo para este efecto comunicarse en la forma y plazo señalados en esta resolución.
+
+En consecuencia, cuando este Servicio determine que los pagos correspondientes no son razonables, la exención quedará sin efecto. La razonabilidad de las sumas se evaluará tomando en consideración las pautas y conceptos contenidos en la Circular N°62 de 1997, en las normas generales de la Ley de la Renta, o bien, en los convenios de doble tributación internacional vigentes, éstos últimos cuando sean pertinentes.
+
+Las Asociaciones Gremiales que representen a los exportadores, que requieran la exención en virtud del inciso tercero del artículo 59 N°2, además del Formulario 1854, deberán presentar una “Declaración Jurada Anual Complementaria para Asociaciones Gremiales” identificando, para cada uno de los aportes recibidos, el asociado de la entidad que proporciona las divisas para efectuar los pagos, el monto de las divisas proporcionadas y la fecha de recepción de las divisas, de acuerdo al formato incluido en el Anexo N°2 de esta Resolución.
+
+En lo referente a las operaciones comprendidas en el inciso tercero de la citada norma, con la presentación en tiempo y forma de la “Declaración Jurada Anual Complementaria para Asociaciones Gremiales”, dichas operaciones se entenderán autorizadas y, que por lo tanto, se cumplirá con el requisito establecido en la parte final de dicho inciso, que señala que para gozar de la exención, las respectivas operaciones sean autorizadas por este Servicio.
+
+Con todo, la referida autorización quedará sin efecto cuando en uso de sus facultades legales, este Servicio determine que los pagos correspondientes no son razonables, tomando en consideración las pautas y conceptos contenidos en la Circular N°62 de 1997, en las normas generales de la Ley de la Renta, o bien, en los convenios de doble tributación internacional vigentes, éstos últimos cuando sean pertinentes.
+
+Las declaraciones establecidas en los números anteriores, Formulario 1854 “Declaración Jurada Anual sobre Exención de Impuesto Adicional Art. 59 N°2” y “Declaración Jurada Anual Complementaria para Asociaciones Gremiales”, deberán ser presentadas antes del 15 de marzo de cada año, respecto de las rentas pagadas, remesadas, contabilizadas como gasto, abonadas en cuenta o puestas a disposición del interesado, durante el año comercial anterior.
+
+Tratándose de contribuyentes autorizados para llevar contabilidad en hojas sueltas llevadas computacionalmente, de conformidad a la Resolución N° 4228 de 1999, modificada por Resolución Ex Nº 5004 del mismo año, la remisión de las declaraciones se hará mediante la transmisión electrónica de datos vía INTERNET, por medio de diskettes, discos compactos (CD) u otro medio tecnológico que permita el procesamiento electrónico de datos. Los demás contribuyentes podrán hacer uso de estos mismos medios tecnológicos para cumplir con las obligaciones señaladas. 
+
+La “Declaración Jurada Anual Complementaria para Asociaciones Gremiales” deberá ser presentada en la Dirección Regional correspondiente al domicilio del contribuyente o en la Dirección de Grandes Contribuyentes, según proceda, quien la enviará, dentro del mes siguiente de efectuada su recepción, a la Subdirección de Fiscalización, Departamento de Fiscalización de Tributación Internacional.
+
+ Establécese la obligación de llevar por parte de los contribuyentes un registro de las  referidas declaraciones juradas presentadas a este Servicio.  Dicho registro deberá contener un detalle de la fecha de presentación de las declaraciones, folio de la declaración, número de operaciones informadas y monto total acogido a exención, considerando para este último efecto, el monto contabilizado nominal. Este registro se mantendrá permanentemente actualizado y a disposición de este Servicio.
+
+Con la información contenida en las declaraciones efectuadas, el contribuyente deberá mantener a disposición del Servicio, una base de datos computacional, que contendrá la misma información entregada en las declaraciones juradas.
+
+Asimismo, los contribuyentes deberán tener archivadas ordenadamente las declaraciones juradas y los documentos y antecedentes de respaldo de las operaciones que justifiquen o acrediten la exención de Impuesto Adicional, incluyendo copia debidamente autorizada del contrato o documento que origina la operación y de los informes emitidos en razón de la misma, o bien, de los informes o liquidaciones emitidos por entidades o agentes independientes que intermediaron conjuntamente la prestación del servicio recibido y el pago de las sumas pertinentes.
+
+ El retardo u omisión en la presentación de las declaraciones juradas requeridas conforme a esta resolución, para el caso de la exención del inciso primero del número 2) del artículo 59°, en referencia, implicará la improcedencia de dicha exención.   El retardo u omisión en la presentación de la Declaración Jurada Anual Complementaria para Asociaciones Gremiales implicará la improcedencia de la autorización y, por lo tanto, de la exención.
+
+El retardo u omisión en la presentación de las declaraciones juradas requeridas, conforme a esta resolución, para el caso de la exención establecida en el inciso segundo, número 2), de la citada disposición, será sancionado conforme al artículo 97° N°1 del Código Tributario.
+
+Sin perjuicio de lo anterior, la presentación de declaraciones maliciosamente incompletas o falsas para la obtención indebida de las exenciones referidas, configura el delito establecido en el articulo 97° N°4, inciso primero del Código Tributario.
+
+ Las operaciones comprendidas en el inciso primero del N°2 del artículo en referencia, ocurridas hasta antes del 19 de junio de 2001, que para gozar de la exención no requieren ser informadas a este Servicio, sino que deben estar autorizadas por el Banco Central de Chile y las sumas verificadas por este Servicio, se sujetarán al plazo establecido en la Circular N°52, de 1992, considerando las excepciones introducidas por la Circular N°8 de 1993.
+
+Para aquellos contribuyentes que no cumplieron con la obligación de informar establecida por dichas Circulares, se entenderá que esas operaciones han sido oportunamente informadas y debidamente autorizadas por el Servicio de Impuestos Internos en la medida que tales operaciones y sus respectivos, pagos, remesas o abonos en cuenta, sean comunicados del modo señalado en esta Resolución antes del 15 de marzo del año 2003, conjuntamente con las operaciones correspondientes al año 2002.
+
+Sin perjuicio de lo anterior, se aplicará la multa establecida en el artículo 97 N°1 del Código Tributario, por el valor de una (1) UTM, por el retardo en la presentación de la declaración atendiendo a los plazos y forma establecidas por dichas Circulares.
+
+Respecto de las operaciones comprendidas en el inciso primero del N°2, del referido artículo 59, ocurridas entre el 19 de junio y el 31 de diciembre del año 2001, deberán ser informadas a este Servicio del modo señalado en esta Resolución a más tardar el 15 de marzo del año 2003, conjuntamente con las operaciones correspondientes al año 2002.
+
+Deróganse las instrucciones, en lo que fueran incompatibles con lo señalado en la presente Resolución, contenidas en las Circulares N° 52 del 01.12.92, Nº 08 del 20.01.93, N°61 del 23.12.1993 y  Nº 62 del 15.10.97, referidas a entrega y disposición de la información.
+
+En consecuencia, a contar de la fecha de vigencia de la presente Resolución, los contribuyentes que tengan la calidad de exportadores, también se encuentran obligados a presentar las referidas declaraciones y cumplir las demás obligaciones establecidas en la presente Resolución, respecto de las operaciones que celebren desde dicha fecha.
+
+ Las empresas aéreas comerciales nacionales, empresas de astilleros y navieras incluidas las de remolcadores, lanchaje y muellaje nacionales, señaladas en los artículos 6° del DL 2.564 de 1979 y 10° del DL 3.059 de 1979, quedan liberadas de las obligaciones establecidas en la presente Resolución por cuanto se instruirá sobre la exención contenida en dichos cuerpos legales mediante otra Resolución.
+
+ La presente Resolución comenzará a regir a contar de la fecha de su publicación en el Diario Oficial.
+
+
+      ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+                                                                      JUAN TORO RIVERA
+                                                                   DIRECTOR
+                                                           Lo que transcribo a usted para su conocimiento y demás
+					    fines.
+                                                               Saluda a Ud.,
+
+      
+
+DISTRIBUCION:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Directores Regionales I a XVI Dirección Regional.
+Director Grandes Contribuyentes
+Oficina de Partes.
+Boletín del Servicio.
+Internet.
+Diario Oficial en Extracto.
+PAGE  
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+Formulario FTI Nº01
+Página  PAGE 1 de 3
+
+
+
+

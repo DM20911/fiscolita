@@ -1,0 +1,109 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso14.doc
+titulo: reso14.doc
+categoria: otros
+---
+RESOLUCION EXENTA N°14 DEL 10 DE JUNIO DEL 2002 MATERIA : FIJA MODELO DE FORMULARIOS DE DECLARACIÓN JURADA, PLAZOS Y FORMA PARA ENTREGAR AL SERVICIO INFORMACIÓN SOBRE LAS CONDICIONES DE LAS OPERACIONES A QUE SE REFIERE EL ART. 59 N° 1, LETRA B), C) Y D) DE LA LEY SOBRE IMPUESTO A LA RENTA, Y EN LO REFERENTE A EXCESO DE ENDEUDAMIENTO.
+
+
+						
+Hoy se ha resuelto lo que sigue:
+
+ 						VISTOS: Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7 de fecha 30 de Septiembre de 1980; lo establecido en el artículo 6° letra A) N° 1), 34° y 60° inciso 8° del D.L. N° 830 de 1974 sobre Código Tributario, y en el artículo  59 inciso 4° N° 1 de la Ley sobre impuesto a la Renta contenida en el artículo 1° del D.L. N° 824 de 1974, y las instrucciones contenidas en las Circulares N° 19, de fecha 28-02-2002, y N° 24 de fecha 14-03-2002, sobre las modificaciones introducidas al N° 1 del citado artículo 59 inciso 4° por las Leyes N° 19.738 y N° 19.768, publicadas en Diario Oficial del 19-06-2001 y 07-11-2001, respectivamente; y
+
+
+CONSIDERANDO:
+
+
+Que, la letra b) del artículo 59 N° 1 de la Ley sobre Impuesto a la Renta, obliga al pagador del interés a informar al Servicio de Impuestos Internos en el plazo de éste determine, las condiciones de la operación, referida a créditos otorgados desde el exterior por instituciones bancarias o financieras extranjeras o internacionales.
+
+Que, del mismo modo, la letra d) del artículo 59 N° 1, de la Ley sobre Impuesto a la Renta establece que el pagador del interés informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación, referidas a bonos o debentures emitidos en moneda extranjera por empresas constituidas en Chile.
+
+Que, el inciso segundo del N° 1 del artículo 59, establece que el pagador del interés informará al Servicio de Impuestos Internos en el plazo que éste determine, las condiciones de la operación, referida a operaciones de crédito de aquellas que se trata en las letras b) y c) del inciso primero del artículo 59 N° 1.
+
+Que, al tratar el tema sobre exceso de endeudamiento, de la letra c) del inciso tercero del N° 1 del artículo 59, establece que respecto de sus actuaciones, el deudor deberá efectuar una declaración jurada en la forma y plazo que señale el Servicio de Impuestos Internos.
+
+Que, la Circular N° 19 del 28-02-2002 imparte instrucciones sobre las nuevas normas introducidas a las letras b), c) y d) del artículo 59 N° 1, por las leyes N° 19.738 de fecha 19 de Junio de 2001, sobre normas para combatir la evasión tributaria y N° 19.768 de fecha 7 de Noviembre de 2001, que introduce adecuación de índole tributaria al mercado de capitales. Estableciéndose en dicha circular que la entrega de información al Servicio, será reglamentada por resoluciones que se emitirán para tales efectos.
+
+Que, la Circular N° 24 del 14-03-2002, imparte instrucciones sobre las nuevas normas introducidas por la ley 19.738 de fecha 19 de Junio de 2001, sobre normas para combatir la evasión tributaria, en lo referente a cálculo de exceso de endeudamiento, norma incorporada al artículo 59 N° 1 de la Ley de la renta.
+
+Que, para facilitar el cumplimiento de informar al Servicio que la ley impone al contribuyente, se hace necesario establecer los modelos de formularios que deberán ser utilizados para la entrega de la información requerida en cada caso.
+
+
+	RESUELVO:
+
+
+Fíjase modelos de formularios de declaraciones juradas sobre condiciones de las operaciones financieras, a que se refieren las letras b), c) y d) del artículo 59, inciso 4°,   N°1, según lo dispuesto en las letras b) y d)  del inciso cuarto del articulo 59 N° 1 e inciso 2° del N°1 del mismo artículo de la Ley sobre Impuesto a la Renta; según formatos que se acompañan en Anexos N° 1, sobre “Declaración Jurada sobre Las Condiciones de los Créditos Otorgados por Instituciones Bancarias o Financieras Extranjeras o internacionales”; N° 2, sobre “Declaración Jurada sobre saldos de Precios Correspondientes a Bienes Internados al País con Cobertura Diferida o Sistema de Cobranza”; N° 3  sobre “Declaración Jurada sobre Bonos o Debentures Emitidos en Moneda Extranjera por Empresas Constituidas en Chile” y N° 4 sobre “Calendario de Pagos de Deuda Externa”, de esta resolución.
+
+Estas declaraciones juradas con la información a que ellas hacen referencia, deberán ser presentadas durante el mes de Marzo de cada año, por los contribuyentes que en el año anterior, hayan suscrito o celebrado operaciones crediticias a las que aluden las letras b), c) y d) del N°1 del citado artículo 59 durante el año comercial inmediatamente anterior, independientemente que al término del ejercicio se encuentren solucionadas.
+
+En el caso que las operaciones informadas se extinguieran por alguno de los modos de extinguir las obligaciones ( como por ejemplo novación, compensación confusión, cesión de créditos, etc.), antes de la fecha pactada o en caso de aumento o modificación del monto, plazo o tasa original pactada de la operación financiera, se deberá informar al Servicio esta situación, en el mes de marzo del año siguiente que hubiesen ocurrido estos hechos, a través de una declaración jurada, según indicaciones de instructivo. 
+
+Por única vez para el año Tributario 2002, se deberán incluir en la declaración jurada las operaciones que se hayan encontrado vigentes durante todo el año comercial 2001, aún cuando hayan sido celebradas con anterioridad al 19.06.2001.
+
+Fíjase modelo de formulario de “Declaración Jurada sobre Exceso de Endeudamiento”, por las operaciones financieras, que se celebren o suscriban a partir del 19.06.2001 a que se refiere el inciso 3° letra c) del N° 1 del artículo 59° de la Ley de la Renta, según formato que se acompaña en Anexo N° 5 de esta resolución. 
+
+Esta declaración jurada con la información a que ella hace referencia, deberá ser presentada durante el mes de Marzo de cada año, por todos aquellos contribuyentes que hubiesen celebrado en calidad de deudor con empresas relacionadas, alguna de las operaciones descritas en las letras b), c) y d) del N° 1 del artículo 59, durante el año comercial inmediatamente anterior, independientemente que al término del ejercicio se encuentren solucionadas y sin importar que estas operaciones se encuentren afectas a una tasa del 4% o se consideren exentas. 
+
+Las declaraciones juradas establecidas en los resolutivos 1° y 2° que se presenten deberán contener todos los datos que se solicitan, estar firmadas por el contribuyente o representante legal, y ser presentadas en duplicado, en la Dirección Regional correspondiente a su domicilio o en la Dirección de Grandes Contribuyentes, según sea su caso. El funcionario receptor deberá devolver la copia debidamente timbrada y foliada, la cual deberá ser conservada por el contribuyente.
+
+Las Direcciones Regionales y la Dirección de Grandes Contribuyentes, dentro del mes siguiente a la recepción de las Declaraciones Juradas, deberán enviar los originales de estos documentos al Departamento de Fiscalización de la Tributación Internacional, de la Subdirección de Fiscalización de la Dirección Nacional.
+
+Excepcionalmente, las Declaraciones Juradas a que hace referencia esta resolución, correspondientes al año Tributario 2002, se deberán entregar durante el mes de julio del 2002 en la Dirección Regional respectiva.  
+
+En los casos que los contribuyentes estando obligados, no presenten las declaraciones juradas a que se refiere el resolutivo 1° serán sancionados según el artículo 97 N° 1 del Código Tributario.
+
+En el caso de los contribuyentes que estando obligados a presentar declaración jurada en los términos a que refiere el resolutivo 2°, se negaren a formular la declaración o si la presentada  fuera incompleta o falsa, se entenderá que existe relación entre el preceptor del interés y el deudor.
+
+Con todo, la entrega maliciosa de información incompleta o falsa en la declaración jurada, que implique la no aplicación de lo dispuesto en los párrafos sobre exceso de endeudamiento, se sancionará en la forma prevista en el inciso primero del artículo 97 N° 4 del Código Tributario.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+Lo que transcribo a usted para su conocimiento y demás 
+  fines.
+  Saluda a Ud.,
+
+
+DISTRIBUCIÓN:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Fiscalización.
+I Dirección Regional SII. – Iquique.
+II Dirección Regional SII. – Antofagasta.
+Departamento Fiscalización Tributación Internacional.
+Oficina de Partes.
+Boletín del Servicio.
+Internet.
+Diario Oficial en Extracto.
+
+
+PÁGINA  
+
+
+
+
+PÁGINA  
+
+
+PÁGINA  1
+
+
+
+Formulario FTI Nº01
+Página  PÁGINA 1 de 3
+
+
+
+

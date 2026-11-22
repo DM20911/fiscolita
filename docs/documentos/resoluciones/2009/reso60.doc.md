@@ -1,0 +1,131 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso60.doc
+titulo: Word – Resolución Exenta SII N°60 del 05 de Mayo del 2009 Establece Bases de Sorteo “Inscríbete en el Sistema de Tributación Simplificada del Portal Mipyme” del Servicio de Impuestos Internos Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+
+
+RESOLUCION EXENTA SII N°60 DEL 05 DE MAYO DEL 2009 MATERIA : ESTABLECE BASES DE SORTEO “INSCRÍBETE EN EL SISTEMA DE TRIBUTACIÓN SIMPLIFICADA DEL PORTAL MIPYME” DEL SERVICIO DE IMPUESTOS INTERNOS
+
+	Hoy se ha resuelto lo que sigue:
+
+
+	VISTOS: Lo dispuesto en el artículo 7°, 
+letra a), de la  Ley Orgánica del Servicio de Impuestos Internos y 
+ 
+CONSIDERANDO: 
+
+                                                                1°   La Ley N° 20.170 del 21 de Febrero de 2007  la cual mediante el N°2 de su artículo 1°, incorpora a la Ley de la Renta el artículo 14 ter, a través  de la cual se establece un régimen optativo de contabilidad simplificada para determinar la Base Imponible del Impuesto a la Renta de los contribuyentes de la Primera Categoría que cumplan con las condiciones y requisitos que exige dicho precepto legal. 
+
+                                                                2°  Lo dispuesto en el artículo 14 ter N° 1, de la Ley sobre Impuesto a la Renta, que establece los requisitos que deben cumplir los contribuyentes que opten por ingresar al régimen simplificado, y el N° 5 que establece las condiciones para ingresar.
+
+                                                                3° Que el Sistema de Tributación Simplificada dispuesto en el Portal Tributario MIPYME, permite a los contribuyentes que se acojan al Régimen del 14 ter de la LIR llevar su contabilidad computacionalmente de una manera simple y eficiente.
+
+                                                                4° La necesidad de apoyar el logro de los objetivos definidos en la Estrategia Comunicacional para la Promoción y Difusión de los productos del Portal Tributario MIPYME, para el año 2009.
+
+                                                                5° Lo establecido en la letra N° 2 del artículo N° 7 de la Ley Orgánica del Servicio de Impuestos Internos, que faculta al Director a realizar acciones que permitan promover el cumplimiento voluntario de las obligaciones tributarias, mediante el establecimiento de sistemas de premios o incentivos al público en general, en la forma que estime conveniente, y sin sujeción a otra limitación que las disponibilidades presupuestarias. 
+ 
+                                                      SE RESUELVE:
+Establécese un sorteo regido por las siguientes Bases, con el objeto de premiar a los contribuyentes que se hayan inscrito en el Sistema de Tributación Simplificada MIPYME:
+
+
+BASES DEL SORTEO
+« INSCRÍBETE EN EL SISTEMA DE TRIBUTACIÓN SIMPLIFICADA DEL PORTAL MIPYME”
+DEL SERVICIO DE IMPUESTOS INTERNOS
+
+
+PRIMERO: PARTICIPANTES 
+
+Participan todos los contribuyentes que se hayan inscrito en el Sistema de Tributación Simplificada del Portal MIPYME, del Servicio de Impuestos Internos, en la medida en que cumplan con los criterios definidos en la cláusula segunda de estas Bases. 
+
+SEGUNDO: CONDICIONES PARA SER PARTICIPANTE 
+
+Las condiciones que se requieren para calificar automáticamente en el presente Sorteo serán los siguientes: 
+
+Cumplir con los requisitos establecidos por el SII para inscribirse en el régimen de Tributación Simplificada del artículo 14 Ter de la Ley de Impuesto a la Renta y operar con el Sistema de Tributación Simplificada asociado. 
+
+Haberse inscrito efectivamente en el Régimen de Tributación Simplificada y para operar con el Sistema de Tributación Simplificada del Portal MIPYME, en el período comprendido entre el 2 de enero y 30 de abril de 2009. 
+
+Participarán en este sorteo todas las personas residentes y domiciliadas en el territorio nacional. 
+
+TERCERO: PREMIOS 
+
+Se sortearán 15 (quince) Notebooks con impresora Multiuso, con las siguientes características básicas, de acuerdo a lo regulado en las presentes Bases:
+
+Notebooks:
+Memoria RAM: 1GB
+Disco Duro: 160 GB
+Pantalla LCD : 8.9 pulgadas TFT
+Velocidad del Procesador: 1.6 GHz
+
+Impresora Multiuso:
+Funciones: Escáner, fotocopia, impresión.
+Resolución: Hasta 5760 x 1440
+Alimentación de Papel: Hojas sueltas
+Profundidad: Color de 48 bits.
+Resolución Escáner: Óptica: 1200 x 2400 dpi Máxima: 9600 dpi.
+Velocidad de Copiado: Hasta 30 cpm en monocromático y en color (modo borrador)
+Lector para Tarjetas de memoria incorporado, compatible Memory Stick, Duo, Pro, MiniSD, SDHC.  
+ 
+ CUARTO: MECÁNICA DEL SORTEO 
+
+El sorteo se efectuará un día hábil de la segunda semana de mayo de 2009, a las 11:00 horas, en las oficinas de la Dirección Nacional del Servicio de Impuestos Internos,  ubicadas en calle Almirante Gotuzzo 124, 4° piso, Santiago (lo cual será anunciado por los medios de prensa escritos con suficiente antelación), con la participación del Director del SII y los Presidentes de CONUPIA y CONFEDECH, los señores Iván Vuskovic y Rafael Cumsille respectivamente.
+
+Los ganadores, serán elegidos aleatoriamente mediante el mecanismo de tómbola, el que
+
+incorporará a todos los contribuyentes que hubieren cumplido con los requisitos anteriores, identificados mediante el Rut.
+
+A cada uno de los ganadores del Premio, les queda estrictamente prohibido canjear el mismo, en dinero o exigir otros equivalentes, facultad que será privativa del Servicio de Impuestos Internos. 
+
+SEXTO: GANADORES
+ 
+El Servicio de Impuestos Internos, informará vía telefónica o vía e-mail a cada uno de los ganadores, sobre la obtención de su respectivo Premio, señalándoles el día y lugar en que éste les será entregado. Asimismo, el SII, publicará el nombre de los ganadores en su página Web  HYPERLINK "http://www.sii.cl;/" http://www.sii.cl;/, dentro de las 48 horas de verificado el correspondiente Sorteo. 
+
+Para proceder a canjear el Premio, los ganadores deberán exhibir su cédula de identidad u otro documento fidedigno, calificado por el Servicio de Impuestos Internos, que acredite su identidad o su calidad de representante legal del Contribuyente. 
+
+No podrán  participar del sorteo aquellos contribuyentes que tengan algún vínculo familiar hasta el tercer grado de consanguinidad y segundo de afinidad inclusive o patrimonial con las autoridades o funcionarios del SII, que haga presumir de falta de independencia o  imparcialidad.
+
+Si al Servicio de Impuestos Internos no le fuere posible comunicarse con el ganador de uno de los 15 premios, durante los treinta días hábiles siguientes a la realización del respectivo Sorteo, o éste tampoco se comunicare con el SII, ello implicará -automáticamente- la pérdida de su derecho al Premio, sin posterior responsabilidad para el SII de ningún tipo. 
+
+Para los efectos anteriores, se deja expresa constancia de que el plazo máximo en que cada ganador pueda reclamar su Premio, será de 30 días hábiles siguientes contados desde la fecha del aviso publicado en la página Web del SII. 
+
+SEPTIMO: SEGURIDAD 
+
+Se deja expresa constancia, que el Servicio de Impuestos Internos ha adoptado y adopta todas las medidas necesarias para proteger la seguridad de sus redes. Por tanto, cualquier violación y/o ataque a ellas y, en consecuencia, a los programas asociados al Concurso objeto de las presentes Bases, mediante los denominados “hackers”, constituirá un caso fortuito o de fuerza mayor y eximirá al Servicio de Impuestos Internos de responsabilidad por las consecuencias derivadas de tales hechos.
+
+
+OCTAVO: LEGISLACIÓN Y JURISDICCIÓN 
+
+Las presentes bases se rigen por las leyes chilenas. 
+
+El Servicio de Impuestos Internos y los Participantes en el Sorteo se someten a la competencia de los Tribunales de Justicia de la comuna y ciudad de Santiago de Chile, para cualquier controversia que pudiere derivarse del Sorteo.
+
+NOVENO: ACTOS PUBLICITARIOS 
+
+Cada uno de los ganadores de los Premios señalados en la cláusula segunda, deberán participar en los actos publicitarios que el Servicio estime conveniente, sin otro derecho que el de la entrega del respectivo Premio, conforme a lo regulado en las Bases del presente Concurso. Los ganadores que no cumplan con lo señalado en la presente cláusula, perderán automáticamente y en forma inmediata, su derecho al respectivo Premio, sin posterior responsabilidad para el SII.  Los ganadores que viven en otras regiones distintas a la Región Metropolitana, recibirán los premios a través de la Dirección Regional correspondiente a su jurisdicción.
+
+DÉCIMO: NORMA GENERAL 
+
+Las Bases contenidas en el presente instrumento, son las únicas que corresponden a la Campaña y que ellas regulan. 
+ EL SII se reserva el derecho de iniciar las acciones legales que procedan en caso de detectar irregularidades durante el sorteo, tales como falsificación, suplantación de personas, adulteración de información, etc.
+
+Para todos los efectos legales, estas Bases se encuentran en la página Web del Servicio de Impuestos Internos, lo que constituirá presunción suficiente de conocimiento y aceptación de todos sus términos por parte de cualquiera de los Participantes del Concurso. 
+ 
+Anótese, comuníquese  y publíquese en extracto.
+ 
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERON                                       DIRECTOR
+
+	Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+

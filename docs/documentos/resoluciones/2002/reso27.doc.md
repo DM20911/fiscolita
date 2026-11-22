@@ -1,0 +1,49 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso27.doc
+titulo: Word – Resolución Exenta N°27 del 24 de Octubre del 2002 Autoriza a los contribuyentes para presentar en la forma que se indica, por teléfono declaraciones "Sin Movimiento" en Formulario 29. Fuente: Dpto. de Operación IVA y Catastro de Contribuyentes.
+categoria: otros
+---
+RESOLUCION EXENTA N°27 DEL 24 DE OCTUBRE DEL 2002 MATERIA : AUTORIZA A LOS CONTRIBUYENTES PARA PRESENTAR EN LA FORMA QUE SE INDICA, POR TELÉFONO DECLARACIONES "SIN MOVIMIENTO" EN FORMULARIO 29.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS : Las facultades contempladas en los Arts. 6º letra A) Nº 1 y 30° inciso segundo del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974 y en los Arts. Ns° 1 y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda y,
+
+CONSIDERANDO:
+
+1°)	Que, el Servicio de Impuestos Internos, mantiene un interés constante de contribuir eficazmente con el desarrollo y masificación de las tecnologías de información, de facilitar la forma de declarar los impuestos, de dar una mejor atención al contribuyente y de eliminar la  burocracia y trámites innecesarios;
+
+2°)	Que, el inciso segundo del Art. 30° del Código Tributario, confiere a la Dirección la facultad de autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+
+3°)	Que, el Servicio cuenta con los medios tecnológicos y aplicaciones computacionales para recibir en forma electrónica, vía teléfono, las declaraciones “sin movimiento” que se efectúen en formulario N° 29, mediante un sistema que es de fácil acceso para la mayoría de los contribuyentes;
+
+4°)	Que, los avances tecnológicos en materia informática del Servicio y el desarrollo experimentado por las comunicaciones, permiten autorizar que los contribuyentes del IVA que deban presentar declaraciones “sin movimiento” en formulario 29 lo hagan vía teléfono;
+
+5°)	Que, la aplicación para presentar el formulario 29 por teléfono, una vez realizado el proceso de declaración por esta vía, informará al contribuyente el folio de su declaración sin movimiento. Además, el contribuyente podrá obtener mayor información de sus declaraciones presentadas de está forma, vía Internet.
+
+SE RESUELVE:
+
+1° 	Autorízase a los contribuyentes a presentar vía teléfono, en el número 188-600-0744744, las declaraciones “sin movimiento” que les corresponda efectuar en formulario 29 de “Declaración y Pago Simultáneo Mensual”; 
+
+2°	Las declaraciones en formulario 29, “sin movimiento”, vía teléfono se presentarán  hasta el día 17 del mes respectivo;
+
+3°	Sólo se podrán presentar por esta vía, declaraciones en formulario 29 “sin movimiento” que se encuentren dentro del plazo estipulado por la ley;
+  
+4°	Para efectos de la presente resolución, se entenderá por "declarar sin movimiento" al hecho que el contribuyente presente un formulario 29 de "Declaración y Pago Simultáneo Mensual" con todos los casilleros destinados a informar montos, vacíos o en cero;
+
+5°	Lo dispuesto en esta resolución regirá a partir de la fecha de su publicación.
+ 
+ANÓTESE COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+ (FDO.) JUAN TORO RIVERA
+DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.
+
+DISTRIBUCION: -	Al Diario Oficial (En extracto)
+Internet
+Boletín
+Oficina de Partes
+

@@ -1,0 +1,622 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-795.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 795 / 808
+
+Basic version
+
+795 / 808
+
+795
+
+LA SERENA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MATTA N°459
+
+51-
+
+225398/224492/22605
+
+0
+
+S/COSTO
+
+LA SERENA
+
+INJUV
+
+BERNARDO PEÑA N° 4935, POB.
+
+HEROES DE LA CONCEPCION
+
+[calday@injuv.gob.cl](mailto:calday@injuv.gob.cl)
+
+S/I
+
+S/COSTO
+
+LA SERENA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COLON N°495
+
+51- 550034
+
+09:30-13:30 / 14:30-18:30
+
+S/COSTO
+
+LOS VILOS
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. COSTANERA SALVADOR
+
+ALLENDE
+
+S/N,
+
+SECTOR
+
+ACUARIO
+
+53-542975
+
+[b226bc1@abretumundo.cl](mailto:b226bc1@abretumundo.cl)
+
+LU A JU:8:30-13:35 / 15:00-
+
+17:00, VI 8:30-13:35 / 15:00-
+
+16:30
+
+S/COSTO
+
+LOS VILOS
+
+INJUV
+
+AV. CAUPOLICAN N° 288
+
+53-541324
+
+[ycortez@injuv.gob.cl](mailto:ycortez@injuv.gob.cl)
+
+09:00-18:00
+
+S/COSTO
+
+MONTE PATRIA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PASAJE MANUEL BULNES S/N,
+
+POB. CHACABUCO
+
+53-711435
+
+[b228bc1@abretumundo.cl](mailto:b228bc1@abretumundo.cl)
+
+LU A JU: 09:00-13:30 /
+
+14:30-19:00, VI 09:00-13:30
+
+/ 14:30-18:00
+
+S/COSTO
+
+MONTE PATRIA
+
+INJUV
+
+DIAGUITAS N° 7
+
+53-711991
+
+[cvillalobos@injuv.gob.cl](mailto:cvillalobos@injuv.gob.cl)
+
+S/I
+
+S/COSTO
+
+OVALLE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COVARRUBIAS N° 240
+
+53-625160
+
+[b117bc1@abretumundo.cl](mailto:b117bc1@abretumundo.cl)
+
+LU A JU:09:00-14:00 /
+
+15:00-18:00, VI:09:00-14:00
+
+/ 15:00-17:00
+
+S/COSTO
+
+OVALLE
+
+INJUV
+
+LIBERTAD N° 170
+
+53-741372
+
+[abellsham@injuv.gob.cl](mailto:abellsham@injuv.gob.cl)
+
+09:00-18:30
+
+S/COSTO
+
+OVALLE
+
+INJUV
+
+FEDERICO
+
+SILVA
+
+N°
+
+75,
+
+POBLACION EL MOLINO
+
+S/COSTO
+
+OVALLE
+
+INJUV
+
+1JHON BARNES 1297, POB.
+
+LIMARI, II ETAPA
+
+S/COSTO
+
+OVALLE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COVARRUBIAS S/N
+
+53-620029/621043
+
+PAIHUANO
+
+INJUV
+
+LOS PALTOS S/N
+
+51-451321
+
+[drojas@injuv.gob.cl](mailto:drojas@injuv.gob.cl)
+
+09:00-18:30
+
+S/COSTO
+
+PUNITAQUI
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CARLOS GALLEGUILLOS S/N
+
+(FRENTE A PLAZA DE ARMAS)
+
+53-731190
+
+[b227bc1@abretumundo.cl](mailto:b227bc1@abretumundo.cl)
+
+08:00-13:00 / 14:00-17:20
+
+S/COSTO
+
+RIO HURTADO
+
+INJUV
+
+CALLE UNICA S/N , PICHASCA,
+
+SAMO ALTO
+
+51-691749
+
+[cgallardo@injuv.gob.cl](mailto:cgallardo@injuv.gob.cl)
+
+9:00 - 13:30 , 15:00 - 19:00
+
+S/COSTO
+
+SALAMANCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+J.J. PEREZ n°599
+
+S/COSTO
+
+SAMO ALTO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE PPAL S/N, SERON
+
+53-1982101
+
+S/COSTO
+
+TONGOY
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+FUNDICION SUR N°575
+
+51-392353
+
+S/COSTO
+
+TONGOY
+
+INJUV
+
+GOME CARREÑO S/N,PLAZA
+
+PIZARRO
+
+10:00-19:00
+
+10:00-13:00
+
+S/COSTO
+
+VICUÑA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CHACABUCO N°334
+
+51-411283
+
+S/COSTO
+
+VICUÑA
+
+INJUV
+
+GABRIELA MISTRAL N° 225
+
+S/I
+
+S/COSTO
+
+VICUÑA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+GABRIELA MISTRAL N°759
+
+51-412524/411223
+
+**REGION DE VALPARAÍSO**
+
+**Comuna Nombre**
+
+**Dirección**
+
+**Teléfono Email**
+
+**Horario**
+
+**Semana**
+
+**Horario**
+
+**Fin de**
+
+**Semana Costo**
+
+ALGARROBO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CARLOS ALESSANDRI N° 1633
+
+35-481397
+
+[b375bc1@abretumundo.cl](mailto:b375bc1@abretumundo.cl)
+
+LU A JU:08:30-14:00 /
+
+14:30-17:30
+
+SA:10:00-14:00
+
+S/COSTO
+
+CABILDO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+HUMERES N° 592
+
+33-761060
+
+[b044bc1@abretumundo.cl](mailto:b044bc1@abretumundo.cl)
+
+08:45-13:15
+
+S/COSTO
+
+CABILDO
+
+INJUV
+
+IGNACIO CARRERA PINTO S/N,
+
+MUNICIPIO
+
+33-762100
+
+10:00-19:00
+
+S/COSTO
+
+CALLE LARGA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE LARGA N°2088
+
+34-462915
+
+S/COSTO
+
+CARTAGENA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ALMIRANTE LATORRE N° 475
+
+35-451207
+
+[b231bc1@abretumundo.cl](mailto:b231bc1@abretumundo.cl)
+
+LU A JU:08:30-14:00 /
+
+15:00-17:30, VI:08:30-14:00
+
+/ 15:00-16:30
+
+S/COSTO
+
+CASABLANCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVENIDA DIEGO PORTALES
+
+N°02
+
+32-2277436
+
+S/COSTO
+
+CATEMU
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE
+
+BORJAS
+
+GARCIA
+
+HUIDOBRO N°025
+
+34-631365
+
+S/COSTO
+
+CON CON
+
+INJUV
+
+MAGALLANES ESQUINA TIERRA
+
+DEL FUEGO S/N
+
+32-281142
+
+09:00-18:00
+
+S/COSTO
+
+CON-CON
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+TIERRA DEL FUEGO N° 890,
+
+ESQ. RÍO DE ORO
+
+32-2813991
+
+[b235bc1@abretumundo.cl](mailto:b235bc1@abretumundo.cl)
+
+09:00-18:00
+
+S/COSTO
+
+EL QUISCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. ISIDORO DUBORNAIS
+
+N°635
+
+35-473978
+
+LU A JU:10:00-13:00 /
+
+14:00-17:00, VI:10:00-13:00
+
+/ 14:00-16:00
+
+S/COSTO
+
+EL TABO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SERRANO N° 85
+
+35-462184
+
+[b097bc1@abretumundo.cl](mailto:b097bc1@abretumundo.cl)
+
+LU A VI: 09:00-14:00 /
+
+14:30-17:30
+
+S/COSTO
+
+EL TABO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+IGNACIO
+
+CARRERA
+
+PINTON°496, LAS CRUCES
+
+35 - 439220; 09-
+
+2804818
+
+LU A VI:09:00-17:48
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[790](./page-790.html)
+[791](./page-791.html)
+[792](./page-792.html)
+[793](./page-793.html)
+[794](./page-794.html)
+[795](./page-795.html)
+[796](./page-796.html)
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+…
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

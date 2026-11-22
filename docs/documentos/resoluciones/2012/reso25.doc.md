@@ -1,0 +1,210 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso25.doc
+titulo: Word – Resolución Exenta SII N°25 del 20 de Febrero del 2012 Modifica Resolución Ex. SII N° 98, de 20 de Octubre de 2004, que Establece Normas y Procedimientos de Operación en Relación a Corredores de Bolsa y Agentes de Valores para ser Autorizados como Emisores de Documentos Tributarios Electrónico
+categoria: otros
+---
+RESOLUCION EXENTA SII N°25 DEL 20 DE FEBRERO DEL 2012 MATERIA: MODIFICA RESOLUCIÓN EX. SII N° 98, DE 20 DE OCTUBRE DE 2004, QUE ESTABLECE NORMAS Y PROCEDIMIENTOS DE OPERACIÓN EN RELACIÓN A CORREDORES DE BOLSA Y AGENTES DE VALORES PARA SER AUTORIZADOS COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios; lo establecido en la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial el 12 de abril de 2002, y sus posteriores modificaciones; en las Resoluciones Exentas SII N° 9, de 2001;  N°s 18, y 45 de 2003; N° 98, de 2004; y N° 4847, de 1995, y sus modificaciones; 
+
+
+
+CONSIDERANDO:
+
+
+1° Que, de acuerdo con el inciso 3° del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios, el Director puede autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
+
+2° Que, mediante Resolución Ex. N° 98, de 20 de octubre de 2004, se establecieron normas y procedimientos de operación en relación a corredores de bolsa y agentes de valores para ser autorizados como emisores de documentos tributarios electrónicos. 
+
+3° Que, mediante el resolutivo 6° de la Resolución Ex. N° 98, antes citada, se estableció que los contribuyentes que se acogieran a ella y que respaldaren el total de las operaciones del año con Documentos Tributarios Electrónicos, no estarían obligados a presentar la Declaración Jurada Formulario N°1891. 
+
+
+4° Que, este Servicio, a fin de velar por una eficiente administración y fiscalización de los impuestos, ha estimado necesario que los corredores de bolsa y agentes de valores autorizados como emisores de documentos tributarios electrónicos queden igualmente sujetos a la obligación presentar la Declaración Jurada, Formulario 1891, denominada  "Carátula sobre Compra y Venta de Acciones de S.A. y demás Títulos efectuadas por intermedio de los Corredores de Bolsa y Agentes de Valores no acogidos al Mecanismo de Incentivo al Ahorro establecido en la letra A) del artículo 57 bis de la Ley de la Renta”, que estableció la Resolución Ex. SII N° 4847, de 1995. 
+
+						
+SE RESUELVE:
+
+
+1° MODIFÍCASE la Resolución Ex. SII N° 98, de 20 de octubre de 2004, eliminándose su resolutivo 6° que tiene como epígrafe “De la Declaración Jurada 1891”. 
+
+2° La  presente resolución entrará en vigencia a partir de su publicación, en extracto, en el Diario Oficial. 
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+(FDO.) MARIO ENRIQUE VILA FERNÁNDEZ
+DIRECTOR (S)
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+IBC/RPA/HSS/cpg
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso152.doc
+titulo: Word – Resolución Exenta SII N°152 del 07 de Octubre del 2009 Renueva Plazo Establecido en la Resolución N° 72, de 25 de Mayo de 2009, que Dispone Declaración de Predios Agrícolas y de Mejoras Efectuadas por los Propietarios. Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°152 DEL 07 DE OCTUBRE DEL 2009 MATERIA : RENUEVA PLAZO ESTABLECIDO EN LA RESOLUCIÓN N° 72, DE 25 DE MAYO DE 2009, QUE DISPONE DECLARACIÓN DE PREDIOS AGRÍCOLAS Y DE MEJORAS EFECTUADAS POR LOS PROPIETARIOS.
+
+
+		
+Hoy se ha resuelto lo que sigue:
+	
+VISTOS: Lo dispuesto en los artículos 1° y 3° de la Ley N° 17.235, sobre Impuesto Territorial;  en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el DL N° 830, de 1974, y en las letras a) y b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda, y
+
+CONSIDERANDO:
+
+Que, de acuerdo a lo dispuesto en el artículo 3° de la Ley N° 17.235, para efectos de la tasación que entró en vigencia a contar del 1° de julio de 2009, el Servicio de Impuestos Internos requirió de los propietarios, o de una parte de ellos, una declaración de los bienes raíces agrícolas, en la forma, oportunidad y plazo determinados en la Res. Ex. SII N° 72, de 25 de mayo de 2009,
+
+Que, resulta conveniente renovar el plazo señalado en la Res. Ex. SII N° 72, de 25 de mayo de 2009, a fin de otorgar el máximo de facilidades para que los contribuyentes que hayan efectuado mejoras en sus bienes raíces agrícolas y que aún no han podido declararlas, puedan efectuar dicho trámite.
+
+SE RESUELVE:
+
+Renuévase el plazo establecido en Resolución Ex. SII N° 72 de 25  mayo de 2009, de este Servicio, para los fines a que se refiere dicha Resolución, hasta el 2 de noviembre de 2009.
+
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial
+
+
+
+
+	
+	(Fdo.) RICARDO ESCOBAR CALDERÓN
+	DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
+
+
+
+
+
+
+DISTRIBUCIÓN:
+Internet
+Boletín
+Al Diario Oficial (en extracto)
+
+

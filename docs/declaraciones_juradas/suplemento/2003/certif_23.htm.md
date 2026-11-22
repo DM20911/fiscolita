@@ -1,0 +1,17 @@
+---
+url: https://www.sii.cl/declaraciones_juradas/suplemento/2003/certif_23.htm
+titulo: Certificado N°23
+categoria: declaraciones_juradas
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl) | [Instrucciones Declaraciones Juradas](anexo_c.htm) |
+|  |
+
+|  |
+| --- |
+| B.23 CERTIFICADO N°23  MODELO DE CERTIFICADO N°23, SOBRE REGIMEN TRIBUTARIO DE LOS RETIROS DE EXCEDENTES DE LIBRE DISPOSICION. |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  |  | | --- | --- | | Nombre de la Administradora de Fondos de Pensiones | :..................................... | | RUT Nº | :..................................... | | Dirección | :..................................... |  **CERTIFICADO SOBRE REGIMEN TRIBUTARIO DE LOS RETIROS DE   EXCEDENTES DE LIBRE DISPOSICION**  |  | | --- | | CERTIFICADO Nº.................... | | Ciudad y fecha........................ |  La (Nombre de la AFP) ......................................., certifica que el afiliado Sr. ...........................................,  RUT N° .................................., durante el año 2002, ha efectuado los siguientes Retiros Excedentes de Libre Disposición, afectos al regimen de tributación que a continuación se indica:  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | MESES | RETIROS   DE EXCEDTES. DE LIBRE DISPOS.  SIN ACTUAL. | FACTOR   DE ACTUAL. | RETIROS   DE EXCEDTES. DE LIBRE DISPOSICION ACTUALIZADOS. | **IMPUTACION DE LOS RETIROS DE EXCEDENTES DE LIBRE DISPOSICION** | | | | OPCION REGIMEN DEL EX ARTICULO 71 DEL DECRETO LEY N°3.500/80 | | RETIROS   AFECTOS AL ARTICULO 42   TER DE LA   LEY DE   LA RENTA ACTUALIZADOS | | RETIROS AFECTOS AL IMPUESTO UNICO DEL   EX ART. 71   D.L. N°3.500 ACTUALIZADOS. | RETIROS   AFECTOS AL IMPUESTOS GLOBAL COMPLEM.  ACTUALIZADOS. | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | Enero 2002 |  |  |  |  |  |  | | Febrero |  |  |  |  |  |  | | Marzo |  |  |  |  |  |  | | Abril |  |  |  |  |  |  | | Mayo |  |  |  |  |  |  | | Junio |  |  |  |  |  |  | | Julio |  |  |  |  |  |  | | Agosto |  |  |  |  |  |  | | Septiembre |  |  |  |  |  |  | | Octubre |  |  |  |  |  |  | | Noviembre |  |  |  |  |  |  | | Diciembre |  |  |  |  |  |  | | Totales |  |  |  |  |  |  |  Se extiende el presente certificado en cumplimiento de lo establecido en la Resolución Ex. N°35 de Fecha 13.12.2002    |  | | --- | | --- | | Nombre, Nº RUT y Firma Representante Legal de la Administradora de Fondos Mutuos de Pensionados | |

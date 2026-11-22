@@ -1,0 +1,67 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2017/iquique/
+titulo: Actos y resoluciones D. R. Iquique 2017
+categoria: otros
+---
+## Actos y resoluciones D. R. Iquique 2017
+
+**Seleccione según tipología:**
+
+Instrucciones, dictámenes y circulares
+Reconocimiento de derechos
+Concesiones, autorizaciones y otros permisos otorgados
+Actos expropiatorios
+Llamados a concursos o convocatorias para postular a proyectos o programas públicos
+Llamado a concurso de personal
+Convenios de colaboración o cooperación
+Actos administrativos sancionatorios
+
+**Buscador de Actos y Resoluciones**
+
+La información publicada cumple con los estándares exigidos por la Ley N° 20.285 sobre Acceso a la Información Pública, considerando las reservas legales contenidas en el artículo 35 del Código Tributario (secreto tributario), en la Ley N° 19.628 sobre Protección de la Vida Privada y en otras normas legales que establezcan un deber de reserva.
+
+**Puede filtrar por palabra clave, por ejemplo: fecha, tipo o descripción de norma.**
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 44 | 21-12-2017 | EMITE PRONUNCIAMIENTO RESPECTO DE TRATAMIENTO TRIBUTARIO A LA VENTA DE INMUEBLE QUE INDICA | Emite pronunciamiento respecto de tratamiento tributario a la venta de inmueble que indica | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario44_56991.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100614 | 19-12-2017 | SOCIEDAD DISTRIBUIDORA DE MATERIALES DE ALUMINIO LIMITADA | Condonación | 8-1-2018 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100614_50765.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100613 | 28-11-2017 | CRISTIAN ANTONIO SOTO ABARCA ARQUITECTURA Y CONSTRUCCIÓN E.I.R.L. | Condonación | 9-12-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100613_50485.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100611 | 30-10-2017 | MARIA ALICIA DEL CARMEN BACIAN ALIZ | Condonación | 7-11-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100611_50136.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100612 | 26-10-2017 | CLAUDIO DEL CARMEN RIVERO GONZALES IERL | Condonación | 7-11-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100612_50135.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 36 | 24-10-2017 | EMITE PRONUNCIAMIENTO RESPECTO DE TRATAMIENTO TRIBUTARIO A LA ACTIVIDAD DE SERVICIOS DEPORTIVOS DE ELECTRO ESTIMULACIÓN. | Emite pronunciamiento respecto de tratamiento tributario a la actividad de servicios deportivos de electro estimulación. | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario36_56990.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100610 | 10-10-2017 | TRANSPORTES ELIAS LOYOLA CACERES EIRL | Condonacion | 7-11-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100610_50137.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100609 | 07-09-2017 | TRANSPORTES ELIAS LOYOLA CACERES E.I.R.L | Condonación | 10-10-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100609_49878.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100608 | 31-08-2017 | ROMAN PAJUELO ENCARNACION | Condonación | 9-9-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100608_49494.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100607 | 24-08-2017 | MAXIMIA PAMELA MAMANI MAMANI | Condonación | 9-9-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100607_49495.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100606 | 21-08-2017 | TRANSPORTES ELIAS LOYOLA CACERES EIRL | Condonación | 9-9-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100606_49496.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100605 | 17-08-2017 | FRANCISCO JAVIER MARIN CONTRERAS | Condonación | 9-9-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100605_49497.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 24 | 11-08-2017 | EMITE PRONUNCIAMIENTO RESPECTO DEL PROCEDIMIENTO DE IMPUGNACIÓN DE LAS ACTUACIONES QUE REFIERE | Emite pronunciamiento respecto del procedimiento de impugnación de las actuaciones que refiere | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario24_56987.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100604 | 03-08-2017 | IMPORTADORA RS GRACE LTDA. | Condonación | 9-9-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100604_49498.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100603 | 31-07-2017 | SOCIEDAD DE INVERSIONES BADEN LIMITADA | Condonación | 9-8-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100603_49120.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100602 | 18-07-2017 | MAXIMIA PAMELA MAMANI MAMANI | Condonacion | 9-8-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100602_49121.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100601 | 17-07-2017 | MARIA IGNACIA ALMAZAN ESPINOSA | Condonación | 9-8-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100601_49122.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100600 | 29-06-2017 | COMERCIAL BATERIAS LOA LIMITADA | Condonación | 3-7-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100600_48532.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100599 | 22-06-2017 | SABINA PERFECTA CASTRO | Condonación | 3-7-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100599_48533.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 18 | 15-06-2017 | EMITE PRONUNCIAMIENTO RESPECTO DE TRIBUTACIÓN QUE AFECTA A INGRESOS DE DINERO DESDE EL EXTRANJERO EN CONDICIONES QUE PRECISA Y PARA LOS EFECTOS QUE REFIERE | Emite pronunciamiento respecto de tributación que afecta a ingresos de dinero desde el extranjero en condiciones que precisa y para los efectos que refiere | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario18_56986.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100598 | 01-06-2017 | MARIA IGNACIA ALMAZAN ESPINOZA | Condonación | 3-7-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100598_48534.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100597 | 18-05-2017 | RAUL LEONEL CHIRINO PERALTA | Condonación | 2-6-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100597_48129.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100596 | 09-05-2017 | NORBERTO DIAZ ROA IMPORTACIONES E.I.R.L | condonacion | 2-6-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100596_48131.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100595 | 09-05-2017 | INDUSTRIA NACIONAL DE COLCHANES S.A. | condonación | 2-6-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100595_48130.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 10 | 28-02-2017 | EMITE PRONUNCIMIENTO RESPECTO DE OBLIGACIONES TRIBUTARIAS QUE AFECTA CONTRIBUYENTE QUE INDICA | Emite pronuncimiento respecto de obligaciones tributarias que afecta contribuyente que indica | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario10_56996.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100594 | 15-02-2017 | NORBERTO DIAZ ROA IMPORTACIONES EIRL | Condonación | 10-3-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100594_46937.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 5 | 27-01-2017 | EMITE PRONUNCIAMIENTO RESPECTO DE TRATAMIENTO TRIBUTARIO APLICABLE A ACTIVIDAD QUE INDICA. | Emite pronunciamiento respecto de tratamiento tributario aplicable a actividad que indica. | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario5_56988.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Oficio Ordinario | 5 | 27-01-2017 | EMITE PRONUNCIAMIENTO RESPECTO DE TRATAMIENTO TRIBUTARIO APLICABLE A LOS INGRESOS DE LA ASOCIACIÓN QUE INDICA | Emite pronunciamiento respecto de tratamiento tributario aplicable a los ingresos de la asociación que indica | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario5_56994.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100593 | 24-01-2017 | SAINCO EPC SPA | Condonación | 6-2-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100593_46314.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100592 | 17-01-2017 | JUANA MARIA DEL ROSARIO MILLA VILLALOBOS | condonacion | 6-2-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100592_46315.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100591 | 13-01-2017 | NANCY DEL CARMEN ZEPEDA REMENTERIA | Condonación | 6-2-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100591_46313.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100590 | 09-01-2017 | COMPAÑIA MINERA COSTA RICA | condonacion | 6-2-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100590_46316.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 0100589 | 04-01-2017 | ROSSANA MARIANELA MIRANDA DAPONTE | condonación | 6-2-2017 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso0100589_46317.pdf) | NO | Sin modificación | No aplica | No aplica |
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Concesiones, autorizaciones y otros permisos otorgados | Oficio Ordinario | 03 | 20-01-2017 | SOLICITA AUTORIZACIÓN PARA REBAJAR GASTOS QUE INDICA | Solicita autorización para rebajar gastos que indica | 27-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](ordinario03_56992.pdf) | NO | Sin modificación | No aplica | No aplica |
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Convenios de colaboración o cooperación | Resolución | 275 | 26-07-2017 | ASOCIACIÓN DE INDUSTRIALES | Convenio | 13-5-2019 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso275_56839.pdf) | NO | Sin modificación | No aplica | No aplica |

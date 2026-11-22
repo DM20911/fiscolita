@@ -1,0 +1,202 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso09.doc
+titulo: Word – Resolución Exenta SII N°09 del 31 de Enero del 2005 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala Fuente: Oficina de Factura Electrónica y Documentos de Venta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°09 DEL 31 DE ENERO DEL 2005 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D. L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en Res. Ex. SII N° 08, del 23 de Enero de 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre de 2003. 
+
+3° Que, los contribuyentes que se detallan en Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre de 2003 para ser autorizados.
+
+						     SE RESUELVE:
+
+Primero:	Autorízanse como emisores electrónicos a contar del mes de Febrero de 2005 a los siguientes contribuyentes:
+
+ACTIVE CHEMICALS CHILE S.A.,				RUT 96.658.510-2
+ELECTRICIDAD GOBANTES S.A.,				RUT 80.409.800-3
+GASTRONÓMICA GASTRONORM LTDA.,			RUT 77.822.720-7
+INDURA S.A. INDUSTRIA Y COMERCIO,			RUT 91.335.000-6
+INTERMEDIA SERVICIOS INTERNET S.A.,			RUT 78.827.280-4
+MOSAIC DE CHILE FERTILIZANTES LTDA.,			RUT 76.136.950-4
+QUÍMICA ANGLO CHILENA S.A.,				RUT 96.959.480-3
+SERVICIOS DE INFORMÁTICA BCS CONSULTORES LTDA.,	RUT 76.182.590-9
+SERVICIOS Y DESARROLLOS COMPUTACIONALES LTDA.,	RUT 77.889.600-1
+TETRA PAK DE CHILE COMERCIAL LTDA.,			RUT 85.749.900-K
+
+En el sitio Web del SII se podrá consultar los documentos que cada contribuyente está autorizado a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre de 2003.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+(Fdo.) ENRIQUE ROJAS HIDALGO
+SUBDIRECTOR DE FISCALIZACIÓN (S)
+
+         Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

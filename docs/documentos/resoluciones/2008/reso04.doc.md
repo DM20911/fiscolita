@@ -1,0 +1,44 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso04.doc
+titulo: Word – Resolución Exenta SII N°04 del 07 de Enero del 2008 Establece Obligación a las Sociedades y Comunidades que Indica, de Informar, en la Forma y Plazo que se Señala, sobre los Créditos y Pagos Provisionales Mensuales Puestos a Disposición de sus Socios y Comuneros. Fuente: Departamento de Opera
+categoria: otros
+---
+RESOLUCION EXENTA SII N°04 DEL 07 DE ENERO DEL 2008 MATERIA : ESTABLECE OBLIGACIÓN A LAS SOCIEDADES Y COMUNIDADES QUE INDICA, DE INFORMAR, EN LA FORMA Y PLAZO QUE SE SEÑALA, SOBRE LOS CRÉDITOS Y PAGOS PROVISIONALES MENSUALES PUESTOS A DISPOSICIÓN DE SUS SOCIOS Y COMUNEROS.
+Hoy se ha resuelto lo siguiente:
+VISTOS: Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L. N°7, de 1980 del Ministerio de Hacienda; en el artículo 6º letra A) Nº 1, y en los artículos 30 y 60 inciso 8° del Código Tributario contenido en el artículo 1° del D.L. N°830 de 1974; y 
+CONSIDERANDO:   
+1.            Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se hace necesario optimizar el uso de los recursos y de la información que se utilizan para el buen logro de esta función.
+2.            Que, los dos primeros incisos del Art. 30 del Código Tributario establecen que: “Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.  La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.”  
+		   RESUELVO:  
+1.- Las sociedades de personas, sociedades de hecho, sociedades de profesionales o comunidades establecidas en Chile, incluyendo a las sociedades de profesionales clasificadas en la Segunda Categoría,  que en conformidad a lo dispuesto en el N° 3 del Art. 94 de la Ley de la Renta, hayan puesto a disposición de sus socios o comuneros Créditos y/o Pagos Provisionales Mensuales, deberán presentar al Servicio de Impuestos Internos, la Declaración Jurada que se indica en el N° 2 siguiente, en reemplazo del Recuadro N° 6 del Formulario 22 “Impuestos Anuales a la Renta”. 
+
+2.- La referida información deberá proporcionarse mediante transmisión electrónica de datos, vía Internet, haciendo mención al Formulario N° 1837, denominado “DECLARACIÓN JURADA ANUAL SOBRE CRÉDITOS Y PPM PUESTOS A DISPOSICIÓN”, cuyo formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl/" www.sii.cl.  
+Aquellos contribuyentes sujetos a esta obligación que no puedan acceder a Internet, podrán concurrir a cualquiera de las Unidades del Servicio para presentar su declaración. En dichas Unidades el Servicio pondrá a disposición de los interesados, en forma gratuita, los medios para hacerlo. Para tales efectos, los declarantes contarán, además, con el apoyo de un funcionario especialmente designado para ello.  
+3.- La Declaración Jurada F1837, deberá presentarse el año tributario 2008 hasta el 9 de Mayo de 2008; en tanto que para los años siguientes el plazo de presentación será hasta el 30 de Marzo de cada año.
+4.- El incumplimiento de la obligación a que se refiere esta Resolución será sancionado de acuerdo a lo establecido en el N° 15 del Art. 97 del Código Tributario.  
+5.- La presente Resolución empezará a regir respecto de los Créditos y PPM puestos a disposición en el año tributario 2008, y para los años tributarios siguientes.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+(FDO)RENÉ GARCÍA GALLARDO DIRECTOR (S)
+
+
+
+
+Lo que comunico a Ud., para su conocimiento y demás fines, 
+Saluda a Ud., 
+
+CSM/PMS
+DISTRIBUCIÓN: 
+Al Diario Oficial, En Extracto
+Al Boletín 
+A Internet
+

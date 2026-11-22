@@ -1,0 +1,10 @@
+---
+url: https://www.sii.cl/documentos/circulares/1993/circu56.htm
+titulo: Circular Nº 56 del 30 de Noviembre de 1993 – Instrucciones Sobre nuevo Mecanismo de Incentivo al ahorro establecido por el articulo 57 bis de la ley de la Renta.
+categoria: otros
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl/) > [Circulares 1993](https://www.sii.cl/documentos/circulares/1993/indcir93.htm)  [1],  [[2]](https://www.sii.cl/documentos/circulares/1993/circu56b.htm),  [[3]](https://www.sii.cl/documentos/circulares/1993/circu56c.htm),  [[4]](https://www.sii.cl/documentos/circulares/1993/circu56d.htm),  [[5]](https://www.sii.cl/documentos/circulares/1993/circu56e.htm),  [[6]](https://www.sii.cl/documentos/circulares/1993/circu56f.htm),   [[7]](https://www.sii.cl/documentos/circulares/1993/circu56g.htm),  [[8]](https://www.sii.cl/documentos/circulares/1993/circu56h.htm),  [[9]](https://www.sii.cl/documentos/circulares/1993/circu56i.htm),  [[10]](https://www.sii.cl/documentos/circulares/1993/circu56j.htm),  [[11]](https://www.sii.cl/documentos/circulares/1993/circu56k.htm),  [[12]](https://www.sii.cl/documentos/circulares/1993/circu56l.htm)  **CIRCULAR Nº 56 DEL 30 DE NOVIEMBRE DE 1993**  MATERIA: INSTRUCCIONES SOBRE NUEVO MECANISMO DE INCENTIVO AL AHORRO ESTABLECIDO POR EL ARTICULO 57 BIS DE LA LEY DE LA RENTA. |
+
+[1],  [[2]](https://www.sii.cl/documentos/circulares/1993/circu56b.htm),  [[3]](https://www.sii.cl/documentos/circulares/1993/circu56c.htm),  [[4]](https://www.sii.cl/documentos/circulares/1993/circu56d.htm),  [[5]](https://www.sii.cl/documentos/circulares/1993/circu56e.htm),  [[6]](https://www.sii.cl/documentos/circulares/1993/circu56f.htm),   [[7]](https://www.sii.cl/documentos/circulares/1993/circu56g.htm),  [[8]](https://www.sii.cl/documentos/circulares/1993/circu56h.htm),  [[9]](https://www.sii.cl/documentos/circulares/1993/circu56i.htm),  [[10]](https://www.sii.cl/documentos/circulares/1993/circu56j.htm),  [[11]](https://www.sii.cl/documentos/circulares/1993/circu56k.htm),  [[12]](https://www.sii.cl/documentos/circulares/1993/circu56l.htm)

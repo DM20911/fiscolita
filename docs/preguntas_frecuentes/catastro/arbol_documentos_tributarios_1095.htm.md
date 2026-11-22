@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/preguntas_frecuentes/catastro/arbol_documentos_tributarios_1095.htm
+titulo: Preguntas Frecuentes de Documentos tributarios
+categoria: faq
+---
+|  |
+| --- |
+| [Documentos tributarios](preg_documentos_tributarios.htm) | [Facturas](arbol_documentos_tributarios_432.htm) | [Factura Electrónica](arbol_documentos_tributarios_438.htm) | [Aspectos Generales](arbol_documentos_tributarios_1084.htm)  | [Definiciones](arbol_documentos_tributarios_1085.htm) | Receptor No Electrónico   - [¿Qué debe hacer un contribuyente no electrónico si recibe una Factura Electrónica impresa de parte de alguno de sus proveedores?](001_012_0543.htm) - [¿Cómo deben ser ingresadas las Facturas Electrónicas al Libro de Compra y Ventas de un receptor no electrónico?](001_012_1648.htm) - [¿Un receptor manual que recibe vía correo electrónico una Factura Electrónica, puede usar el Crédito Fiscal IVA o debe solicitar una impresión del emisor?](001_012_3302.htm) - [¿Un receptor no electrónico de documentos tributarios puede obtener e imprimir una copia de una Factura Electrónica emitida por un emisor electrónico?](001_012_1732.htm) - [¿Un receptor no electrónico, puede usar el Crédito Fiscal de una adquisición con una Guía de Despacho Electrónica?](001_012_2217.htm) - [¿Un receptor no electrónico puede usar un voucher contable, entregado por el proveedor, en reemplazo de una Factura Electrónica extraviada, para respaldar así el Crédito Fiscal?](001_012_0969.htm) - [¿Un receptor no electrónico, puede recuperar el IVA de una representación impresa de la Factura Electrónica que lleva impresa la palabra -cedible-?](001_012_4561.htm) |

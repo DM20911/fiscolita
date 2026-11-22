@@ -1,0 +1,229 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso102.doc
+titulo: Word – Resolución Exenta SII N°102 del 31 de Agosto del 2007 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Oficina de Catastro, Documentos Electrónicos y Fiscalización Preventiva
+categoria: otros
+---
+RESOLUCION EXENTA SII N°102 DEL 31 DE AGOSTO DEL 2007 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+
+Primero:	Autorízanse como emisores electrónicos a contar del mes de Septiembre del 2007 a los siguientes contribuyentes:
+	
+
+- ALPORT S.A.  								RUT 96.523.780-1  - A & S TECNOLOGÍAS COMPUTACIONALES LTDA. 			RUT 77.495.960-2  - ARYSTA LIFESCIENCE CHILE S.A. 					RUT 99.575.150-K  - BANDESARROLLO RECAUDACIONES S.A. 				RUT 76.519.710-4  - CARLOS ENRIQUE SABBAGH PISANO 					RUT 05.836.333-2  - COMERCIAL NEMO CHILE LTDA. 					RUT 76.215.260-6  - COMERCIAL PEUMO LTDA. 						RUT 85.037.900-9  - DICTUC CAPACITACIÓN S.A. 						RUT 76.602.130-1  - EMPRESA DEL ACERO Y LA MADERA LTDA. 				RUT 79.536.120-0  - EVALUADORA RECOURSE NACIONAL S.A. 				RUT 99.544.100-4  - EVALUADORA RECOURSE S.A. 						RUT 96.915.660-1  - GTP SERVICIOS GASTRONÓMICOS LTDA. 				RUT 76.192.600-4  - HENKEL CHILE LTDA. 							RUT 78.803.490-3  - IFX NETWORKS CHILE S.A. 						RUT 96.779.080-K  - M D F S.A.  								RUT 76.301.640-4  - MICRO MOLIENDAS S.A.  						RUT 76.880.090-1  - MILLANA GRACE LEDEZMA LÓPEZ  					RUT 13.415.113-7  - MOLINERA ITATA S.A. 							RUT 96.872.100-3  - PSB ENERGIA S.A. 							RUT 76.879.430-8  - SALMOVAC SERVICIOS ACUÍCOLAS LTDA.  				RUT 76.754.360-3  - SOC. EXPORTADORA Y COMERCIAL VIÑA MAIPO L 			RUT 82.117.400-7    - SOC. COMER Y ARRENDADORA DE MAQUINARÍAS,
+  EQUIPOS Y HERRAMIENTAS S.A.						RUT 76.002.210-1  - TECNOASISTENCIA COMPUTACIONAL Y COMPAÑÍA LTDA. 		RUT 77.822.570-0  - TECNOWEB INTERNET CHILE LTDA. 					RUT 76.330.440-K  - TYCO ELECTRONICS INDUSTRIAL Y COMERCIAL CHILE LTDA. 		RUT 87.958.900-2  - VANGUARD LOGISTICS SERVICES CHILE S.A.  				RUT 96.909.820-2
+- VIÑA CONCHA Y TORO S.A. 						RUT 90.227.000-0 - VIÑA CONO SUR S.A. 							RUT 86.326.300-K 
+
+
+	En la Oficina Virtual del SII en Internet se podrá consultar los documentos que cada contribuyente está autorizado a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+                    (Fdo.)    JORGE TRUJILLO PUENTES
+                        SUBDIRECTOR DE FISCALIZACIÓN
+
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

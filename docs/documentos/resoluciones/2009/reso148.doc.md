@@ -1,0 +1,161 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso148.doc
+titulo: Word – Resolución Exenta SII N°148 del 30 de Septiembre del 2009 Designa Integrantes, Titulares y Suplentes, del Consejo Consultivo Creado por Resolución SII Ex 36 de 2008. Fuente: Dpto. de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°148 DEL 30 DE SEPTIEMBRE DEL 2009 MATERIA : DESIGNA INTEGRANTES, TITULARES Y SUPLENTES, DEL CONSEJO CONSULTIVO CREADO POR RESOLUCIÓN SII EX 36 DE 2008.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en  el artículo 1° y en las letras a) e  i) del artículo 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; y en la Resolución SII Ex. N° 36, del 24 de marzo de 2008,
+
+
+CONSIDERANDO:
+
+
+I) La comunicación de fecha 21.08.2009, de don Enrique Barros Bourie, Presidente del Consejo General del Colegio de Abogados de Chile A.G., en que hace presente la propuesta de integración del Consejo Consultivo efectuada por dicha Institución, de los abogados Sres. Christian Andrés Blanche Reyes, en calidad de titular, y de don Juan Edgardo Goldemberg Peñafiel, en calidad de suplente;
+
+II) La comunicación de fecha 18.08.2009, de don Rodrigo Benitez, Secretario (interino) del Instituto Chileno de Derecho Tributario, en que  hace presente la propuesta de integración del Consejo Consultivo efectuada por dicha Institución, de los  abogados Sres. Rodrigo Benítez Córdova, en calidad de titular, y de don Eduardo Lagos Lorent, en calidad de  suplente;
+
+III) La comunicación de fecha 31.07.2009, de don Luis Werner-Wildner, Presidente Nacional del Colegio de Contadores de Chile A.G., en que  hace presente la propuesta de integración del Consejo Consultivo efectuada por dicha Institución de los Sres. Manuel Manquez Hatta, en calidad de titular, y de don Florindo Núñez Ramos, en calidad de suplente;
+
+IV) La comunicación de fecha 10.06.2009, de don Rosamel Navarrete Donoso, Secretario General (s) del Colegio de Contadores Auditores, Contadores Públicos y Generales de Chile, en que  hace presente la propuesta de integración del Consejo Consultivo efectuada por dicha Institución del Sr. Emilio Soria Céspedes, en calidad de titular; y 
+
+V) La comunicación de fecha 22.07.2009 de la Sra. Carmen Loreto Marambio, en que  hace presente la propuesta de integración del Consejo Consultivo efectuada por IFA Chile A.G. de los Sres. Mario Silva Silva, en calidad de titular, y de don Arturo Garnham, en calidad de suplente. 
+
+
+
+
+
+
+
+RESUELVO: 
+
+
+1°.-	En cumplimiento de lo dispuesto en el Artículo 4° del Reglamento del Consejo Consultivo, contenido en el resolutivo CUARTO de la Resolución Ex. SII N° 36, de 2008, DESÍGNASE como integrantes del Consejo Consultivo, en calidad de titulares, a las siguientes personas:
+
+- Don BERNARDO MARCHANT AGUILA;
+- Don ALBERTO CUEVAS OZIMICA;
+- Don MIGUEL OJEDA DÍAZ;
+- Don RODRIGO BENITEZ CÓRDOVA;
+- Don CHRISTIAN BLANCHE REYES;
+- Don MANUEL MANQUEZ HATTA; 
+- Don MARIO SILVA SILVA; y
+- Don EMILIO SORIA CËSPEDES.
+
+
+2°.- 	En cumplimiento de la misma disposición, DESÍGNASE para integrar el Consejo Consultivo, en caso de ausencia del Consejero titular, a las siguientes personas:
+
+- Don NORBERTO SAN MARTÍN SOTO, como suplente de don BERNARDO MARCHANT AGUILA;
+- Doña JULIA ALTAMIRANO SANTIBAÑEZ, como suplente de don ALBERTO CUEVAS OZIMICA;
+- Don CLAUDIO MARTÍNEZ CUEVAS, como suplente de don MIGUEL OJEDA DÍAZ;
+- Don EDUARDO LAGOS LORENT, como suplente de don RODRIGO BENITEZ CORDOVA;
+- Don JUAN EDGARDO GOLDEMBERG PEÑAFIEL como suplente de don CHRISTIAN BLANCHE REYES;
+- Don FLORINDO NÚÑEZ RAMOS, como suplente de don MANUEL MANQUEZ HATTA; y
+- Don ARTURO GARNHAM, como suplente de don MARIO SILVA SILVA.
+
+
+3°.- 	En cumplimiento de lo dispuesto en el artículo 23 del mismo Reglamento del Consejo Consultivo, desígnase como Secretaria titular a la funcionaria Sra. VIVIANA SALINAS DELGADO y en calidad de suplente, para casos de ausencia de la titular, a la funcionaria Sra. MILDRED BULL HEREÑÚ. 
+
+
+4°.- 	En consecuencia, el Consejo Consultivo creado por Resolución Ex. 36, de 24 de marzo de 2008, a contar de la fecha de esta Resolución,  tendrá la siguiente conformación:
+
+
+CARGO
+
+
+TITULAR
+
+SUPLENTE
+
+PRESIDENTE
+PABLO GONZALEZ S.
+SUBDIRECTOR JURIDICO SII.
+
+SUBROGANTE LEGAL
+
+CONSEJERO
+JUAN ROJAS B.
+SUBDIRECTOR NORMATIVO SII.
+
+SUBROGANTE LEGAL
+
+CONSEJERO
+
+BERNARDO MARCHANT A.
+
+NORBERTO SAN MARTÍN S.
+
+CONSEJERO
+
+ALBERTO CUEVAS O.
+
+JULIA ALTAMIRANO S.
+
+CONSEJERO
+
+MIGUEL OJEDA D.
+
+CLAUDIO MARTÍNEZ C.
+
+CONSEJERO
+
+RODRIGO BENITEZ C.
+
+EDUARDO LAGOS L.
+
+CONSEJERO
+
+CHRISTIAN BLANCHE R
+
+JUAN GOLDENBERG P.
+
+CONSEJERO
+
+MANUEL MANQUEZ H.
+
+FLORINDO NÚÑEZ R.
+
+CONSEJERO
+
+MARIO SILVA S.
+
+ARTURO GARNHAM B.
+
+SECRETARIA
+
+VIVIANA SALINAS D.
+
+MILDRED BULL H.
+
+
+ANOTESE,  COMUNÍQUESE  Y  PUBLÍQUESE  EN  INTERNET
+
+
+
+
+
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERON
+DIRECTOR 
+
+
+
+Lo que transcribo a Ud. Para su conocimiento y fines consiguientes.
+
+
+-INTERNET
+
+
+
+
+
+
+
+
+
+
+

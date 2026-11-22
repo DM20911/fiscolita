@@ -1,0 +1,314 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso80.doc
+titulo: Word – Resolución Exenta SII N°80 del 30 de Abril del 2010 Autoriza Como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°80 DEL 30 DE ABRIL DEL 2010 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Mayo del 2010, a los siguientes contribuyentes:
+
+- ABINGRAF S.A.									 77.325.180-0
+- ALIMENTOS INTEGRADOS G Y C LTDA.						 76.958.470-6
+- ALIMENTOS MONTE BAEZA S.A.							 76.082.479-8
+- ALT 164 INTEGRACION DE MEDIOS Y NUEVAS TECNOLOGIAS LTDA.		 77.797.170-0
+- ASESORIAS E INVERSIONES MAGENS LTDA.					 77.499.670-2
+- B C BEARING CHILE S.A.								 96.678.530-6
+- BRAY CONTROLS S.A.								 76.394.490-5
+- CALIMPORT S.A.									 86.317.400-7
+- CEDREM CONSULTORES LTDA.							 77.250.980-4
+- CENTRO DE IMAGENOLOGIA UNIVERSIDAD CATOLICA DEL MAULE S.A.		 99.597.620-K
+- CENTRO PREMIO NOBEL MARIO MOLINA PARA ESTUDIOS ESTRATEGICOS	 76.150.950-0
+  SOBRE ENERGIA Y MEDIO AMBIENTE CHILE LTDA.				 
+- CESKAT SYSTEMS S.A.								 76.084.788-7
+- COMERCIAL COMSERTEC LTDA.							 78.771.060-3
+- COMERCIALIZADORA DE ARTICULOS DE FERRETERIA, INSTALACIONES		 77.948.760-1
+  SANITARIAS Y CONSTRUCCION DE OBRAS CIVILES LTDA. 
+- COMERCIAL OSMOSE CHILE LTDA.						 77.406.040-5
+- COMERCIAL ROBINSON ROBERTO GOMEZ PEREZ E.I.R.L.				 76.089.934-8
+- COMERCIALIZADORA LA POSTAL LTDA.						 76.578.970-2
+- COMERCIALIZADORA MAGELLANSEAFOOD LTDA. 			 	 76.081.251-K
+- COMERCIALIZADORA SP DIGITAL LTDA.						 76.799.430-3
+- COOPERATIVA DE SERVICIO DE ABASTECIMIENTO DE AGUA POTABLE, 		 70.240.900-4
+  ALCANTARILLADO Y SANEAMIENTO AMBIENTAL DE LA COMUNIDAD DE 
+  SARMIENTO LTDA.					 
+- CORTEZ & CORTEZ COMPAÑIA COMERCIAL LTDA.				 76.145.630-K
+- DELLA CHIESA S.A.								 96.781.770-8
+- DISTRIBUIDORA DE MATERIALES DE OBRAS DE CONSTRUCCION			 77.527.540-5 
+  Y FERRETERIA LTDA.
+- DISTRIBUIDORA ALBA SUAREZ Y COMPAÑIA LTDA.				 77.919.450-7
+- DISTRIBUIDORA IBITERRA LTDA.						 	 76.059.702-3
+- DISTRIBUIDORA MAYORISTA LA COLCHAGUINA LTDA.				 77.458.040-9
+- ECO.CARBON S.A.								 76.090.895-9
+- EDUARDO MUÑOZ FRANULIC INGENIERIA E.I.R.L.				 76.089.386-2
+- EFE PUBLICIDAD Y DISEÑO LTDA. 						 77.075.880-7
+- ELECTRICAL & MECHANICAL SERVICES S.A.					 76.507.730-3
+- ENVATEC S.A.									 76.038.088-1
+- FARENHOUSE ENERGY GROUP S.A.						 76.021.648-8
+- FERROMAN S.A. 									 88.198.500-4
+- FMA INDUSTRIAL (CHILE) S.A.							 87.801.300-K
+- GEOCOM RENTA S.A.								 79.934.370-3
+- GEORGIA PACIFIC RESINAS LTDA.						 77.195.620-3
+- GILLIER GROUP LTDA.								 76.063.545-6
+- GSE LINING TECHNOLOGY CHILE S.A. 						 76.413.120-7
+- GUSTAVO BOETSCH Y COMPAÑIA LTDA.						 85.236.200-6
+- HUGO JOFRE E HIJOS S.A. 							 84.414.600-0
+- HVAC SERVICES CHILE LTDA. 							 76.076.752-2
+- ICONSTRUYE S.A. 								 96.941.720-0
+- IMPORTACIONES CROWN CHILE S.A.						 77.403.610-5
+- INDUSTRIAL SAVE LTDA.								 77.254.640-8
+- INGENIERIA CONSULTORIA & TECNOLOGIA LTDA.				 76.086.481-1
+- INMOBILIARIA E INVERSIONES BIG S.A.						 76.038.149-7
+- INVERSIONES BAUTA S.A.							 76.031.941-4
+- LOWICK-RUSSELL LTDA.								 76.032.567-8
+- MANAGEMENT, FINANCE & LEGAL SERVICES LTDA.				 76.089.896-1
+- MAQUINARIAS Y EQUIPOS SANTA MARTA S.A.					 96.888.440-9
+- MARCELO ANDRES ROMO FERNANDEZ						 12.640.489-1
+- MIPLANTA S.A. 									 76.057.601-8
+- NAVICON OVERSEAS CHILE S.A.							 99.558.770-K
+- NORMEN CONSULTORES LTDA.							 76.038.281-7
+- PAN ATLANTIC BANK AND TRUST LIMITED					 59.072.810-1
+- PAPELES INDUSTRIALES S.A.							 94.282.000-3
+- RAMIRO ANDRES PEREZ PAZ							 12.139.964-4
+- RPMR S.A. 									 76.759.540-9
+- SALOMON SACK S.A.								 90.970.000-0
+- SANTA MARTA BUSES SPA.							 76.066.443-K
+- SANTA MARTA SERVICIOS Y MONTAJES LTDA.					 76.549.440-0
+- SERMAR LTDA.									 78.351.550-4
+- SERVICIOS DE CONSULTORIA Y CAPACITACION SER LTDA.			 76.109.080-1
+- SERVICIOS DE INGENIERIA SIGREN Y SIGREN LTDA.				 79.671.250-3
+- SERVICIOS EQUIPOS Y MAQUINARIAS S.A.					 76.049.961-7
+- SERVICIOS INDUSTRIALES Y TECNICA CIENTIFICA LTDA.			 	 78.934.690-9
+- SM MINING S.A. 									 76.006.226-K
+- SOC. AGRICOLA LA ROTUNDA LTDA.						 78.063.780-3
+- SOC. DE INVERSIONES MABENKO LTDA.						 76.032.480-9
+- SOC. DE SERVICIOS E INGENIERIA ELECTROMECANICA LTDA.			 78.823.220-9
+- SOC. INDUSTRIAL Y COMERCIAL PYMA LTDA.					 89.056.300-7
+- SOCIEDAD COMERCIAL CTQUIM LTDA.						 76.928.650-0
+- SOCIEDAD DE RASTREO SATELITAL DE VEHICULOS LTDA.			 76.089.317-K
+- SOCIEDAD DE TRANSPORTES Y LOGISTICA TERRA CARGO LTDA.			 76.378.830-K
+- SOCIEDAD MEGAIMAGEN S.A.							 76.000.227-5
+- SOCIEDAD SUMMIT MINING LTDA.						 76.060.630-8
+- SOLDADURAS SOLTEC LTDA.							 76.488.020-K
+- SPENCER Y LOPEZ LTDA.								 77.377.250-9
+- SUPERMERCADOS DEL SUR LTDA.						 76.027.291-4
+- TECNOLOGIA EN MINERIA E INDUSTRIA S.A.					 96.963.080-K
+- TRANSPORTE PRIVADO UNIVERSO S.A.						 99.559.750-0
+- TRANSPORTES ABRIL LTDA.							 77.636.400-2
+- TRANSPORTES BENCINA Y COMPAÑIA LTDA.					 77.221.110-4
+- TRANSPORTES SANTA MARTA SPA.						 76.068.742-1
+- VILLARROEL Y COMPAÑIA LTDA.							 76.206.510-K
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+
+
+		    (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

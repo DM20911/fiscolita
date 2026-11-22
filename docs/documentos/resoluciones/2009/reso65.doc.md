@@ -1,0 +1,79 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso65.doc
+titulo: Word – Resolución Exenta SII N°65 del 08 de Mayo del 2009 Crea Departamento de Apoyo a la Fiscalización y Comercio Exterior. Fuente: Dirección de Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°65 DEL 08 DE MAYO DEL 2009 MATERIA : CREA DEPARTAMENTO DE APOYO A LA FISCALIZACIÓN Y COMERCIO EXTERIOR.
+	Hoy se ha resuelto lo que sigue:
+	VISTOS: Las necesidades del Servicio; las facultades que se me confieren en el Artículo 3° y en las letras a), b), c), h) y n) del Artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de Hacienda, de 1980; lo establecido en el Artículo 6° letra A., N° 1° del Código Tributario, contenido en el Artículo 1° del D.L. N° 830 de 1974; lo dispuesto en la Resolución Ex. N° 7590, de 15.11.99; Resolución Ex. N° 34, de 24.08.2001; Resolución Ex. N° 1.039 de 30.09.2004; Resolución Ex. N° 44, de 31.03.2004, Resolución N° 13 de 25.01.2008, Resolución Ex. Nº 173 de 31.12.2008 todas de esta Dirección; lo establecido en el Artículo 1° del DFL N° 1, de Hacienda,  de 2004 y,
+	CONSIDERANDO:  
+
+1.° Que por Resolución Ex. N° 34, de 24 de agosto de 2001, modificada por Resoluciones Exentas N° 44, de 31 de marzo de 2004, N° 113, de 15 de Septiembre de 2006 y N° 13 de 25 de Enero de 2008, se creó el Departamento Subdirección de Fiscalización denominado “Dirección Grandes Contribuyentes”, fijándole sus atribuciones, responsabilidades y obligaciones, estableciendo, además, los Departamentos y Oficinas de su dependencia y sus respectivas funciones.
+
+2.° Que en consideración al constante interés que este Servicio tiene en mejorar los procesos de fiscalización y atención a los contribuyentes; dada la naturaleza y complejidad de las atribuciones y funciones de la Dirección Grandes Contribuyentes y de los Departamentos y Oficinas que la componen, se hace necesario modificar las funciones de la Dirección de Grandes Contribuyentes, incorporando a ella un Departamento enfocado al desarrollo de métodos y procedimientos para el apoyo de la fiscalización de Grandes Contribuyentes, en general como a los contribuyentes que realizan mayoritariamente operaciones de comercio exterior.
+
+	RESUELVO:  
+
+PRIMERO Agréguese en el dispositivo 4° de  la Resolución Ex. N° 34 de Agosto de 2001, la siguiente letra g:
+
+ “g. Departamento de Apoyo a la Fiscalización y Comercio Exterior, al que le corresponderán las siguientes funciones:
+
+i) Funciones de Apoyo a la Fiscalización:
+
+Diseño, desarrollo y mantención de sistemas, métodos y procedimientos de auditoría.
+
+Diseño de modelos de información que faciliten la caracterización de los contribuyentes incluidos en la nómina y los grupos o sectores económicos en los cuales participa.
+
+Diseño, elaboración y aplicación de pruebas de auditorías asistidas computacionalmente para el apoyo de los procesos de fiscalización llevados a cabo por los Departamentos y oficinas de la “Dirección de Grandes Contribuyentes”.
+
+Realizar labores de monitoreo, estudios de mercado, análisis de las estructuras patrimoniales y otros estudios de los contribuyentes incorporados a la nómina de la Dirección de Grandes Contribuyentes y  sus relacionados.
+
+Otras actividades que el Jefe de la "Dirección Grandes Contribuyentes" estime de competencia de este Departamento. 
+
+
+ii) Funciones de Comercio Exterior:
+
+Recibir  y procesar las solicitudes de Exportadores, registrando en los sistemas informáticos de soporte, el ingreso y seguimiento de dichas peticiones.
+
+Fiscalizar las solicitudes de devolución de Impuesto a las Ventas y Servicios o de otros impuestos que presenten los exportadores incorporados en la nómina de Grandes Contribuyentes, ya sea bajo el régimen del artículo 1° ó 6° del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Fiscalizar el debido cumplimiento de las Resoluciones del Ministerio de Economía, Fomento y Reconstrucción para los contribuyentes incorporados en la nómina de Grandes Contribuyentes, acogidos al artículo 6° del Decreto Supremo N° 348, de 1975, de este mismo Ministerio.
+
+Fiscalizar las solicitudes de devolución de Impuesto a las Ventas y Servicios  o de otros impuestos que presenten los exportadores incorporados en la nómina de Grandes Contribuyentes, acogiéndose a las normas del N° 3, inciso 1° del Artículo 126° del  Código Tributario. 
+
+Efectuar y notificar las actuaciones a los contribuyentes incorporados en la nómina de Grandes Contribuyentes, que se deriven como resultado de las fiscalizaciones practicadas, tales como: citaciones, liquidaciones, reliquidaciones, giros y otras, en conformidad a las facultades de esta resolución.
+
+iii) Otras actividades que el Jefe de la "Dirección Grandes Contribuyentes" estime de competencia de este Departamento.” 
+ 
+SEGUNDO: La presente resolución regirá desde la publicación de su extracto en el Diario Oficial.
+ANÓTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO  
+
+
+	(Fdo.) RICARDO ESCOBAR CALDERÓN
+	                             DIRECTOR
+	Lo que transcribo a Ud. para su conocimiento y fines que procedan. 
+Distribución: 
+-Internet -Diario Oficial 
+-Boletín
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+

@@ -1,0 +1,233 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso116.doc
+titulo: Word – Resolución Exenta SII N°116 del 27 de Septiembre del 2007 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Oficina de Catastro, Documentos Electrónicos y Fiscalización Preventiva
+categoria: otros
+---
+
+
+RESOLUCION EXENTA SII N°116 DEL 27 DE SEPTIEMBRE DEL 2007 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+
+Primero:	Autorízanse como emisores electrónicos a contar del mes de Octubre del 2007 a los siguientes contribuyentes:
+	
+
+- ADMINISTRADORES ASOCIADOS LTDA. 					RUT 78.064.750-7  - AGENCIA DE VIAJES TURAVIÓN LTDA. 					RUT 80.989.400-2  - AGRÍCOLA CITARR LTDA. 						RUT 78.714.840-9  - AMES CHILE INDUSTRIAL LTDA. 					RUT 79.807.400-8  - BODELOG S.A.  								RUT 99.589.880-2  - DENIM TRADE TELAS S.A. 						RUT 96.963.030-3  - DÍEZ ENCINAS Y FIGUEROA LTDA. 					RUT 76.871.310-3  - DINEROMAIL CHILE S.A.  						RUT 99.584.660-8  - FUALCO EMPRESA DE SERVICIOS TRANSITORIOS LTDA. 		RUT 76.743.240-2  - GALVANIZADORA BUENAVENTURA LTDA. 				RUT 76.373.180-4  - I G K CONSTRUCTORA LTDA. 						RUT 77.259.460-7  - KAFFA KALDI S.A.  							RUT 96.725.240-9  - LDA S.A.  								RUT 76.857.210-0  - MATURANA & RAVANAL LTDA. 						RUT 77.681.540-3  - PRETORIAN TECNOLOGÍA DE INFORMACIÓN LTDA. 			RUT 76.846.850-8  - PROMOCIONES PLAY LTDA. 						RUT 76.453.040-3  - PROSOL S.A. 								RUT 79.546.960-5  - PROYECTOS Y EQUIPOS HIDRAÚLICOS LTDA. 				RUT 79.745.670-5  - RENÉ LAGOS Y ASOCIADOS INGENIEROS CIVILES LTDA. 		RUT 78.956.640-2  - RENÉ LAGOS Y ASOCIADOS LTDA. 					RUT 76.442.860-9  - ROSA ESTER HERNANDO MOLINA  					RUT 09.748.061-3  - SERVICIO DE ASEO Y MANTENCIÓN INTEGRAL TÉCNICA LTDA. 		RUT 79.756.490-7  - SERVICIOS FINANCIEROS CITIBANK (CHILE) S.A.			RUT 96.701.860-0 
+- THOMAS Y HERRERA COMPAÑÍA LTDA. 					RUT 79.893.060-5 
+- TRANSPORTES LEBASI LTDA.						RUT 76.530.210-2 
+- MICROPLAY S.A.								RUT 76.411.180-K 
+
+
+	En la Oficina Virtual del SII en Internet se podrá consultar los documentos que cada contribuyente está autorizado a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+                    (Fdo.)    JORGE TRUJILLO PUENTES
+                        SUBDIRECTOR DE FISCALIZACIÓN
+
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

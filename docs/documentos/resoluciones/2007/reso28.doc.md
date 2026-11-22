@@ -1,0 +1,64 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso28.doc
+titulo: Word – Resolución Exenta SII N°28 del 22 de Febrero del 2007 Modifica Resolución Exenta N° 4.846 de 1995, y sus Modificaciones Posteriores, Estableciendo Nuevos Declarantes y Nueva Información que se debe Proporcionar a Través de la Declaración Jurada 1892. Fuente: Departamento de Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°28 DEL 22 DE FEBRERO DEL 2007 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 4.846 DE 1995, Y SUS MODIFICACIONES POSTERIORES, ESTABLECIENDO NUEVOS DECLARANTES Y NUEVA INFORMACIÓN QUE SE DEBE PROPORCIONAR A TRAVÉS DE LA DECLARACIÓN JURADA 1892.
+
+
+
+Hoy se ha resuelto lo siguiente :
+
+
+VISTOS: Los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; los artículos 6º letra A) Nº 1 y 60 inciso octavo del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974, y lo establecido en el artículo 18 quater de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974, y la Circular N° 1, de 1989; y la Resolución Exenta N° 4.846, publicada en Diario Oficial de fecha 17.10.1995; y
+
+
+CONSIDERANDO: 
+
+Que, el artículo 60, inciso penúltimo, del Código Tributario, faculta a este Servicio para exigir a toda persona, declaración jurada por escrito sobre hechos, datos o antecedentes de cualquier naturaleza, relacionados con terceras personas,
+
+Que, mediante la Resolución Ex N° 4.846, de fecha 10.10.1995, publicada en Diario Oficial el 17.10.1995, y sus modificaciones posteriores, se ha establecido la obligación, a las Sociedades Administradoras de los Fondos Mutuos que reciban de sus clientes inversiones en tales Fondos no acogidas al mecanismo de incentivo al ahorro de la Letra A) del artículo 57 bis de la Ley de la Renta, de proporcionar la mencionada información mediante Declaración Jurada N° 1892, denominado "Declaración Jurada Anual sobre Inversiones en Fondos Mutuos no acogidas a las normas de la letra A) del artículo 57 bis de la Ley de la Renta”,
+
+Que, con el fin de dar cumplimiento a la norma legal antes mencionada, y además, basado en las facultades que le otorga la ley a este Servicio, con el fin de verificar el fiel cumplimiento del régimen tributario que afecta a las rentas provenientes de las inversiones en Fondos Mutuos, es necesario que las Sociedades Administradoras proporcionen a este Servicio la información requerida, en la forma y condiciones que se indican a continuación:
+
+
+					RESUELVO:
+
+Agréguese el siguiente considerando N° 3, a la Resolución Exenta N° 4.846, publicada en Diario Oficial de fecha 17.10.1995, y sus modificaciones posteriores, pasando a ser N°s 4 y 5 sus actuales N°s 3 y 4.
+
+“3.- Que, a través de la Circular N° 1, de 1989, este Servicio impartió las instrucciones respectivas sobre el régimen tributario aplicable a los Fondos Mutuos, en las que se especificó la información que las Sociedades Administradoras de Fondos Mutuos deben proporcionar a sus partícipes para el cumplimiento de sus obligaciones tributarias. A raíz de dichas instrucciones actualmente las Administradoras de Fondos Mutuos cumplen con tal obligación a través del modelo del Certificado N° 10, cuyas instrucciones, en cuanto al llenado mismo, fecha de su emisión y demás especificaciones son dadas a conocer por este Servicio a través de Circular que emite sobre la materia.
+Al respecto cabe indicar que a raíz de las modificaciones incorporadas a la Ley de la renta por la Ley N° 19.768, de 2001, la información que se debe proporcionar por medio de dicho Certificado es aquella relativa a las inversiones en cuotas de Fondos Mutuos efectuadas antes del 19.04.2001.”
+
+Agréguese el siguiente párrafo en el Resolutivo N° 1 de la Resolución Exenta N° 4.846, publicada en Diario Oficial de fecha 17.10.1995, y sus modificaciones posteriores:
+“A la misma obligación indicada en el párrafo anterior quedarán sujetas todas aquellas Instituciones Intermediarias que efectúen a su nombre, inversiones por cuenta de terceros, informando en tal caso la información solicitada respecto del mandante o verdadero titular de las cuotas de Fondos Mutuos”
+
+Reemplácese el segundo párrafo del Resolutivo N° 2 de la Resolución Exenta N° 4.846, publicada en Diario Oficial de fecha 17.10.1995, y sus modificaciones posteriores, por el siguiente:
+
+“El detalle de la información a proporcionar por medio de la Declaración Jurada a que se refiere el párrafo anterior, se indica cada año en la Circular respectiva que el Servicio emite sobre la materia.”
+
+Agréguese el siguiente Resolutivo N° 3 a la Resolución Exenta N° 4.846, publicada en Diario Oficial de fecha 17.10.1995, y sus modificaciones posteriores, pasando sus actuales resolutivos N°s 3, 4, 5 y 6 a ser N°s 4, 5, 6 y 7, respectivamente:
+
+“3.- El modelo de Certificado N° 10 a que se refiere el considerando N° 3, deberá ser emitido por las Administradoras de Fondos Mutuos de acuerdo con las instrucciones que el Servicio imparte sobre la materia. A la misma obligación quedarán sujetas todas aquellas Instituciones Intermediarias que efectúen a su nombre, inversiones por cuenta de terceros, certificando en tal caso la misma información al mandante o verdadero titular de las cuotas de Fondos Mutuos.
+
+Las Administradoras de Fondos Mutuos deberán cumplir con la obligación de emitir el Certificado modelo N° 10 a sus partícipes a más tardar el día 10 del mes de marzo de cada año. En caso que los titulares correspondan a bancos, corredores de bolsa y, en general, todas aquellas Instituciones Intermediarias, deberán emitirse los certificados obligatoriamente siempre que el interesado lo solicite, al menos, cinco días hábiles antes del cumplimiento de dicho plazo.
+
+La presente Resolución regirá a contar del Año Tributario 2007, respecto de la información correspondiente al ejercicio comercial 2006 y para los años tributarios siguientes, entregando la información del año comercial respectivo.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+RICARDO ESCOBAR CALDERÓN
+     DIRECTOR 
+
+
+
+Lo que comunico a Ud., para su conocimiento y demás fines,
+Saluda a Ud.,
+
+CSM/MAC
+DISTRIBUCIÓN:
+BOLETÍN SII
+INTERNET
+

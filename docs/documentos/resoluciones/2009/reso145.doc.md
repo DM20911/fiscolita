@@ -1,0 +1,247 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso145.doc
+titulo: Word – Resolución Exenta SII N°145 del 29 de Septiembre del 2009 Autoriza Como Emisor de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°145 DEL 29 DE SEPTIEMBRE DEL 2009 MATERIA : AUTORIZA COMO EMISOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se describen en el dispositivo primero de la presente resolución han postulado como emisor de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003, para ser autorizados como tal.
+
+4° Que, los contribuyentes que se describen en el dispositivo primero de la presente resolución han solicitado el otorgamiento de la autorización de que se trata por Internet y han cumplido satisfactoriamente con el proceso de postulación que lo habilitan para ser emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas y cumplen con los requisitos establecidos en la Res. Ex. SII N° 19, de 12 de Febrero del 2008, para ser autorizados como tal.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorízase como emisor electrónico, a contar del mes de Septiembre del 2009, a los siguientes contribuyentes:
+	
+HIPERMERCADO DEPARTAMENTAL LTDA.  				78.841.640-7
+HIPERMERCADO EL BELLOTO LTDA.					77.163.260-2  
+HIPERMERCADO HUECHURABA LTDA.					77.987.800-7
+HIPERMERCADO LONQUEN LTDA  						77.172.070-6  
+HIPERMERCADO STA. AMALIA LTDA. 					77.162.070-1  
+HIPERMERCADO TOMAS MORO LTDA.					78.712.770-3  
+HIPERMERCADO TALAGANTE LTDA.  					76.264.130-5  
+HIPERMERCADO QUILICURA LTDA.					76.695.780-3 
+SUPERMERCADO ARICA LTDA.  						77.134.140-3  
+SUPERMERCADO IQUIQUE LTDA.  						78.901.830-8  
+SUPERMERCADO LOS MORROS LTDA.  					77.129.710-2
+SUPERMERCADO MACUL LTDA. 						79.728.020-8
+SUPERMERCADO NORTE GRANDE LTDA.  					78.356.240-5  
+SUPERMERCADO PLAZA EGAÑA LTDA.  					78.051.150-8  
+SUPERMERCADO RECOLETA LTDA.  					77.170.580-4  
+SUPERMERCADO VESPUCIO SUR LTDA.					78.403.650-2  
+SUPERMERCADO VIÑA DEL MAR LTDA.					78.037.190-0
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+	
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la  Resolución Ex. SII N° 45, de Septiembre del 2003, que establece normas y procedimientos de operación respecto de los documentos tributarios electrónicos y la Resolución Ex. SII N° 19, de 12 de Febrero de 2008, que establece requisitos para autorizar a contribuyentes como emisores de boletas electrónicas y boletas no afectas o exentas electrónicas, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes. 
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos. 
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas.
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+(Fdo.) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+RPA/CPG/OBA
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

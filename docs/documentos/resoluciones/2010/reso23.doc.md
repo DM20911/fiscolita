@@ -1,0 +1,48 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso23.doc
+titulo: Word – Resolución Exenta SII N°23 del 29 de Enero del 2010 Asigna Función y Autoriza Delegación de Facultad que Indica. Fuente: Departamento de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°23 DEL 29 DE ENERO DEL 2010 MATERIA : ASIGNA FUNCIÓN Y AUTORIZA DELEGACIÓN DE FACULTAD QUE INDICA.
+
+	Hoy se ha resuelto lo que sigue:
+
+						VISTOS: Lo dispuesto en el artículo 7º, letras c) e  i) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980, del Ministerio de Hacienda;  el artículo 6°, letra A N° 3, 123 bis y 124 del Código Tributario; los artículos 10° y 41 de la Ley N º 18.575, sobre Bases Generales de la Administración del Estado; Ley N°20.322 de 2009, que fortalece y perfecciona la jurisdicción tributaria y aduanera;  y
+
+CONSIDERANDO: 
+
+1°.- Que las letras c) e i) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para dirigir, organizar, planificar y coordinar el funcionamiento del Servicio, dictar las órdenes que estime necesarias o convenientes para la más expedita marcha del mismo y para fijar y modificar las atribuciones y obligaciones de sus unidades y que la letra j) del artículo citado y la letra A) N° 3 del artículo 6° del Código Tributario lo facultan para autorizar a los Subdirectores, Directores Regionales o a otros funcionarios para hacer uso de sus atribuciones;
+
+	2°- Que, el artículo 123 bis del Código Tributario, introducido por el artículo 2°, N° 17 de la ley N°20.322 de 2009,  establece el recurso de reposición administrativa, respecto de las decisiones adoptadas en las materias indicadas en el artículo 124 del mismo cuerpo legal, con vigencia 01 de febrero de 2010 en la Región de Arica y Parinacota;
+
+3° Que, al respecto se estima pertinente, en atención a que los temas a debatir en esta instancia son de innegable naturaleza jurídica, que la tramitación de los recurso de reposición administrativa, corresponda al funcionario abogado ubicado en la Oficina Jurídica de la sede de la Dirección Regional, encargado de supervisar las labores que realiza dicha Oficina Jurídica.
+
+RESUELVO:
+
+PRIMERO.- Asígnase al funcionario abogado ubicado en la Oficina Jurídica de la Dirección Regional de la Región de Arica y Parinacota, a cuyo cargo se encuentre la supervisión de las labores de la misma, la función de tramitar los recursos de reposición administrativa interpuestos por los contribuyentes respecto de resoluciones dictadas por el Director Regional.
+
+
+SEGUNDO.- Autorízase al Director de la Dirección Regional de la Región de Arica y Parinacota para delegar en el funcionario abogado de su dependencia, ubicado en la Oficina Jurídica, encargado de la supervisión de las labores de la misma, la facultad de resolver los recursos de reposición administrativa interpuestos por los contribuyentes respecto de resoluciones dictadas por el Director Regional.
+
+TERCERO.- La presente resolución regirá a contar del día 01 de febrero de 2010.
+
+ 
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+
+
+
+
+ 
+(FDO.) RICARDO ESCOBAR CALDERÓN DIRECTOR
+ 
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.
+
+
+ 
+Distribución: -   Internet -   Diario Oficial -   Boletín SII
+
+

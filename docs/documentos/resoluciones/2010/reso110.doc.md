@@ -1,0 +1,300 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso110.doc
+titulo: Word – Resolución Exenta SII N°110 del 01 de Julio del 2010 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°110 DEL 01 DE JULIO DEL 2010 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Julio del 2010, a los siguientes contribuyentes:
+
+- AERO SCIENCE LTDA.								 76.077.481-2
+- ALFRED H KNIGHT INTERNATIONAL LIMITED CHILE LTDA.			 78.182.740-1
+- AUSTRAL INTERNATIONAL MOVERS S.A.						 96.774.080-2
+- BAILAC SERVICIOS EN AHORROS DE NEUMATICOS LTDA.			 77.247.050-9
+- BICE FACTORING S.A.								 96.677.280-8
+- BODEGAS SAN FRANCISCO LTDA.						 76.098.820-0
+- CARGO TRADER LTDA.								 79.906.540-1
+- CAROLINA ZAMORANO CAPACITACION E.I.R.L.					 76.090.134-2
+- CATALONIA SEAFOODS S.A.							 76.800.830-2
+- CENTRO DE FORMACION TECNICA DEL INSTITUTO NACIONAL DE		 87.020.800-6
+  CAPACITACION PROFESIONAL INACAP Y CIA. EN COMANDITA POR ACCION 
+- CIA. CHILENA DE MEDICION S.A.							 91.531.000-1
+- COAGRA AGROINDUSTRIAL S.A.							 99.594.910-5
+- COAGRA ALIMENTOS S.A.							 76.790.540-8
+- COMERCIAL E INDUSTRIAL DELVA S.A.						 96.781.640-K
+- COMERCIAL E INDUSTRIAL SOUTH DAKOTA S.A.					 96.723.980-1
+- COMERCIAL FBT LTDA.								 76.094.327-4
+- COMERCIAL MB LTDA.								 76.016.603-0
+- COMERCIALIZADORA DE INSUMOS Y RESPUESTOS INDUSTRIALES JAIME 	 52.003.037-9
+  EDUARDO CONTRERAS CHEUQUECOY E.I.R.L. 
+- CSC COMPUTER SCIENCES CORPORATION CHILE LTDA.				 77.547.590-0
+- CURTIEMBRE BASKA S.A.								 79.962.720-5
+- DESARROLLOS Y SERVICIOS MELIPILLA LTDA.					 79.853.570-6
+- DISTRIBUCION DE MAQUINARIAS LACTEAS LTDA.				 79.703.420-7
+- ECOTURISMO SURESTE LTDA.							 77.770.220-3
+- EDITORIAL HUEDERS LTDA.							 76.024.102-4
+- EQUANT CHILE S.A.								 96.725.490-8
+- GLOBAL MAINTENANCE CONSULTING CHILE LTDA.				 76.058.684-6
+- GPC SERVICIOS INTEGRALES INFORMATICOS LTDA.				 76.764.730-1
+- I MUNICIPALIDAD DE MEJILLONES						 69.020.400-2
+- IMPORTADORA DISTRIBUIDORA Y EXPORTADORA CAUCHOVAL S.A.		 89.614.700-5
+- IMPORTADORA Y EXPORTADORA IMPOMAK S.A.					 79.877.820-K
+- IMPORTADORA, EXPORTADORA Y ASESORIAS CUANTICA LTDA.			 76.084.529-9
+- INDUSTRIAL MEGAMETAL LTDA.							 80.500.900-4
+- INGENIERIA Y MODELACION AMBIENTAL LTDA.					 76.033.958-K
+- INMOBILIARIA BOLOGNESI LTDA.						 76.062.930-8
+- INPPAMET CATODOS LTDA.							 77.189.740-1
+- INSTITUTO PROFESIONAL DEL INSTITUTO NACIONAL DE CAPACITACION 	 87.152.900-0
+  PROFESIONAL INACAP Y CIA. EN COMANDITA POR ACCION 
+- INSTITUTO NACIONAL DE CAPACITACION PROFESIONAL 			 60.711.000-K
+- INSTRUMENTACION Y SERVICIOS S.A.						 96.817.830-K
+- JUAN GUILLERMO ALAR GARCIA CALDERERIA Y MONTAJE E.I.RL.		 76.727.490-4
+- LAVASECO, LAVANDERIA Y TINTORERIA LAVACINCO LTDA.			 96.929.910-0
+- LUIS ALEJANDRO SUAREZ GAJARDO						 13.452.010-8
+- MAESTRANZA Y MECANIZADOS LTDA.						 76.286.200-K
+- MIGUEL ANGEL VERGARA LEON							 13.145.880-0
+- MODULAR MINING SYSTEMS INC Y CIA. LTDA.					 78.454.860-0
+- NESTOR NAVARRO Y CIA. LTDA.							 76.094.303-7
+- PELP INTERNACIONAL S.A.							 96.501.840-9
+- PLASTISOL S.A.									 81.318.000-6
+- PROFAC S.A.									 96.952.970-K
+- PUBLICIDAD ICREATIVA LTDA.							 76.034.193-2
+- SANDE S.A.									 92.217.000-2
+- SANDIMAN S.A.									 78.923.230-K
+- SCAF INGENIERIA S.A.								 76.727.610-9
+- SERVICIOS MARITIMOS PACIFIC ANCHOR LINE LTDA.				 78.089.520-9
+- SERVICIOS PUBLICITARIOS PUBLIACTIVA LTDA.					 77.968.860-7
+- SGS CENTRO DE FORMACION Y CAPACITACION LTDA.				 76.615.150-7
+- SOC. COMERCIALIZADORADE REACTIVOS QUIMICOS Y			 	 76.047.360-K 
+  OTROS SCIENTIFIC LINE CHILE LTDA. 
+- SOCIEDAD G ARIONE LTDA.							 78.727.040-9
+- SOCIEDAD INDUSTRIAL MECANICA BIOTECNIA LTDA.				 76.044.002-7
+- SOCIEDAD R Z MINING SERVICES LTDA.						 76.420.540-5
+- THYSSENKRUPP INGENIERIA CHILE LTDA.					 77.471.030-2
+- TRANSPORTES DON LUCIANO LTDA.						 76.052.663-0
+- TRANSPORTES JAVY LTDA.							 76.072.581-1
+- TRANSPORTES PULGAR E HIJOS LTDA.						 78.463.250-4
+- UNIVERSIDAD TECNOLOGICA DE CHILE INACAP					 72.012.000-3
+- UPM ASESORIAS Y SERVICIOS LTDA.						 76.681.310-0
+- VATCKY Y CIA. LTDA.								 78.247.490-1
+- VERILAB S.A.									 96.813.180-K
+- DISTRIBUIDORA DE MATERIALES DE CONSTRUCCION, FERRETERIA 		 76.092.741-4
+  Y CONSTRUCCION DE OBRAS CIVILES LTDA.	
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+
+
+		    (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

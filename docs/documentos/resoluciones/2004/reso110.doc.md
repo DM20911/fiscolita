@@ -1,0 +1,82 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso110.doc
+titulo: Word – Resolución Exenta SII N°110 del 15 de Diciembre del 2004 Establece Obligación para las Instituciones que se Indican de Informar al Servicio de Impuestos Internos las Donaciones del Artículo 46 del D.L. N° 3.063, de 1979; del D. L. N° 45, de 1973; del Artículo 46 de la Ley N° 18.899; del Artíc
+categoria: otros
+---
+RESOLUCION EXENTA SII N°110 DEL 15 DE DICIEMBRE DEL 2004 MATERIA : ESTABLECE OBLIGACIÓN PARA LAS INSTITUCIONES QUE SE INDICAN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS LAS DONACIONES DEL ARTÍCULO 46 DEL D.L. N° 3.063, DE 1979; DEL D. L. N° 45, DE 1973; DEL ARTÍCULO 46 DE LA LEY N° 18.899; DEL ARTÍCULO 3° DE LA LEY N° 19.247, DE 1993; DEL ARTÍCULO 8° DE LA LEY N° 18.985, DE 1990 Y DEL N° 7 DEL ARTÍCULO 31° DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+
+
+VISTOS: Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de Hacienda, de fecha 30 de Septiembre de 1980; lo establecido en el artículo 6° Letra A) N° 1), en el artículo 30 y en el artículo 60 inciso penúltimo del Código Tributario, contenido en el Artículo Primero del D.L. N° 830, de 1974; lo dispuesto en la Ley N° 19.885, de 2003, texto legal que regula el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, y las instrucciones contenidas en la Circular N° 55, de fecha 16 de Octubre de 2003; y
+
+
+CONSIDERANDO:
+
+Que, el artículo 10° de la Ley  19.885, establece que: “El conjunto de las donaciones efectuadas por los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta contenida en el artículo primero del decreto ley N° 824, de 1974, sea para los fines que señalan los artículos 2° de esta ley o para los establecidos en el artículo 69 de la ley N° 18.681; artículo 8° de la ley N° 18.985; artículo 3° de la ley N° 19.247; ley N° 19.712; artículo 46 del decreto ley N° 3.063, de 1979; decreto ley N° 45, de 1973; artículo 46 de la ley N° 18.899, y en el N° 7 del artículo 31° de la Ley sobre Impuesto a la Renta, así como para los que se establezcan en otras normas legales que se dicten para otorgar beneficios tributarios a donaciones, tendrán como límite global absoluto el equivalente al 4,5% de la renta líquida imponible. Dicho límite se aplicará ya sea que el beneficio tributario consista en un crédito contra el impuesto de primera categoría o bien en la posibilidad de deducir como gasto la donación. Sin embargo, en este límite no se incluirá aquél a que se refiere el artículo 8°. Para la determinación de este límite se deducirán de la renta líquida imponible las donaciones a las entidades señaladas en el artículo 2°”;
+
+Que, el inciso octavo del artículo 60° del Código Tributario, faculta al Servicio de Impuestos Internos para pedir declaración jurada a cualquier persona sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas;
+
+Que, la Ley 19.885, en su artículo 10°, establece un límite global absoluto hasta el cual los donantes pueden aprovechar los beneficios tributarios para donaciones que otorgan ciertos textos legales, cuyo correcto cumplimiento corresponde verificar al Servicio;
+
+Que, por otro lado, el inciso segundo del artículo 30° del Código Tributario, faculta a la Dirección del Servicio para autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+
+Que, la entrega de información a través de la transmisión electrónica de datos vía Internet es la que ofrece las mayores garantías de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante.
+
+Que, la información que se envía a través de Internet se efectúa a través de un sistema que garantiza su debido resguardo, evitando que un tercero pueda acceder a los datos que se están transmitiendo; y,
+
+Que, con el objeto de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar el correcto cumplimiento de las disposiciones tributarias que conceden beneficios tributarios por concepto de donaciones, es preciso establecer la obligación de informar las donaciones a que se refiere el artículo 10° de la Ley 19.885.
+
+
+SE RESUELVE:
+
+
+Las entidades donatarias a que se refiere el artículo 46 del D.L. N° 3.063, de 1979; el D. L. N° 45, de 1973; el artículo 46 de la Ley N° 18.899; el artículo 3° de la Ley N° 19.247, de 1993; el artículo 8° de la Ley N° 18.985, de 1990 y el N° 7 del artículo 31° de la Ley sobre Impuesto a la Renta, deberán presentar al Servicio de Impuestos Internos, antes del 15 de Marzo de cada año, una Declaración Jurada Anual, con la información relativa a las donaciones recibidas durante el año calendario anterior, proporcionando el N° de R.U.T. del donante, bajo qué texto legal se efectúa la donación, el monto anual actualizado de la donación valorizada en dinero, fecha de recepción de la donación y el número del certificado o comprobante de recepción de la donación entregado al Donante.
+
+Las entidades donatarias sólo deberán informar aquellas donaciones por las cuales emitieron un certificado o comprobante al donante acreditando haber recibido una donación bajo las normas del texto legal de que se trate.
+
+Conjuntamente con la información mencionada en el resolutivo N° 1, el declarante del Formulario N° 1832 deberá dejar constancia que no ha realizado ningún tipo de contraprestación, en los términos previstos en el artículo 11 de la Ley  19.885, de 2003.
+
+La referida información deberá proporcionarse mediante la transmisión electrónica de datos, vía Internet, a través del Formulario N° 1832, denominado “Declaración Jurada sobre Donaciones del Artículo 46 del D.L. N° 3.063, de 1979; del D. L. N° 45, de 1973; del Artículo 46° de la Ley N° 18.899; del artículo 3° de la Ley N° 19.247, de 1993; del artículo 8° de la Ley N° 18.985, de 1990 y del N° 7 del Artículo 31°, de la Ley sobre Impuesto a la Renta”, cuyo formato e instrucciones se encuentran disponibles en el anexo de esta resolución y en la página Web del Servicio de Impuestos Internos:   HYPERLINK "http://www.sii.cl" www.sii.cl
+Aquellos donatarios que no tengan disponibilidad para acceder a Internet a fin de presentar su declaración, podrán concurrir a cualquiera de las Unidades del Servicio. En dichas Unidades el Servicio pondrá a disposición de los interesados, en forma gratuita, los medios para hacerlo. Para tales efectos, los donatarios contarán, además, con el apoyo de un funcionario especialmente designado para ello. 
+
+Lo establecido en la Circular N° 24, de 1993, para los beneficiarios del artículo 8° de la Ley N° 18.985, de 1990 , y lo establecido en la Circular N° 63, de 1993, para los beneficiarios del artículo 3° de la Ley N° 19.247, de 1993, de remitir, dentro de los tres primeros meses de cada año, a la Dirección Regional del Servicio de Impuestos Internos que corresponda a su domicilio, una lista de todos los  donantes  que  efectuaron  donaciones  afectas  a las leyes antes mencionadas indicando el N° de R.U.T., domicilio del donante, fecha de la donación, monto de la donación y número del certificado de cada una de ellas, será reemplazada por la obligación de presentar el Formulario N° 1832, en los términos previstos en esta resolución.
+
+El incumplimiento de la obligación establecida en la presente resolución, está sancionado en el Artículo 97 N° 15 del Código Tributario.
+
+La presente Resolución empezará a regir a partir del año tributario 2005, respecto de las donaciones recibidas durante el año comercial 2004, y para los años tributarios siguientes, entregando la información de los años comerciales respectivos. 
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+
+
+
+
+
+(FDO.) JUAN TORO RIVERA
+DIRECTOR 
+
+
+
+
+Lo que comunico a Ud. para su conocimiento y demás fines.
+
+
+Saluda a Ud.,
+
+
+
+BSG/APR/CDM
+DISTRIBUCIÓN: 
+SECRETARÍA DIRECTOR
+SUBDIRECCIÓN DE FISCALIZACIÓN
+SUBDIRECCIÓN NORMATIVA
+SUBDIRECCIÓN JURÍDICA
+SUBDIRECCIÓN DE INFORMATICA
+DEPARTAMENTO DE OPERACIÓN RENTA 
+DEPTO. IMPUESTOS DIRECTOS
+OFICINA DE PARTES 
+DIARIO OFICIAL, EN EXTRACTO
+INTERNET
+

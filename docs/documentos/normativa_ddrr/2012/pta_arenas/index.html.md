@@ -1,0 +1,21 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2012/pta_arenas/
+titulo: Normativa SII
+categoria: otros
+---
+# ACTOS Y RESOLUCIONES D. R. PUNTA ARENAS 2012
+
+| **Denominación (tipologías)** | **Tipo de norma** | **Número** | **Fecha del acto** | **Nombre/título** | **Breve descripción del objeto del acto** | **Fecha de publicación Diario Oficial o Internet** | **Medio de publicación** | **Enlace a la publicación o archivo correspondiente** | **Tiene efectos generales** | **Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa** | **Número** | **Fecha** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones y dictámenes | Resolución | 77312012505 | 26-11-2012 | AUTORIZACION MAQUINA REGISTRADORA | AUTORIZA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINAS REGISTRADORAS. | 29-5-2013 | Internet | [Ver Documento](reso77312012505_10970.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 77312012442 | 21-11-2012 | DEROGACION TOTAL MAQUINA REGISTRADORA | DEROGA RES. QUE AUTORIZÓ MAUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312012442_10974.pdf) | SI | Deroga | 150 | 04-08-2006 |
+| Instrucciones y dictámenes | Resolución | 77312012314 | 21-11-2012 | AUTORIZA MAQUINAS REGISTRADORA | AUTORIZA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINAS REGISTRADORAS. | 29-5-2013 | Internet | [Ver Documento](reso77312012314_10973.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 77312012118 | 15-11-2012 | DEROGACION TOTAL DE RESOLUCION QUE INDICA | DEROGA RES. QUE AUTORIZÓ MAQUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312012118_10972.pdf) | SI | Deroga | 219 | 08-07-2008 |
+| Instrucciones y dictámenes | Resolución | 77312011771 | 08-11-2012 | AUTORIZACION DE MAQUINA REGISTRADORA | RESOLUCION DE AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINAS REGISTRADORAS | 29-5-2013 | Internet | [Ver Documento](reso77312011771_10976.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 77312011652 | 06-11-2012 | DEROGACION TOTAL MAQUINA REGISTRADORA | DEROGA RES QUE AUTORIZÓ MAQUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312011652_10975.pdf) | SI | Deroga | 64 | 01-03-2010 |
+| Instrucciones y dictámenes | Resolución | 77312010675 | 08-10-2012 | DEROGACION TOTAL DE RESOLUCION QUE INDICA | DEROGA RES. QUE AUTORIZÓ MAQUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312010675_10969.pdf) | SI | Deroga | 98 | 28-04-2010 |
+| Instrucciones y dictámenes | Resolución | 77312007705 | 25-07-2012 | AUTORIZACION DE MAQUINA REGISTRADORA | AUTORIZA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINAS REGISTRADORAS | 29-5-2013 | Internet | [Ver Documento](reso77312007705_10968.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 77312006691 | 28-06-2012 | DEROGACION TOTAL DE RESOLUCION QUE INDICA | DEROGA RES. AUTORIZACION MAQUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312006691_10967.pdf) | SI | Deroga | 307 | 28-11-2008 |
+| Instrucciones y dictámenes | Resolución | 77312005015 | 09-05-2012 | AUTORIZACION DE MAQUINAS REGISTRADORA | AUTORIZA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | 29-5-2013 | Internet | [Ver Documento](reso77312005015_10966.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 77312003405 | 28-03-2012 | AUTORIZA MAQUINA REGISTRADORA | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR EMDIO DE MAQUINAS REGISTRADORAS | 28-3-2012 | Internet | [Ver Documento](reso77312003405_8401.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 272 | 08-03-2012 | DELEGA ATRIBUCIONES EN FUNCIONARIOS AVALUACIONES Y EN JEFES DE UNIDADES DR PUNTA ARENAS | Delegación de facultades en el Jefe del Departamento de Avaluaciones y en los Jefes de las Unidades de Puerto Natales y Porvenir. | 16-4-2012 | Internet | [Ver Documento](reso272_8630.pdf) | SI | Sin modificación | No aplica | No aplica |

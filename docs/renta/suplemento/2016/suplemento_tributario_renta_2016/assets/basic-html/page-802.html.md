@@ -1,0 +1,616 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-802.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 802 / 808
+
+Basic version
+
+802 / 808
+
+802
+
+VILLA ALEGRE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. ABATE MOLINA N°431
+
+73-381641
+
+09:00-13:00 / 14:00-18:00
+
+S/COSTO
+
+YERBAS BUENAS
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+JUAN DE DIOS PUGA S/N,
+
+COMPLEJO CRIOLLO
+
+73-390229
+
+[b020bc1@abretumundo.cl](mailto:b020bc1@abretumundo.cl)
+
+LU A VI:08:30-17:18
+
+S/COSTO
+
+**REGION DEL BIO-BIO**
+
+**Comuna Nombre**
+
+**Dirección**
+
+**Teléfono Email**
+
+**Horario**
+
+**Semana**
+
+**Horario**
+
+**Fin de**
+
+**Semana Costo**
+
+ALTO BIO BIO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+VILLA RALCO S/N
+
+90031511
+
+09:00-14:00 / 15:00-18:00
+
+S/COSTO
+
+ANTUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO PRAT N°105
+
+43-621024
+
+LU A VI:08:30-13:00 / 14:15-
+
+18:00
+
+S/COSTO
+
+CABRERO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. VIAL S/N
+
+43-411392
+
+[b063bc1@abretumundo.cl](mailto:b063bc1@abretumundo.cl)
+
+LU A VI:09:30-14:00 / 14:45-
+
+18:30
+
+SA 10:00-14:00
+
+S/COSTO
+
+CAÑETE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SEPTIMO DE LINEA N° 711
+
+41-2613971
+
+[b076bc1@abretumundo.cl](mailto:b076bc1@abretumundo.cl)
+
+LU A VI 08:00-17:15
+
+SA 10:00-13:00
+
+S/COSTO
+
+CAÑETE
+
+INJUV
+
+FONDO CALLE HERNAN DE
+
+MAGALLANES CON RIO LEIVA
+
+09:30-14:00 / 14:30-18:00
+
+SA 09:00 - 19:00
+
+S/COSTO
+
+CAÑETE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CAMINO CONTULMO S/N
+
+41-611093
+
+CHIHUAYANTE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SAN IGNACIO N°176
+
+41-2352828
+
+09:30-14:00 / 15:00-18:30
+
+S/COSTO
+
+CHILLAN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. O´HIGGINS N° 1303
+
+42-2224257
+
+[b010bc1@abretumundo.cl](mailto:b010bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:30-
+
+18:30
+
+S/COSTO
+
+CHILLAN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARAUCO N° 974
+
+42-2433367
+
+[b293bc1@abretumundo.cl](mailto:b293bc1@abretumundo.cl)
+
+LU A VI:08:00-13:00 / 15:00-
+
+18:50
+
+S/COSTO
+
+CHILLAN
+
+INJUV
+
+5 DE ABRIL N°555, SEGUNDO
+
+PISO, CASA DEL DEPORTE
+
+[lflores@injuv.gob.cl](mailto:lflores@injuv.gob.cl)
+
+09:00-14:30 / 15:00-17:30
+
+S/COSTO
+
+CHILLAN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARAUCO N°974
+
+42-22430127
+
+09:00-13:00 / 15:00-18:00
+
+S/COSTO
+
+CHILLAN
+
+INJUV
+
+PJE. 4 SUR N°1001, POB.
+
+VICENTE PEREZ ROSALES
+
+10:00 - 18:00
+
+9:00-14:00
+
+S/COSTO
+
+CHILLAN VIEJO
+
+INJUV
+
+SERRANO N° 300, CASA DE LA
+
+JUVENTUD
+
+LU A JU 08:30-13:30 /
+
+15:00-17:30
+
+S/COSTO
+
+COBQUECURA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+REHUE N°492
+
+42-1970301
+
+08:15-13:00 / 14:15-18:00
+
+S/COSTO
+
+COELEMU
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+JULIO LAMAS N° 502
+
+42-511017
+
+[b162bc1@abretumundo.cl](mailto:b162bc1@abretumundo.cl)
+
+08:30-13:00 / 14:00-18:00
+
+S/COSTO
+
+COELEMU
+
+INJUV
+
+MANUEL
+
+ANTONIO
+
+MATTA
+
+N°585
+
+LU A JU 08:00-13:30 /
+
+14:30-17:30, VI 08:00-
+
+13:30 / 14:30-16:30
+
+S/I
+
+COIHUECO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LUIS HERMOSILLA N° 1448
+
+42-471007 anexo 42
+
+[b192bc1@abretumundo.cl](mailto:b192bc1@abretumundo.cl)
+
+08:30-14:45
+
+S/COSTO
+
+COIHUECO
+
+INJUV
+
+BUSTAMANTE S/N (AL LADO
+
+REG. CIVIL)
+
+09:00-18:00
+
+S/I
+
+CONCEPCION
+
+INJUV
+
+COCHRANE N° 790
+
+41-2229849
+
+[uarias@injuv.gob.cl](mailto:uarias@injuv.gob.cl)
+
+LU A JU 09:00-14:00 /
+
+15:00-18:00 VI 09:00-14:00
+
+/ 15:00-17:00
+
+S/COSTO
+
+CONCEPCION
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CAUPOLICAN N°130
+
+41-2749560 - 50
+
+41- 2914259
+
+LU A JU:09:00-18:00 /
+
+VI:09:17:00
+
+S/COSTO
+
+CONCEPCION
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CAUPOLICAN N°130
+
+41- 2914259
+
+LU A VI:09:00-13:00 / 15:00-
+
+18:00
+
+S/COSTO
+
+CONCEPCION
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MAIPU 2359, PZA ACEVEDO
+
+41-310932
+
+CONCEPCION
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PJE POETA ALFONSO MORA
+
+N°1521
+
+41-2406539
+
+CONTULMO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LAS ARAUCARIAS S/N, ESQ.
+
+NAHUELBUTA
+
+41-2618111
+
+[b263bc1@abretumundo.cl](mailto:b263bc1@abretumundo.cl)
+
+08:30-17:30
+
+S/COSTO
+
+CONTULMO
+
+INJUV
+
+CALLE LAS ARAUCARIAS S/N
+
+08:30-13:00 / 14:00-17:30
+
+S/COSTO
+
+CORONEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL MONTT N°970
+
+41-2710551
+
+[b040bc1@abretumundo.cl](mailto:b040bc1@abretumundo.cl)
+
+LU A JU:09:00-13:00 /
+
+14:30-18:00, VI:08:30-13:30
+
+/ 14:30-16:30
+
+S/COSTO
+
+CORONEL
+
+INJUV
+
+CALLE YOBILO N° 893, SEDE
+
+COMUNITARIA
+
+41-2710818
+
+[pmoreno@injuv.gob.cl](mailto:pmoreno@injuv.gob.cl)
+
+10:00-13:00 / 14:00-19:00
+
+SA 09:00 - 14:00
+
+S/COSTO
+
+CORONEL
+
+INJUV
+
+PEDRO AGUIRRE CERDA, 2
+
+ORIENTE N° 699, ESQ. AV.
+
+CENTRAL
+
+[eniefercol@injuv.gob.cl](mailto:eniefercol@injuv.gob.cl)
+
+09:00-14:00 / 15:00-18:00
+
+SA 09:00 - 14:00
+
+S/COSTO
+
+CURANILAHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AV. ARTURO PRAT N°651, ESQ.
+
+SERRANO
+
+41-2691005
+
+08:30:17:50
+
+S/COSTO
+
+CURANILAHUE
+
+INJUV
+
+AV. ARTURO ESQ. SERRANO
+
+LU A JU 08:15-13:00 / 17:30
+
+VI 08:15-13:00 / 14:00-16:30
+
+S/COSTO
+
+EL CARMEN
+
+INJUV
+
+MANUEL RODRIGUEZ N°315
+
+09:00 - 18:00
+
+SA 09:00 - 14:00
+
+EL CARMEN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AV.
+
+MANUEL
+
+RODRIGUEZ
+
+N°315, ESQ. ANDRES BELLO
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+[802](./page-802.html)
+[803](./page-803.html)
+[804](./page-804.html)
+[805](./page-805.html)
+[806](./page-806.html)
+[807](./page-807.html)
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

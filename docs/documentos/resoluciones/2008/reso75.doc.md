@@ -1,0 +1,91 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso75.doc
+titulo: Word – Resolución Exenta SII N°75 del 09 de Junio del 2008 Fija Procedimiento Para Solicitar Beneficios Establecidos en los Artículos 3° y 5° Transitorios de la Ley N° 20.265, Publicada en el D.O. de 23 de Mayo de 2008 Fuente: Departamento Medianas y Grandes Empresas e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°75 DEL 09 DE JUNIO DEL 2008 MATERIA : FIJA PROCEDIMIENTO PARA SOLICITAR BENEFICIOS ESTABLECIDOS EN LOS ARTÍCULOS 3° Y 5° TRANSITORIOS DE LA LEY N° 20.265, PUBLICADA EN EL D.O. DE 23 DE MAYO DE 2008
+Hoy se ha resuelto lo que sigue:
+VISTOS: Las facultades conferidas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, del Ministerio de Hacienda, publicado en el D.O. de 15.10.1980; lo establecido en el artículo 6° letra A) N° 1) del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y lo dispuesto en los artículos 3° y 5° transitorios de la Ley N° 20.265, publicada en el D.O. de 23.05.2008, y
+
+CONSIDERANDO:
+1°.-Que, el inciso primero del artículo 3° transitorio de la Ley N° 20.265, establece: “Los propietarios de los vehículos motorizados que utilizan gas natural comprimido como combustible vehicular que, al 30 de abril de 2008, se encuentren afectos al pago del componente fijo del impuesto específico establecido en el artículo 1° de la ley N° 18.502, que acrediten que hubiesen circulado en las regiones Metropolitana y de Valparaíso tendrán derecho a que se les reintegre lo pagado por concepto del componente fijo del impuesto de gas natural comprimido que establece el artículo 1° de la ley Nº 18.502, en la proporción que el impuesto pagado represente por los meses de junio a diciembre de 2007 y el impuesto pagado por el año 2008.”
+2°.-Que, el inciso segundo del artículo 3° transitorio de la ley en comento dispone: “Para acreditar que se circuló en las respectivas regiones, se considerará prueba fehaciente para ser presentada ante la autoridad correspondiente, el original o una copia autorizada ante notario del certificado de revisión técnica vigente extendido por una planta revisora ubicada en una de las respectivas regiones. Los propietarios de vehículos destinados al transporte remunerado de personas también podrán acreditar tal situación a través del documento original o una copia autorizada ante notario del certificado de inscripción del vehículo en el Registro Nacional de Servicios de Transporte correspondiente del Ministerio de Transportes y Telecomunicaciones.”
+3°.-Que, a su vez el inciso tercero del artículo 3° transitorio de la misma Ley, dispone: “El propietario del vehículo que requiera de este reintegro deberá presentar la solicitud de devolución ante el Servicio de Impuestos Internos, hasta el 31 de diciembre de 2008. La solicitud deberá acompañarse de los documentos enunciados en el inciso precedente, además de una declaración jurada del propietario, indicando lo que pagó por concepto de componente fijo del impuesto específico establecido en el artículo 1° de la ley Nº 18.502.”
+4°.-Que, el inciso quinto del artículo 3° transitorio de la Ley N° 20.265, establece: “En caso que el Servicio de Impuestos Internos considere que no se han presentado los antecedentes suficientes, deberá comunicarlo por escrito al interesado, dentro del mismo plazo indicado en el inciso precedente, quien tendrá un plazo de 30 días adicionales contados desde la notificación, para acompañar los antecedentes requeridos. Una vez aprobada la solicitud, la Tesorería General de la República procederá a devolver el monto aprobado dentro del plazo de veinte días hábiles contados desde la fecha de la aprobación, o dentro de los veinte días hábiles desde que el contribuyente le entregue copia de la certificación que la solicitud no ha sido resuelta dentro del plazo legal, y que, en consecuencia, se encuentra aprobada.”
+5°.-Que, el inciso final del artículo 3° transitorio de la Ley N° 20.265, dispone: “El propietario del vehículo presentará la solicitud, la declaración jurada y los antecedentes que sean requeridos, de acuerdo a las instrucciones que al efecto emita el Servicio de Impuestos Internos mediante resolución.”
+6°.-Que, el artículo 5° transitorio de la Ley N° 20.265, señala: “Los propietarios de los vehículos motorizados que utilizan gas natural comprimido como combustible vehicular que no hayan acreditado que hubiesen circulado en las regiones Metropolitana y de Valparaíso, en conformidad al artículo 3° transitorio de esta ley, y los propietarios de los vehículos que utilizan gas licuado de petróleo, tendrán derecho a que se les reintegre lo pagado por concepto del componente fijo del impuesto específico establecido en el artículo 1° de la ley N° 18.502, por el período comprendido entre los meses de mayo de 2008 y diciembre de 2008, ambos inclusive, en la proporción que represente el impuesto pagado por dicho período. Para estos efectos se aplicará el mismo procedimiento establecido en el artículo 3º transitorio.” 
+
+RESUELVO:
+1°.-Para acceder a los beneficios establecidos en los artículos 3° y 5° transitorios de la Ley N° 20.265, los propietarios de los vehículos motorizados que utilizan gas natural comprimido o gas licuado de petróleo como combustible vehicular, que acrediten haber pagado el componente fijo de los impuestos al gas natural comprimido y gas licuado de petróleo, con el respectivo formulario de declaración mensual y pago simultáneo de impuestos, y que cumplan los demás requisitos que establecen los artículos señalados, deberán presentar una solicitud, hasta el 31 de diciembre de 2008, en el Departamento de Resoluciones de la Dirección Regional o Unidad del Servicio de Impuestos Internos correspondiente a su domicilio, o en la Dirección Grandes Contribuyentes cuando se trate de contribuyentes incluidos en la Nómina de Grandes Contribuyentes. 
+
+2°.-La solicitud de devolución deberá presentarse mediante el Formulario N° 2117, acompañando una Declaración Jurada, en triplicado, la que deberá contener las especificaciones que se señalan a continuación y para lo cual deberá utilizar el Formulario N° 3200, que se anexa a la presente resolución:
+
+Identificación del propietario del Vehículo, de acuerdo al detalle indicado en el Formulario N° 3200 “Declaración Jurada Solicitud Devolución Artículos 3° y 5° transitorios Ley N° 20.265”. 
+Período o Períodos por los que solicita devolución.
+Indicar el domicilio correspondiente a los períodos por los que solicita devolución.
+Monto del pago efectuado por concepto del componente fijo del impuesto al gas natural comprimido,  por los vehículos que se debe acreditar que circularon en la regiones Metropolitana y de Valparaíso, en la proporción que el impuesto pagado representa por los meses de junio 2007 a diciembre 2007 o las cuotas pagadas por este período, y el monto pagado por el año 2008.
+Cantidad de vehículos de propiedad del solicitante que utilizan gas natural comprimido, de acuerdo al tipo de vehículo declarado en formulario de declaración mensual y pago simultáneo de impuestos. 
+Monto del pago efectuado por concepto del componente fijo, proporción que represente el impuesto pagado por el período comprendido entre los meses de mayo 2008 y diciembre 2008, o las cuotas pagadas por este período, respecto de los vehículos a que se refieren las letras g) y h) siguientes.
+Cantidad de vehículos de propiedad del solicitante que utilizan gas natural comprimido y por los cuales no acredita que hubiesen circulado en la regiones Metropolitana y de Valparaíso, de acuerdo al tipo de vehículo declarado en formulario de declaración mensual y pago simultáneo de impuestos. 
+Cantidad de vehículos de propiedad del solicitante que utilizan gas licuado de petróleo, de acuerdo al tipo de vehículo declarado en formulario de declaración mensual y pago simultáneo de impuestos. 
+Monto de la devolución solicitada, en moneda nacional. 
+
+El propietario, además, al momento de la presentación de su solicitud, deberá exhibir su cédula de identidad o el Rol Único Tributario (RUT) y la cédula de  identidad del representante, en su caso.
+
+3°.- Los propietarios solicitantes deberán, además, mantener los siguientes antecedentes a disposición del Servicio, para cuando éste lo requiera:
+
+Un anexo, cuando sea propietario de más de un vehículo que utilice gas natural comprimido o gas licuado de petróleo, que contenga el detalle del cálculo del impuesto pagado por cada uno de ellos y que conforman el valor indicado en la línea 40, códigos 277, 278, 279 y 212 del Formulario N° 50 “Declaración y pago simultáneo mensual de impuestos”, de este Servicio, indicando por Formulario 50 declarado: placa patente; año de fabricación; modelo; tipo de vehículo (letras a), b) y c), y d); tipo de combustible (gas natural comprimido o gas licuado de petróleo); N° cuota; componente fijo en UTM; Valor UTM; Monto del impuesto pagado; N° folio del Formulario 50; período tributario del Formulario 50; y mes de pago.
+El original o una copia autorizada ante notario del certificado de revisión técnica vigente extendido por una planta revisora ubicada en las regiones Metropolitana o de Valparaíso, o el original o una copia autorizada ante notario del certificado de inscripción del vehículo en el Registro Nacional de Servicios de Transporte correspondiente del Ministerio de Transportes y Telecomunicaciones, en el caso de los propietarios de vehículos destinados al transporte remunerado de personas, documentos que deben mantener los propietarios que soliciten devolución en virtud del artículo 3° transitorio de la Ley N° 20.265.
+
+4°.-En los casos en que el componente fijo del impuesto al gas natural comprimido y/o gas licuado de petróleo se haya pagado en una cuota anual, para efectos de determinar la proporción que el impuesto pagado representa por el período, el propietario que solicite su devolución deberá efectuar el siguiente cálculo:
+	
+Para la proporción del impuesto pagado por el período de Junio 2007 a Diciembre 2007 deberá dividir el total en pesos del impuesto pagado por el año 2007 por 12 y el resultado multiplicarlo por 7; y
+Para la proporción del impuesto pagado por el período de Mayo 2008 a Diciembre 2008 deberá dividir el total en pesos del impuesto pagado por el año 2008 por 12 y el resultado multiplicarlo por 8.
+
+5°.-Conforme a lo establecido en el artículo 2° permanente y el 3° transitorio de la Ley N° 20.265, el derecho a devolución de que trata la presente resolución podrá impetrarse desde el día 1° de mayo al 31 de diciembre del año en curso.  
+
+6°.-Los propietarios de los vehículos señalados, que no presenten su solicitud de devolución en el plazo establecido en el inciso tercero del artículo 3° transitorio de la Ley N° 20.265, podrán hacerlo en el plazo contemplado en el artículo 126 del Código Tributario.
+
+
+
+
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERÓN
+                       		  DIRECTOR
+
+
+					          Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+
+ 					
+JTP/EMG/ECG
+Distribución:
+Boletín del SII
+Internet
+Diario Oficial (Extracto)
+
+Anexo: DECLARACIÓN JURADA SOLICITUD DEVOLUCIÓN ARTÍCULOS 3° Y 5° TRANSITORIOS LEY N° 20.265 (FORMULARIO Nº 3200)
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  3
+
+
+
+
+

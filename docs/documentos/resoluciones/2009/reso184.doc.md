@@ -1,0 +1,65 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso184.doc
+titulo: Word – Resolución Exenta SII N°184 del 10 de Diciembre del 2009 Modifica Resolución Exenta N° 7.590, de 15 de Noviembre de 1999, en lo Relacionado con el Departamento Subdirección Normativa. Fuente: Subdirección Normativa
+categoria: otros
+---
+RESOLUCION EXENTA SII N°184 DEL 10 DE DICIEMBRE DEL 2009 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 7.590, DE 15 DE NOVIEMBRE DE 1999, EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN NORMATIVA.
+
+VISTOS: Lo dispuesto en los artículos 3°, 7° y 9°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda; lo establecido en la resolución exenta N° 7.590, de 15 de noviembre de 1999 y sus modificaciones posteriores; y
+
+CONSIDERANDO:
+
+	1°	Que de acuerdo a lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos citada en los vistos, la Dirección Nacional estará constituida por los Departamentos Subdirecciones y Departamentos que establezca el Director con sujeción a la planta del Servicio; y,
+2°	Que por razones de buen servicio se hace necesario redefinir las facultades, atribuciones, responsabilidades y obligaciones de la jefatura a cargo del Departamento Subdirección Normativa,  
+
+SE RESUELVE:
+
+	1°	Sustituyese el número 8 del dispositivo I de la Resolución exenta N°  7.590, de 15 de noviembre  de 1999, por el siguiente;
+“En la Subdirección Normativa, se establecen las siguientes atribuciones, responsabilidades y obligaciones del Subdirector respectivo:   
+
+Preparar, a requerimiento del Director, las Circulares y otros documentos que contengan la interpretación administrativa de las disposiciones tributarias;
+Preparar, a requerimiento del Director, las resoluciones y otros documentos que contengan las instrucciones de carácter general que impongan a los contribuyentes las obligaciones de declaración, información y registro de los impuestos;
+Preparar, a requerimiento del Director, los documentos con las normas administrativas que deban fijarse para la aplicación y fiscalización de los impuestos; 
+Preparar, a requerimiento del Director, oficios que contengan la interpretación administrativa de una ley tributaria, Circular, Resolución u oficio. La misma atribución corresponderá a la Subdirección Normativa cuando el Subdirector Jurídico del Servicio haya sugerido al Director que deba precisarse el sentido de una interpretación administrativa de una ley tributaria para los efectos de su aplicación a casos particulares que estén en conocimiento de un Director Regional o del Director de Grandes Contribuyentes, o respecto de negocios proyectados o sujetos a evaluación;
+Preparar y proponer al Director, oficios que contengan la interpretación administrativa de disposiciones tributarias cuando no exista jurisprudencia administrativa previa, cuando existan pronunciamiento previos contradictorios o cuando sea necesario para la correcta interpretación y aplicación de la leyes tributarias;
+Preparar, a requerimiento del Director, oficios que contengan la interpretación administrativa de las disposiciones tributarias, cuando sea solicitado por autoridades públicas, Municipalidades y organismos del Estado;
+Informar periódicamente a las Subdirecciones de Fiscalización y Avaluaciones, sobre  aquellos aspectos normativos contenidos en Circulares, Oficios y proyectos de ley que tengan incidencia en las operaciones y programas selectivos de auditoría;   
+Preparar, a requerimiento del Director, informes sobre interpretación de Convenios Internacionales  relativos a exención de impuestos,  eliminación de la doble tributación internacional e intercambio de información con otros Estados;
+Asesorar al Director y preparar los informes que procedan en el cumplimiento de la función de “Autoridad Competente” conforme a los Tratados Tributarios, especialmente en lo relativo al intercambio de información y en la consideración y solución de los casos de contribuyentes que se estimen afectados por casos de doble tributación internacional;
+Preparar, a requerimiento del Director, informes con el análisis o recomendaciones relacionados con legislación tributaria extranjera, tratados tributarios celebrados por Chile o por otros países, y cambios en la legislación tributaria y reglamentos de otros países que puedan tener incidencia o ser de interés para la administración tributaria chilena;
+Preparar, a requerimiento del Director, informes sobre los efectos tributarios, prevenciones o sugerencias relacionados con proyectos de ley de índole tributario que sean sometidos a su consideración. Para estos efectos, el Subdirector podrá requerir informes a las demás Subdirecciones dentro de las competencias de estas;
+Asistir al Director en el diseño, discusión y tramitación de proyectos legislativos en los que le corresponda participar al Servicio. Para estos efectos, el Subdirector podrá requerir informes a las demás Subdirecciones dentro de las competencias de estas;
+Proponer al Director el reordenamiento o reorganización de Departamentos y Oficinas de la Subdirección para el mejor desempeño de esta;
+Sugerir al Director la definición de perfiles y competencias requeridas para los cargos de la Subdirección;
+Sugerir al Director pautas generales para la evaluación del cumplimiento de las funciones de la Subdirección y sus personal;
+Informar al Director sobre la operatividad a nivel de usuario de las aplicaciones informáticas internas en que la Subdirección ejecute sus funciones a efectos de solicitar actualizaciones o mejoras a la Subdirección de Informática;
+Proponer, en la oportunidad que el Director disponga, el presupuesto anual para la Subdirección y la ejecución del mismo; y,
+Otras actividades que el Director estime de competencia de esta Subdirección.
+2° Corresponderá al Subdirector Normativo implementar las medidas que sean procedentes tendientes a organizar la Subdirección Normativa de acuerdo a las atribuciones, obligaciones y responsabilidades que esta Resolución establece para dicha Subdirección.
+3° A contar de la fecha de vigencia de esta resolución déjase sin efecto toda norma contraria a sus disposiciones.
+
+
+4° 	Esta resolución regirá a contar de contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+ 
+
+
+	 	RICARDO ESCOBAR CALDERÓN
+                DIRECTOR
+ 
+Lo que transcribo a Usted, para su conocimiento y demás fines.
+
+
+
+
+
+
+DISTRIBUCIÓN:
+Boletín
+Al Diario Oficial
+Internet 
+
+
+

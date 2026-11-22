@@ -1,0 +1,133 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso119.doc
+titulo: Word – Resolución Exenta SII N°119 del 31 de Diciembre del 2004 Establece Valores de Costo por Productos Relacionados al Catastro de Bienes Raíces Agrícola y No Agrícola Fuente: Depto. Estudios Económicos y Tributarios
+categoria: otros
+---
+RESOLUCION EXENTA SII N°119 DEL 31 DE DICIEMBRE DEL 2004 MATERIA : ESTABLECE VALORES DE COSTO POR PRODUCTOS RELACIONADOS AL CATASTRO DE BIENES RAÍCES AGRÍCOLA Y NO AGRÍCOLA
+
+VISTOS: Las necesidades del Servicio, lo establecido en las letras a) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7 de 1980, del Ministerio de Hacienda, y
+							CONSIDERANDO: 
+
+1° Que, el Servicio de Impuestos Internos recibe solicitudes de información catastral de bienes raíces de parte de instituciones privadas y públicas;
+
+2° Que el Servicio tiene por misión administrar los tributos internos, y su orgánica, su forma de trabajo y la estructura de sus bases de datos están orientados a su cumplimiento;
+
+3° Que los Servicios de la Administración del Estado, según consta en el artículo único del D.L. 2.136, de 1978, reemplazado por el artículo 83 de la  Ley 18.768, de 1988, se encuentran legalmente facultados para recuperar de los interesados, los costos derivados de la utilización de recursos humanos, tecnológicos y financieros en que deben incurrir para generar los documentos y copias que los interesados les requieran;
+							RESUELVO:
+
+1° Establécese, los siguientes valores de costo por los productos que a continuación se detallan:
+
+PRODUCTOS
+VALORES DE COSTO (UF+IVA)
+1. Información Básica de Bienes Raíces Agrícolas y No Agrícolas 
+8 UF, más 0.001 UF por predio
+2. Detalle Catastral de Bienes Raíces Agrícolas y No Agrícolas
+8 UF, más 0.002 UF por predio
+El detalle de los datos contenidos en cada producto se registra en cuadro anexo adjunto.
+
+2° Los ingresos producto de estas ventas serán imputados al ítem 111 07, Ingresos de Operación.
+
+3° La presente resolución regirá a partir de su publicación, en extracto, en el Diario Oficial.
+
+Anótese, comuníquese y publíquese.
+
+
+
+  ALFREDO ECHEVERRIA HERRERA
+                                                DIRECTOR (S)
+	Lo que transcribo a Ud., para su conocimiento y demás fines.
+DISTRIBUCIÓN:
+Al Diario Oficial (extracto)
+Internet
+Boletín
+ANEXO:
+Anexo 1
+
+ANEXO N° 1
+Detalle de Productos Asociados
+
+AGRÍCOLA
+
+
+Producto 1: Información Básica 
+1
+Rol de Avalúo propiedad
+2
+Dirección de la propiedad
+3
+Comuna
+4
+Avalúo fiscal total
+5
+Contribución semestral
+6
+Avalúo Exento de la propiedad
+
+
+Producto 2: Detalle Catastral
+1
+Rol de avalúo propiedad
+2
+Dirección de la propiedad
+3
+Comuna
+4
+Avalúo fiscal total
+5
+Contribución semestral
+6
+Avalúo Exento de la propiedad
+7
+Superficie de terreno por tipo de suelo
+8
+Superficie total de las construcciones
+
+
+
+NO AGRÍCOLA                                                                                                                                                                
+
+
+Producto 1: Información Básica
+1
+Rol de Avalúo propiedad
+2
+Dirección de la propiedad 
+3
+Comuna
+4
+Avalúo fiscal total
+5
+Contribución semestral
+6
+Avalúo Exento de la propiedad
+
+
+Producto 2: Detalle Catastral
+1
+Rol de avalúo propiedad
+2
+Dirección de la propiedad
+3
+Comuna
+4
+Avalúo fiscal total
+5
+Contribución semestral
+6
+Avalúo Exento de la propiedad
+7
+Superficie total  de terreno
+8
+Línea de construcción 
+9
+Material estructural de la construcción 
+10
+Calidad de la construcción 
+11
+Año de construcción
+12
+Superficie de la construcción
+
+
+
+

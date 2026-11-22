@@ -1,0 +1,186 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso15.doc
+titulo: Word – Resolución Exenta N°15 del 10 de Marzo del 2003 Establece Obligación Para Aquellos Contribuyentes Que Hagan Uso Del Crédito Por Gastos De Capacitación, Conforme A Lo Dispuesto En La Ley 19.518 Del 14 De Octubre De 1997, Mediante El Sistema De Mandato A Favor De Una Institución Financiera U Or
+categoria: otros
+---
+
+RESOLUCION EXENTA N°15 DEL 10 DE MARZO DEL 2003 MATERIA : ESTABLECE OBLIGACIÓN PARA AQUELLOS CONTRIBUYENTES QUE HAGAN USO DEL CRÉDITO POR GASTOS DE CAPACITACIÓN, CONFORME A LO DISPUESTO EN LA LEY 19.518 DEL 14 DE OCTUBRE DE 1997, MEDIANTE EL SISTEMA DE MANDATO A FAVOR DE UNA INSTITUCIÓN FINANCIERA U ORGANISMO DE CAPACITACIÓN, DE PRESENTAR DECLARACIÓN JURADA.
+
+
+SANTIAGO,
+
+HOY SE HA RESUELTO LO QUE SIGUE:
+
+RES. EX N° ___________________/ VISTOS: Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974; 
+
+
+CONSIDERANDO:
+
+
+1.- Que, con el propósito de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos  que la Ley le encomienda, es necesario disponer de antecedentes adicionales necesarios para la fiscalización de la tributación de los ingresos que perciben las instituciones financieras u organismos de capacitación en virtud del mandato especial e irrevocable otorgado  por los contribuyentes que hacen uso de la franquicia por gastos de capacitación que dispone la ley 19.518, del 14 de octubre de 1997,
+
+
+SE RESUELVE:
+
+
+1.- Los contribuyentes que hayan otorgado mandato especial e irrevocable a alguna institución financiera u organismo de capacitación para que, en su nombre y representación, cobre y perciba de la Tesorería General de la República las sumas correspondientes a parte o la totalidad de la devolución de remanente de impuesto a la renta del año tributario correspondiente al crédito por gastos de capacitación conforme a lo dispuesto en la ley 19.518 del 14 de octubre de 1997, deberán concurrir personalmente a prestar declaración jurada simple en la Unidad del Servicio de Impuestos Internos correspondiente a la jurisdicción de  su domicilio, individualizando al mandatario;  estableciendo la suma que éste podrá cobrar y percibir por concepto de devolución solicitada en la declaración Anual de Impuesto a la renta del contribuyente y dejando constancia de la capacitación que ha recibido durante el año comercial anterior al de la declaración de Renta, todo ello según formato que se incluye en el anexo N° 1 de esta resolución.
+
+
+2.- La referida declaración jurada permitirá efectuar  los controles de fiscalización pertinentes a las instituciones financieras y organismos de capacitación mandatarias, por lo que su cumplimiento será requisito indispensable para la aceptación del crédito por gastos de capacitación, establecido en la ley anteriormente citada,  que el contribuyente mandante incluya en su declaración Anual de Impuesto a la Renta.  
+
+3.- El plazo para prestar la referida declaración jurada será hasta el 30 de mayo del  año tributario correspondiente a aquel en que se haga uso de la  mencionada franquicia  por gastos de capacitación. 
+
+
+4.- El incumplimiento a la obligación establecida en la presente resolución será sancionada conforme a lo dispuesto en el artículo 97, N° 15 del Código Tributario.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+( FDO.) JUAN TORO RIVERA
+     DIRECTOR
+
+
+Lo que comunico a Ud. para su conocimiento y  fines consiguientes, 
+
+Saluda a Ud.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distribución:
+Al Diario Oficial
+Al Boletín
+Al Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO N° 1 MODELO DE DECLARACION JURADA SIMPLE
+
+
+En ................................................., Fecha  ............................................................................
+
+Yo .. .......................................................................................................................................
+(Nombre Completo)
+N° de  RUT..................................., domiciliado en ...............................................................
+En cumplimiento de lo dispuesto en la  Resolución Ex  N° xxx del xxx  de xxxx de 2003,
+declaro  ante   el  Servicio   de   Impuestos   Internos   haber   otorgado  mandato  especial 
+e  irrevocable a .......................................................................................................................
+RUT.................................................................... para  que en mi  nombre y representación 
+cobre  y  perciba  de  la  devolución solicitada  en la  declaración Anual de  Impuesto a la
+Renta del año tributario.........................toda cantidad hasta por la suma de ................................ por concepto de gastos de capacitación,  pudiendo el mandatario solicitar a la Tesorería General de la República  que el cheque correspondiente sea extendido directamente a su nombre.   
+
+Además, declaro haber recibido la siguiente  capacitación:
+
+
+
+Nombre curso
+
+
+Código Sence
+
+Fecha Inicio
+
+Valor ($)
+
+N° Factura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Asimismo, declaro  que  conozco  las  normas  legales,  administrativas  y  reglamentarias 
+que regulan las  actividades  relacionadas con el  crédito por gastos de  capacitación a que
+ se refiere la Ley N° 19.518 de 1997  y que los datos proporcionados en esta declaración son verídicos. 
+
+
+
+
+
+						
+____________________________
+Firma Contribuyente
+
+
+
+
+
+____________________________
+Firmó ante mí (Ministro de Fe SII)
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

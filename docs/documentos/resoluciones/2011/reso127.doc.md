@@ -1,0 +1,66 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso127.doc
+titulo: Word – Resolución Exenta SII N°127 del 28 de Octubre del 2011 Modifica Resolución N° 343, de 5 de Julio de 2000, Sobre Delegación de Facultades. Fuente: Departamento Gestión de las Personas
+categoria: otros
+---
+RESOLUCION EXENTA SII N°127 DEL 28 DE OCTUBRE DEL 2011 MATERIA : MODIFICA RESOLUCIÓN N° 343, DE 5 DE JULIO DE 2000, SOBRE DELEGACIÓN DE FACULTADES.	
+	Hoy se ha dictado la siguiente Resolución:
+
+		VISTOS: Lo dispuesto en el artículo 7°, letras c), h), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Resolución N° 1600, de 2008, de la Contraloría General de la República; la Resolución N°343 de 05.07.2000 del Director del Servicio de Impuestos Internos; las necesidades del Servicio, y;
+
+                                         C O N S I D E R A N D O:
+
+                                         1°.-  Que, el artículo 197 bis del Código del Trabajo establece el derecho a un permiso postnatal parental para las trabajadoras, para ser ejercido a continuación del período de posnatal, por un periodo de doce semanas de jornada completa, con la alternativa de extenderlo a dieciocho semanas, con media jornada.
+
+                                            2°.-  Que, la misma disposición establece que el padre podrá hacer uso del permiso postnatal parental a partir de la séptima semana del mismo, por el número de semanas que la madre indique.
+
+                                         3°-  Que para fines de control de asistencia, jornada laboral, y otros de carácter administrativos, que digan relación con el ejercicio del derecho al permiso de posnatal parental por parte de las funcionarias y funcionarios de este Servicio y propender a un mejor cumplimiento de los objetivos de buena gestión de la Administración, se estima conveniente delegar la facultad de dictar las resoluciones que sean necesarias para el cumplimiento de dichos objetivos, en el Jefe de Departamento de Gestión de las Personas y en los Directores Regionales, según corresponda, modificando para estos efectos la Resolución N°343 de 2000 ya citada.
+
+                                        R E S U E L V O:
+
+                                       INTRODÚCENSE,  las siguientes modificaciones en el Párrafo I de la parte dispositiva de la Resolución N° 343, de 5 de julio de 2000, de esta Dirección Nacional, sobre Delegación de Facultades:
+	En la letra f)
+             Agréguese el siguiente N°21:
+
+“21.- Dictar las resoluciones que sean necesarias para fines de control de asistencia, jornada laboral y otros de carácter administrativos respecto del ejercicio de los derechos establecidos en el artículo 197 bis del Código del Trabajo, por parte de las funcionarias y, o funcionarios de la Dirección Nacional o de la Dirección de Grandes Contribuyentes, en los casos siguientes: 
+		
+Uso del Permiso postnatal parental por la madre, o por el padre en el caso del inciso séptimo del artículo 197 bis el Código del Trabajo.
+
+b)   Traspaso del Permiso postnatal parental, al padre del menor”
+
+	En la letra g)
+             Agréguese el siguiente N°17:
+
+“17.- Dictar las resoluciones que sean necesarias para fines de control de asistencia, jornada laboral y otros de carácter administrativos respecto del ejercicio de los derechos establecidos en el artículo 197 bis del Código del Trabajo, por parte de las funcionarias y, o funcionarios de la respectiva Dirección Regional, en los casos siguientes:
+
+Uso del Permiso postnatal parental por la madre, o por el padre en el caso del inciso séptimo del artículo 197 bis el Código del Trabajo.
+
+b)   Traspaso del Permiso postnatal parental, al padre del menor”.
+
+	
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial.
+
+
+
+
+
+
+
+
+
+
+                                                       (FDO) MARIO VILA FERNÁNDEZ
+                                                                      DIRECTOR (S)         
+
+
+		Lo que transcribo a usted para su información.
+		Saluda atentamente a usted,
+
+
+
+Distribución:
+Intranet
+	  
+                                                    
+
+

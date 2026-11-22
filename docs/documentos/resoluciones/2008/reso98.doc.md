@@ -1,0 +1,64 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso98.doc
+titulo: Word – Resolución Exenta SII N°98 del 28 de Agosto del 2008 Modifica Res. Ex. SII N° 86 de 01.08.2007 que Establece Obligación de Presentar Declaración Jurada Resumen Semestral de IVA de Compras y Ventas. Fuente: Oficina de Operación IVA
+categoria: otros
+---
+RESOLUCION EXENTA SII N°98 DEL 28 DE AGOSTO DEL 2008 MATERIA : MODIFICA RES. EX. SII N° 86 DE 01.08.2007 QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA RESUMEN SEMESTRAL DE IVA DE COMPRAS Y VENTAS.
+
+Hoy se ha resuelto lo que sigue:  
+
+
+	VISTOS:
+Lo dispuesto en los artículos. 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7, de Hacienda, de 1980;  ¿en el Art. 6° letra A) N° 1 del Código Tributario, contenido en el artículo primero del D.L. N° 830, de 1974; en los artículos. 1º y 68° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo primero del D.L. Nº 825, de 1974; y en el artículo 83° bis de su reglamento, contenido en el D.S. N° 55, de 1977, del Ministerio de Hacienda, Resolución Exenta SII N° 86, de 01de Agosto de 2007 y,
+
+
+	CONSIDERANDO: 
+
+
+1°.- Que, el resolutivo 1 de la Resolución Exenta SII N° 86, de 01de Agosto de 2007, dispone que los contribuyentes afectos a IVA y los exportadores, cuya sumatoria anual de créditos, sea superior o igual a $ 250.000.000, deberán presentar ante el Servicio de Impuestos Internos, una “declaración jurada” que contendrá un resumen semestral de los montos de IVA que afectó a las compras de bienes, utilización de servicios e importaciones realizadas, durante el semestre inmediatamente anterior a aquél en que debe presentarse la “declaración jurada”, y un resumen semestral, con el IVA que afectó a las ventas de bienes y prestación de servicios efectuados, durante el semestre inmediatamente anterior a aquél en que debe presentarse la “declaración jurada”.    
+
+2°.- Que, el resolutivo 10 señala que el plazo para presentar la Declaración Jurada Resumen Semestral de IVA de Compras y Ventas, vía Internet, será hasta el último día del mes de agosto de cada año para el primer semestre, y hasta el último día del mes de febrero del año siguiente para el segundo semestre informado. El plazo para presentar aquellas declaraciones que no se efectúen a través de Internet será el último día del mes de julio de cada año y último día del mes de enero del año siguiente, respectivamente. Si alguno de los plazos señalados venciere en día sábado o día feriado, se entenderán prorrogados hasta el día hábil siguiente.
+
+3°.- El interés del Servicio de Impuestos Internos de facilitar y fomentar el cumplimiento voluntario por parte de los contribuyentes a través de los sistemas, procedimientos, normativa y asistencia que se pone a disposición de los mismos.  
+
+
+
+
+
+
+	SE RESUELVE: 
+  
+
+1°.- Ampliase para el año 2008, el plazo para presentar la Declaración Jurada Resumen Semestral de IVA de Compras y Ventas correspondiente al primer semestre de este año, vía Internet, indicado en el inciso primero del resolutivo 10 de la Resolución Exenta SII N° 86 de 01 de Agosto de 2007, hasta el 14 de Septiembre de 2008. 
+
+2°.- La presente resolución entrará en vigencia a partir de su publicación en extracto en el Diario Oficial.
+  
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+ 
+
+
+
+
+
+ 
+
+   	               (FDO.) RICARDO ESCOBAR CALDERON
+	                                          DIRECTOR
+
+ 
+
+
+Lo que transcribo a Ud., para su conocimiento y fines consiguientes,
+
+Saluda a Ud.
+
+ 
+
+DISTRIBUCIÓN:
+-   Al Diario Oficial (En extracto)
+-   Internet
+-   Boletín
+
+

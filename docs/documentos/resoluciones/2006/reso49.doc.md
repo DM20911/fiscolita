@@ -1,0 +1,80 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso49.doc
+titulo: Word – Resolución Exenta SII N°49 del 02 de Mayo del 2006 Regula Forma De Recuperar, Como Crédito Fiscal La Componente Variable Que Resulte Superior Al 43 % Para La Región De Magallanes y La Antártica Chilena A Los Vendedores De Combustibles Gas Natural Comprimido O Gas Licuado De Petróleo o De Ambo
+categoria: otros
+---
+RESOLUCION EXENTA SII N°49 DEL 02 DE MAYO DEL 2006 MATERIA : REGULA FORMA DE RECUPERAR, COMO CRÉDITO FISCAL LA COMPONENTE VARIABLE QUE RESULTE SUPERIOR AL 43 % PARA LA REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA A LOS VENDEDORES DE COMBUSTIBLES GAS NATURAL COMPRIMIDO O GAS LICUADO DE PETRÓLEO O DE AMBOS, PARA CONSUMO VEHICULAR, ENTRE EL 1° DE OCTUBRE Y 31 DE DICIEMBRE DE 2005.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS : 
+
+Lo dispuesto en los artículos 6° letra A) N° 1, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de 1980 del Ministerio de Hacienda; en la Ley N° 20.052, publicada en el Diario Oficial, con fecha 27.09.2005; Ley 19.952 publicada en el Diario Oficial de 31.05.2005 y Ley N° 20.093 publicada en el Diario Oficial con fecha 21.01.2006, que modifican la Ley 18.502, de 1986; 
+
+
+CONSIDERANDO:
+
+1.  Que, el cumplimiento del mandato legal de velar por la eficiente administración y fiscalización de los impuestos, impone a este Servicio el deber de ejercer facultades y atribuciones que la ley N° 20.093 le otorga, para dictar normas con el objeto regular la recuperación como crédito fiscal, en los términos establecidos en el artículo 23 y siguientes de la ley sobre Impuestos a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974. 
+
+2.  Que, la Ley N° 20.052 publicada en el Diario Oficial de 27.09.2005 sustituyó el artículo 1° de la Ley N° 18.502, de 1986, quedando el actual inciso tercero, como sigue: “Adicionalmente, para el caso que el distribuidor, productor o importador de los citados productos venda directamente estos combustibles para el consumo vehicular; o que con el objeto de abastecer para el consumo vehicular a vehículos que sean explotados por él retire estos combustibles, se devengará el componente variable del impuesto específico establecido en este artículo, al momento de la carga de dichos combustibles en los estanques o contenedores de que deberá disponer exclusivamente para tal efecto, y que deberán ser autorizados por la Superintendencia de Electricidad y Combustibles de conformidad con el artículo 2° de esta ley. Dichos estanques deberán contar con un mecanismo que registre la cantidad de combustible que se les haya cargado y que se haya expendido desde los mismos. El distribuidor, productor o importador deberá declarar dicha carga y pagar el componente variable del impuesto específico establecido en este artículo, en los mismos términos que señala en inciso precedente”.
+
+3.  Que, el artículo único de la Ley N° 19.952 publicada en el Diario Oficial de 31.05.2004 señala: “Los contribuyentes de la XII Región de Magallanes y Antártica Chilena pagarán los impuestos establecidos en el artículo 1° de la ley N° 18.502, a contar del 1° de mayo de 2002 y hasta el 31 de diciembre de 2005, en un monto equivalente al 43 % de dichos tributos. Asimismo, para todos los efectos legales, las sumas ingresadas en arcas fiscales por concepto de estos impuestos, hasta el 30 de abril de 2004, deberán entenderse pagadas íntegramente, conforme a derecho.” 
+
+4.  Que, el artículo 2° de la ley N° 20.093, publicada en el Diario Oficial de 21.01.2006 señala: “En sustitución de lo dispuesto en el artículo único de la ley N° 19.952, el componente variable del impuesto establecido en el artículo 1° de la ley N° 18.502, modificada por la ley N° 20.052, que afecte a las primeras ventas en territorio nacional de los combustibles de gas natural comprimido o gas licuado de petróleo, o de ambos, que se efectúen a partir del 1° de octubre de 2005 y hasta el 31 de diciembre de 2005, en las instalaciones surtidoras para consumo vehicular ubicadas en la XII Región, de Magallanes y la Antártica Chilena, será del 43 % de la tasa que establece el señalado artículo 1°.
+
+Para los efectos del inciso anterior, los vendedores de combustibles de gas natural comprimido o gas licuado de petróleo, o de ambos, para consumo vehicular, que cuenten con la autorización señalada en el inciso cuarto del artículo 2° de la ley N° 18.502, modificada por la ley N° 20.052, podrán considerar y recuperar, como crédito fiscal, en los términos establecidos en el artículo 23 y siguientes de la ley sobre Impuesto a las Ventas y Servicios, contenida en el decreto ley N° 825, de 1974, la diferencia de impuesto de componente variable que resulte superior al 43 % señalado en el inciso anterior y que hubiere afectado a dichos combustibles conforme a los incisos segundo tercero y cuarto del artículo 1° de la ley N° 18.502, en la forma que determine el Servicio de Impuestos Internos.” 
+
+5.  Con el propósito de cumplir con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar el cumplimiento de las disposiciones tributarias que la ley le encomienda, y lo establecido en el artículo 2° de la ley 20.093, publicada en el Diario Oficial de 21.01.2006, es necesario impartir instrucciones sobre la materia.
+
+
+RESUELVO:
+
+1.  Los distribuidores minoristas ubicados en la XII Región, de Magallanes y la Antártica Chilena, en sus operaciones de ventas de Gas Natural Comprimido (GNC) y Gas Licuado de Petróleo (GLP), o ambos, para consumo vehicular, de acuerdo a lo establecido en el articulo 2° de la Ley N° 20.093, tendrán derecho a recuperar, como crédito fiscal, en los términos establecidos en el artículo 23° y siguientes de la ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825/74, la diferencia de impuesto de componente variable que resulte superior al 43 % de la tasa señalada en el artículo 1° de la actual ley N° 18.502, siempre que:
+
+a)  Hubieren retenido el Impuesto Específico con tasa de 43 % y que hubiesen soportado una retención por sus compras o adquisiciones de estos combustibles de un 100 % de tal tributo; o bien
+
+b)  Hubieren retenido el Impuesto Específico con tasa de 100 % y que hubiesen soportado una retención por sus compras o adquisiciones de tales combustibles de un 100 % de tal tributo
+
+2.  Los contribuyentes para hacer uso de la franquicia señalada del resolutivo N° 1, deberán:
+
+a)  En los periodos tributarios correspondientes a los meses de octubre a diciembre de 2005, deberán dejar constancia, en el Libro de Compras, como parte del Resumen Obligatorio, establecido en el artículo 76° inciso tercero del D.S. N° 55, sobre Reglamento de la Ley sobre Impuesto a las Ventas y Servicios por cada mes, del crédito fiscal a recuperar utilizando además el mecanismo de reajustes establecido en el artículo 27° del D.L. 825/74, sobre Impuesto a las Ventas y Servicios, hasta la fecha de su recuperación vía imputación. 
+
+b)  El crédito fiscal señalado en la letra a) precedente, debe tener relación con los montos declarados por los respectivos periodos en los códigos señalados en las líneas 41 y/o 42 de los correspondientes formularios N° 50.
+
+c)   Por el periodo en que deba efectuarse la recuperación, según lo dispuesto en el dispositivo N° 4, excepcionalmente se utilizará para consignar dicha imputación, el código 592 del formulario N° 29.  
+
+3.  La recuperación del crédito fiscal especial, establecido en el artículo 2° de la Ley N° 20.093 deberá efectuarse como imputación al débito fiscal, para cuyo efecto, los interesados deberán presentar una petición administrativa en la Dirección Regional o Unidad correspondiente a la jurisdicción del contribuyente, utilizando el formulario 2117 y acompañando un análisis de los montos solicitados y la respectiva documentación de respaldo.
+
+4.  La solicitud por la recuperación de este tributo deberá ser presentada por el periodo tributario inmediatamente siguiente al de publicación de la presente resolución en el Diario Oficial y hasta la fecha del vencimiento legal de dicho periodo, de conformidad al artículo 64° del D.L. N° 825/74, sobre Impuesto a las Ventas y Servicios.
+ 
+ 5.  Si el contribuyente trasladó o recargó y pagó indebidamente o en exceso impuestos referidos en el resolutivo primero, deberá acreditar fehacientemente a juicio exclusivo del Director Regional de Impuestos Internos respectivo, haberse restituido dichas sumas a las personas o contribuyentes que efectivamente soportaron el gravamen indebido, para obtener su devolución, conforme al artículo 128° del Código Tributario.
+
+6.  Las peticiones administrativas que  hubieran sido efectuadas conforme al artículo 126° del Código Tributario y no resueltas a la fecha de la entrada en vigencia de la presente Resolución, deberán ajustarse al nuevo procedimiento.
+
+7.  La presente resolución, entrará en vigencia a contar de su publicación en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+						(Fdo.)   RICARDO ESCOBAR CALDERÓN
+								     DIRECTOR 
+
+Lo que transcribo a Ud. para su conocimiento y demás fines:
+
+
+
+
+Distribución:
+A Internet
+Al Boletín
+Al Diario Oficial en Extracto
+

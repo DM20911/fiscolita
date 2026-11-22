@@ -1,0 +1,74 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso13.doc
+titulo: Word – Resolución Exenta SII N°13 del 01 de Febrero del 2011 Complementa Resolución Exenta N° 164, de 29.10.2010 Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°13 DEL 01 DE FEBRERO DEL 2011 MATERIA : COMPLEMENTA RESOLUCIÓN EXENTA N° 164, DE 29.10.2010
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los artículos 6, letra A), N°1 y artículo 76 del Código Tributario, contenido en el D.L. N° 830, en el artículo 2° de la Ley N°17.990, en el artículo 16 N°1 de la Ley N°17.235 sobre Impuesto Territorial, en el nuevo inciso cuarto del artículo 1° del D.F.L. N° 2, de 1959, sobre Plan Habitacional, introducido por el artículo 8° N° 1 de la Ley N°20.455, que modificó diversos cuerpos legales para obtener recursos destinados al financiamiento de la reconstrucción del país, lo establecido en la Resolución Exenta N° 164, del 29 de octubre de 2010 y,
+
+
+CONSIDERANDO:
+
+
+Que, de acuerdo al nuevo inciso cuarto del artículo 1° del D.F.L. N° 2, del año 1959, sobre Plan Habitacional, para hacer uso de los beneficios, franquicias y exenciones que éste contempla, los Notarios y Conservadores de Bienes Raíces deberán remitir al Servicio de Impuestos Internos, en la forma y plazo que este determine, la información de todos los actos y contratos otorgados ante ellos o que les presenten para su inscripción, referidos a transferencias y transmisiones de dominio de “viviendas económicas; 
+
+2° Que, mediante la Resolución Ex. SII N° 164 de 29.10.2010, se instruyó a los señores Notarios y Conservadores de Bienes Raíces para que, mediante timbre de goma estampado en el formulario N° 2890 “Declaración sobre enajenación e inscripción de bienes raíces”, en soporte papel, informaran si el inmueble respectivo está o no acogido a las normas del D.F.L. N° 2, de 1959. 
+
+3° Que, se ha modificado el formulario indicado para que pueda consignarse directamente en él (código N°79), la información de si la propiedad se acoge o no al D.F.L. N°2 del año 1959, sin que sea necesario el uso del timbre señalado precedentemente.
+
+
+SE RESUELVE:
+
+
+Los señores Notarios y Conservadores de Bienes Raíces informarán a este Servicio, conforme lo dispuesto en el inciso cuarto del artículo 1° del Decreto con Fuerza de Ley N° 2, de 1959,  todos los actos y contratos otorgados ante ellos o que les presenten para su inscripción, referidos a transferencias y transmisiones de dominio de “viviendas económicas”, mediante el formulario N° 2890 “Declaración sobre enajenación e inscripción de bienes raíces”, marcando al efecto en el código N° 79, la opción “SI” o “NO”, según si la propiedad se encuentra o no acogida a dicho decreto ley.  
+
+El formulario indicado se encuentra disponible para notarios y conservadores, previa autenticación, en el sitio web del Servicio de Impuestos Internos (www.sii.cl).
+
+El procedimiento señalado exime el uso del timbre de goma establecido en la Resolución Ex. S.I.I. N° 164, de 29.10.2010.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	(Fdo.) JULIO PEREIRA GANDARILLAS
+	DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISTRIBUCIÓN:
+- Internet
+- Boletín 
+- Diario Oficial (en extracto)
+- Oficina de Gestión Normativa
+
+

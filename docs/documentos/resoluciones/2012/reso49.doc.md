@@ -1,0 +1,35 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso49.doc
+titulo: Word – Resolución Exenta SII N°49 del 04 de Abril del 2012 Crea Nuevo Departamento Fiscalización de Medianas y Grandes Empresas en la Xv Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°49 DEL 04 DE ABRIL DEL 2012 MATERIA : CREA NUEVO DEPARTAMENTO FISCALIZACIÓN DE MEDIANAS Y GRANDES EMPRESAS EN LA XV DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: 
+Las necesidades que impone la buena marcha administrativa de la Unidades Operativas del Servicio, lo dispuesto en el artículo 6° del Código Tributario contenido en el artículo 1° del D.L. N° 830, de 1974; el artículo 4°, inciso final,  y el artículo 7°, letras c) y ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos y los respectivos requisitos de ingreso y promoción; y 
+ CONSIDERANDO: 
+1°	Que, de acuerdo a lo dispuesto en el inciso final del Artículo 4° de la Ley Orgánica del Servicio de Impuestos Internos, ya citada, en las Direcciones Regionales existirán los Departamentos que establezca el Director, con sujeción a la planta del Servicio; 
+2°	Que, las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para dictar las órdenes que sean convenientes para la más expedita marcha del Servicio y para fijar y modificar la organización interna de sus unidades, así como sus atribuciones y obligaciones;
+3°	Que se hace necesario dotar a la XV Dirección Regional Metropolitana Santiago Oriente con un nuevo Departamento de Fiscalización para el segmento de Medianas y Grandes Empresas.
+
+RESUELVO:
+1° 	Créase, en la Dirección Regional Metropolitana Santiago Oriente, un nuevo Departamento de Fiscalización para el segmento de Medianas y Grandes Empresas denominado “Segundo Departamento Fiscalización de Medianas y Grandes Empresas”, que estará a cargo de un Jefe de Departamento, que dependerá directamente del respectivo Director Regional.
+2° 	 Al nuevo Departamento de Fiscalización que se crea en el resolutivo precedente, y al Jefe de Departamento respectivo, les corresponderá realizar las funciones, generales y específicas, señaladas en la Resolución Ex. N° 3423, de 27 de mayo de 1999, que crea los Departamentos de Fiscalización Masiva y Selectiva (actual Departamento Fiscalización de Medianas y Grandes Empresas), así como las indicadas en la Resolución Ex. N° 197, de 22 de diciembre de 2009, que fija nuevas denominaciones y funciones a los Departamentos de las Direcciones Regionales que indica.
+3° 	Reemplázase la actual denominación del Departamento Fiscalización de Medianas y Grandes Empresas de la XV Dirección Regional Metropolitana Santiago Oriente, por "Primer Departamento Fiscalización de Medianas y Grandes Empresas”. 
+A partir de la entrada en vigencia de la presente resolución, cualquier mención, función, asignación o delegación de facultades que corresponda al Departamento o al Jefe del Departamento Fiscalización de Medianas y Grandes Empresas de la XV Dirección Regional Metropolitana Santiago Oriente, contenida en actuaciones, resoluciones o instrucciones vigentes, se entenderá referida a la denominación que se indica en el párrafo anterior. 
+4°	La presente resolución regirá desde la fecha de su publicación, en extracto, en el Diario Oficial. 
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+                                                                       (FDO.) JULIO PEREIRA GANDARILLAS                                                                                                DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines
+Saluda a Ud. 
+
+Distribución: - Diario Oficial en extracto
+- Boletín
+- Internet.
+

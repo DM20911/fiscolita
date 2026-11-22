@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Mascota de FiscolItA">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B2545"/><stop offset="1" stop-color="#1B3A66"/></linearGradient>
+    <linearGradient id="hoja" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E3EBF5"/></linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#fondo)"/>
+  <!-- cuerpo: un documento con carita -->
+  <g transform="translate(136 92)">
+    <path d="M24 0h160l56 56v248a20 20 0 0 1-20 20H24a20 20 0 0 1-20-20V20A20 20 0 0 1 24 0z" fill="url(#hoja)"/>
+    <path d="M184 0v40a16 16 0 0 0 16 16h40z" fill="#C3D2E6"/>
+    <!-- lentes -->
+    <circle cx="82" cy="128" r="30" fill="#FFFFFF" stroke="#0B2545" stroke-width="9"/>
+    <circle cx="160" cy="128" r="30" fill="#FFFFFF" stroke="#0B2545" stroke-width="9"/>
+    <path d="M112 126h18" stroke="#0B2545" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="88" cy="132" r="11" fill="#0B2545"/>
+    <circle cx="166" cy="132" r="11" fill="#0B2545"/>
+    <circle cx="92" cy="128" r="4" fill="#FFFFFF"/>
+    <circle cx="170" cy="128" r="4" fill="#FFFFFF"/>
+    <!-- mejillas y sonrisa -->
+    <circle cx="58" cy="182" r="13" fill="#FF8A80" opacity=".55"/>
+    <circle cx="186" cy="182" r="13" fill="#FF8A80" opacity=".55"/>
+    <path d="M96 186q26 26 52 0" fill="none" stroke="#0B2545" stroke-width="9" stroke-linecap="round"/>
+    <!-- líneas de texto -->
+    <rect x="44" y="232" width="120" height="12" rx="6" fill="#9FB3CF"/>
+    <rect x="44" y="258" width="150" height="12" rx="6" fill="#9FB3CF"/>
+  </g>
+  <!-- sello con estrella -->
+  <circle cx="368" cy="372" r="58" fill="#D52B1E" stroke="#FFFFFF" stroke-width="8"/>
+  <path d="M368 336l10.6 21.5 23.7 3.4-17.1 16.7 4 23.6L368 390l-21.2 11.2 4-23.6-17.1-16.7 23.7-3.4z" fill="#FFFFFF"/>
+  <!-- calculadora -->
+  <g transform="translate(92 330)">
+    <rect width="78" height="96" rx="14" fill="#FFC857" stroke="#FFFFFF" stroke-width="6"/>
+    <rect x="12" y="12" width="54" height="22" rx="5" fill="#0B2545"/>
+    <g fill="#0B2545"><circle cx="22" cy="50" r="6"/><circle cx="39" cy="50" r="6"/><circle cx="56" cy="50" r="6"/><circle cx="22" cy="70" r="6"/><circle cx="39" cy="70" r="6"/><circle cx="56" cy="70" r="6"/></g>
+  </g>
+</svg>

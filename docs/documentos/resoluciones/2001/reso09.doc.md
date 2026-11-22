@@ -1,0 +1,220 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso09.doc
+titulo: Word – Resolución Exenta N°09 del 15 de Febrero del 2001 Establecen Normas que Regulan el Uso de la firma electrónica en el Ambito Tributario. Fuente: Subdirección de Informática
+categoria: otros
+---
+RESOLUCION EXENTA N°09 DEL 15 DE FEBRERO DEL 2001 MATERIA : ESTABLECE NORMAS QUE REGULAN EL USO DE LA FIRMA ELECTRONICA EN EL AMBITO TRIBUTARIO.
+
+ VISTOS: Lo dispuesto en el artículo 6, Letra A), No. 1, del Código Tributario, contenido en el artículo 1 del DL No. 830, de 1974, y  
+
+CONSIDERANDO:
+
+
+PRIMERO: Que, las comunicaciones electrónicas representan un notable ahorro de recursos materiales y humanos e incrementan la calidad de las presentaciones que realizan los contribuyentes, el Servicio ha dispuesto que diversos trámites y tipos de declaraciones de impuestos y de declaraciones juradas de datos se puedan presentar mediante su transmisión electrónica, vía Internet.
+
+SEGUNDO: Que, existe un aumento progresivo de contribuyentes que se acogen a esta forma voluntaria de presentación de sus declaraciones de impuestos y declaraciones juradas de datos, lo que hace necesario establecer el uso de una firma electrónica que reemplace la firma ológrafa en estos documentos digitales, para aquellos contribuyentes que estimen conveniente incorporar este elemento de seguridad a sus relaciones telématicas con el Servicio.
+
+TERCERO: Que, por lo tanto resulta pertinente establecer los requisitos que deberán cumplir los contribuyentes que, voluntariamente, decidan incorporarse al sistema de firma electrónica para acreditar su identidad digital y fijar las condiciones y normas a que estarán sometidas las empresas que presten servicios de certificación, para respaldar la validez de la firma electrónica aplicada en documentos tributarios.
+
+
+SE RESUELVE: 
+1°	Para los efectos de la presente resolución y las que se dicten en virtud de ella, los siguientes términos tendrán el significado que a continuación se indica:
+
+Representación Digital: Es un documento representado en forma binaria, sin hacer referencia a su medio de almacenamiento o soporte, susceptible de ser firmado electrónicamente.
+
+Documento Digital: Es  toda representación digital que de testimonio de un hecho, una imagen o una idea.
+
+Firma Electrónica: El sustituto digital de la firma ológrafa que permite al receptor de un documento digital, verificar con certeza la identidad proclamada por el emisor del mismo, mantener la integridad del contenido del documento digital transmitido e impedir al signatario desconocer la autoría del documento digital o repudiarlo en forma posterior.
+
+Certificado Digital: Es un documento digital firmado y emitido electrónicamente por un Prestador de Servicios de Certificación, que asocia una clave pública con su titular durante el período de vigencia del certificado y que, debidamente almacenado y publicado en un repositorio o registro público electrónico, se utiliza como referencia para acreditar la identidad digital del contribuyente, que es titular de dicha clave, junto a sus datos de identificación, utilizando sistemas que garanticen la seguridad técnica y criptográfica de los procesos de certificación.
+
+Signatario: Es la persona que actúa en nombre propio o en el de otra persona natural o jurídica a la que representa, y que, habiendo obtenido previamente un certificado digital de un Prestador de Servicios de Certificación debidamente acreditado ante el Servicio,  tiene la capacidad de firmar un documento digital.
+
+Clave Privada: Es aquella que se utiliza para firmar electrónicamente, utilizando un criptosistema asimétrico seguro. 
+
+Clave Pública: Clave que es publicada y que al ser incorporada en un certificado digital válidamente emitido y almacenada en un repositorio, es utilizada para verificar las firmas electrónicas, basadas en su correspondiente o correlativa clave privada.
+
+Criptosistema Asimétrico Seguro: Es un método criptográfico que utiliza un par de claves compuesto por una clave privada utilizada para firmar electrónicamente y su correspondiente clave pública, utilizada para verificar esa firma electrónica, de forma tal que, con las longitudes de claves utilizadas, sea computacionalmente no factible tanto obtener o inferir la clave privada a partir de la correspondiente clave pública como desencriptar aquello que ha sido encriptado con una clave privada sin la utilización de la correspondiente clave pública.
+
+Prestadores de Servicios de Certificación: Son las entidades que, en resguardo de la fe pública en materia tributaria, otorgan los certificados digitales, para lo cual generan, reconocen y revocan claves en forma expedita y segura.
+
+Entidad de Certificación Acreditada: Prestador de Servicios de Certificación previamente autorizado por el Servicio de Impuestos Internos, para operar como emisor de certificados digitales para uso tributario.
+
+Certificados Digitales Para Uso Tributario: Certificados  que han sido emitidos por una Entidad de Certificación Acreditada y que cumplen con los requisitos establecidos por el  Servicio de Impuestos Internos para que el contribuyente los utilice para respaldar y asegurar técnica y jurídicamente los trámites realizados electrónicamente o intercambiar información con el Servicio de Impuestos Internos. Estos pueden ser de dos tipos: primero, certificados para personas naturales y segundo, certificados para representantes legales o mandatarios de personas jurídicas o naturales.
+
+Certificado Digital para Pago Tributario: Es un tipo de certificado digital para uso tributario, que tiene la característica de ser aceptado por algún banco o institución financiera autorizada para efectuar cargos en cuentas bancarias de los contribuyentes.
+
+Tarjeta Inteligente:  Cualquier tarjeta portátil que pueda almacenar en forma segura y persistente certificados digitales y que, de acuerdo a estándares técnicos ampliamente aceptados, permite que ellos sean intercambiados.
+
+Usuario Certificado:  Es un contribuyente o su representante legal o mandatario, que  posee un certificado digital para uso tributario vigente, el cual puede estar almacenado en forma segura en el mismo computador, en una tarjeta inteligente o en otros medios tecnológicos que el Servicio de Impuestos Internos acepte como válidos.
+
+Sistema de Acreditación: Conjunto de exigencias, prácticas y procedimientos que el Servicio de Impuestos Internos define para acreditar a los Prestadores de Servicios de Certificación. 
+
+	
+2°	Principios generales:
+
+El contribuyente podrá operar con el Servicio de Impuestos Internos utilizando alguna de las  opciones disponibles en el Servicio, para su identificación y autentificación, siendo el certificado digital para uso tributario una de dichas opciones, autorizada expresamente mediante esta Resolución.
+
+El Servicio de Impuestos Internos acreditará previamente a Empresas Prestadoras  de Servicios de Certificación, quienes, cumpliendo los requisitos establecidos en esta Resolución,  respaldarán la identidad de los contribuyentes y garantizarán la seguridad y certeza técnica y jurídica de las transferencias de documentos, emitiendo certificados digitales para uso y pago tributario. 
+
+El Servicio de Impuestos Internos establecerá un sistema de acreditación de los Prestadores de Servicios de Certificación, procurando que exista y se implemente un régimen que permita lograr un adecuado grado de seguridad para proteger, debidamente, los derechos de los contribuyentes.
+
+El Servicio de Impuestos Internos deberá recibir y dar respuesta a las solicitudes de acreditación presentadas por los Prestadores de Servicios de Certificación pudiendo aceptarla o rechazarla.
+
+En caso de ser estimado necesario o conveniente por el Servicio, para la agilización del proceso y la disminución de los costos en materia de uso de firmas y certificados digitales, el Servicio de Impuestos Internos asumirá directamente la Prestación de Servicios de Certificación, estableciendo los requisitos y procedimientos correspondientes.
+
+El Servicio de Impuestos Internos podrá solicitar al Prestador de Servicios de Certificación, la revocación del certificado digital para uso tributario que halla sido otorgado a algún contribuyente. El Prestador de Servicios de Certificación estará obligado a ejecutar dicha revocación, siendo las causales a considerar las siguientes: muerte natural o disolución del contribuyente titular del par de claves, según corresponda; incapacidad sobreviniente del titular;  quiebra del titular;  cuando se vea comprometida la seguridad y confidencialidad de la clave privada del signatario; cuando se acredite que un certificado de clave pública o sus datos son falsos;  y, cuando el Proveedor de Servicios de Certificación deje de prestar servicios de tal. O por cualquier otra causa que el Servicio determine en el ámbito de la vigencia de la presente Resolución.
+
+
+ 3°	Los Prestadores de Servicios de Certificación, deberán cumplir con las siguientes condiciones y requisitos:
+
+Los Prestadores de Servicios de Certificación deberán almacenar en un directorio público las claves públicas y sus certificados y adoptar las medidas técnicas y administrativas que sean adecuadas para evitar la falsificación de las claves públicas y de los certificados digitales respectivos.
+
+
+
+
+
+
+
+
+En caso que el certificado digital sea otorgado a un representante legal o mandatario para actuar en representación de un contribuyente, la Entidad Certificadora Acreditada deberá actuar como entidad de registro y solicitar y guardar la documentación que demuestra que dicho representante tiene la capacidad legal de ejercer tal representación. La documentación deberá quedar guardada durante la vigencia de dicho certificado.
+
+Los Prestadores de Servicios de Certificación deberán cumplir con las EXIGENCIAS, PRACTICAS y con el PROCEDIMIENTO DE ACREDITACION solicitadas por el Servicio de Impuestos Internos, más adelante descritas.
+
+Al momento de solicitar la acreditación los Prestadores de Servicios de Certificación deberán comunicar al Servicio de Impuestos Internos el contenido de sus "Practicas de Certificación Digital". 
+
+Debido a que la certificación digital es una materia tecnológica  en constante evolución, el Servicio de Impuestos Internos tiene la facultad de modificar las EXIGENCIAS, PRACTICAS y PROCEDIMIENTO DE ACREDITACION, lo que oportunamente informará a las Entidades Certificadoras Acreditadas.
+
+Exigencias a los prestadores de servicios de certificación:
+
+Los Prestadores de Servicios de Certificación deberán estar constituidos como persona jurídica y tener por objeto o giro el prestar servicios de certificación digital. 
+
+Su capital social no podrá ser inferior a 3.500 UTM, al momento en que se solicita su acreditación.
+
+Deberá  mantener respaldo de los certificados emitidos y de sus respectivas revocaciones durante los últimos seis años, dejando esta información disponible y sin costo, a cualquier requerimiento del Servicio de Impuestos Internos.
+
+Los Prestadores de Servicios de Certificación serán responsables de los perjuicios que a los contribuyentes ocasionen los certificados de uso tributario, debido al mal funcionamiento de ellos.
+
+De los Certificados:
+
+El certificado debe responder al formato estándar conocido como protocolo X.509 v3 y sus extensiones. El Servicio de Impuestos Internos podrá aceptar otros formatos de certificados digitales cuando lo estime conveniente.
+
+Los certificados digitales deberán contener los datos de identificación del Prestador de Servicios de Certificación y del contribuyente, siendo el Rut de ambos, atributos obligatorios del certificado digital.
+
+El Servicio de Impuestos Internos no aceptará certificados que hayan perdido su vigencia, de acuerdo a lo informado en las listas de revocación mantenidas por las Entidades de Certificación Acreditadas que los hayan emitido.
+
+4°	La firma electrónica tendrá el mismo efecto jurídico que una firma manuscrita u ológrafa, en la medida que ella sea verificada por referencia a una llave pública incluida en un certificado digital válidamente emitido por un Proveedor de Servicios de Certificación previa y debidamente acreditado, y se presumirá que la firma electrónica aplicada en un documento digital constituye una manifestación de voluntad de su signatario, respecto de su envío, contenido, oportunidad y lugar de despacho.
+
+Todo documento digital que el Servicio de Impuestos Internos reciba firmado electrónicamente y respaldado por un certificado digital emitido por un Proveedor de Servicios de Certificación, debidamente acreditado, compromete legalmente al contribuyente o signatario. Por lo tanto, los contribuyentes que utilicen el sistema de firmas electrónicas a que se refiere esta resolución, aceptan las consecuencias jurídicas indicadas.
+
+En consecuencia, el contribuyente que posea algún certificado digital, sea éste persona natural o jurídica,  deberá:
+
+Revocar oportunamente su certificado digital, en caso de pérdida del certificado digital o de riesgo o sospecha de mal uso de éste.
+
+Revocar oportunamente su certificado digital si éste certificado fue emitido para ser usado por un representante legal o mandatario, y dicho representante o mandatario pierde tal condición.
+
+
+5°	Para el uso del certificado digital, se define el siguiente procedimiento:
+
+El Usuario Certificado podrá intercambiar información con el  Servicio de Impuestos Internos conectándose, interactuando y transfiriendo archivos al sitio Web del Servicio de Impuestos Internos, de acuerdo a las instrucciones que en el mismo sitio se estipulen. 
+
+Al momento de intercambiar información con el Servicio de Impuestos Internos, el Usuario Certificado procederá como sigue:
+
+1. Elegirá el certificado digital para uso tributario que va a utilizar. Si el proceso consiste en enviar información, procederá a firmar electrónicamente el documento digital a enviar, utilizando una clave privada susceptible de ser verificada por referencia a una llave pública incluida en un certificado digital válidamente emitido y enviará el documento digital firmado y el certificado digital utilizado.
+
+2.	El Servicio de Impuestos Internos verificará que el certificado digital se encuentre vigente y comprobará, mediante la clave pública, que el certificado digital recibido corresponde a la firma electrónica del documento digital del contribuyente sobre el cual se está informando. Si ambas condiciones se cumplen, se continuará con el proceso de validación de la información que se está recibiendo, en caso contrario, será rechazado inmediatamente el envío de la información.
+
+3. Si el envío de la información conlleva la obligación de realizar un pago, existen 2 alternativas:
+
+i)	A través del uso de un certificado digital para pago tributario. En este caso el Servicio de Impuestos Internos enviará al banco o institución financiera que se indique en el documento digital recibido, a lo menos, el certificado digital del contribuyente y los datos del pago correspondiente.
+
+ii)   A través de un convenio de pago  previamente establecido por el contribuyente  con una entidad bancaria, u otro procedimiento que el Servicio de Impuestos Internos defina.
+
+En cualquier caso, si el pago es rechazado por el banco o institución financiera correspondiente, se aplicarán los mismos procedimientos actualmente vigentes.
+
+4. Si actúa por el contribuyente un representante legal o mandatario, este deberá usar el tipo de certificado digital que le permita actuar en representación de dicho contribuyente.
+
+c) Si el proceso no consiste en enviar información, el contribuyente podrá identificarse y autentificarse ante el Servicio de Impuestos Internos, utilizando su certificado digital para fines tributarios. 
+  
+
+6°	Prácticas que deben observar los Prestadores de Servicios de Certificación:
+
+Los Prestadores de Servicios de Certificación se obligan a tener a disposición del Servicio de Impuestos Internos las listas de revocaciones y expiraciones o caducidad de los certificados, para su consulta en línea, sin costo para el Servicio de Impuestos Internos y en todo momento.
+
+El RUT del Prestador de Servicios de Certificación y del titular, que son atributos obligatorios del certificado, deberán ir insertos en los campos “ISSUER_ALT_NAME” y “SUBJECT_ALT_NAME”, respectivamente.
+
+Los Prestadores de Servicios de Certificación deben indicar, en forma explícita, que el certificado emitido es para operar en el ámbito tributario. Esta indicación debe quedar inserta en el campo “CERTIFICATE POLICIES” de las extensiones del certificado en formato X.509 v3, y su texto debe ser: “Certificado para uso Tributario”. 
+
+La condición de que se trata de un certificado digital para pago tributario será manejada entre el Prestador de Servicios de Certificación y el banco o institución financiera correspondiente, del modo en que lo estimen conveniente.
+
+El Servicio de Impuestos Internos exigirá la confidencialidad y reserva de los datos de los contribuyentes registrados en las Entidades Certificadoras Acreditadas. Se establece la obligación de secreto, respecto a los atributos y datos personales o nominativos de quienes firmen y sean certificados digitalmente, que archiven o almacenen los Proveedores de Servicios de Certificación en bases de datos que para todos los efectos serán consideradas de acceso privado, con el objeto de asegurar  la confidencialidad de la información y el respeto y la protección de la privacidad de las personas.
+
+
+7°	Procedimiento de acreditación:
+
+Los Prestadores de Servicios de Certificación enviarán su solicitud de acreditación a la dirección e-mail:  HIPERVÍNCULO "mailto:siichile@sii.cl" siichile@sii.cl del Servicio de Impuestos Internos.
+
+Los Prestadores de Servicios de Certificación que soliciten acreditarse, deberán cumplir con los siguientes requisitos que permitan asegurar su identificación:
+
+i) 	Fotocopia autorizada de la cédula RUT.
+
+ii)	Se requerirá fotocopia autorizada de la escritura de constitución de la sociedad con su extracto debidamente inscrito y publicado.
+		
+iii)	Fotocopia del documento en donde consta el capital social actualizado.
+	
+Esta documentación podrá ser enviada por correo o entregada en la Oficina de Partes de la Dirección Nacional, Servicio de Impuestos Internos, Teatinos # 120 1er piso. 
+
+En el evento de aprobarse la solicitud de acreditación, por haber estimado el Servicio de Impuestos Internos que se cumplen los requisitos y condiciones técnicas y de gestión que establece la presente resolución, emitirá un documento o resolución, indicando expresamente su condición de Entidad Certificadora Acreditada aceptada por el Servicio de Impuestos Internos. 
+
+
+Los Prestadores de Servicios de Certificación deberán proveer al Servicio de Impuestos Internos, toda la información necesaria que permita conocer su forma de operar.
+
+El Servicio de Impuestos Internos podrá suspender o revocar la acreditación, cuando estime que dicha empresa no entrega las garantías necesarias para seguir operando, según las exigencias señaladas. Del mismo modo, el Servicio de Impuestos Internos, podrá efectuar revisiones administrativas y técnicas en el momento que lo estime conveniente.
+
+
+8°	El incumplimiento de las obligaciones que se impongan a las empresas o contribuyentes que se incorporen al sistema reglamentado en la presente resolución, se sancionará en la forma prevista en el Código Tributario, cuando corresponda.
+
+
+                                               ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) JAVIER ETCHEBERRY CELHAY
+DIRECTOR
+
+					Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+					Saluda a Ud.,
+
+
+DISTRIBUCION:
+Secretaría Director.
+Oficina de Partes.
+Internet. 
+Diario Oficial en Extracto.
+Boletín.
+
+
+PÁGINA  6
+
+
+PÁGINA  1
+
+
+
+
+

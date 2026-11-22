@@ -1,0 +1,63 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso65.doc
+titulo: Word – Resolución Exenta SII N°65 del 11 de Noviembre del 2003 Ampliase el Plazo para Presentar por Teléfono Declaraciones “Sin Movimiento” del Formulario 29 Hasta el 28 de cada Mes. Fuente: Depto. Operación IVA y Catastro
+categoria: otros
+---
+RESOLUCION EXENTA SII N°65 DEL 11 DE NOVIEMBRE DEL 2003 MATERIA : AMPLIASE EL PLAZO PARA PRESENTAR POR TELEFONO DECLARACIONES “SIN MOVIMIENTO” DEL FORMULARIO 29 HASTA EL 28 DE CADA MES.
+
+
+SANTIAGO,
+
+
+Hoy se ha resuelto lo que sigue:
+
+							VISTOS: Las facultades contempladas en los Arts. 6º letra A) Nº 1 y 30° inciso segundo del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974 y en los Arts. Ns° 1 y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda y,
+
+
+
+CONSIDERANDO:
+
+1°)	Que, el Servicio de Impuestos Internos, mantiene un interés constante por contribuir eficazmente con el desarrollo y masificación de las tecnologías de información, de facilitar la forma de declarar los impuestos, de dar una mejor atención al contribuyente y de eliminar la  burocracia y trámites innecesarios;
+
+2°)	Que, a través de la resolución N° 27 del 24 de octubre del 2002 se autorizó a los contribuyentes a presentar vía teléfono, en el número 188-600-0744744, las declaraciones “sin movimiento” que les corresponda efectuar en formulario 29 de “Declaración y Pago Simultáneo Mensual”; 
+
+3°)	Que, conforme al artículo 36 inciso final del Código Tributario, el plazo para declarar y pagar el formulario 29 de “Declaración y Pago Simultáneo Mensual” puede ser ampliado, por el Director del Servicio, para aquellas declaraciones que se presenten por medios tecnológicos y que no importen el pago de un impuesto.
+
+
+
+
+SE RESUELVE:
+
+
+1° 	Amplíase el plazo para la presentación de las declaraciones mensuales, de “Declaración y Pago Simultáneo Mensual” (formulario 29) “sin movimiento”, que se realicen a través de la aplicación telefónica, hasta el día 28 del mes respectivo, independientemente que éste sea sábado o feriado;
+
+2°	Para efectos de la presente resolución, se entenderá por declaraciones “Sin Movimiento", los formularios 29 de "Declaración y Pago Simultáneo Mensual" presentados con todos los casilleros destinados a informar montos o cantidades, vacíos o en cero;  
+
+3°	Lo dispuesto en esta resolución regirá a partir de la fecha de su publicación en extracto en el Diario Oficial.
+
+
+
+
+
+
+ANÓTESE COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+
+    (FDO.) JUAN TORO RIVERA
+DIRECTOR
+
+
+DISTRIBUCION: -	Al Diario Oficial
+Secretaría del Director
+Subdirección de Fiscalización
+Departamento de Operación IVA y Catastro de Contribuyentes
+Internet
+Oficina de Partes
+

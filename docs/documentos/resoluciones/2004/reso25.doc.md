@@ -1,0 +1,37 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso25.doc
+titulo: Word – Resolución Exenta SII N°25 del 06 de Febrero del 2004 Modifica Resolución que se Indica, que Establece Obligación de Presentar Declaración de Impuesto a la Renta en Formulario 22, Mediante Transmisión Electrónica de Datos Vía Internet Fuente: Depto. Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°25 DEL 06 DE FEBRERO DEL 2004 MATERIA : MODIFICA RESOLUCIÓN QUE SE INDICA, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN DE IMPUESTO A LA RENTA EN FORMULARIO 22, MEDIANTE TRANSMISIÓN ELECTRÓNICA DE DATOS VÍA INTERNET
+						
+Hoy se ha resuelto lo que sigue:
+
+	VISTOS: Las facultades contempladas en el Art. 6° letra A) N° 1, en el Art. N° 17, inciso 3°, y 30° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, en los Arts. N° 1 y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7 de 1980, del Ministerio de Hacienda y lo dispuesto por la Resolución Exenta N° 4228 de 24.06.1999, modificada por la Resolución Exenta N° 5004 de 22.07.99, y en las Circulares N° 36 y 43, de 1999 del Servicio de Impuestos Internos; y
+
+CONSIDERANDO:
+
+1.- Que, mediante el Resolutivo N° 1 de la Resolución Exenta N° 9, publicada en el Diario Oficial del 30.01.03, se ha establecido la obligación de presentar la declaración de impuestos anuales a la Renta mediante transmisión electrónica de datos vía Internet a contribuyentes autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales.
+
+SE RESUELVE:
+
+	1.- REEMPLÁCESE el Resolutivo N° 1 de la Resolución Exenta N° 9, publicada en el Diario Oficial del 30.01.03, por lo siguiente “Los contribuyentes que, en virtud de lo dispuesto en la Resolución Exenta N° 4228, publicada en D.O. de 24.06.99, estén autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales y cuyas ventas y/o servicios anuales hubieren sido superiores a $50.000.000.- nominales al 31 de diciembre del año anterior a aquel en que deben presentar su declaración Anual de Impuestos a la Renta, con y sin pago, deberán presentar su declaración de impuestos anuales a la Renta efectuada en formulario 22 mediante transmisión electrónica de datos vía Internet”.
+
+	2.- La presente resolución regirá para las declaraciones de Impuesto a la Renta que sean presentadas a partir del 1° de Abril de 2004.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+
+
+(FDO.) JUAN FRANCISCO SANCHEZ STURMER
+    DIRECTOR (S)
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.,
+
+DISTRIBUCIÓN: 
+BOLETÍN SII
+INTERNET
+

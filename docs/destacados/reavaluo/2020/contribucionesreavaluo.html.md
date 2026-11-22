@@ -1,0 +1,27 @@
+---
+url: https://www.sii.cl/destacados/reavaluo/2020/contribucionesreavaluo.html
+titulo: ¿Para qué sirve el pago del impuesto territorial?
+categoria: destacado
+---
+**## ¿Para qué sirve el pago del impuesto territorial?**
+
+El Impuesto Territorial o las contribuciones son de exclusivo beneficio municipal y constituyen un ítem muy importante para el financiamiento de sus planes de desarrollo. La gran mayoría de las comunas aporta el 60% al Fondo Común Municipal (FCM), con excepción de las comunas de Santiago, Providencia, Las Condes y Vitacura, que aportan el 65% de este impuesto al fondo común. Estos recursos se distribuyen entre las comunas según factores como el nivel de pobreza que registran y la cantidad de predios, existentes en ellas, que no pagan contribuciones, entre otros. El 35% o 40% restante de la recaudación queda en los municipios de las comunas que generan estos recursos, vía pago de contribuciones.
+
+La recaudación del Impuesto Territorial se destina al financiamiento de bienes y servicios que mejoran la calidad de vida de los habitantes de las comunas, permitiendo a los municipios realizar avances en áreas como programas sociales, alumbrado público, áreas verdes, zonas de recreación, entre otras:
+
+Alumbrado Público
+
+Parques y  
+ Áreas verdes
+
+Zonas de recreación
+
+Infraestructura
+
+Equipamiento
+
+Programas Sociales
+
+**## ¿Cómo se determina el monto del impuesto territorial?**
+
+Para determinar el monto de las contribuciones, se considera el avalúo de la propiedad y las eventuales exenciones asociadas. El monto anual de este impuesto se divide en 4 cuotas normales, con vencimiento en abril, junio, septiembre y noviembre.

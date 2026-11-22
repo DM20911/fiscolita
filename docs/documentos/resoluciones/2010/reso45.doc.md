@@ -1,0 +1,46 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso45.doc
+titulo: Word – Resolución Exenta SII N°45 del 01 de Marzo del 2010 Modifica Resolución Exenta SII N° 104, de 20 de Julio de 2009. Fuente: Departamento Asesoría Jurídica
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°45 DEL 01 DE MARZO DEL 2010 MATERIA : MODIFICA RESOLUCIÓN EXENTA SII N° 104, DE 20 DE JULIO DE 2009.
+
+
+	Hoy se ha resuelto lo que sigue:
+
+                                                                           VISTOS: Lo dispuesto en las letras c), j) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; lo establecido en los artículos 41 y 59 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19.653, de 13 Diciembre de 2000, del Ministerio Secretaría General de la Presidencia; la Res. Ex. SII N° 104, de 2009; y 
+                           
+                                                                         CONSIDERANDO: 
+
+                                                                           1.- Que, razones de buen servicio hacen necesario modificar la Resolución Exenta SII N° 104, de 20 de julio de 2009, de esta Dirección Nacional, en la que se suprime el Departamento Tribunal Tributario y Oficina Jurídica, y crea Departamento Jurídico y Oficina de Procedimientos Administrativos Tributarios en la II Dirección Regional de Antofagasta; delega facultades que señala y autoriza delegación de facultades que indica.
+
+						2.- Que, de acuerdo al artículo 2° numeral 17 de la Ley N°20.322 que Fortalece y Perfecciona la Jurisdicción Tributaria y Aduanera, se incorpora el Artículo 123 bis al Código Tributario, contenido en el Decreto Ley N°830, de 1974, referido a la procedencia del recurso de reposición administrativa.
+
+                                                                                                                                RESUELVO:
+
+                                                                       1.- REEMPLÁCESE la expresión “Tramitar” por “Resolver” contenida en el numeral 3.- del resolutivo noveno de la Resolución Exenta SII N° 104,  de 20 de julio de 2009.
+
+						 2.- INCORPÓRESE la frase “o que denieguen cualquiera de las peticiones a que se refiere el artículo 126 del citado cuerpo legal”, al numeral 2.- del resolutivo décimo de la Resolución Exenta SII N°104, de 20 de julio de 2009.  
+
+						   3.-  INCORPÓRESE al resolutivo décimo de la Resolución Exenta SII N°104, de 20 de julio de 2009, el siguiente numeral 3.-, nuevo: “3.- Resolver los recursos de reposición administrativa interpuestos por los contribuyentes respecto de resoluciones dictadas por el Director Regional.”
+
+                                                  
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO, 
+
+
+
+
+                                                                        (Fdo.)   PABLO GONZÁLEZ SUAU
+                                                                                              DIRECTOR (S)
+                                                                           
+	Lo que transcribo a Ud. para su conocimiento y demás fines.
+
+
+PSO/MLA/CGG/SMG
+
+DISTRIBUCIÓN:
+- BOLETÍN
+- INTERNET
+- DIARIO OFICIAL (EN EXTRACTO)
+

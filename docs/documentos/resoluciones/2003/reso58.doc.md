@@ -1,0 +1,74 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso58.doc
+titulo: Word – Resolución Exenta SII N°58 del 15 de Octubre del 2003 Emisión de Documentos Tributarios en Restaurantes, Establecimientos que Venden Comidas Preparadas, Bebidas o Similares para ser Consumidas en el Mismo Local. Fuente: Depto. IVA y Catastro de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°58 DEL 15 DE OCTUBRE DEL 2003 MATERIA : EMISIÓN DE DOCUMENTOS TRIBUTARIOS EN RESTAURANTES, ESTABLECIMIENTOS QUE VENDEN COMIDAS PREPARADAS, BEBIDAS O SIMILARES PARA SER CONSUMIDAS EN EL MISMO LOCAL.					
+
+Santiago,
+
+Hoy se ha resuelto lo que sigue:
+
+							VISTOS:
+
+
+Lo dispuesto en el Art. 6°, letra A, N° 1; Artículos 88 y 97 N°s 10 y 19 del Código Tributario, contenido en el Artículo Primero del D.L. N° 830, de 1974; en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda,  y en los Artículos 2°, N° 1; 9° letra a) y 55  de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Artículo Primero del D.L. N° 825, de 1974, y
+
+
+CONSIDERANDO:
+
+
+1.-	 Que la ley sobre Impuesto a las Ventas y Servicios, para los fines de la aplicación de los tributos que en ella se establecen, define venta como: “toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles de propiedad de una empresa constructora construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”.
+
+2.- Que  en las operaciones que se realizan en los restaurantes o establecimientos que  sirven comidas preparadas, bebidas o similares, la transferencia de las especies es el elemento esencial de la convención, circunstancia determinante para otorgar el carácter de venta a las operaciones referidas 
+
+3.- Que el artículo 55 del D.L. N° 825, de 1974, establece que en el caso de ventas de bienes corporales muebles, las facturas o boletas deberán ser emitidas en el momento en que se efectúe la entrega real o simbólica de las especies.
+
+
+
+
+4.- Que atendido que en estos establecimientos, por la naturaleza específica de las prestaciones que en ellos se realizan, la entrega de las especies se materializa en una serie de actos interconectados y en un período no acotado en su término por un hecho claramente perceptible, cabe interpretar que esta entrega termina en el momento en que el vendedor realiza el cobro de las especies. En consecuencia, la documentación de la venta debe efectuarse, necesariamente, antes o en forma coetánea a este hecho y, en todo caso, previo al retiro del cliente del establecimiento.
+
+5.- Que en algunos restaurantes o establecimientos a que se refiere el considerando segundo, se utiliza un documento interno que detalla el consumo y con el cual se efectúa el cobro, sin que sea emitida la factura, guía de despacho o boleta correspondiente en la oportunidad que establece la ley. 
+
+6.- Que debido al retardo en el otorgamiento del documento tributario que respalda la venta, los clientes se retiran del establecimiento sin que les haya sido entregado dicho documento.
+
+7.- Que con el fin de resguardar debidamente el interés fiscal, se ha estimado necesario establecer el procedimiento relativo a la emisión de documentos relacionados con las ventas que efectúen los restaurantes o establecimientos que sirven comida preparada, bebidas o similares.
+
+
+RESUELVO:
+
+
+1.- En los restaurantes y demás establecimientos en que se vendan comidas preparadas, bebidas  y  alimentos en general, que se consumen en el mismo lugar, la boleta, guía de despacho o factura correspondiente deberá ser otorgada antes de efectuar el cobro respectivo o en forma simultánea a ese hecho. Si la acción de cobro, por cualquier motivo no se realiza al terminar el consumo, los documentos respectivos deberán otorgarse obligatoriamente en forma previa a que el  consumidor se retire del establecimiento.
+
+2.- En el caso de aquellos establecimientos que emitan un documento interno que detalle el consumo realizado, éste no podrá ser utilizado en reemplazo del documento tributario respectivo. En el evento que el documento interno se muestre o entregue al cliente como forma de efectuar el cobro por la transacción realizada, éste siempre deberá encontrarse adjunto a la boleta, guía de despacho o factura correspondiente.
+ 
+3.- En los restaurantes de los hoteles,  el consumo efectuado por pasajeros durante su estadía en el hotel, debe considerarse como parte del servicio de hotelería, que comprende tanto el alojamiento como el suministro de alimentación. En estos casos, la boleta, guía de despacho o factura correspondiente debe otorgarse  en el momento en que la remuneración se perciba o se ponga, en cualquier forma, a disposición del prestador del servicio.
+
+4.- El contenido de esta Resolución no se aplicará en el procedimiento de operación en las ventas de colaciones por medio de vales o cupones, establecido en la Resolución Exenta N°6582, de 26 de diciembre de 1997, modificada y complementada por la Resolución Exenta N°3207, de 28 de mayo de 1998, siempre y cuando no se  produzcan diferencias de precio con motivo de consumos que representen montos superiores a los del cupón o vale.
+ 
+5.- El no otorgamiento de la documentación tributaria en la oportunidad a que se refiere esta Resolución, está sancionado en el Nº 10 del Art. 97 del Código Tributario.
+
+
+
+
+ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+Lo que comunico a Ud. Para su conocimiento y fines correspondientes
+
+
+
+DISTRIBUCION:
+Internet
+Diario oficial (en extracto)
+Boletín
+
+

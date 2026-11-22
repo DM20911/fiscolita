@@ -1,0 +1,67 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso93.doc
+titulo: Word – Resolución Exenta SII N°93 del 22 de Septiembre del 2005 Establece Normas Referentes a la Autorización para Emitir Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas. Fuente: Oficina de Factura Electrónica y Documen
+categoria: otros
+---
+RESOLUCION EXENTA SII N°93 DEL 22 DE SEPTIEMBRE DEL 2005 MATERIA : ESTABLECE NORMAS REFERENTES A LA AUTORIZACIÓN PARA EMITIR FACTURAS DE EXPORTACIÓN ELECTRÓNICAS, NOTAS DE CRÉDITO DE EXPORTACIÓN ELECTRÓNICAS Y NOTAS DE DÉBITO DE EXPORTACIÓN ELECTRÓNICAS.
+
+	Hoy se ha resuelto lo que sigue:
+VISTOS: La facultad que me otorgan los Arts. 6° letra A), N° 1 y 88 del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; los Arts. 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; la Res. Ex. N° 18, de 22.04.2003; la Res. Ex. SII N° 45, de 01.09.2003; la Res. Ex. SII N° 8, de 23.01.2004; y
+CONSIDERANDO: 
+
+Que, a través de la Res. Ex. SII N° 45, del 2003, este Servicio estableció el procedimiento general y normas de operación respecto de los Documentos Tributarios Electrónicos. 
+
+Que, la tecnología de firma electrónica permite identificar con certeza al firmante que posea certificado digital.
+
+Que, con el objeto de cautelar el interés fiscal y facilitar el cumplimiento tributario de los contribuyentes, esta Dirección estima conveniente establecer el procedimiento para que los contribuyentes autorizados como emisores electrónicos puedan otorgar Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas. 
+
+SE RESUELVE:
+
+1. 	Los contribuyentes que, habiendo sido autorizados como emisores de Documentos Tributarios Electrónicos, de acuerdo a lo establecido en la Res. Ex. SII N° 45, del 2003, del Servicio de Impuestos Internos, requieran otorgar Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas, deberán seguir el procedimiento establecido en esta Resolución.
+
+2. 	Dichos contribuyentes deberán realizar las pruebas técnicas establecidas en una aplicación especialmente destinada a este fin en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl).
+
+Las Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas, tal como todos los Documentos Tributarios Electrónicos, deberán cumplir las especificaciones de formato establecidas por el Servicio de Impuestos Internos y publicadas en su Oficina Virtual.
+
+La representación impresa de las Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas deberá ceñirse a lo establecido en el resolutivo séptimo de la Res. Ex. N° 18, del 2003, del Servicio de Impuestos Internos, modificada por la Res. Ex. SII N° 84, de 16.08.2005 y complementada por la Res. Ex. SII N° 76, de 25.07.2005. 
+
+
+
+
+
+
+
+Las normas y procedimientos de operación respecto de los Documentos Tributarios Electrónicos establecidos por Res. Ex. SII N° 45, del 2003, serán plenamente aplicables a las Facturas de Exportación Electrónicas, Notas de Crédito de Exportación Electrónicas y Notas de Débito de Exportación Electrónicas.
+
+La presente Resolución entrará en vigencia a contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+
+
+
+Anótese, comuníquese y publíquese en extracto
+
+
+
+
+
+(Fdo.) JUAN TORO RIVERA
+DIRECTOR
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+BSG/IBC/MPM/ABZ
+DISTRIBUCION:
+Secretaría Director
+Subdirección Normativa
+Sres. Directores Regionales 
+I a XVI Direcciones Regionales
+Director Dirección Grandes Contribuyentes
+Subdirección de Fiscalización 
+Oficina de Factura Electrónica y Documentos de Venta
+Oficina de Partes
+Boletín
+Internet
+Diario Oficial (Extracto)
+
+

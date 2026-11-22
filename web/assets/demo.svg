@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="640" viewBox="0 0 420 640" role="img" aria-label="Demo de FiscolItA en Telegram">
+  <style>
+    .f{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .m{opacity:0;animation:ap 16s infinite}
+    .m1{animation-delay:.5s}.m2{animation-delay:2s}.m3{animation-delay:4.5s}.m4{animation-delay:6s}.m5{animation-delay:8.5s}.m6{animation-delay:10s}
+    @keyframes ap{0%{opacity:0;transform:translateY(8px)}4%{opacity:1;transform:none}88%{opacity:1}96%{opacity:0}100%{opacity:0}}
+    .t{font-size:13.5px;fill:#0B2545}.tw{font-size:13.5px;fill:#fff}.s{font-size:11px;fill:#5A6F8F}.b{font-weight:700}
+  </style>
+  <rect width="420" height="640" rx="28" fill="#DDE7F2"/>
+  <rect width="420" height="64" rx="28" fill="#0B2545"/><rect y="36" width="420" height="28" fill="#0B2545"/>
+  <circle cx="40" cy="32" r="19" fill="#1B3A66"/><circle cx="40" cy="32" r="19" fill="none" stroke="#D52B1E" stroke-width="3"/>
+  <text x="40" y="38" text-anchor="middle" class="f" font-size="16" fill="#fff">★</text>
+  <text x="70" y="29" class="f b" font-size="16" fill="#fff">Fiscol<tspan fill="#FF4D3D">I</tspan>t<tspan fill="#FF4D3D">A</tspan></text>
+  <text x="70" y="47" class="f" font-size="12" fill="#A9C1E0">asesora tributar<tspan fill="#FF4D3D" class="b">IA</tspan> · en línea</text>
+
+  <g class="m m1 f"><rect x="150" y="84" width="250" height="40" rx="14" fill="#2F7DE1"/>
+    <text x="164" y="109" class="tw">/bhe 1000000</text></g>
+
+  <g class="m m2 f"><rect x="20" y="136" width="300" height="104" rx="14" fill="#fff"/>
+    <text x="34" y="160" class="t b">Boleta de honorarios 2026 · 15,25%</text>
+    <text x="34" y="182" class="t">Bruto: $1.000.000</text>
+    <text x="34" y="201" class="t">Retención: $152.500</text>
+    <text x="34" y="220" class="t b">Líquido: $847.500</text>
+    <text x="230" y="232" class="s">✅ Fuente SII</text></g>
+
+  <g class="m m3 f"><rect x="110" y="256" width="290" height="58" rx="14" fill="#2F7DE1"/>
+    <text x="124" y="280" class="tw">🎙️ ¿Qué código del F29 es la</text>
+    <text x="124" y="300" class="tw">base del PPM?</text></g>
+
+  <g class="m m4 f"><rect x="20" y="326" width="330" height="100" rx="14" fill="#fff"/>
+    <text x="34" y="350" class="t">Va en el <tspan class="b">código 563</tspan> (línea 69): ingresos</text>
+    <text x="34" y="369" class="t">brutos del mes sin IVA. La tasa en el</text>
+    <text x="34" y="388" class="t"><tspan class="b">código 115</tspan> y el PPM a pagar en el <tspan class="b">62</tspan>.</text>
+    <text x="34" y="414" class="s">✅ Fuente oficial SII · FAQ 09-06-2025</text></g>
+
+  <g class="m m5 f"><rect x="210" y="442" width="190" height="40" rx="14" fill="#2F7DE1"/>
+    <text x="224" y="467" class="tw">/calendario</text></g>
+
+  <g class="m m6 f"><rect x="20" y="494" width="340" height="122" rx="14" fill="#fff"/>
+    <text x="34" y="518" class="t b">📅 Próximos vencimientos</text>
+    <text x="34" y="541" class="t">• 30-11 Contribuciones: cuota</text>
+    <text x="34" y="562" class="t">• 10-12 Cambia el período de la UF</text>
+    <text x="34" y="583" class="t">• 21-12 F29 / F50 por internet</text>
+    <text x="34" y="604" class="s">Te aviso 3 días antes con /alertas 🔔</text></g>
+</svg>

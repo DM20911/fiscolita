@@ -1,0 +1,101 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso101.doc
+titulo: Word – Resolución Exenta SII N°101 del 04 de Noviembre del 2004 Incluye en Nómina "Grandes Contribuyentes" a contribuyente que indica: Fuente: Dirección Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°101 DEL 04 DE NOVIEMBRE DEL 2004 MATERIA : INCLUYE EN NÓMINA "GRANDES CONTRIBUYENTES" A CONTRIBUYENTE QUE INDICA:
+
+EMBONOR S.A.
+RUT N° 96.891.720-k
+
+
+VISTOS: Las facultades que se me confieren en el Art. 3° y  en las letras a), b), c), h) y n) del Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de Hacienda, de 1980, lo establecido en el Art. 6° letra A., N° 1° del Código Tributario, contenido en el Art. 1° del D.L. N° 830 de 1974, lo dispuesto por esta Dirección mediante Res. Ex. N° s 34 de fecha 24.08.01, 45 de fecha 19.11.01 y 68 de fecha 02.12.03, y  las necesidades del servicio
+
+
+CONSIDERANDO:
+
+
+1°	Que por medio de la Res. Ex. N° 34, de fecha 24.08.01, se creó con dependencia jerárquica de la Dirección Nacional, el Departamento Subdirección de Fiscalización denominado "Dirección Grandes Contribuyentes", fijándosele las atribuciones, responsabilidades y obligaciones que en la misma resolución se indican, señalando que para los efectos de la misma se entenderá por "Grandes Contribuyentes", cualquiera sea su capital, denominación, domicilio, organización, monto de ventas o sector económico, aquel que conste en una nómina que fijará el Director mediante resolución.
+
+2°	Que por otra parte, a través de la Res. Ex. N° 45 de 19.11.01 se fijó la Nómina de "Grandes Contribuyentes" para los efectos señalados en dispositivo 3° de Res. Ex. N° 34, ya citada, sobre la base de criterios y selección que en aquel documento se indicaron. También se expresa que la Nómina se actualizará con aquellos contribuyentes cuya inclusión o exclusión autorice el suscrito.
+
+3°	Considerando además, la solicitud de incorporación  presentada con fecha 29.10.2004, por Raúl Reyes Andrade y Cristian Hohlberg Recabarren quienes actúan en representación (según se acredita, mediante escritura pública de fecha 23.07.2004 Notaría N°29 de Santiago Titular Raúl Undurraga Laso, repertorio N° 4147-2004), de la sociedad que más adelante se menciona,
+
+
+RESUELVO:
+
+
+1.	Incorporase a la Nómina de "Grandes Contribuyentes", fijada por medio de la Res. Ex. N°45 del 19.11.01 y modificada por Res. Ex. N°68 de 02.12.03, a la sociedad que a continuación se individualiza:
+
+CONTRIBUYENTE:	EMBONOR S.A.
+RUT N°		            96.891.720-k
+
+
+2.	Los procesos de fiscalización que se encuentren en curso a la fecha de publicación de esta resolución y que se refieran al contribuyente individualizado en el resolutivo anterior, de esta resolución, deberán ser conocidos por la Dirección Grandes Contribuyentes. 
+
+3.	La presente resolución regirá a contar de la fecha de su notificación.
+
+
+
+ANOTESE Y NOTIFIQUESE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+       DIRECTOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISTRIBUCION
+-Director
+-DGC
+-GEI
+-Contribuyente: Embonor S.A. RUT N° 96.891.720-k
+En su representación a
+Raúl Reyes Andrade y Cristian Hohlberg Recabarren.
+Domicilio: Gran Bretaña 5690, Talcahuano
+-Internet
+
+
+PAGE  1
+
+
+
+
+
+
+

@@ -1,0 +1,227 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso159.doc
+titulo: Word – Resolución Exenta SII N°159 del 11 de Diciembre del 2008 Deroga Autorización Otorgada para Operar como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que se Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°159 DEL 11 DE DICIEMBRE DEL 2008 MATERIA : DEROGA AUTORIZACIÓN OTORGADA PARA OPERAR COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; la Res. Ex. SII N° 45, de 01 de Septiembre de 2003; la Res. Ex. SII N° 08, de 23 de Enero de 2004; la Res. Ex. SII N° 86, de 1 de Septiembre de 2005; y
+
+
+CONSIDERANDO:
+	
+1° Que, por la Res. Ex. SII N° 08, de 23 de Enero de 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+
+2° Que, en virtud de dicha facultad, este Servicio puede autorizar la emisión Documentos Tributarios Electrónicos, exigiendo el cumplimiento de requisitos necesarios para resguardar debidamente el interés fiscal.
+
+
+3° Que, asimismo, la facultad antes señalada permite derogar las autorizaciones otorgadas, de acuerdo a las situaciones definidas en el resolutivo Duodécimo de la Res. Ex. SII N° 45, de 2003, así como en otras situaciones no contempladas en el resolutivo indicado.
+
+
+4° Que, los contribuyentes que se detallan en el único Dispositivo de esta resolución han solicitado a este Servicio la derogación de su autorización para emitir Documentos Tributarios Electrónicos, según se detalla a continuación:
+
+Con el fin de incorporarse como usuario del Sistema de Facturación Electrónica del Portal MIPYME, los siguientes contribuyentes han solicitado la derogación de su autorización, la que les fue otorgada: a partir de Agosto de 2005 para el contribuyente RUT N° 76.105.250-0, según lo dispuesto en la Res. Ex. SII N° 79, de 01 de Agosto de 2005; a partir de Octubre de 2005 para el contribuyente RUT N° 77.330.040-2, según lo dispuesto en la Res. Ex. SII N° 97, de 30 de Septiembre de 2005; a partir de Noviembre de 2007 para el contribuyente RUT N° 76.953.290-0, según lo dispuesto en la Res. Ex. SII N° 138, de 16 de Noviembre de 2007; y a partir de Agosto de 2007 para el contribuyente RUT N° 78.707.550-9, según lo dispuesto en la Res. Ex. SII N° 85, de 31 de Julio de 2007;
+Por los motivos señalados en sus presentaciones, los siguientes contribuyentes han solicitado la derogación de su autorización, la que les fue otorgada: a partir de Diciembre de 2006 para el contribuyente RUT N° 96.716.780-0, según lo dispuesto en la Res. Ex. SII N° 152, de 27 de Noviembre de 2006; a partir de Julio de 2006 para el contribuyente RUT N° 96.882.300-0, según lo dispuesto en la Res. Ex. SII N° 82, de 07 de Julio de 2006; y a partir de Mayo de 2007 para el contribuyente RUT N° 76.734.070-2, según lo dispuesto en la Res. Ex. SII N° 86, de 1° de Septiembre de 2005.
+Con el fin de operar en Facturación Electrónica con un software adquirido en el mercado, el contribuyente RUT N° 76.208.700-6 ha solicitado la derogación de su autorización, la que le fue otorgada a partir de Agosto de 2006, según lo dispuesto en la Res. Ex. SII N° 86, de 1° de Septiembre de 2005
+
+
+						     SE RESUELVE:
+
+Derógase la autorización otorgada para operar como emisor de Documentos Tributarios Electrónicos, de acuerdo a lo establecido en la Res. Ex. SII N° 45, de 2003, y la Res. Ex. SII N° 86, de 2005, a los siguientes contribuyentes:
+
+- AMBIENTE VITAL S.A.							RUT N° 96.716.780-0
+- ASICOM IMPRESORES DIGITALES S.A.					RUT N° 77.330.040-2
+- DOCUMENTO ELECTRÓNICO INTEGRACIÓN S.A.				RUT N° 76.953.290-0
+- IMPORTADORA Y COMERCIALIZADORA DE EQUIPOS INDUSTRIALES	
+   Y DE ANÁLISIS DE AGUA EQUIAMBIENTE LIMITADA			RUT N° 76.734.070-2	
+- ORGANIZACION DE CAPACITACION CAADEM LIMITADA			RUT N° 78.707.550-9
+- SOC. CSNET CONSULTORIAS Y SERVICIOS INFORMATICOS LTDA.	RUT N° 76.105.250-0
+- TELECARE COMUNICACIONES MEDICAS LIMITADA			RUT N° 76.208.700-6
+- WAY CHILE S.A.								RUT N° 96.882.300-0
+
+
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) J0RGE TRUJILLO PUENTES
+  SUBDIRECTOR DE FISCALIZACIÓN
+
+         Lo que transcribo a Ud., para su conocimiento y demás fines
+
+IBC/MPM/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

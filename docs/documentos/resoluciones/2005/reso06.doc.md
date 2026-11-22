@@ -1,0 +1,59 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso06.doc
+titulo: Word – Resolución Exenta SII N°06 del 14 de Enero del 2005 Imparte Instrucciones Sobre Inscripción de Almacenes, Dependencias, Depósitos, Bodegas y Locales en los que se Almacene Tabaco Manufacturado Fuente: Departamento Fiscalización Selectiva e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°06 DEL 14 DE ENERO DEL 2005 MATERIA : IMPARTE INSTRUCCIONES SOBRE INSCRIPCIÓN DE ALMACENES, DEPENDENCIAS, DEPÓSITOS, BODEGAS Y LOCALES EN LOS QUE SE ALMACENE TABACO MANUFACTURADO 
+
+
+                                                                    	Hoy se ha resuelto lo que sigue:
+
+                                    	VISTOS: La facultad que me confiere el artículo 6°, letra A N° 1, del Decreto Ley N° 830, de 1974, sobre Código Tributario; lo señalado en las letras a) y b) del artículo 7° del D.F.L. N° 7, de 1980, Ley Orgánica del Servicio de Impuestos Internos y, lo dispuesto en el Decreto Ley N° 828, de 1974, sobre Impuesto a los Tabacos Manufacturados, modificado por el artículo 2°, de la Ley N° 19.888, publicada en el Diario Oficial del 13-08-2003.
+                                                                       
+
+CONSIDERANDO:
+
+1°)	Que, los fabricantes, los importadores y los comerciantes de cigarros, cigarrillos y tabacos elaborados, estarán obligados a permitir la inspección del personal del Servicio de Impuestos Internos, a todos los almacenes, dependencias y depósitos del establecimiento, cada vez que el Servicio necesite corroborar la observancia del DL. N° 828 y de su Reglamento.
+
+2°)	Que, los lugares destinados a almacenamiento de cigarros, cigarrillos y tabacos, tales como: almacenes, dependencias, depósitos, bodegas y locales indicados en el considerando anterior, conforme al inciso tercero del artículo 15° del DL. N° 828, deberán ser autorizados expresamente por el Servicio, para estos efectos.
+
+3°)	Que, para facilitar la obtención de esta autorización y definir la forma, oportunidad y lugar en que se deberá solicitar.
+
+
+                                                                        SE RESUELVE:
+
+1°)	Dispónese que los fabricantes, importadores, y comerciantes mayoristas o minoristas de cigarros, cigarrillos y tabacos elaborados, para obtener la autorización del Servicio, para sus almacenes, dependencias, depósitos, bodegas y locales, que cuenten con un Rol de Avalúo  distinto al de las fábricas y locales de venta a público, donde almacenen estos productos, deberán solicitar al Servicio la inscripción para cada uno de ellos.
+
+2°) 	La solicitud de autorización se hará ante la Dirección Regional correspondiente al domicilio de la casa matriz del contribuyente, a través del Formulario N° 2117, indicando en Fundamento de la Solicitud y/o documentos adjuntos, la glosa “Solicita autorización Resolución Ex. N° .... del ...”. 
+
+3°)	Los inmuebles en que se almacenen los tabacos manufacturados deberán ser inscritos antes de ser utilizados como tales. En el caso de aquellos utilizados actualmente con el propósito antes mencionado, deberán cumplir con este procedimiento en un plazo no superior a 60 días contados desde la publicación de la presente Resolución.   
+
+4°) 	Para acreditar la autorización, el Servicio de Impuestos Internos emitirá un certificado en duplicado, debiendo mantenerse el original del certificado en el local autorizado y ser exhibido en casos que funcionarios del Servicio lo requieran. 
+5°) 	Si se verifica la existencia de locales de almacenamiento de productos gravados por el DL. N° 828, de 1974, sin contar con la autorización a que se refiere esta resolución, el contribuyente respectivo, será sancionado de acuerdo a las normas contenidas en el inciso primero del Artículo 109° del Código Tributario. Asimismo, la no exhibición del Certificado de Autorización, será sancionado conforme al N° 6 del artículo 97 de este mismo texto legal. 
+
+
+
+                                                            
+
+	ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE. 
+
+
+
+ JUAN TORO RIVERA         DIRECTOR
+
+	Lo que transcribo a Ud. para su conocimiento y fines pertinentes,
+
+	Saluda a Ud.,
+                                                                        
+DISTRIBUCIÓN:
+Directores Regionales, I a XVI Dirección Regional.
+Director Grandes Contribuyentes.
+Subdirección de Estudios.
+Subdirección Normativa.
+Subdirección de Fiscalización.
+Secretaría del Director.
+Departamento de Fiscalización Selectiva e Internacional.
+Oficina de Partes.
+INTERNET.
+
+

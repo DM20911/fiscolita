@@ -1,0 +1,234 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso162.doc
+titulo: Word – Resolución Exenta SII N°162 del 30 de Octubre del 2009 Exime a Indap de la Obligación de Timbraje Establecida en el Art. 17 Inc, 2° del D.L. N° 3475 de 1980 y Fija Requisitos en su Reemplazo. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°162 DEL 30 DE OCTUBRE DEL 2009 MATERIA : EXIME A INDAP DE LA OBLIGACIÓN DE TIMBRAJE ESTABLECIDA EN EL ART. 17 INC, 2° DEL D.L. N° 3475 DE 1980 Y FIJA REQUISITOS EN SU REEMPLAZO.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS:
+
+Las facultades contempladas en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980; lo dispuesto en el Art. 6°, Inciso 1°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; y los Art. 1°, N° 3, 17 inciso 2° y Art. 18°, del D.L. N° 3.475, de 1980, sobre Impuesto de Timbres y Estampillas.
+
+La presentación efectuada en la Dirección de Grandes Contribuyentes, mediante Ordinario N° 617, de fecha 14 de Octubre de 2008, por Don Hernán Rojas Olavarría, en representación de Instituto de Desarrollo Agropecuario (INDAP), RUT N° 61.307.000-1, ambos con domicilio para estos efectos en Agustinas N° 1465, Comuna de Santiago, en la que solicita autorización para eximirse del timbraje de mutuos y pagarés.
+
+
+CONSIDERANDO:
+
+1° Que, en conformidad al Art. 17 el inciso 2° del D.L. N° 3.475, de 1980, los contribuyente del Art. 15 N° 2 (los que declararan renta efectiva mediante balance general y contabilidad completa) que emitan u otorguen letras de cambio o cualquiera de los documentos señalados en el Art. 1 N° 3, deben enumerarlos correlativamente, timbrarlos y registrarlos ante el Servicio. 
+
+2° Que, en relación a lo anterior, éste Servicio, mediante instrucciones contenidas en la Circular N° 72, de fecha 08 de Octubre de 1980, señaló que las letras de cambio y demás documentos deberán emitirse en formularios impresos, de numeración correlativa, que deben ser autorizados en la Unidad del Servicio correspondiente, lo que se acreditará mediante la aposición del timbre utilizado para las boletas de ventas y servicios.
+
+3° Que, este Servicio, mediante Resolución Ex. N° 53 del 30 de Abril de 2008, estableció que los contribuyentes que hubieren recargado el Impuesto de Timbres y Estampillas deberán presentar el “Auxiliar de Registro de Timbres y Estampillas”, por medio de la Declaración Jurada 3324.
+4° Que, conforme el inciso final del Art. 18 del D.L. N° 3.475, de 1980, el Director esta facultado para suprimir requisitos, cuando ellos dificulten la modalidad normal de operar de los contribuyentes, y sustituirlos por otros que resguarden debidamente el interés fiscal.
+
+5° Que, es necesario facilitar el cumplimiento tributario, incorporando los medios tecnológicos que se encuentran disponibles en la actualidad. 
+
+
+SE RESUELVE:
+
+1°.- EXIMESE, al Instituto de Desarrollo Agropecuario (INDAP), RUT N° 61.307.000-1, de la obligación de timbraje de los pagarés, letras de cambio y otros documentos gravados, que se establece en el Art. 17 inciso 2° del D.L. N° 3.475, de 1980. En su reemplazo, INDAP deberá presentar el formulario N° 3230, "Declaración Jurada para Timbraje de Documentos y/o Libros y Notificaciones", indicando el tipo de documento a emitir y sus folios correspondientes. Dicho formulario deberá ser presentado en la Sección Timbraje de la Unidad correspondiente a la jurisdicción del domicilio de la Casa Matriz, cada vez que los documentos antes citados deban ser foliados.
+
+2°.- Los documentos tributarios que se emitan de acuerdo a la autorización señalada en el dispositivo Primero de esta Resolución, deberán serán confeccionados según las instrucciones impartidas en la Circular N° 72, de fecha 08 de Octubre de 1980, Circular N° 8, de fecha 07 de Febrero de 1984, y la Res. Ex. SII N° 5285, de fecha 22 de Septiembre de 1993.
+
+3°.- Para conservar la autorización para reemplazar el timbraje de los documentos señalados, el contribuyente estará obligado a presentar la Declaración Jurada N° 3324 dentro de los plazos establecidos en la Res. Ex. SII N° 87, del 1 de Agosto de 2007, en particular en lo referente a los documentos emitidos bajo la modalidad establecida en esta Resolución.
+
+4°.- El Servicio de Impuestos Internos podrá revocar la autorización otorgada al contribuyente, si éste no cumple las obligaciones establecidas en la presente resolución o si incurre en cualquiera de las causales:
+
+No estar al día en el cumplimiento de sus obligaciones tributarias.
+Ser querellado o procesado por delito tributario.
+
+5°.- El ejercicio de la facultad establecida en el dispositivo anterior, se delega en el Subdirector de Fiscalización; debiendo las resoluciones que se dicten al efecto, citar por su número y fecha, la presente resolución.
+
+6°.- El incumplimiento de las obligaciones que se establecen en esta resolución, será sancionada conforme a las normas pertinentes del Código Tributario.
+
+7°.- La presente resolución regirá a partir del día de su publicación, en extracto, en el Diario Oficial.
+
+
+		ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+	
+
+
+
+
+
+
+
+
+
+
+(Fdo.)  JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+IBC/MSB/HSS/OBA
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,151 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr3_1.htm
+titulo: subcr3_1.htm
+categoria: sobre_el_sii
+---
+**3. DESARROLLO DE LAS PERSONAS Y LA ORGANIZACION**
+
+3.1 Gestión del personal y relaciones laborales.
+
+En una institución compleja y con tan diversos desafíos
+como es el SII, para lograr objetivos de calidad orientados al usuario, la gestión del
+personal se basa en dos estrategias claves: la primera es desarrollar y proyectar al
+funcionario del Servicio un tipo de empleado altamente profesionalizado, motivado e
+identificado con la Misión y los Objetivos Estratégicos del Servicio, que sea capaz de
+actuar individualmente y/o colectivamente con iniciativa y autonomía, sentido de
+responsabilidad, eficacia y probidad; la segunda estrategia, apunta a ir concretando en
+todo momento un marco propicio para que se desarrolle el trabajo en colaboración que se
+manifieste en la participación de los funcionarios en todos los niveles de la
+organización, como condición necesaria para el establecimiento de relaciones laborales
+permanentes y armoniosas dentro de la Institución.
+
+**El desarrollo del funcionario del Servicio de Impuestos Internos**
+
+En la aplicación de la primera estrategia, es esencial
+como se ha dicho en el criterio 1, el liderazgo que las jefaturas tienen que tener sobre
+los funcionarios, en el trabajo operativo cotidiano, de mejoramiento continuo de los
+procedimientos empleados, en el análisis de los problemas que se presentan y de los
+resultados obtenidos. Promover la continua interacción entre jefes y funcionarios es
+considerado el elemento central del desarrollo continuo del nuevo tipo de funcionarios que
+se está desarrollando en el Servicio.
+
+Sin embargo para que ésto sea un cambio permanente y cada
+vez más profundo, es necesario ir desarrollando las capacidades y habilidades de
+funcionarios y jefes en materias técnicas, comunicacionales, y de trabajo en equipo,
+objetivos que están presentes y marcan los planes y metodologías de capacitación,
+incorporando talleres con enfoque metodológico de tipo activo-participativo que están
+fundamentados en la convicción de que todo aquel que asiste a un curso es capaz de decir
+algo en las materias que se les instruye.
+
+Así, desde la preparación misma del funcionario y con la
+conducción de monitores y moderadores especialmente entrenados para este efecto, al mismo
+tiempo de entregar los contenidos se va introduciendo al que se capacita a las prácticas
+de participación.
+
+Esta metodología aplicada a los cursos y talleres
+relacionados con la puesta en marcha de proyectos de mejoramiento permite que los diseños
+originales, hechos por los equipos de trabajo especialistas, puedan ser perfeccionados en
+un proceso iterativo de aprendizaje-participación de aquellos que tendrán que aplicar
+estas mismas innovaciones. Una experiencia notable en este punto se obtuvo del proceso de
+los talleres destinados a capacitar a los funcionarios encargados de recibir la
+información del "Vector Externo", los que propusieron numerosos mejoramientos
+al diseño que redundaron en una mucho mejor aplicación de los procedimientos definidos
+por los ingenieros.
+
+Reuniones y visitas periódicas del Director Nacional,
+Subdirectores y Jefes de Departamento de las áreas funcionales de la Dirección Nacional
+a las distintas unidades regionales del Servicio. En estas visitas se realizan reuniones
+con el equipo directivo regional; con los equipos de trabajo de los distintos
+departamentos regionales y reuniones o talleres de trabajo con todo el personal de la
+unidad. Se utilizan unas u otras en función de los objetivos y planificación de cada
+visita. En las reuniones con la totalidad del personal se utilizan técnicas que facilitan
+la participación y aporte en pequeños grupos.
+
+**La participación**
+
+Una segunda estrategia de gestión de personal destinada a
+mejorar la calidad de los procesos y/o soluciones, es la de generar numerosas instancias
+de participación consistente en reuniones de jefaturas, de éstas con sus funcionarios,
+de comités por área y otras iniciativas de esta especie de las cuales se ha hecho una
+amplia relación al evaluar el Criterio 1.
+
+Sin embargo este ideal de participación no debe
+confundirse con una cogestión de las decisiones que corresponden a los cuadros directivos
+de la línea. Estos últimos son responsables en último término de las decisiones de
+asumir o no las proposiciones que surgen de las instancias participativas anteriores.
+
+Las estadísticas de cobertura de los talleres y cursos de
+capacitación que se muestran como resultados en el Criterio 8, revelan que en los
+últimos años se ha masificado el número de funcionarios que tienen la oportunidad de
+asistir y por ende de aprender y ejercitarse en participar. Las experiencias de la
+capacitación en proyectos como el Ciclo de Vida del Contribuyente que implicó capacitar
+al 100% de los 500 funcionarios que trabajaban en esta área, los cursos para la
+Operación Renta que en 1998 implicó capacitar 250 funcionarios, la capacitación
+para la recepción del "Vector Externo", y más rotundamente la capacitación de
+1.300 funcionarios para "Nuevos Sistemas y Aplicaciones en Informática",
+muestran en un hecho inédito para un Servicio Público tanto el interés por mejorar el
+nivel técnico del personal, pero por sobre todas las cosas la oportunidad institucional
+de presentar y hacer valer dudas, inquietudes, sugerencias respecto a iniciativas que
+afectan sus propios trabajos.
+
+A la masificación de las oportunidades de capacitación
+del personal se agrega un proceso de profundización y enriquecimiento de las
+comunicaciones jefatura-funcionario que se ha venido dando en el Servicio. El punto de
+partida de este proceso se dio en 1996 al realizarse en Villa Alemana una jornada de
+análisis de clima organizacional entre Directores Regionales y directivos de las
+Subdirecciones de Recursos Humanos y de Fiscalización. En dicha oportunidad se develaron
+diferencias importantes en la visión de la organización y los estilos de gestión y
+recelos mutuos en parte motivados por la dicotomía entre el Directivo de carrera
+(funcionario tradicional) y Directivo de preparación académica y profesional pero de
+reciente incorporación al Servicio. El reconocimiento de mutuas capacidades y valores y
+el absoluto consenso de la necesidad de acentuar la asertividad y la sinceridad de las
+relaciones laborales marcaron el inicio de un nuevo acento en las relaciones laborales y
+la política de recursos humanos del Servicio.
+
+Producto de ello se intensificó el programa de
+capacitación a jefaturas en técnicas de supervisión, liderazgo asertividad y
+comunicaciones interpersonales. A su vez los equipos directivos de la Subdirección de
+Recursos Humanos asumieron la responsabilidad de intervenir activamente en los casos y
+unidades en que se produjeran problemas o conflictos que afectaran importantemente el
+clima laboral. En esta línea se ha intervenido en situaciones de alta conflictividad como
+es el caso de la Dirección Regional Temuco en 1997 en la cual, funcionarios del Servicio
+fueron detenidos acusados de actuar en connivencia con delincuentes comprometidos en
+fraudes de IVA. Así como ésta, se ha debido actuar en otras ocasiones en las que en
+conversaciones personalizadas y grupales, con apoyo de psicólogos y profesionales de la
+Subdirección se ha realizado las intervenciones necesarias para superar los conflictos.
+
+**La relación con las Asociaciones Gremiales de funcionarios**
+
+La relación de la Dirección del Servicio con los gremios
+de los funcionarios se ha ido construyendo a lo largo de un proceso de interacciones que
+no ha estado exento de dificultades, las que incluso generaron un paro de funcionarios el
+año 1992 en demanda de mejores salarios y en protesta por la aplicación por parte de la
+Dirección de criterios más estrictos para el sistema de calificaciones.
+
+Hoy en día existe una interlocución mucho más madura en
+ambas partes que se expresa desde los niveles regionales hasta los más altos niveles del
+Servicio. De hecho la Dirección creó - en un hecho no muy común en los Servicios
+Públicos - una Subdirección de Recursos Humanos dependiente directamente del Director
+destinada a diseñar y gestionar la política de Recursos Humanos pero a la vez para
+servir de interlocutor válido ante las dos asociaciones gremiales existentes en el
+Servicio, AFIICH y ANEIICH.
+
+El buen nivel actual de relaciones se sostiene en el
+esfuerzo continuo de ir delimitando los campos de acción de los gremios y de las
+jefaturas de línea responsables de las áreas, en que teniendo claro que no se trata de
+cogestionar pero sí participar en todos los aspectos que tienen que ver con las
+relaciones laborales, condiciones de trabajo y situaciones que afecten las relaciones
+interpersonales de los funcionarios.
+
+Otro ámbito en que se expresa el buen nivel de las
+relaciones que se han ido alcanzado con los gremios es la adhesión que éstos manifiestan
+a los principales lineamientos del proyecto modernización del Servicio que ha impulsado
+la Dirección, acuerdo que en ningún caso implica una aceptación incondicional a todos
+los aspectos que puedan estar en juego en los cambios que se van produciendo. En
+particular ha sido muy importante el proceso de concordar con los gremios a principios de
+1998 lo que se ha llamado el "Proyecto de incentivos al personal del Servicio de
+Impuestos Internos para la lucha contra la evasión y consolidar su modernización".
+Este esfuerzo ha significado que las autoridades de Gobierno hayan prestado atención a la
+urgente necesidad de recompensar adecuadamente el trabajo exitoso que han realizado los
+funcionarios en disminuir la evasión y el fraude tributario cuyos resultados se muestran
+en el Criterio 8.

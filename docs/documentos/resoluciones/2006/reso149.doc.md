@@ -1,0 +1,46 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso149.doc
+titulo: Word – Resolución Exenta SII N°149 del 27 de Noviembre del 2006 Establece Procedimiento para que las Municipalidades Informen al Servicio de Impuestos Internos la Nómina Correspondiente a Inmuebles Declarados Propiedades Abandonadas y Pozos Lastreros. Fuente: Oficina de Normas y Casos Especiales
+categoria: otros
+---
+RESOLUCION EXENTA SII N°149 DEL 27 DE NOVIEMBRE DEL 2006 MATERIA : ESTABLECE PROCEDIMIENTO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS LA NÓMINA CORRESPONDIENTE A INMUEBLES DECLARADOS PROPIEDADES ABANDONADAS Y POZOS LASTREROS. 
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974, los artículos 3° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, el artículo 58 bis del D.L. N° 3063, sobre Rentas Municipales, y el Decreto N° 193, de 2006, del Ministerio de Vivienda y Urbanismo, que modificó el Decreto N° 47, de 1992, Ordenanza General de Urbanismo y Construcciones, y
+
+CONSIDERANDO:
+
+Que, según disponen los artículos 3° y 8° de la Ley N° 17.235, los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, con o sin urbanización, y que correspondan a propiedades abandonadas o pozos lastreros, pagarán una sobretasa del 100% respecto de la tasa vigente del impuesto y deben ser objeto de un reavalúo el 1 de enero de cada año.
+
+Que, para los fines enunciados en el considerando precedente, el artículo 8° de la ley mencionada dispone que los municipios deberán informar al Servicio de Impuestos Internos la nómina de propiedades declaradas como abandonadas y las correspondientes a pozos lastreros en la forma y plazo que este Servicio determine.
+
+Que para la adecuada administración del impuesto territorial, se requiere contar con información actualizada y oportuna.
+
+
+
+SE RESUELVE:
+
+Para efectos de aplicar lo establecido en los artículos 3° y 8° de la Ley N° 17.235, las municipalidades deberán remitir, a la Dirección Regional que tiene jurisdicción sobre la comuna respectiva, durante el mes de diciembre de cada año, la nómina completa actualizada de propiedades declaradas como abandonadas y de pozos lastreros que se emplazan en sus respectivas comunas.
+
+En la nómina señalada se deberá identificar, para el caso de las propiedades abandonadas, su número de rol de avalúos, la dirección de la propiedad y el número y fecha del decreto alcaldicio vigente que le atribuya dicha calidad.  
+
+Por su parte en el caso de los pozos lastreros, se deberá indicar su número de rol de avalúos, la dirección de la propiedad y la fecha con la cual el municipio puso término al respectivo Permiso o Decreto Alcaldicio de extracción de áridos.  
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+	(Fdo.) RICARDO ESCOBAR CALDERÓN	DIRECTOR
+	Lo que transcribo a Ud., para su conocimiento y demás fines.
+DISTRIBUCIÓN: 
+Secretaría del Director
+Subdirección de Avaluaciones
+Oficina de Partes
+Al Diario Oficial (en extracto) 
+Internet
+Boletín 
+

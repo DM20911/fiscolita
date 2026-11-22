@@ -1,0 +1,30 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso194.doc
+titulo: Word – Resolución Exenta SII N°194 del 22 de Diciembre del 2009 Establece Obligación de Presentar Declaración Jurada a las Sociedades de Personas, las Sociedades de Hecho, Comunidades y Sociedades en Comandita por Acciones, Respecto de la Participación de sus Socios. Fuente: Departamento de Estudios
+categoria: otros
+---
+RESOLUCION EXENTA SII N°194 DEL 22 DE DICIEMBRE DEL 2009 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA A LAS SOCIEDADES DE PERSONAS, LAS SOCIEDADES DE HECHO, COMUNIDADES Y SOCIEDADES EN COMANDITA POR ACCIONES, RESPECTO DE LA PARTICIPACIÓN DE SUS SOCIOS.
+Hoy se ha resuelto lo que sigue: 
+VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1 y 60° inciso penúltimo del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda; y
+ CONSIDERANDO: 
+Las disposiciones establecidas en la Resolución Exenta N° 55 de 2003, las Circulares N° 17 de 1995 y N° 50 de 2003; y que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se ha estimado necesario contar con la información al 31 de diciembre,  de las inversiones efectuada por los socios que poseen participación en la sociedad. 
+ SE RESUELVE:
+Las sociedades de personas, las sociedades de hecho, comunidades y sociedades en comandita por acciones, respecto de sus socios, deberán presentar al Servicio de Impuestos Internos, antes del 22 de marzo de cada año, una declaración jurada en la que se informe el porcentaje de participación social, al 31 de diciembre del año anterior, de cada socio, el monto total de capital propio tributario de la sociedad y la proporción del monto de capital propio tributario de la sociedad, según la participación social para cada socio.
+
+La información antes señalada, deberá proporcionarse en el Formulario Nº1803 de "Declaración Jurada Anual sobre socios de sociedades de personas, de hecho, comunidades y en comandita por acciones”, mediante la transmisión electrónica de datos vía INTERNET, haciendo referencia al Formulario N° 1803.
+
+La presente Resolución regirá para los informes que deban presentarse a partir del Año Tributario 2010, respecto de la información del año comercial 2009.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+ RICARDO ESCOBAR CALDERÓN DIRECTOR
+Lo que transcribo a usted para su conocimiento y demás fines.
+Saluda a Ud.,
+DISTRIBUCION: · Secretaría del Director. · Subdirección Normativa. · Subdirección de Estudios. · Subdirección de Fiscalización. · Oficina de Partes. · Boletín del Servicio. · Internet.
+
+ANEXOS
+Anexo 1 ( HYPERLINK "reso194_a01_ddjj.xls" Formato DDJJ y  HYPERLINK "reso194_a01_certificado.xls" Modelo Certificado)
+Anexo 2 ( HYPERLINK "reso194_a02.pdf" Instrucciones)
+
+

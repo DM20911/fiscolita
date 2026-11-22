@@ -1,0 +1,57 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso116.doc
+titulo: Word – Resolución Exenta SII N°116 del 29 de Diciembre del 2004 Establece Obligación de Presentar Declaración Jurada Anual de los Aportes Recibidos por los Organismos Técnicos Intermedios de Capacitación. Fuente: Departamento Fiscalización Selectiva e Internacional.
+categoria: otros
+---
+RESOLUCION EXENTA SII N°116 DEL 29 DE DICIEMBRE DEL 2004 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL DE LOS APORTES RECIBIDOS POR LOS ORGANISMOS TÉCNICOS INTERMEDIOS DE CAPACITACIÓN.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974; en los Arts. N°s 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda; las disposiciones contenidas en la Ley N° 19.518, sobre Estatuto de Capacitación y Empleo; y
+
+CONSIDERANDO:  
+
+1.- 	Que, el inciso primero del artículo 36 de la Ley N° 19.518 establece que: “Los contribuyentes de la Primera Categoría de la Ley sobre Impuesto a la Renta, con excepción de aquellos cuyas rentas provengan únicamente de las letras c) y d) del número 2º del artículo 20 de la citada ley, podrán descontar del monto a pagar de dichos impuestos, los gastos efectuados en programas de capacitación que se hayan realizado dentro del territorio nacional, en las cantidades que sean autorizadas conforme a la presente ley, las que en todo caso no podrán exceder en el año de una suma máxima equivalente al uno por ciento de las remuneraciones imponibles pagadas al personal en el mismo lapso. Aquellas empresas cuya suma máxima a descontar sea inferior a 13 unidades tributarias mensuales, podrán deducir hasta este valor en el año.”
+
+2.-	Que, por su parte el artículo 38 de la misma ley dispone que: “Las empresas sólo podrán imputar como costos directos los gastos en que incurran con ocasión de programas de capacitación que desarrollen por sí mismas o que contraten con los organismos inscritos en el Registro Nacional de Organismos Técnicos de Capacitación y los aportes que las empresas adherentes efectúen a los organismos técnicos intermedios para capacitación y los gastos en que incurran con ocasión de los programas contemplados en el artículo 1° y en el inciso segundo del artículo 10.
+
+Que, en el inciso penúltimo del artículo 60 del Código Tributario se establece que: “Para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas.”
+
+Que, con el objeto de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar la correcta aplicación de las disposiciones tributarias que la ley le encomienda, es preciso contar con la información necesaria para verificar la correcta aplicación de la franquicias tributaria a que se refiere el considerando N° 1.
+  
+
+
+SE RESUELVE:  
+
+1.-  Los Organismos Técnicos Intermedios de Capacitación a que se refiere el artículo 38 de la Ley N° 19.518, deberán presentar una Declaración Jurada, en la forma y plazo que se señala, respecto de los aportes que terceros le hayan efectuados de conformidad a los dispuesto en dicho artículo.
+
+2.-  La obligación que se establece mediante la presente Resolución, regirá cualquiera que sea el monto del o de los aportes efectivamente percibidos. Se entenderá como aporte efectivamente percibido, un flujo efectivo de recursos, tales como dinero efectivo, cheques, o cualquier instrumento financiero que al día 31 de Diciembre del año comercial respectivo, se encuentre como dinero disponible en el Organismo Técnico Intermedio de Capacitación. 
+
+3.-	La referida información deberá proporcionarse mediante el Formulario N° 1831 denominado “Declaración Jurada Anual de los Aportes Recibidos por los OTIC”, informando el N° de Comprobante emitido con ocasión de la recepción de cada aporte; N° de RUT de la empresa aportante; Nombre o razón social de la empresa aportante; Fecha, Monto y Forma de Pago del aporte.
+
+4.-	La Declaración Jurada a que se refiere el resolutivo anterior, deberá presentarse hasta el día 31 de enero de cada año, mediante la transmisión electrónica de datos vía INTERNET u otro medio tecnológico que permita el procesamiento electrónico de datos, cuyo formato e instrucciones se encontrarán disponibles en la página Web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl" www.sii.cl
+
+5.-  Aquellos contribuyentes que no puedan acceder a Internet, podrán concurrir a cualquiera de las Unidades del Servicio para presentar la señalada declaración. En dichas Unidades, el Servicio pondrá a disposición de los contribuyentes, en forma gratuita, los medios para hacerlo. Para tales efectos, los contribuyentes contarán, además, con el apoyo de un funcionario especialmente designado para ello. 
+
+6.-	El incumplimiento de la obligación establecida en la presente Resolución, será sancionado en la forma establecida en el Art. 97 N° 15 del Código Tributario.
+
+7.- Deróguese la Resolución Exenta SII N° 14 del 29 de Enero de 2004 que crea Formulario de Declaración Jurada N° 1826, “Declaración Jurada Anual sobre Aportes entregados a  OTIC, si el 1% de las remuneraciones imponibles es menor o igual a 13 UTM”.
+
+8.-	La presente Resolución regirá para los informes que deban efectuarse a partir del Año Tributario 2005, respecto de la información de aportes efectivamente percibidos durante el año comercial 2004, y para los años tributarios siguientes. 
+  
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO   
+  
+
+
+
+
+ALFREDO ECHEVERRIA HERRERA                  DIRECTOR (S) 
+
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+  
+ 
+DISTRIBUCIÓN:  SECRETARÍA DIRECTOR SUBDIRECCIÓN DE FISCALIZACIÓN SUBDIRECCIÓN NORMATIVA SUBDIRECCIÓN JURÍDICA SUBDIRECCIÓN DE INFORMATICA DEPARTAMENTO DE OPERACIÓN RENTA DEPTO. IMPUESTOS DIRECTOS OFICINA DE PARTES DIARIO OFICIAL (en extracto) INTERNET 
+

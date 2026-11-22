@@ -1,0 +1,194 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso56.doc
+titulo: Word – Resolución Exenta SII N°56 del 25 de Mayo del 2007 Complementa Res. Ex. SII N° 9, de 11 de Enero de 2007, que Autorizó como Emisor de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas a Emisor Electrónico que se Señala. Fuente: Oficina de Catastro, Documentos Electrónicos y Fis
+categoria: otros
+---
+RESOLUCION EXENTA SII N°56 DEL 25 DE MAYO DEL 2007 MATERIA : COMPLEMENTA RES. EX. SII N° 9, DE 11 DE ENERO DE 2007, QUE AUTORIZÓ COMO EMISOR DE BOLETAS ELECTRÓNICAS Y BOLETAS NO AFECTAS O EXENTAS ELECTRÓNICAS A EMISOR ELECTRÓNICO QUE SE SEÑALA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 1°, 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; lo establecido en la Ley N° 19.799; en la Res. Ex. N° 9, de 2001; en la Res. Ex. N° 11, de 2003; en la Res. Ex. N° 18, de 2003; en la Res. Ex. SII N° 45, de 2003; en la Res. Ex. SII  N° 8, de 2004; en la Res. Ex. SII N° 9, de 2007; y
+
+CONSIDERANDO:
+
+1° Que, el contribuyente señalado en el resolutivo Primero de la presente resolución, ha cumplido en forma satisfactoria las exigencias dispuestas en la Res. Ex. SII N° 9, de 2007, que lo autorizó para participar en un plan piloto de emisión de boletas electrónicas y boletas no afectas o exentas electrónicas, dirigido a emisores electrónicos que no tienen como giro principal la prestación de servicios periódicos.
+
+2° Que, el mismo contribuyente ha solicitado la ampliación de la autorización referida respecto de otra sucursal de su dependencia al mencionado plan piloto de boletas electrónicas y boletas no afectas o exentas electrónicas.
+
+						SE RESUELVE:
+
+Primero:	 Autorízase a COMERCIAL FLORES LTDA., RUT N° 78.181.130-0, a emitir boletas electrónicas y boletas no afectas o exentas electrónicas, en la sucursal del contribuyente ubicada en Avenida Vicuña Mackenna N° 7.110, locales N° 325 y N° 326, Mall Plaza Vespucio, Comuna de La Florida, Santiago.
+
+Segundo: La autorización otorgada en virtud de la presente resolución regirá a contar del mes de Mayo de 2007 y, considerando que se enmarca dentro del plan piloto de boletas electrónicas y boletas no afectas o exentas electrónicas, deberá ceñirse estrictamente a lo establecido en los resolutivos Tercero a Decimocuarto, de la Res. Ex. SII N° 9, de 2007, que autorizó al contribuyente antes señalado a emitir estos documentos en forma electrónica.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+(Fdo.) JORGE TRUJILLO PUENTES
+SUBDIRECTOR DE FISCALIZACIÓN 
+
+              Lo que transcribo a Ud., para su conocimiento y demás fines
+
+DISTRIBUCION:
+Internet
+Diario Oficial (Extracto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

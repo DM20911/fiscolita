@@ -1,0 +1,253 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso52.doc
+titulo: Word – Resolución Exenta SII N°52 del 16 de Marzo del 2010 Téngase por Desafiliados del Sistema de Facturación Electrónica a los Contribuyentes que se Indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°52 DEL 16 DE MARZO DEL 2010 MATERIA : TÉNGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA A LOS CONTRIBUYENTES QUE SE INDICAN.
+ 
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), Nº 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974; la Res. Ex. SII Nº 45, de 01 de Septiembre de 2003; la Res. Ex. SII Nº 08, de 23 de Enero de 2004; la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005; y
+
+CONSIDERANDO:
+	
+1° Que, mediante Res. Ex. SII Nº 08, de 23 de Enero de 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. Nº 825, de 1974.  
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplica para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII Nº 45, de Septiembre de 2003.   
+
+3° Que, conforme el Resolutivo 12° de la Res. Ex. SII Nº 45, antes citada, el contribuyente podrá desistirse de ser un emisor electrónico, situación que deberá informar al Servicio de Impuestos Internos, a través de la correspondiente solicitud de desafiliación. 
+
+4° Que, los contribuyentes que se detallan en el Dispositivo Primero de esta resolución, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos. 
+5° Que, los contribuyentes que se detallan en el Dispositivo Segundo de esta resolución, con el fin de incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos, otorgada mediante la Res. Ex. SII Nº 120, de 4 de Noviembre de 2005 y Res. Ex. SII Nº 48, de 26 de Abril de 2007.
+
+
+						    SE RESUELVE:
+
+1° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003 y la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los contribuyentes:
+
+- ANA MARIA GABRIELA GARZOTTO COURBIS				RUT N° 05.815.266-8
+- ASESORIA E INVERSIONES SANDOVAL Y GONZALEZ LTDA.		RUT N° 77.966.160-1
+- ASOC. GREMIAL DE AGRICULTORES Y AFINES DE MAGALLANES A.G.	RUT N° 73.185.300-2
+- CLAUDIA MARCELA VIDAL HENRIQUEZ					RUT N° 08.528.215-8
+- CLARA EDWARDS GARCIA							RUT N° 15.638.298-1	
+- COMERCIAL AGROSUR LTDA.						RUT N° 76.199.790-4
+- COMERCIAL COMSERTEC LTDA.						RUT N° 78.771.060-3
+- COMERCIAL FIES Y CIA. LTDA.						RUT N° 76.186.710-5
+- CONGREGACION DEL BUEN PASTOR					RUT N° 70.000.670-0
+- DANNY ENRIQUE PERICH LARA						RUT N° 13.318.106-7
+- DIST. VTAS. Y SERVICIOS GLOBALIZADOS S.A.				RUT N° 76.867.580-5
+- EDN PRODUCCIONES LTDA.						RUT N° 76.321.590-3
+- ENA ISABEL SANHUEZA CESPEDES					RUT N° 05.620.483-0
+- ESTEBAN EDUARDO SALAS TEJEDAS					RUT N° 13.525.830-K
+- GUSTAVO DANIEL IGLESIAS SOTO					RUT N° 05.928.029-5
+- HECTOR MANUEL ILNAO BARRIENTOS					RUT N° 14.228.657-2
+- HECTOR OCTAVIO CANTIN BUS						RUT N° 05.599.954-6
+- HERNAN JAIME DIAZ VILLASECA						RUT N° 04.102.175-6
+- HERNAN SERGIO HORACIO BERTI ZENTILLI				RUT N° 02.936.655-1
+- JACQUELINE BETBEDER RUBKE						RUT N° 10.042.395-2
+- MARIA SOLEDAD WAIDELE DISEÑO MAGU E.I.R.L.			RUT N° 76.518.740-0
+- MAURICIO PAUL TAPIA CABALLERO					RUT N° 10.407.678-5
+- MIREYA DEL CARMEN ZUÑIGA BECERRA					RUT N° 07.078.592-7
+- PANAVISION S.A.								RUT N° 99.511.840-8
+- PATRICIA DEL CARMEN BARRIA MANCILLA				RUT N° 07.562.033-0
+- RENE ARMANDO CANAS PIZARRO						RUT N° 02.587.540-0
+- ROBERTO ANTONIO VALDES VIVEROS					RUT N° 10.545.490-2
+- ROGELIO DANTON VERA OSSA						RUT N° 03.818.243-9
+- SOC. ARNOLDO CORDONES E HIJO LTDA.					RUT N° 78.449.310-5
+- SOCIEDAD COMERCIAL AMERICA DVD LTDA.				RUT N° 76.667.420-8
+- SOFIA DEL CARMEN IBARRA FERNANDEZ					RUT N° 07.514.055-K
+- TERESA DEL CARMEN TAPIA SALINAS					RUT N° 10.205.149-1
+
+2° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003, con el fin de que incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los siguientes contribuyentes:
+
+
+- EDUARDO DELINIO VERGARA DIAZ					RUT N° 11.175.844-1
+- SCHUFFENEGER Y CIA. LTDA.						RUT N° 78.979.950-4
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+         Lo que transcribo a Ud., para su conocimiento y demás fines
+RPA/HSS/OBA
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

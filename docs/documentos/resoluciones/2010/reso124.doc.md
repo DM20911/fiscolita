@@ -1,0 +1,241 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso124.doc
+titulo: Word – Resolución Exenta SII N°124 del 30 de Julio del 2010 Autoriza como Emisores ee Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°124 DEL 30 DE JULIO DEL 2010 MATERIA : AUTORIZA COMO EMISORES EE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Agosto del 2010, a los siguientes contribuyentes:
+
+- ACEROS Y CILINDROS LTDA.							 78.700.090-8 - AGRICOLA MANUEL SANTA MARIA S.A.						 89.156.100-8 - AGRICOLA SIETE HERMANOS LTDA.						 76.074.975-3 - AGRICOLA VIMA LTDA.								 78.664.930-7 - AGROSERVICIOS SAN JAVIER LTDA.						 78.918.640-5 - ASEGURADORA MAGALLANES DE GARANTIA Y CREDITO S.A.			 76.079.624-7 - ASEOS Y SERVICIOS EXTERNOS LTDA.						 76.008.380-1 - AURUS RENTA INMOBILIARIA FONDO DE INVERSION PRIVADO			 76.033.734-K - CONSTRUCTORA E INMOBILIARIA PRODELCA LTDA.				 77.866.280-9 - CARLSON WAGONLIT CHILE S.A.							 96.937.290-8 - CARMEN SUSANA SANTA MARIA TORREALBA					 06.425.700-5 - CARNES AASA PORK LTDA.							 78.906.710-4 - CLONSA INGENIERIA LTDA.							 76.084.763-1 - COMERCIAL DOMINGUEZ LTDA.							 77.759.310-2 - COMERCIAL E INVERSIONES PANAMERICAN (CHILE) LTDA.			 77.601.300-5 - COMERCIAL RYDER CHILE S.A.							 87.565.400-4 - COMERCIALIZADORA AMBIENTE LTDA.						 76.096.776-9 - COMERCIALIZADORA DE EXCEDENTES INDUSTRIALES S.P.A.			 76.097.918-K - EMPRESA PORTUARIA PUERTO MONTT						 61.950.900-5 - ESPAC CONSTRUCCION S.A.							 99.552.050-8 - ESRI CHILE S.A.									 76.504.980-6 - FUNDICION BRUNO S.A.								 81.347.800-5 - GOLDER ASSOCIATES S.A.							 96.784.920-0 - HEVIA Y COMPAÑIA LIMITADA							 76.092.659-0 - ICR-JOHNSON SCREENS S.A.							 96.910.380-K - INDUSTRIAL Y SERVICIOS PROSER LTDA.					 76.064.098-0 - INESA CHILE S.A.								 99.505.100-1 - INGENIERIA E INSTALACIONES ELECTRICAS COPIAPO LTDA.			 78.396.050-8 - INGENIERIA Y CONSTRUCCIONES INCOLUR S.A.					 79.730.880-3 - INVERSIONES Y ASESORIAS PROFESIONALES RILOP LTDA.			 77.323.800-6 - JORGE PROUST Y ASOCIADOS CONSULTORES LTDA.				 76.594.180-6 - JOSE ALIRO OLIVARES AGUILERA						 04.195.135-4 - LAYHER DEL PACIFICO S.A.							 99.551.260-2 - LOURDES RIVERO								 14.558.905-3 - MADEEX PALLETS CHILE S.A.							 99.540.420-6 - MAESTRANZA DIESEL S.A.							 92.730.000-1 - MAQUINARIA BOIX CHILE LTDA.							 76.004.357-5 - MARIA FRANCISCA BALDUZZI FIALLOS E.I.R.L.					 76.085.761-0 - MATIAS VICENTE Y COMPAÑIA LTDA.						 76.074.514-6 - ORICA CHILE S.A.								 95.467.000-7 - PATRICIO PEREIRA CASTRO PROYECTOS	TOPOGRAFICOS Y 			76.092.496-2
+  SERVICIOS E.I.R.L				 
+- PEDRO PABLO SANTA MARIA TORREALBA					 07.652.186-7 - POLYMET LTDA.									 76.702.680-3 - PROTAB S.A.									 77.389.370-5 - RAMON CRISTIAN SALAS SILVA							 08.332.090-7 - RAUL RAMIREZ E HIJOS S.A.							 78.972.660-4 - SCOTIA CORREDORA DE BOLSA CHILE S.A.					 96.568.550-2 - SERVICIOS DE ADMINISTRACION PREVISIONAL S.A.				 96.929.390-0 - SERVICIOS DE INGENIERIA LTDA.						 77.890.550-7 - SOC. COMERCIAL CLONSA ELECTRONICA LTDA.					 79.933.760-6 - SUSANA FRANCISCA SANTA MARIA TORREALBA					 07.768.011-K - TRANSPORTES DEL SOL LTDA.							 76.057.560-7 - TRANSPORTES FLECHA CARGO LTDA.						 78.764.050-8 - UNITED SISTEMAS DE TUBERIAS LTDA.						 78.451.050-6 - WARTSILA CHILE LTDA.								 78.311.400-3
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+
+
+		    (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

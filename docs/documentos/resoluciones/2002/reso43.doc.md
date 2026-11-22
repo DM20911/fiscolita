@@ -1,0 +1,978 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso43.doc
+titulo: Word – Resolución Exenta N°43 del 26 de Diciembre del 2002 Fija Vida Util Normal a los Bienes Físicos del Activo Inmovilizado para los Efectos de su Depreciación, Conforme a las Normas del N° 5 del Artículo 31 de la Ley de la Renta, Contenida en el Artículo 1° del D.L. N° 824, de 1974. Fuente: Depto
+categoria: otros
+---
+RESOLUCION EXENTA N°43 DEL 26 DE DICIEMBRE DEL 2002 MATERIA : FIJA VIDA UTIL NORMAL A LOS BIENES FISICOS DEL ACTIVO INMOVILIZADO PARA LOS EFECTOS DE SU DEPRECIACION, CONFORME A LAS NORMAS DEL N° 5 DEL ARTICULO 31 DE LA LEY DE LA RENTA, CONTENIDA EN EL ARTICULO 1° DEL D.L. N° 824, DE 1974.
+
+
+								Hoy se ha resuelto lo que sigue:	
+
+
+								
+								VISTOS: Lo dispuesto en el artículo 6º, Letra A, N° 1, del Código Tributario, en la letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos y en el inciso segundo del N° 5 del artículo 31 de la Ley de la Renta; textos legales contenidos en el artículo 1° del decreto ley N° 830, de 1974; D.F.L. N° 7, del Ministerio de Hacienda, de 1980 y artículo 1° del decreto ley N° 824, de 1974, respectivamente, y lo establecido en el artículo 1° transitorio de la Ley N° 19.840, publicada en el Diario Oficial de 23 de Noviembre del año 2002.	
+
+
+								CONSIDERANDO:
+
+
+		1°	Que, el N° 1 de la Letra A) del artículo 6° del Código Tributario, en concordancia con lo establecido en la letra b) del artículo 7° de la Ley Orgánica de este Servicio, textos contenidos en los cuerpos legales indicados anteriormente, dispone que corresponde al Director del Servicio interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos;
+1111111
+								2º.-	Que, el artículo 31 de la Ley de la Renta, en su inciso primero dispone que la renta líquida de las personas referidas en el artículo 30 de dicho texto legal, se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla que no hayan sido rebajados en virtud del artículo antes mencionado, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante este Servicio; 
+
+								3°	Que, el artículo 31 de la ley precitada, establece en su inciso tercero que especialmente procederá la deducción de una serie de gastos que contempla dicho inciso en sus números 1 al 12, en cuanto se relacionen con el giro del negocio;
+
+								4º.-	Que, el número 5 del inciso tercero del artículo 31 de la ley antedicha, modificado por el número 2 del artículo 1° de la Ley N° 19.840, publicada en el Diario Oficial de 23 de Noviembre del año 2002, dispone que se podrá rebajar como gasto una cuota anual de depreciación por los bienes físicos del activo inmovilizado a contar de su utilización en la empresa, calculada sobre el valor neto de los bienes a la fecha del balance respectivo, una vez efectuada la revalorización obligatoria que dispone el artículo 41º de la referida ley. 
+
+								El porcentaje o cuota correspondiente al período de depreciación dirá relación con los años de vida útil que mediante normas generales fije la Dirección Nacional del Servicio de Impuestos Internos y operará sobre el valor neto total del bien. No obstante, el contribuyente podrá aplicar una depreciación acelerada, entendiéndose por tal aquélla que resulte de fijar a los bienes físicos del activo inmovilizado adquiridos nuevos o internados, una vida útil equivalente a un tercio de la fijada por la Dirección o Dirección Regional, según corresponda. No podrán acogerse al régimen de depreciación acelerada los bienes nuevos o internados cuyo plazo de vida útil total fijado por la Dirección o Dirección Regional sea inferior a tres años. Los contribuyentes podrán en cualquier oportunidad abandonar el régimen de depreciación acelerada, volviendo así definitivamente al régimen normal de depreciación. Al término del plazo de depreciación del bien, éste deberá registrarse en la contabilidad por un valor equivalente a un peso, valor que no quedará sometido a las normas del artículo 41º y que deberá permanecer en los registros contables hasta la eliminación total del bien motivada por la venta, castigo, retiro u otra causa. 
+
+								En todo caso, cuando se aplique el régimen de depreciación acelerada, sólo se considerará para los efectos de lo dispuesto en el artículo 14, la depreciación normal que corresponde al total de los años de vida útil del bien. La diferencia que resulte en el ejercicio respectivo entre la depreciación acelerada y la depreciación normal, sólo podrá deducirse como gasto para los efectos de primera categoría.
+
+								Tratándose de bienes que se han hecho inservibles para la empresa antes del término del plazo de depreciación que se les haya designado, podrá aumentarse al doble la depreciación correspondiente.
+
+								La Dirección Regional, en cada caso particular, a petición del contribuyente o del Comité de Inversiones Extranjeras, podrá modificar el régimen de depreciación de los bienes cuando los antecedentes así lo hagan aconsejable.
+
+									Para los efectos de la Ley de la Renta no se admitirán depreciaciones por agotamiento de las sustancias naturales contenidas en la propiedad minera, sin perjuicio de lo dispuesto en el inciso primero del artículo 30 de la ley precitada; 
+5
+							            5.-	Que, el artículo 1° transitorio de la Ley N° 19.840, estableció que, tanto la rebaja del plazo de la vida útil del bien de 5 a 3 años para acogerlo al régimen de depreciación acelerada, como la nueva vida útil que se determina en la presente Resolución, regirá sólo por los mismos bienes que se adquieran o construyan desde el 1° de enero del año 2003 o desde la fecha de publicación de dicha ley, y
+
+								6º.-	En consecuencia, y para los efectos de la aplicación de lo dispuesto por el número 5 del inciso tercero del artículo 31 de la Ley de la Renta, comentado anteriormente, se resuelve lo siguiente:
+
+
+
+								SE RESUELVE:
+
+
+								1°.-	De conformidad a lo dispuesto por el inciso segundo del número 5 del artículo 31 de la Ley de la Renta, fíjase la siguiente tabla de vida útil normal a los bienes físicos del activo inmovilizado para los efectos de su depreciación , ya sea, normal o acelerada, de acuerdo a las normas de la disposición legal precitada:
+
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+
+ACTIVOS GENÉRICOS
+
+
+
+
+
+Construcciones con estructuras de acero, cubierta y entrepisos de perfiles acero o losas hormigón armado.
+
+80
+
+26
+Edificios, casas y otras construcciones, con muros de ladrillos o de hormigón, con cadenas, pilares y vigas hormigón armado, con o sin losas.
+
+
+50
+
+
+16
+Edificios fábricas de material sólido albañilería de ladrillo, de concreto armado y estructura metálica.
+
+40
+
+13
+Construcciones de adobe o madera en general.
+30
+10
+Galpones de madera o estructura metálica.
+20
+6
+Otras construcciones definitivas (ejemplos: caminos, puentes, túneles, vías férreas, etc.).
+
+20
+
+6
+Construcciones provisorias.
+10
+3
+Instalaciones en general (ejemplos: eléctricas, de oficina, etc.).
+
+10
+
+3
+Camiones de uso general.
+7
+2
+Camionetas y jeeps.
+7
+2
+Automóviles
+7
+2
+Microbuses, taxibuses, furgones y similares.
+7
+2
+Motos en general.
+7
+2
+Remolques, semirremolques y carros de arrastre.
+7
+2
+Maquinarias y equipos en general.
+15
+5
+Balanzas, hornos microondas, refrigeradores, conservadoras, vitrinas refrigeradas y cocinas.
+
+9
+
+3
+Equipos de aire y cámaras de refrigeración.
+10
+3
+Herramientas pesadas.
+8
+2
+Herramientas livianas.
+3
+1
+Letreros camineros y luminosos.
+10
+3
+Útiles de oficina (ejemplos: máquina de escribir, fotocopiadora, etc.).
+
+3
+
+1
+Muebles y enseres.
+7
+2
+Sistemas computacionales, computadores, periféricos, y similares (ejemplos: cajeros automáticos, cajas registradoras, etc.).
+
+
+6
+
+
+2
+Estanques
+10
+3
+Equipos médicos en general.
+8
+2
+Equipos de vigilancia y detección y control de incendios, alarmas.
+
+7
+
+2
+Envases en general.
+6
+2
+Equipo de audio y video.
+6
+2
+Material de audio y video.
+5
+1
+
+B.-     INDUSTRIA DE LA CONSTRUCCION
+
+
+
+Maquinaria destinada a la construcción pesada (Ejemplos: motoniveladoras, traxcavators, bulldozers, tractores, caterpillars, dragas, excavadoras, pavimentadores, chancadoras, betoneras, vibradoras, tecles, torres elevadoras, tolvas, mecanismo de volteo, motores eléctricos, estanques, rodillos, moldes pavimento, etc.).
+
+
+
+
+
+8
+
+
+
+
+
+2
+Bombas, perforadoras, carros remolques, motores a gasolina, grupos electrógenos, soldadoras.
+
+6
+
+2
+
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+C.-    INDUSTRIA EXTRACTIVA (MINERIA)
+
+
+
+Maquinarias y equipos en general destinados a trabajos pesados en minas y plantas beneficiadoras de minerales.
+
+9
+
+3
+Instalaciones en minas y plantas beneficiadoras de minerales.
+5
+1
+Tranques de relaves.
+10
+3
+Túnel – mina.
+20
+6
+D. -    EMPRESAS DE TRANSPORTE
+
+         TRANSPORTE  MARÍTIMO
+
+
+Naves y barcos de carga en general, frigoríficos o graneleros con casco de acero.
+
+18
+
+6
+Naves con casco de acero.
+36
+12
+Naves con casco de madera.
+23
+7
+Remolcadores y barcazas con casco de acero.
+20
+6
+Remolcadores y barcazas con casco de madera.
+15
+5
+Embarcaciones menores en general con casco de acero o madera.
+
+10
+
+3
+Porta contenedores, incluidos los buques Roll-On Roll.
+16
+5
+Boyas, anclas, cadenas, etc.
+10
+3
+Muelles de estructura metálica.
+20
+6
+Terminales e instalaciones marítimas.
+10
+3
+
+
+
+          TRANSPORTE TERRESTRE
+
+
+Tolvas, mecanismo de volteo.
+9
+3
+Carros portacontenedores en general.
+7
+2
+E.-     SECTOR ENERGÉTICO
+
+
+
+         E.1)  EMPRESAS ELECTRICAS
+
+
+Equipos de generación y eléctricos utilizados en la generación.
+10
+3
+Obras civiles hidráulicas y otros relacionados con la generación.
+
+
+Bocatomas, muros de presa.
+50
+16
+Descargas
+30
+10
+Túneles, piques, pretiles, evacuaciones, cámaras de carga, tuberías de presión.
+
+20
+
+6
+Canales
+18
+6
+Sifones, captaciones, estanques y chimeneas de equilibrio.
+
+10
+
+3
+Desarenador
+8
+2
+Líneas de distribución de alta tensión y baja tensión,  líneas de transmisión, cables de transmisión, cables de poder.
+
+20
+
+6
+Líneas de alta tensión – Transporte.
+
+
+Obras civiles.
+20
+6
+Conductores
+20
+6
+Apoyos de suspensión y apoyos de amarres.
+10
+3
+Cables de alta tensión – Transporte.
+
+
+Obras civiles.
+20
+6
+Conductores
+20
+6
+Subestaciones – Transporte.
+
+
+Obras civiles.
+25
+8
+Construcciones y casetas de entronque (estaciones de bombeo, reactancias compensación).
+
+20
+
+6
+Transformadores, celdas de transformadores, celdas de líneas, equipos auxiliares y equipos de telecomandos.
+
+10
+
+3
+
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+Líneas de alta tensión – Distribución.
+
+
+Obras civiles.
+20
+6
+Conductores
+20
+6
+Apoyos de suspensión, apoyos de amarres y remodelación de líneas.
+
+10
+
+3
+Cables de alta tensión – Distribución.
+
+
+Obras civiles. 
+20
+6
+Conductores
+20
+6
+Líneas de media tensión – Aéreas.
+
+
+Redes desnudas, redes aisladas, postes y otros.
+20
+6
+Equipos
+12
+4
+Líneas de media tensión – Subterráneas.
+
+
+Redes, cámaras, canalizaciones y otros.
+20
+6
+Equipos
+12
+4
+Líneas de baja tensión – Aéreas.
+
+
+Redes desnudas, redes aisladas, postes y otros. 
+20
+6
+Equipos
+12
+4
+Líneas de baja tensión – Subterráneas.
+
+
+Redes, cámaras, canalizaciones y otros. 
+20
+6
+Equipos.
+12
+4
+Subestaciones de distribución.
+
+
+Obras civiles y construcciones.
+20
+6
+Transformadores, celdas de transformadores, celdas de líneas, equipos auxiliares y equipos de telecomandos.
+
+10
+
+3
+Subestaciones MT/MT.
+
+
+Obras civiles y construcciones. 
+20
+6
+Transformadores, celdas de transformadores, equipos auxiliares y equipos de telecomandos.
+
+10
+
+3
+Subestaciones anexas MT/MT.
+
+
+Obras civiles y  construcciones
+20
+6
+Transformadores, celdas de transformadores, equipos auxiliares y equipos de telecomandos.
+
+10
+
+3
+Centros de transformación MT/BT.
+
+
+Obras civiles.
+20
+6
+Transformadores aéreos, subterráneos y de superficie.
+10
+3
+Otros equipos eléctricos aéreos, subterráneos y comunes.
+12
+4
+Contadores y aparatos de medida – Central de operaciones y servicio de clientes.
+
+10
+
+3
+Otras instalaciones técnicas  para energía eléctrica  
+
+
+Obras civiles.
+20
+6
+Equipos
+10
+3
+Alumbrado público.
+10
+3
+
+
+
+        E.2)  EMPRESAS SECTOR PETRÓLEO Y GAS NATURAL
+
+
+
+Buques tanques (petroleros, gaseros), naves y barcos cisternas para transporte de combustible líquido.
+
+15
+
+5
+Oleoductos y gasoductos terrestres, cañerías y líneas troncales.
+
+18
+
+6
+Planta de tratamiento de hidrocarburos.
+10
+3
+Oleoductos y gaseoductos marinos.
+10
+3
+Equipos e instrumental de explotación.
+10
+3
+Plataforma de producción en el mar fija.
+10
+3
+Equipos de perforación marinos.
+10
+3
+
+
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+Baterías de recepción en tierra (estanques, bombas, sistema de cañerías con sus válvulas, calentadores, instrumentos de control, elementos de seguridad contra incendio y prevención de riesgos, etc.).
+
+
+
+10
+
+
+
+3
+Instalaciones de almacenamiento tales como "tank farms".
+15
+5
+Plataformas de perforación y de producción de costa afuera.
+22
+7
+
+F.-     EMPRESAS DE TELECOMUNICACIONES
+
+Equipos conmutación local en oficinas centrales.
+
+
+Equipos O.C. automáticos.
+10
+3
+Equipos O.C. auto (combinados).
+10
+3
+Equipos O.C. batería central.
+10
+3
+Equipos O.C. magneto.
+10
+3
+Equipos de fuerza.
+10
+3
+Equipos de tasación.
+10
+3
+Equipos de radio.
+12
+4
+Equipos canalizadores y repetidores en O.C.
+10
+3
+Equipos conmutación L.D. en oficinas centrales.
+
+
+Posiciones de larga distancia.
+10
+3
+Equipos de radio.
+12
+4
+Equipos canalizadores y repetidores en O.C..
+10
+3
+Otros equipos de O.C.
+
+
+Teléfonos, calculógrafos y sillas de operadoras.
+10
+3
+Equipos seguridad industrial en oficinas centrales.
+
+
+Equipos industriales de climatización.
+10
+3
+Equipos para suscriptores.
+
+
+Teléfonos automáticos.
+10
+3
+Teléfonos batería central.
+10
+3
+Teléfonos magneto.
+10
+3
+Equipos especiales.
+10
+3
+Alambre bajantes.
+10
+3
+Alambre interior.
+10
+3
+PABX automáticos.
+10
+3
+PBX automáticos.
+10
+3
+PBX batería central.
+10
+3
+PBX magneto.
+10
+3
+Locutorios.
+10
+3
+Equipos fax. 
+10
+3
+Equipos planta externa local.
+
+
+Postes y crucetas de madera.
+20
+6
+Postes y crucetas de fierro.
+20
+6
+Postes de concreto.
+20
+6
+Antenas y líneas de transmisión.
+12
+4
+Cables aéreos y bobinas de carga.
+20
+6
+Cables subterráneos y bobinas de carga.
+20
+6
+Cables interiores.
+20
+6
+Cables aéreos desnudos.
+20
+6
+Equipos canalizadores y repetidores en postes.
+12
+4
+Conductos y cámaras.
+20
+6
+Cables enlaces.
+20
+6
+Blocks, regletas, cassettes de protección.
+20
+6
+Sala de cables y MDF.
+20
+6
+Armarios de distribución.
+20
+6
+Cajas terminales, doble conexión.
+20
+6
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+Empalmes de cables aéreos y subterráneo.
+20
+6
+Sistema gráfico de manejo de redes.
+20
+6
+Cables de fibra óptica.
+20
+6
+Cámaras y ductos.
+20
+6
+Equipos planta externa L.D.
+
+
+Postes y crucetas de madera.
+20
+6
+Postes y crucetas de fierro.
+20
+6
+Postes de concreto.
+20
+6
+Antenas y líneas de transmisión.
+12
+4
+Cables aéreos y bobinas de carga.
+20
+6
+Cables subterráneos y bobinas de carga.
+20
+6
+Alambres aéreos desnudos.
+20
+6
+Equipos canalizadores y repetidores en postes.
+12
+4
+Conductos y cámaras.
+20
+6
+Equipos de control automático.
+10
+3
+Estaciones satelitales terrenas.
+12
+4
+Cables de fibra óptica.
+20
+6
+Equipos de fibra óptica.
+12
+4
+Segmento espacial.
+10
+3
+G.-      ACTIVIDAD DE LA AGRICULTURA
+
+Tractores, segadoras, cultivadoras, fumigadoras, motos bombas, pulverizadoras.
+
+
+8
+
+
+2
+Cosechadoras, arados, esparcidoras de abono y de cal, máquinas de ordeñar.
+
+11
+
+3
+Esquiladoras mecánicas y maquinarias no comprendidas en el número anterior.
+
+11
+
+3
+Vehículos de carga, motorizados, como ser: camiones trailers, camiones fudres y acoplados, colosos de tiro animal.
+
+10
+
+3
+Carretas, carretones, carretelas, etc.
+15
+5
+Camiones de carga y camionetas de uso intensivo en la actividad agrícola.
+
+6
+
+2
+Tuberías para agua potable instaladas en predios agrícolas.
+18
+6
+Construcciones de material sólido, como ser: silos, casas patronales y de inquilinos, lagares, etc. 
+
+50
+
+16
+Construcciones de adobe y madera, estructuras metálicas.
+20
+6
+Animales de trabajo.
+8
+2
+Toros, carneros, cabríos, verracos, potros y otros reproductores.
+
+5
+
+1
+Gallos y pavos reproductores.
+3
+1
+Nogales, paltos, ciruelos, manzanos, almendros. 
+18
+6
+Viñedos según variedad. 
+11 a 23
+3 a 7
+Limoneros
+12
+4
+Duraznos
+10
+3
+Otras plantaciones frutales no comprendidas en los números 13), 14), 15) y 16) anteriores.
+
+13
+
+4
+Olivos
+40
+13
+Naranjos 
+30
+10
+Perales 
+25
+8
+Orégano 
+9
+3
+Alfalfa 
+4
+1
+Animales de lechería (vacas). 
+7
+2
+Gallinas 
+3
+1
+Ovejas 
+5
+1
+Yeguas 
+12
+4
+
+
+
+     NOMINA DE BIENES SEGÚN ACTIVIDADES
+NUEVA VIDA ÚTIL NORMAL
+DEPRECIACIÓN ACELERADA
+Porcinos de reproducción (hembras). 
+6
+2
+Conejos machos y hembras. 
+3
+1
+Caprinos 
+5
+1
+Asnales 
+5
+1
+Postes y alambradas para viñas.
+10
+3
+Tranques y obras de captación de aguas: 
+
+
+Tranque propiamente tal. Por ser de duración indefinida no es depreciable.
+
+-
+
+     -
+Instalaciones anexas al tranque. Bombas extractoras de agua, estanques e instalaciones similares en general.
+
+10
+
+3
+Canales de riego: 
+
+
+Sin aplicación de concreto o de otro material de construcción, su duración es indefinida, por lo tanto no es depreciable.
+
+
+-
+
+
+     -
+Con aplicación de concreto o de otro material de construcción, se trata de obras generalmente anexas, o simplemente tramos del canal mismo y su duración según el caso será:
+
+
+De concreto.
+70
+23
+De fierro pesado.
+45
+15
+De madera.
+25
+8
+Pozos de riego y de bebida. Se aplica la depreciación únicamente sobre los refuerzos, instalaciones y maquinarias destinadas al mayor aprovechamiento del pozo en la siguiente forma: 
+
+
+Cemento u hormigón armado.
+20
+6
+Ladrillo
+15
+5
+Bomba elevadora de agua.
+20
+6
+Puentes. Según el material empleado en la construcción: 
+
+
+De cemento.
+75
+25
+Metálico
+45
+15
+Madera
+30
+10
+
+H.-     OTRAS
+
+
+Enseres, artículos de porcelana, loza, vidrio, cuchillería,             mantelería, ropa de cama y similares, utilizados en hoteles, moteles y restaurantes.
+
+
+3
+
+
+1
+Redes utilizadas en la pesca.
+3
+1
+Sistemas  o estructuras físicas  para criaderos de especies hidrobiológicas.
+
+3
+
+1
+Pupitres, sillas, bancos, escritorios, pizarrones, laboratorios de química, gabinetes de física, equipos de gimnasia y atletismo, utilizados en establecimientos educacionales.
+
+
+5
+
+
+1
+Aviones monomotores con cabida hasta seis personas.
+10
+3
+
+
+								2°.-	La vida útil establecida en el resolutivo anterior corresponde a bienes adquiridos nuevos, construídos o internados al país (nuevos o usados), a contar de la fecha que se indica en el dispositivo N° 4 siguiente;
+
+						3°.-	Respecto de aquellos bienes físicos del activo inmovilizado que no se comprendan en forma genérica o expresamente en la tabla establecida en el resolutivo N° 1 precedente, el propio contribuyente, en principio, deberá fijarle la vida útil a dichos bienes, asimilándolos a aquellos que tengan las mismas características o sean similares a los contenidos en la mencionada tabla. En el caso que los citados bienes por sus características  especiales no se puedan asimilar a algunos de los detallados en la referida tabla por tratarse de bienes totalmente distintos o diferentes, el contribuyente deberá solicitar a la Dirección Nacional del Servicio de Impuestos Internos, que se le fije la vida útil o duración probable a los citados bienes, proporcionando los antecedentes que ésta le solicite, como ser, entre otros, catálogos del fabricante original del bien, debidamente traducido al idioma español, cuando proceda, en donde se indiquen las especificaciones técnicas del bien, informes técnicos emitidos por terceras personas o instituciones especializadas sobre la materia o cualquier otro antecedente que se estime necesario; documentos en los cuales, además, de señalar las características de los mencionados bienes, se indique una propuesta de su probable duración, conforme a sus especificaciones técnicas y funciones en las que se van a utilizar.
+
+						4°.-	La presente Resolución, conforme a lo dispuesto por el artículo 1° transitorio de la Ley N° 19.840, publicada en el Diario Oficial de 23 de noviembre del año 2002, que vincula la vigencia de la nueva tabla de vida útil de los bienes con el régimen modificado de la depreciación acelerada,  regirá a contar del 1° de enero del año 2003, sólo respecto de los bienes físicos del activo inmovilizado que se adquieran nuevos, se construyan o se internen al país (nuevos o usados), desde la fecha señalada en primer término, esto es, la correspondiente a la data de publicación de la mencionada ley, como también respecto de estos mismos bienes cuando se adquieran usados posteriormente.
+
+						5°.-	Los bienes físicos del activo inmovilizado adquiridos o construidos con anterioridad a la fecha de publicación de la Ley N° 19.840, esto es, antes del 23.11.2002 o que se adquieran usados después de la citada fecha, para los efectos de su depreciación seguirán rigiéndose por las tablas de años de vida útil fijadas por este Servicio con antelación a la referida fecha, hasta  su total depreciación, y contenidas principalmente en las Circulares N°s. 132, de 1975, 63, de 1990, 21 y 22 de 1991, salvo respecto de los bienes adquiridos nuevos o construidos o internados al país (nuevos o usados) desde la fecha de publicación de la referida ley (23.11.2002) y el 31 de diciembre de 2002, caso en el cual los citados bienes podrán depreciarse por el período antes indicado mediante la aplicación de las tablas de vida útil señaladas anteriormente, depreciación que deberá determinarse en forma proporcional al número de meses en que los mencionados bienes fueron utilizados efectivamente en la empresa, considerándose para estos efectos como mes completo toda fracción de día inferior a dicho período.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+
+																			JUAN TORO RIVERA
+							          	           DIRECTOR
+
+
+Lo que comunico a Ud. para su conocimiento y demás fines,
+
+Saluda a Ud.,
+
+
+DISTRIBUCION:
+AL DIARIO OFICIAL, EN EXTRACTO
+SECRETARIA DIRECTOR
+SUBDIRECCION NORMATIVA
+SUBDIRECCION JURIDICA
+SUBDIRECCION DE FISCALIZACION
+SUBDIRECCION DE INFORMATICA
+SECRETARIA GENERAL
+DEPTO. DE IMPUESTOS DIRECTOS
+OFICINA DE PARTES
+A INTERNET
+PAGE  
+
+
+PAGE  3
+
+
+
+
+

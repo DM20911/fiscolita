@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2021/coyhaique/index.html
+titulo: Actos y resoluciones D. R. Coyhaique 2021
+categoria: otros
+---
+## Actos y resoluciones D. R. Coyhaique 2021
+
+**Seleccione según tipología:**
+
+Instrucciones, dictámenes y circulares
+Reconocimiento de derechos
+Concesiones, autorizaciones y otros permisos otorgados
+Actos expropiatorios
+Llamados a concursos o convocatorias para postular a proyectos o programas públicos
+Llamado a concurso de personal
+Convenios de colaboración o cooperación
+Actos administrativos sancionatorios
+
+**Buscador de Actos y Resoluciones**
+
+La información publicada cumple con los estándares exigidos por la Ley N° 20.285 sobre Acceso a la Información Pública, considerando las reservas legales contenidas en el artículo 35 del Código Tributario (secreto tributario), en la Ley N° 19.628 sobre Protección de la Vida Privada y en otras normas legales que establezcan un deber de reserva.
+
+**Puede filtrar por palabra clave, por ejemplo: fecha, tipo o descripción de norma.**
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones, dictámenes y circulares | Resolución | 1100846 | 29-12-2021 | SOLICITA CONDONACIÓN. | Se otorga condonación de los Folios N°50983070 del 28/12/2021 y Folio N°51432289 del 22/12/2021 | 6-1-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100846_64386.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100845 | 27-12-2021 | SOLICITA CONDONACIÓN. | Se otorga condonación del Folio N° 49058341 del 15/12/2021. | 6-1-2022 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100845_64385.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100844 | 29-11-2021 | SE SOLICITA CONDONACION. | Se otorga condonacion del Folio N° 6784812566 del 21/06/2019 y Folio N° 7198209786 del 20/05/2021. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100844_64243.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100843 | 29-11-2021 | SOLICITA CONDONACION | Otorga condonacion Folio del 7312290136 del 18/11/2021. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100843_64242.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100842 | 25-11-2021 | SOLICITUD DE CONDONACION. | Otorga de condonacion del Folios N°6543225,6543413,6543783,6543791,6543833,6543855,6543899,6543909,6543925,6544663,6558503. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100842_64241.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100840 | 25-11-2021 | SOLICITA CONDONACION | Se otorga condonacion del Folio N°7310900566 del 17/11/2021. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100840_64240.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100839 | 25-11-2021 | SOLICITA CONDONACION | Se otorga condonacion del Folios N° 3484031,3484037,3484039,3484051,3484297,3484305,3484309,3484313. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100839_64238.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100837 | 12-11-2021 | SOLICITA CONDONACION | Otorga condonacion del Folio N° 6500387 del 29/07/2021. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100837_64237.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100836 | 10-11-2021 | SE SOLICITA CONDONACION | Se otorga condonacion del Folio N° 2207273 del 01/12/2020. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100836_64236.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100835 | 04-11-2021 | SE SOLICITA CONDONACION | Se otorga condonacion de Folio N° 3670537 del 03/04/2020, folio N° 4141667 del 15/04/2020. | 9-12-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100835_64234.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100834 | 07-10-2021 | SE SOLICITA CONDONACION | Se acoge la condonacion del Folio N° 6969836586 de feca emision del 18/05/2020. | 18-11-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100834_64154.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100833 | 06-09-2021 | OTORGA CONDONACION | GIRO FOLIO N°6969050916 DE 15.05.2020 | 9-5-2023 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100833_68269.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100832 | 31-08-2021 | SOLICITA CONDONACIÓN | Se da ha lugar condonación Folio N° 3132565 de fecha emisión 13/05/2019. | 8-9-2021 | Sitio Web Institucional (Gobierno Transparente) y Diario Oficial | [Ver Documento](reso1100832_63651.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100831 | 31-08-2021 | SOLICITA CONDONACIÓN | Se da ha lugar condonación Folio N° 5196237, de fecha emisión 11/04/201, Folio N° 3270563 de fecha emission 13/05/2019. | 8-9-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100831_63650.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100830 | 30-08-2021 | SOLICITA CONDONACIÓN | Se da ha lugar condonación al Folio N° 1100830. | 8-9-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100830_63649.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100829 | 30-08-2021 | SOLICITA CONDONACIÓN | Se da ha lugar condonación al Folio N° 6969050916 del 15/05/2020. | 8-9-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100829_63647.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100827 | 12-07-2021 | OTORGA CONDONACIÓN | Giro Folio N° 6969050916 | 9-5-2023 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100827_68267.pdf) | NO | No | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100826 | 31-05-2021 | SOLICITA CONDONACIÓN | Se da ha lugar las condonaciones de los giros mencionado en el documento. | 4-6-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100826_63120.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100825 | 19-05-2021 | SOLICITA CONDONACIÓN | Se da ha lugar a lo solicitado el Giro N° 6018181 de fecha emision 26/04/2021. | 4-6-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100825_63119.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100824 | 14-05-2021 | SOLICITA CONDONACIÓN | Se da ha lugar las condonaciones a los giros mencionado en el documento. | 4-6-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100824_63118.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100823 | 30-04-2021 | SOLICITA CONDONACION | OTORGA CONDONACION FOLIO N° 4196393 DEL 27/04/2020 Y FOLIO N° 4223905 DEL 05//05/2020. | 5-5-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100823_62793.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100822 | 28-04-2021 | SOLICITUD DE CONDONACION | OTORGA CONDONACION FOLIO N° 2180541 DEL 14/07/2020 Y FOLIO N° 2180537 DEL 14/07/ 2020. | 5-5-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100822_62792.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100821 | 19-04-2021 | SOLICITA CONDONACION | SE OTORGA CONDONACION FOLIO N°951038680 DEL 12/01/2021. | 5-5-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100821_62791.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100819 | 12-04-2021 | SOLICITUD DE CONDONACION | SE OTORGA CONDONACION FOLIO N° 50868089 DEL 09/03/2020. | 5-5-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100819_62790.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100818 | 07-04-2021 | SOLICITUD DE CONDONACION | SE OTORGO CONDONACION AL FOLIO N° 2176374 DE FECHA 22/06/2020, FOLIO N° 2176377 DEL 22/06/2020. | 5-5-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100818_62789.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100817 | 31-03-2021 | SOLICITUD DE CONDONACION | Se otorgo condonación de Folio N° 4392321 de fecha 23/03/2020. | 6-4-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100817_62658.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100816 | 10-02-2021 | SOLICITUD DE CONDONACIÓN EN PA.77321422944. | CONDONACION AL FOLIO N° 4461807 DE FECHA 01/10/2020. | 1-3-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100816_62355.pdf) | NO | Sin modificación | No aplica | No aplica |
+| Instrucciones, dictámenes y circulares | Resolución | 1100815 | 11-01-2021 | SOLICITUD DE CONDONACION | SE OTORGO CONDONACION DEL FOLIO N° 4562151 DE FECHA 29/12/2020. | 8-2-2021 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso1100815_62209.pdf) | NO | Sin modificación | No aplica | No aplica |
+
+| Denominación (tipologías) | Tipo de norma | Número | Fecha del acto | Nombre/título | Breve descripción del objeto del acto | Fecha de publicación Diario Oficial o Internet | Medio de publicación | Enlace a la publicación o archivo correspondiente | Tiene efectos generales | Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa | Número | Fecha |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Convenios de colaboración o cooperación | Resolución | 115 | 28-07-2021 | RESOLUCION ACUERDO DE COLABORACION TRIBUTARIA CON CAMARA CHILENA DE LA CONSTRUCCION | ACUERDO DE COLABORACION TRIBUTARIA ENTRE CAMARA CHILENA DE LA CONSTRUCCION Y SERVICIO DE IMPUESTOS INTERNOS SEDE COYHAIQUE. | 16-1-2024 | Sitio Web Institucional (Gobierno Transparente) | [Ver Documento](reso115_71112.pdf) | NO | Sin modificación | No aplica | No aplica |

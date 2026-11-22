@@ -1,0 +1,75 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso122.doc
+titulo: Word – Resolución Exenta SII N°122 del 29 de Julio del 2010 Instruye la Ejecución de Labores de Fiscalización que Indica Respecto de Contribuyentes que Señala. Fuente: Departamento de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°122 DEL 29 DE JULIO DEL 2010 MATERIA : INSTRUYE LA EJECUCIÓN DE LABORES DE FISCALIZACIÓN QUE INDICA RESPECTO DE CONTRIBUYENTES QUE SEÑALA.
+  Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las facultades contempladas en los artículos 1°, 3° bis y 7° letras a), b), c), i) y ñ),  todos del D.F.L. N° 7 de 1980, del Ministerio de Hacienda que contiene la Ley Orgánica del Servicio de Impuestos Internos; lo dispuesto en el N° 1 de la letra A) y en el inciso final de la letra B), ambos del artículo 6° del Código Tributario, y lo señalado en la Resolución  SII Ex. N° 94 de 2010. 
+
+CONSIDERANDO:
+1°.- Que de conformidad a lo dispuesto en la parte final del artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos  al Subdirector de Fiscalización se le entenderán conferidas todas las facultades que el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales, con excepción de las establecidas en los números 3º y 6º de la letra B) del artículo 6º del Código Tributario respecto de todo el territorio del país; 
+2°.- Que de conformidad a lo dispuesto en el inciso final de la letra B) del artículo 6° del Código Tributario y letras b) e i) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, a esta Dirección corresponde instruir a los funcionarios bajo su dependencia la forma en que deben cumplir sus atribuciones y funciones propias, así como encargarles el cumplimiento de funciones distintas de aquellas que se encuentren dentro de la competencia institucional; y,
+3°.- Las necesidades del Servicio,
+
+SE RESUELVE:  
+
+PRIMERO.- Encomiéndase al Subdirector de Fiscalización la fiscalización directa y el conocimiento de todas las solicitudes o peticiones administrativas de los contribuyentes que se incluyen en la nómina inserta a continuación. La referida jefatura deberá continuar con los trámites y diligencias propias de las fiscalizaciones o solicitudes hasta su debido término. 
+
+ 
+RUT
+Digito Verificador
+Razón Social o Nombre
+ 
+1.-
+61704000
+k
+Corporación Nacional del Cobre de Chile
+2.-
+70081200
+6
+Asociación Nacional de Fútbol Profesional
+3.-
+96759500
+4
+Inversiones Vital S.A.
+ 
+4.- 
+85896100
+9
+Equifax Chile S.A.
+ 
+
+SEGUNDO.- Respecto de los contribuyentes indicados en la nómina contenida en el dispositivo precedente, las Direcciones Regionales, seguirán realizando las siguientes labores en sus territorios jurisdiccionales:
+- El conocimiento jurisdiccional de los procedimientos descritos en el Libro III del Código Tributario, en cuanto sea procedente de conformidad a la ley;
+- El conocimiento administrativo de los procesos de aplicación de sanciones y concesión de condonaciones relacionadas con la comisión de infracciones tributarias;
+- El conocimiento administrativo de las solicitudes relacionadas con la aplicación del impuesto territorial de la Ley N°17.235;
+- El desarrollo de las acciones de presencia fiscalizadora descritas en la Circular 64, de 2001; 
+- El conocimiento de las solicitudes de autorización de documentos tributarios y de máquinas registradoras; y 
+- El conocimiento de las solicitudes relacionadas con la determinación y pago del impuesto a las asignaciones por causa de muerte y a las donaciones.
+ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE. 
+
+
+(Fdo.) JULIO PEREIRA GANDARILLAS DIRECTOR
+
+
+	Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
+
+
+Distribución:
+Contribuyentes (4)
+Internet
+Oficina de Gestión Normativa   
+
+
+
+
+
+
+
+
+
+
+

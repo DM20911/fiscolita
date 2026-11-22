@@ -1,0 +1,108 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso138.doc
+titulo: Word – Resolución Exenta SII N°138 del 14 de Noviembre del 2006 Amplía Plazo de Presentación de Informes de Retenciones de Cambios de Sujeto a Contribuyentes que Indica. Fuente: Oficina de Catastro, Documentos Electrónicos y Fiscalización Preventiva
+categoria: otros
+---
+RESOLUCION EXENTA SII N°138 DEL 14 DE NOVIEMBRE DEL 2006 MATERIA : AMPLÍA PLAZO DE PRESENTACIÓN DE INFORMES DE RETENCIONES DE CAMBIOS DE SUJETO A CONTRIBUYENTES QUE INDICA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, letra A, N° 1 del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; el Decreto Presidencial N° 1.001, publicado en el Diario Oficial el 12 de octubre de 2006, que amplía el plazo de declaración y fecha de pago de los impuestos a que se refieren los Arts. 64, inciso primero, de la Ley sobre Impuestos a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; 78, 79 y 91 de la Ley sobre Impuesto a la Renta, contenida en el Art. 1° del D.L. N° 824, de 1974, y 
+
+
+C O N S I D E R A N D O:
+
+1.-	Que, el Decreto Presidencial N° 1.001, de 2006, amplía hasta el día 20 de cada mes el plazo de declaración y fecha de pago de las  correspondientes declaraciones de impuestos realizadas vía Internet, a los contribuyentes que cumplan los siguientes requisitos:
+Que, se encuentren autorizados como emisores de documentos tributarios electrónicos, o
+Que, por la naturaleza de sus actividades económicas, emitan sólo boletas de honorarios y, utilicen el sistema de emisión de boletas de honorarios electrónicas disponible en el sitio web del SII.
+
+2.-	Que, los informes de retenciones de cambios de sujeto, indicados en la tabla siguiente, de acuerdo a la resolución respectiva, tienen fecha de presentación ante el SII hasta el día 15 de cada mes, respecto a la información del mes inmediatamente anterior. 
+
+Cambio de Sujeto
+N° Formulario y Anexo
+N° Resolución Vigente
+Arroz
+3254 y 3254.1
+Res. Ex. N° 1.341/2000
+Berries
+3500 (Informe Mensual Retenedores Cambios de Sujeto)
+Res. Ex. N° 55/2005 modificada por Res. Ex. N° 58/2006
+Carne
+3260
+Res. Ex. N° 3.722/2000
+Chatarra
+3248 y 3248.1
+Res. Ex. N° 07/2003
+Construcción
+3222
+Res. Ex. N° 142/2005
+Especies Hidrobiológicas
+3293 y 3293.1
+Res. Ex. N° 3.311/2000
+Ganado
+3259
+Res. Ex. N° 3.721/2000
+Harina
+3116 y 3116.1
+Res. Ex. N° 5.282/2000
+Legumbres
+3113 y 3113.1
+Res. Ex. N° 5.280/2000
+Madera
+3261 y 3261.1
+Res. Ex. N° 4.916/2000
+Medios de Prepago de Telefonía e Internet
+3500 (Informe Mensual Retenedores Cambios de Sujeto)
+Res. Ex. N° 109/2005 modificada por  Res. Ex. N° 30/2006
+Papel y Cartón para Reciclar
+3500 (Informe Mensual Retenedores Cambios de Sujeto)
+Res. Ex. N° 29/2005 modificada por Res. Ex. N° 45/2006
+Productos Silvestres
+3290 y 3290.1
+Res. Ex. N° 4.095/2000
+Trigo
+3211 y 3211.1
+Res. Ex. N° 5.281/2000
+
+3.- Que, respecto del cambio de sujeto de la Carne, si el contribuyente presenta la información de retenciones en medio magnético, el plazo de presentación del formulario se amplía hasta el día 20 de cada mes.
+
+4.- Que, en el caso del cambio de sujeto “Pequeños Productores Agrícolas”, de acuerdo a la Res. Ex. N° 5.517, de 1996, modificada por Res. Ex. N° 11, de 2006, la fecha de presentación en el SII del informe de retenciones (Formulario 3221) es hasta el día 15 de junio de cada año, respecto a la información del periodo comprendido entre el 1° de Junio del año anterior y el 31 de Mayo del año vigente. 
+
+
+S E  R E S U E LV E :
+
+
+1.- Se amplía el plazo de presentación ante el SII de los informes mensuales de retenciones de cambios de sujeto, desde el día 15 al día 23 de cada mes, respecto de los contribuyentes obligados a presentar dichos informes y que, además, cumplan los requisitos establecidos en el Decreto Presidencial N° 1.001, de 2006, necesarios para ampliar hasta el día 20 de cada mes el plazo de declaración y pago de los impuestos que indica. 
+Los cambios de sujeto incluidos son los siguientes: Arroz, Berries, Carne, Chatarra, Construcción, Especies Hidrobiológicas, Ganado, Harina, Legumbres, Madera, Medios de Prepago de Telefonía e Internet, Papel y Cartón para Reciclar, Productos Silvestres y Trigo.
+2.- Para el caso de los contribuyentes que presenten el informe mensual del cambio de sujeto de la Carne, en medio magnético, se amplía el plazo de presentación desde el día 20 al día 23 de cada mes.
+
+3. De igual manera, para los contribuyentes obligados a presentar el informe de retenciones a Pequeños Productores Agrícolas, y que cumplan los requisitos señalados en el Decreto Presidencial N° 1.001, de 2006, necesarios para ampliar hasta el día 20 de cada mes el plazo de declaración y pago de los impuestos que indica, se amplía el plazo de presentación ante el SII del informe de retenciones señalado desde el día 15 de junio al día 23 de junio de cada año. 
+
+4.- Cuando el plazo para informar venza en día sábado o feriado, este se prorrogará hasta el primer día hábil siguiente. 
+
+5.- Sin perjuicio de los señalado en los resolutivos anteriores, cabe señalar que conforme al Resolutivo N°9 de la Res. Ex. N° 107, de 2005, que establece normas y procedimientos respecto de la emisión de facturas de compra electrónicas, los contribuyentes obligados a presentar el Informe Mensual Retenedores Cambios de Sujeto (F3500) podrán eximirse de esta obligación en aquellos periodos mensuales completos en los cuales se encuentren operando como emisores de Documentos Tributarios Electrónicos, cumpliendo con lo señalado en el Instructivo Técnico de llenado de DTE´s para agentes retenedores, publicado en la sección “Factura Electrónica y otros Documentos Electrónicos”, que se encuentra disponible en la Oficina Virtual del SII en Internet (www.sii.cl) y, que copulativamente, hubiesen documentado todas sus transacciones asociadas al producto en el cual tienen la calidad de agentes retenedores, por medio de Documentos Tributarios Electrónicos.
+
+6.- El nuevo plazo de presentación de los informes de retenciones de cambios de sujeto, de acuerdo a lo estipulado en los Resolutivos N°s. 1, 2 y 3 anteriores, regirá para los formularios que se presenten a partir del mes siguiente a aquél de publicación de esta Resolución en el Diario Oficial.
+
+
+					ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+						(FDO) RICARDO ESCOBAR CALDERÓN
+				        	                              DIRECTOR  
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Saluda a Ud.,
+JTP/IBC/JCV
+DISTRIBUCION: -  Internet -  Diario Oficial (Extracto)
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

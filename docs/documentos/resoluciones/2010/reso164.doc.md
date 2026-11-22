@@ -1,0 +1,49 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso164.doc
+titulo: Word – Resolución Exenta SII N°164 del 29 de Octubre del 2010 Establece Agregar Información Relacionada con el D.F.L. N° 2, de 1959, en el Formulario N° 2890 “Declaración sobre Enajenación e Inscripción de Bienes Raíces” Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°164 DEL 29 DE OCTUBRE DEL 2010 MATERIA : ESTABLECE AGREGAR INFORMACIÓN RELACIONADA CON EL D.F.L. N° 2, DE 1959, EN EL FORMULARIO N° 2890 “DECLARACIÓN SOBRE ENAJENACIÓN E INSCRIPCIÓN DE BIENES RAÍCES”
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los artículos 6, letra A), N°1 y artículo 76 del Decreto Ley N°830 sobre Código Tributario, en el artículo 2° de la Ley N°17.990, en el artículo 16 N°1 de la Ley N°17.235 sobre Impuesto Territorial y, en el nuevo inciso cuarto del artículo 1° del D.F.L. N° 2, de 1959, sobre Plan Habitacional, introducido por el artículo 8° N° 1 de la Ley N°20.455, que modificó diversos cuerpos legales para obtener recursos destinados al financiamiento de la reconstrucción del país, y,
+
+CONSIDERANDO:
+
+
+Que, para hacer uso de los beneficios, franquicias y exenciones que contempla el D.F.L. N° 2, del año 1959, sobre Plan Habitacional, y tras las modificaciones introducidas por la Ley N° 20.455 en su artículo 8° N° 1, se establece que los Notarios y Conservadores de Bienes Raíces deberán remitir al Servicio de Impuestos Internos la información referida a transferencias y trasmisiones de dominio de “viviendas económicas”;
+
+SE RESUELVE:
+
+
+Agrégase, mediante timbre de goma,  por parte de los señores Notarios y Conservadores, según corresponda, al formulario N° 2890 “Declaración sobre enajenación e inscripción de bienes raíces” en soporte papel, inmediatamente bajo el título de dicho formulario, la siguiente frase: “Inmueble acogido al D.F.L. N° 2 según escritura”, en los casos en los cuales el inmueble que se transfiere está acogido a las normas del D.F.L. N° 2, de 1959.
+
+Dicho timbre deberá ser aproximadamente de 5,0 cm de ancho por 2,0 cm de alto de acuerdo al formato que se adjunta en anexo a esta resolución.
+
+Para aquellos formularios impresos desde el sitio web del Servicio de Impuestos Internos,  HYPERLINK "http://www.sii.cl" www.sii.cl, el señalado timbre se deberá agregar inmediatamente bajo el campo “Uso exclusivo SII” código 907.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+
+	(Fdo.) JULIO PEREIRA GANDARILLAS
+	DIRECTOR
+
+
+Anexo: “Modelo de timbre”
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+DISTRIBUCIÓN:
+-	Internet
+-	Boletín
+-	Al Diario Oficial (en extracto)
+
+
+
+
+Inmueble acogido al
+D.F.L. N° 2
+según escritura
+
+

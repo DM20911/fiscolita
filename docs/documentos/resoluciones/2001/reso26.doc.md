@@ -1,0 +1,55 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso26.doc
+titulo: Word – Resolución Exenta N°26 del 29 de Junio del 2001 Modifica resolución n° 10, del 16 de febrero de 2001, cambiando la fecha que obliga a los bancos a la implementación de la solución informática que soporta el formulario n° 01 electrónico. Fuente: Subdirección de Informática
+categoria: otros
+---
+INCRUSTAR PBrush
+
+ RESOLUCION EXENTA N°26 DEL 29 DE JUNIO DEL 2001 MATERIA : MODIFICA RESOLUCION N° 10, DEL 16 DE FEBRERO DE 2001, CAMBIANDO LA FECHA QUE OBLIGA A LOS BANCOS A LA IMPLEMENTACIÓN DE LA SOLUCIÓN INFORMÁTICA QUE SOPORTA EL FORMULARIO N° 01 ELECTRÓNICO. 
+
+
+VISTOS: lo dispuesto en los artículos 6º letra A  Nº1, 30º y 35° del Código Tributario y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley Nº7, de 1980, del Ministerio de Hacienda, y,
+
+CONSIDERANDO:
+
+
+1°.- Que por Resolución Exenta N° 10, de 16 de Febrero de 2001, complementada por la Resolución Exenta N° 17, de 10 de Abril de 2001, esta Dirección estableció el procedimiento para la recepción y remisión al Servicio de las declaraciones de impuestos presentadas en formularios 22 y 29 en el Banco del Estado de Chile, en Bancos Comerciales o de Fomento, en las Sociedades Financieras y en las Sociedades constituidas por los Bancos Comerciales, cuyo objeto exclusivo sea prestar servicios a sus asociados y que de acuerdo a lo dispuesto en las Resoluciones Exentas N°6352, de 29 de Octubre de 1998 y N°7603, de 17 de Diciembre de 1998, han convenido con el Servicio recibir las declaraciones de impuesto, con o sin pago, que deben presentar los contribuyentes en los formularios señalados y remitirlas a este Organismo de manera centralizada.
+
+2°.- Que la Resolución Exenta N° 10, de 16 de febrero de 2001, otorgó un plazo excepcional a las entidades recaudadoras de implementar estos procedimientos hasta el fin del primer semestre de 2001, es decir, el 30 de junio de 2001.
+
+3°.- Que las Entidades Recaudadoras han solicitado ampliar el plazo excepcional para implementar la generación electrónica del Formulario conductor N° 01, indicado en la Resolución Ex. N° 10, de 16 de febrero de 2001,
+
+
+
+
+SE RESUELVE:
+
+MODIFICASE el resolutivo CUARTO, de la Resolución Ex. N° 10, de 16 de febrero de 2001,  reemplazando el texto “puedan hacerlo dentro del primer semestre del año 2001, es decir, hasta el 30 de junio de 2001” por “puedan hacerlo hasta el 31 de enero de 2002”.   
+
+
+
+ 
+
+
+
+
+ANÓTESE Y COMUNÍQUESE
+
+
+
+
+
+
+(Fdo.) JAVIER ETCHEBERRY  CELHAY DIRECTOR 
+					
+	Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+		Saluda a Ud.,
+
+
+
+
+Distribución:
+Internet
+Boletín
+

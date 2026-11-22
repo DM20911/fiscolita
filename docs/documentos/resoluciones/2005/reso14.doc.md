@@ -1,0 +1,120 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso14.doc
+titulo: Word – Resolución Exenta SII N°14 del 08 de Febrero del 2005 Fija Nuevos Requisitos y Establece Nuevas Características Respecto de los Documentos que Indica. Fuente: Departamento de Operación IVA y Catastro
+categoria: otros
+---
+RESOLUCION EXENTA SII N°14 DEL 08 DE FEBRERO DEL 2005 MATERIA : FIJA NUEVOS REQUISITOS Y ESTABLECE NUEVAS CARACTERÍSTICAS RESPECTO DE LOS DOCUMENTOS QUE INDICA.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las facultades contempladas en el artículo 6º letra A) Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L. Nº 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; lo dispuesto en el D. L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y su reglamento, contenido en el D.S. N° 55 del Ministerio de Hacienda, de 1977, la Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura y,
+
+
+CONSIDERANDO:
+
+1°	Que, de acuerdo al artículo 71-bis del D.S. N° 55, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, la Dirección del Servicio de Impuestos Internos, debe fijar las características de las Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Liquidaciones Facturas, Notas de Débito, Notas de Crédito, Facturas Exentas o No Afectas y todos aquellos documentos que deban confeccionarse con dichas características.
+
+2°	Que, mediante Res. Ex. N° 1661, de 08.07.1985, publicada en el Diario Oficial de fecha 9 de Julio del mismo año, se procedió a fijar las características de los documentos enunciados en el considerando anterior.
+
+3°		Que, la Ley N° 19.983, publicada en el Diario Oficial el 15.12.2004, regula la transferencia, otorga mérito ejecutivo a la copia de la factura y obliga a partir del cuarto mes contado desde su fecha de publicación en el Diario Oficial, es decir, a contar del 15.04.2005, a que las facturas emitidas por un contribuyente, ya sea en forma manuscrita o por medios mecanizados, cuenten con una tercera copia obligatoria.
+
+Del mismo modo, esta Ley hace extensiva esta obligación a las guías de despacho, cuando sea éste el documento usado para la entrega de la mercadería
+
+4°		Que la Res. Ex. N° 45, de 01.09.2003, establece normas y procedimientos de operación respecto de los documentos tributarios electrónicos.
+
+5°	Que, con el fin de hacer más eficiente el resguardo del interés fiscal, es necesario modificar algunas de las características establecidas para los documentos ya indicados precedentemente.
+
+SE RESUELVE:
+
+
+1°    Tercera Copia Obligatoria de Facturas
+
+La tercera copia exigida por la Ley N° 19.983, no dará derecho a crédito fiscal, y deberá indicar su destino en el vértice inferior derecho del documento mediante la leyenda “CUADRUPLICADO COBRO EJECUTIVO-CEDIBLE”, que quedará en poder del vendedor o prestador del servicio, o de un tercero a quien se traspase. En el caso específico de las Guías de Despacho la frase que da cuenta del destino de esta copia deberá indicar la expresión: “CUADRUPLICADO COBRO EJECUTIVO-CEDIBLE CON SU FACTURA”.
+
+Adicionalmente, esta copia deberá disponer de un recuadro, en el cual se pueda consignar la firma, nombre y número de RUT de la persona que realiza el acuse recibo conforme de la recepción de mercaderías o de la prestación de servicios, así como de la fecha y recinto en que se realizó dicho acuse. El recuadro antes señalado deberá incluir en su pie la siguiente leyenda: “El acuse de recibo que se declara en este acto, de acuerdo a lo dispuesto en la letra b) del Art. 4°, y la letra c) del Art. 5° de la Ley 19.983, acredita que la entrega de mercaderías o servicio(s) prestado(s) ha(n) sido recibido(s) en total conformidad”
+
+	Esta nueva copia obligatoria cumplirá con los mismos requisitos que la primera y segunda copia obligatorias, incluido la leyenda diagonal "COPIA DE FACTURA NO DA DERECHO A CREDITO FISCAL".
+
+A partir del 15 de abril de 2005, este Servicio no autorizará el timbraje de facturas de ventas y servicios, facturas de ventas y servicios no afectos o exentos, facturas de compras, liquidación-facturas y guías de despacho, que no den cumplimiento a la presente norma, es decir, que no posean esta tercera copia con las características antes señaladas.
+
+A partir de la entrada en vigencia de esta resolución, los contribuyentes podrán emitir los documentos antes indicados, incluyendo la tercera copia obligatoria, sin perjuicio que sólo tendrá mérito ejecutivo la mencionada copia que se emita a contar del 15.04.2005, según lo establece la Ley N° 19.983. 
+
+En el caso de los Documentos Tributarios Electrónicos, la exigencia de contar con un ejemplar que pueda ser destinado a la cesión o cobro ejecutivo, deberá ser cumplida mediante la emisión de, al menos, una representación impresa del Documento Electrónico que incluya el recuadro de identificación de la persona que realiza el acuse de recibo, de acuerdo a lo señalado en la letra a) anterior.
+
+2°  Cambio de Color en el recuadro que indica RUT del emisor
+
+a)	Reemplácese el texto de los puntos 1.5. y 1.6. de la Resolución N° 1661, de 08.07.1985, publicada en el Diario Oficial el día 9 del mismo mes y año, manteniéndose en lo demás,  por las siguientes:
+
+	“1.5. El N° de RUT del emisor del documento, el nombre del documento (factura, guía de despacho, nota de débito, nota de crédito, liquidación-facturas, factura de compras, facturas de ventas y servicios no afectos o exentos, etc.) y su número correlativo, deberán ser impresos en un recuadro de cuatro centímetros de altura por ocho centímetros de largo, enmarcado por un filete de un milímetro de grosor. Dicho recuadro irá en el ángulo superior derecho del documento, a 0,5 centímetros del corte y será de color verde, tipo pantone “Green U” ó “Green C”. El RUT y el nombre del documento deberán ser impresos en letra tipo “Univers Médium”,  con cuerpo 18 y en alta. En cuanto al número correlativo del documento, este no podrá tener un tamaño inferior a cuatro milímetros de altura. Todos los caracteres al interior del recuadro deberán ser impresos en igual tipo de color verde;
+
+	1.6. Inmediatamente debajo del recuadro definido en el número 1.5. anterior, deberá individualizarse la Unidad del Servicio de Impuestos Internos donde debe efectuarse el timbraje respectivo (por ejemplo: S.I.I. – Iquique, S.I.I. – Stgo. Oriente, S.I.I. – Angol, etc.), con letra “Univers Médium”, con cuerpo 11 y de color verde, tipo pantone “Green U” o  “Green C”; 	
+		
+b)	Las Unidades de timbraje, podrán autorizar los documentos que presenten los contribuyentes con la característica antigua, es decir, con recuadro rojo, hasta el día el  30 de septiembre del 2005;	
+
+c)	Los documentos timbrados con la característica antigua, vale decir, con recuadro rojo,  podrán ser emitidos sólo hasta el período tributario de septiembre 2005. Como consecuencia de la aplicación de las modificaciones que se establecen mediante la presente resolución, tales documentos deberán ser inutilizados por los contribuyentes, dentro del mes de octubre del año 2005, procediendo a anularlos  uno por uno y en forma diagonal, archivarlos y resguardarlos.	
+
+d)	El incumplimiento de las normas relacionadas con la inutilización de las existencias de documentos timbrados obsoletos, será sancionado de conformidad al N° 10, del artículo 97, o al artículo 109, del Código Tributario, según sea el caso.	
+
+
+3°  Fecha de vigencia de emisión 
+
+a)	Toda factura de ventas y servicios, factura de compras, liquidación-factura, nota de débito, nota de crédito y guía de despacho autorizada por el SII mediante el timbraje de la misma, podrá ser emitida por el contribuyente hasta el 31 de diciembre del siguiente año en que se materializó el timbraje. Con posterioridad a esa fecha, no podrá ser emitida, careciendo de validez tributaria. Como consecuencia de esto, tales documentos deberán ser inutilizados por los contribuyentes, dentro del mes de enero siguiente al año en que dejan de tener vigencia para ser emitidos, procediendo a anularlos uno por uno y en forma diagonal, archivarlos y resguardarlos.
+
+	Así las cosas, a modo de ejemplo, las facturas timbradas desde el 15 de abril de 2005, hasta el 31 de diciembre de 2005, tendrán vigencia para su emisión hasta el 31 de diciembre de 2006. Las facturas timbradas desde el 01 de enero de 2006 hasta el 31 de diciembre de 2006, tendrán vigencia para su emisión hasta el 31 de diciembre de 2007, y así sucesivamente.
+
+b)	Ahora bien, a fin que el receptor de estos documentos conozca fácilmente si el documento que recibe ha sido emitido válidamente, toda factura de ventas y servicios, factura de compras, liquidación-factura, nota de débito, nota de crédito y guía de despacho autorizada por el SII a contar del 15 de abril de 2005 deberá indicar en forma preimpresa -tanto en el original como en todas sus divisionales obligatorias-, la fecha de vigencia de la misma, de conformidad a lo señalado en el párrafo anterior.
+
+La fecha de vigencia de emisión de estos documentos, en consecuencia, deberá estar preimpresa, bajo el recuadro de color donde se menciona el RUT del emisor y el número de facturas, en letra tipo “Univers Médium”, tamaño mínimo 11 mediante el siguiente texto: “FECHA VIGENCIA EMISION HASTA 31.Diciembre.2006” (en el caso de un documento timbrado después del 15 de abril de 2005).
+
+c)	Las facturas de ventas y servicios, facturas de compras, notas de débito, notas de crédito, liquidación-facturas y guías de despacho autorizadas por el Servicio con anterioridad al 15 de abril de 2005, cumpliendo los requisitos establecidos en la letra a) del punto 2 precedente, que no indiquen su fecha de vigencia de emisión, ya sea en forma preimpresa o por timbre de goma, se tendrán como vigentes para ser emitidas hasta el 31 de diciembre de 2005.
+
+
+4°  Normas Transitorias
+
+Los contribuyentes que al 15 de abril de 2005, posean stock de documentos timbrados y no usados o documentos aún no autorizados por el SII, que no cumplen las características indicadas en el resolutivo N° 1 en cuanto a su tercera copia, tendrán la posibilidad de usar dichos documentos mediante los siguientes mecanismos:
+
+Documentos timbrados y no utilizados
+
+Los contribuyentes podrán solicitar al SII la autorización de las terceras copias correspondientes a facturas de ventas y servicios, facturas de ventas y servicios exentos o no afectos, facturas de compra, liquidación-facturas y guías de despacho ya autorizadas (timbradas) por el SII y no utilizadas, observando el mecanismo regular de timbraje, señalando en el formulario respectivo (F-3230) que se trata de “FACTURA CUADRUPLICADO COBRO EJECUTIVO”, “FACTURA EXENTA CUADRUPLICADO COBRO EJECUTIVO”, “FACTURA DE COMPRA CUADRUPLICADO COBRO EJECUTIVO”, “LIQUIDACIÓN-FACTURA CUADRUPLICADO COBRO EJECUTIVO” o “GUIA CUADRUPLICADO COBRO EJECUTIVO“, según se trate, en los casilleros del formulario destinados a otros tipos de documentos,  indicando el “número desde” y el “número hasta” solicitado.
+
+Documentos aún no timbrados 
+
+Los contribuyentes podrán solicitar el timbraje de facturas de ventas y servicios, facturas de ventas y servicios exentos o no afectos, facturas de compra, liquidación-facturas y guías de despacho que no tengan la tercera copia obligatoria, adjuntando en talonarios o cajas aparte, estas terceras copias por la misma numeración, de modo que sean timbradas junto con los talonarios o cajas originales.
+
+Del mismo modo, respecto de aquellas facturas de ventas y servicios, facturas de compras, notas de débito, notas de crédito, liquidación-facturas y guías de despacho cuyo timbraje se solicite en el SII a partir de 15 de abril de 2005, que no tengan preimpresa su fecha de vigencia de emisión, se permitirá que ésta venga señalada a través de un timbre de goma en todas sus divisionales obligatorias.
+
+c)	Los mecanismos transitorios antes mencionados podrán ser utilizados sólo hasta el 30 de septiembre de 2005.
+
+
+5°	Vigencia
+
+Las nuevas características fijadas en los números precedentes, regirán a contar de la fecha de la publicación en el Diario Oficial de la presente resolución, es decir, a contar de esta fecha los contribuyentes podrán timbrar documentos que posean las características de color del recuadro, fecha de vigencia y tercera copia obligatoria.
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+     
+
+
+
+
+		            (Fdo)  BERNARDO LARA BERRIOS
+							                 DIRECTOR (S)
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines 
+
+Saluda a Ud.
+
+
+
+
+DISTRIBUCION:
+Secretaria Director
+Subdirección de Fiscalización
+Oficina de Partes
+Internet.
+Diario Oficial (en extracto)
+
+
+
+

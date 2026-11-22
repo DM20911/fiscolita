@@ -1,0 +1,122 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso31.doc
+titulo: Word – Resolución Exenta SII N°31 del 08 de Febrero del 2010 Aprueba Convenio de Colaboración Entre el Servicio de Impuestos Internos y la Unidad de Análisis Financiero. Fuente: Depto. de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°31 DEL 08 DE FEBRERO DEL 2010 MATERIA : APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y LA UNIDAD DE ANÁLISIS FINANCIERO.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+                                                        VISTOS: Lo dispuesto en las letras c) y o) del artículo 7° del D.F.L N° 7, del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, lo dispuesto en el artículo 5° de la Ley N° 18.575 de Bases de la Administración del Estado, y, el artículo 35 del Código Tributario, contenido en el artículo Primero del Decreto Ley N° 830 y,
+
+
+    CONSIDERANDO: 
+
+
+     				    1.- Que, de acuerdo a lo dispuesto en el artículo 5° de la Ley  N° 18.575 de Bases de la Administración del Estado, “Las autoridades y funcionarios deberán velar por la eficiente e idónea administración de los medios públicos y por el debido cumplimiento de la función pública. Los órganos de la Administración del Estado deberán cumplir sus cometidos coordinadamente y propender a la unidad de acción evitando la duplicación o interferencia de funciones”,
+
+				     2.- Que, se ha acordado con la Unidad de Análisis Financiero, celebrar un acuerdo que permita poner a disposición de dicho organismo información básica de los contribuyentes, asociada a RUT,  a la vez que recibir información no afecta a las restricciones de divulgación establecidas en los artículos 2° inciso tercero, 6° inciso segundo  y 13 de la ley N° 19.913.
+	
+
+     RESUELVO:
+
+
+                                                                  	Apruébese el siguiente Convenio de Colaboración entre el Servicio de Impuestos Internos y la Unidad de Análisis Financiero, de fecha 15 de enero de 2010:
+             
+“En Santiago, a 15 de enero de 2010 entre la Unidad de Análisis Financiero, en adelante “Unidad”, representada por su Directora, Sra. Tamara Agnic Martínez, ambos domiciliados en Moneda 975 piso 17, Santiago, y el Servicio de Impuestos Internos, en adelante “Servicio”, representado por su Director, don Ricardo Escobar Calderón, ambos domiciliados en Teatinos 120 piso sexto, Santiago, se conviene lo siguiente:
+
+
+PRIMERO: 	El Servicio, organismo de la Administración del Estado dependiente del Ministerio de Hacienda, tiene por finalidad la aplicación y fiscalización en el país de todos los impuestos internos fiscales o de otro carácter en que tenga interés el Fisco. 
+
+SEGUNDO: 	La Unidad, organismo público descentralizado que se relaciona con el Presidente de la República a través del Ministerio de Hacienda, tiene por finalidad prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica para la comisión de delitos de lavado de activos y financiamiento del terrorismo y de aquellos descritos en el artículo 27 de la Ley N°19.913.
+
+TERCERO: 	En virtud de lo anterior, y considerando el principio de colaboración y coordinación  entre organismos públicos consagrado en la Ley N° 18.575, la Unidad y el Servicio han acordado suscribir este convenio de intercambio de información y colaboración, a fin de contribuir al logro de una gestión más eficiente en el cumplimiento de las funciones privativas que la ley les encomienda a ambas Instituciones.
+
+CUARTO:		En el marco del convenio, el Servicio proporcionará a la Unidad, información básica asociada  a los RUT de contribuyentes que ésta le requiera; a saber:
+Situación actual del contribuyente ante el Servicio; 
+Identificación de personas jurídicas; 
+Información relativa a documentos, electrónicos o no, autorizados por el Servicio; Información relativa a bienes raíces de propiedad del contribuyente consultado.
+
+En el Anexo de este Convenio, que se entiende formar parte integrante del presente, se contiene el detalle pormenorizado del alcance de la información que el Servicio pondrá a disposición de la Unidad. 
+
+Asimismo, el Servicio proporcionará a la Unidad información agregada respecto de los contribuyentes que tengan declarada una determinada actividad económica.
+ 
+QUINTO:		La Unidad pondrá a disposición del Servicio aquella información que no se encuentre afecta a las prohibiciones o a los deberes de reserva y secreto establecidos en los artículos 2° inciso 3°, 6° inciso 2° y 13 de la ley N°19.913. 
+	
+SEXTO:		Respecto de la información que reciban en cumplimiento de este Convenio, las partes se obligan a:
+
+Limitar la divulgación de la información, materia de este convenio, sólo a aquellos funcionarios o empresas prestadoras de servicios que efectiva y justificadamente tengan la necesidad de tomar conocimiento de la misma;
+Instruir por escrito, de acuerdo a sus procedimientos formales internos, a cualesquiera de sus funcionarios o empresas prestadoras de servicios que tengan acceso a la misma, la limitación a que se encuentran sujetos en orden a no copiarla, total o parcialmente, y mantener la confidencialidad correspondiente, evitando el acceso a la misma por parte de terceros; y,
+Adoptar medidas de seguridad adecuadas para conservar la propiedad de dicha información, libre del acceso de terceros no autorizados.
+
+SÉPTIMO:		El traspaso de la información se efectuará en línea mediante el empleo de Web Services directos entre las partes. La entrega de la información no representará ningún costo para los organismos involucrados.
+		
+		El Servicio no podrá divulgar de ninguna forma la información relacionada a las consultas realizadas por la Unidad a su base de datos, comprometiéndose a tomar los debidos resguardos a fin de dar cumplimiento a lo establecido en el artículo 13° de la Ley 19.913.
+		
+OCTAVO:		El presente convenio tendrá una duración de 2 años y se renovará automáticamente por igual período. Las partes podrán ponerle término de común acuerdo, sin perjuicio de que alguna de ellas lo requiera en forma unilateral para lo cual deberá informar con al menos treinta días de anticipación mediante oficio dirigido al Jefe Superior del otro organismo, sobre las circunstancias que determinan el término del convenio. 
+
+NOVENO: 	El presente convenio comenzará a regir el día primero del mes siguiente a aquel en que se produzca la última aprobación administrativa, circunstancia que deberá comunicarse por escrito a la otra parte.
+
+DÉCIMO:			El presente convenio se firma en cuatro ejemplares, quedando dos de ellos en poder de cada una de las partes.
+
+UNDÉCIMO:	La personería de doña Tamara Agnic Martínez, para actuar en representación de la Unidad de Análisis Financiero, consta en Decreto N° 775, de fecha 23 de septiembre de 2009, del Ministerio de Hacienda.
+
+		La personería de don Ricardo Escobar Calderón, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo Nº 348, del día 11 de marzo de 2006, del Ministerio de Hacienda.
+
+
+
+Firman Tamara Agnic Martínez, Directora Unidad de Análisis Financiero; Ricardo Escobar Calderón, Director Servicio de Impuestos Internos.
+
+
+ANEXO
+
+
+El traspaso de la información será a través de Web Service directo:
+
+1.- Situación actual del contribuyente ante el SII:
+
+Aviso de inicio de actividades
+Aviso de término de giro
+Teléfono
+Correo electrónico
+Fax
+Código y descripción de las actividades declaradas
+Categoría a la cual pertenece el contribuyente consultado
+Domicilio del contribuyente
+Dirección Regional a cuya jurisdicción pertenece el contribuyente
+
+2.- Información de personas Jurídicas:
+
+Nombre y RUT del representante legal
+Detalle de la conformación de la sociedad
+Detalle de participación en sociedades: Nombre y razón social, RUT y fecha de incorporación.
+
+3.-  Información relativa a documentos, electrónicos o no, autorizados por el SII:
+
+Tipo de documento
+Último documento autorizado
+Fecha de autorización
+
+4.-  Información relativa a bienes raíces de propiedad del contribuyente consultado:
+
+Número de rol de la propiedad
+Comuna en que la propiedad se encuentra ubicada
+Dirección de la propiedad
+Avalúo de la propiedad”					 
+
+ ANÓTESE Y COMUNÍQUESE.
+
+
+
+
+ 
+(FDO.) PABLO GONZALEZ SUAU        	 DIRECTOR (s)
+
+
+Lo  que transcribo a Ud. para su conocimiento.
+INTERNET
+BOLETIN SII
+
+

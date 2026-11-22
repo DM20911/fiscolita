@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/preguntas_frecuentes/renta/arbol_bentrib_garantia_hipotecaria_928.htm
+titulo: Preguntas Frecuentes de Beneficio Tributario para personas con créditos con garantía hipotecaria
+categoria: faq
+---
+|  |
+| --- |
+| [Beneficio Tributario para personas con créditos con garantía hipotecaria](preg_bentrib_garantia_hipotecaria.htm) | Situaciones especiales   - [¿Un crédito con garantía hipotecaria, utilizado con fines de autoconstrucción de viviendas, tiene algún beneficio tributario?](001_017_1420.htm) - [¿Qué se debe hacer para utilizar el beneficio tributario del Artículo 55 bis de la Ley de la Renta si se adquirió con crédito hipotecario una propiedad en comunidad antes del 28 de septiembre de 2001 y en la escritura no fue señalado el beneficiario?](001_017_1031.htm) - [¿Cuál es la situación de los contribuyentes que hubieren adquirido una vivienda en comunidad con crédito hipotecario con anterioridad a la publicación de la Ley 19.753, de 2001?](001_017_0415.htm) - [¿Al reprogramar un crédito con garantía hipotecaria de una propiedad adquirida en comunidad, es necesario presentar una nueva Declaración Jurada para mantener el beneficio tributario del artículo 55 bis de la Ley de la Renta?](001_017_1252.htm) - [¿Las viviendas adquiridas en comunidad con crédito hipotecario, en las que existe un comunero señalado a través de una Declaración Jurada o escritura, puede ser cambiado y rebajar así los intereses del artículo 55 bis de la Ley de la Renta?](001_017_1416.htm) - [¿Se mantiene el beneficio de créditos hipotecarios si se realiza una reprogramación con un banco distinto al que brindó originalmente el crédito?](001_017_1001.htm) |

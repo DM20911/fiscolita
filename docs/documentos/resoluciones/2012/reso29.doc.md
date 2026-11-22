@@ -1,0 +1,60 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso29.doc
+titulo: Word – Resolución Exenta SII N°29 del 23 de Febrero del 2012 Sustitúyese el modelo de Declaración Jurada Formulario N° 1899 y sus respectivas instrucciones de llenado para proporcionar la información y antecedentes a que se refiere la Resolución Ex. Nº 19 de fecha 04.02.2009, y establecese modelo de
+categoria: otros
+---
+RESOLUCION EXENTA SII N°29 DEL 23 DE FEBRERO DEL 2012 MATERIA: SUSTITÚYESE EL MODELO DE DECLARACIÓN JURADA FORMULARIO N° 1899 Y SUS RESPECTIVAS INSTRUCCIONES DE LLENADO PARA PROPORCIONAR LA INFORMACIÓN Y ANTECEDENTES A QUE SE REFIERE LA RESOLUCIÓN EX. Nº 19 DE FECHA 04.02.2009, Y ESTABLECESE MODELO DE CERTIFICADO PARA INFORMAR A LOS AFILIADOS O INVERSIONISTAS LOS DEPÓSITOS CONVENIDOS. 
+VISTOS : Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1, 30 y 60 inciso 8° del Código Tributario, contenido en el artículo 1° del D.L. N°830 de 1974; artículo 20 del D.L N° 3500, de 1980; y 
+
+
+CONSIDERANDO:
+
+	1°. Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se hace necesario optimizar el uso de los recursos y de la información que se utilizan para el buen logro de esta función.  
+	2°.  Que, los dos primeros incisos del artículo 30 del Código Tributario establecen que: “Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.  
+La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.”  
+					3°. Que, en conformidad a lo establecido en la parte final del inciso 3° del artículo 20 del D.L. N° 3.500, de 1980, las AFP y las Instituciones Autorizadas, deberán informar anualmente a este Servicio, en la forma que se establezca mediante resolución, el monto total de los depósitos convenidos realizados respecto de cada trabajador.
+
+4°. Que, con la finalidad de dar una mejor claridad a las instrucciones impartidas para la confección de la Declaración Jurada N° 1899, evitando con ello errores de llenado que conlleven demoras en el proceso de declaración de los impuestos a la renta.
+
+SE RESUELVE:
+
+
+	1°. Sustitúyese el Modelo de Declaración Jurada Formulario Nº 1899 y sus respectivas instrucciones de llenado para proporcionar la información y antecedentes a que se refiere la Resolución Exenta Nº 19, de fecha 04.02.2009, y establécese modelo de Certificado N° 36 para que las Administradoras de Fondos de Pensiones e Instituciones Autorizadas que administran depósitos convenidos, informen a los afiliados o inversionistas el monto de tales depósitos; de acuerdo a los modelos que se adjuntan como Anexos Nº 1 y 2 a la presente resolución. 
+   
+2°. La Declaración Jurada, deberá enviarse mediante la transmisión electrónica de datos, vía Internet, y su formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos: HYPERLINK "http://www.sii.cl/"www.sii.cl
+3°.La presente Resolución regirá a contar del Año Tributario 2012, respecto de la información que debe proporcionarse por el movimiento de las cuentas de ahorro previsional voluntario y depósitos convenidos efectuados durante el año comercial 2011 y siguientes. 
+
+4°. El Modelo de Certificado N° 36 deberá emitirse dentro de los 5 días hábiles a partir de su solicitud por parte del interesado, y su no emisión o su emisión errónea, incompleta o fuera de plazo, será sancionado en la forma dispuesta en el artículo 109 del Código Tributario, respecto de cada persona a quien debió emitirse el mencionado certificado.
+5°. Los  Anexos N°1 y  2 de esta Resolución, y que se entienden forman parte íntegra de ella, se publicarán oportunamente en la página Internet de este Servicio, HYPERLINK "http://www.sii.cl"www.sii.cl.  
+Toda modificación de los anexos aludidos en el párrafo anterior, se efectuará mediante su oportuna publicación en la página web de este Servicio.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+
+
+
+
+
+
+ 
+(FDO.) MARIO VILA FERNÁNDEZ
+DIRECTOR (S)
+
+
+
+Anexo 1: HYPERLINK "reso29_layout_dj1899.xls"Modelo de Formulario N° 1899 y sus respectivas HYPERLINK "reso29_instr_dj1899.pdf"instrucciones de llenado.
+Anexo 2: HYPERLINK "reso29_cert_dj1899.pdf"Modelo de Certificado N° 36 y sus respectivas HYPERLINK "reso29_instr_cert_dj1899.pdf"instrucciones de llenado.
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+IBC/RNS/KCC/pcg
+DISTRIBUCIÓN:
+AL BOLETÍN
+A INTERNET
+AL DIARIO OFICIAL
+
+

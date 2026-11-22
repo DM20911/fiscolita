@@ -1,0 +1,36 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/RESOLUCION_EXENTA_SII_N_125_2006.doc
+titulo: Resolución Exenta SII N°125 del 19 de Octubre del 2006 Word – . Establece Funciones y Atribuciones del Departamento de Auditoría Interna y Deroga Resolución Exenta N° 1829 del 26 de Abril de 1994.
+categoria: otros
+---
+RESOLUCION EXENTA SII N°125 DEL 19 DE OCTUBRE DEL 2006 MATERIA : ESTABLECE FUNCIONES Y ATRIBUCIONES DEL DEPARTAMENTO DE AUDITORÍA INTERNA Y DEROGA RESOLUCIÓN EXENTA N° 1829 DEL 26 DE ABRIL DE 1994.
+Hoy se ha resuelto lo que sigue:
+VISTOS: Las necesidades del Servicio y las facultades que me confieren las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos  Internos, contenida en el DFL N° 7, de 1980, de Hacienda; y,
+ 
+CONSIDERANDO: 
+1°   Que, mediante Resolución Exenta N° 1829 del 26 de abril de 1994, se fijaron las obligaciones y atribuciones del Departamento de Auditoría Interna;
+2°   Que, es de interés del Servicio de Impuestos Internos adecuarse a las necesidades de una organización moderna y una administración más eficiente, lo que hace necesario definir objetivos que sirvan de guía para las actividades que deben emprender quienes tienen la responsabilidad de asegurar la adecuada existencia del control interno;
+ 
+RESUELVO:  
+1°   Establece para el Departamento de Auditoría Interna las siguientes funciones y atribuciones:  
+a)      Conocer los procesos del Servicio de Impuestos Internos con el objeto de identificar, analizar y evaluar los riesgos y controles asociados a ellos.  
+b)      Verificar y velar por el cumplimiento de las normas y políticas de los procesos y del funcionamiento óptimo de los controles internos de tal forma de apoyar la consecución de los Objetivos Estratégicos Institucionales.  
+c)      Velar por la legalidad, eficiencia y eficacia de los procesos desarrollados en el Servicio de Impuestos Internos.  
+d)      Asistir al Servicio en el diseño de procesos, políticas, normas e instrucciones de manera de que éstos incorporen los mecanismos de control necesarios para la mitigación de los riesgos.  
+e)      Asistir al Servicio mediante la evaluación y mejora del proceso por el cual se establecen y comunican las metas y objetivos, se supervisa el cumplimiento de las metas, se asegura la responsabilidad y se preservan los valores.  
+f)        Supervisar que en el desarrollo y cumplimiento de los objetivos de los procesos no se vulneren los derechos de los contribuyentes y funcionarios de este Servicio.  
+g)      Velar por la confiabilidad e integridad de la información empleada por el Servicio de Impuestos Internos, sea ésta generada en virtud de los procesos desarrollados por el Servicio o aportada por terceros.  
+h)      Velar por el buen uso y seguridad de los recursos del Servicio.  
+2°   Para el cumplimiento de su cometido, tanto el Jefe de Departamento como los Auditores que ahí se desempeñan, tendrán acceso a toda la documentación e información que precisen, para lo cual los funcionarios de este Servicio deberán prestar su total cooperación.  
+3°   Derogase la Resolución Exenta N° 1829 del 26 de abril de 1994.  
+  
+Anótese, comuníquese y publíquese.
+ 
+RICARDO ESCOBAR CALDERON DIRECTOR 
+ 
+Lo que transcribo a Ud. para su conocimiento y demás fines.
+DISTRIBUCION: -   Al Diario Oficial (extracto) -   Internet -   Boletín 
+
+
+
+

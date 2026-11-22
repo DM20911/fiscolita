@@ -1,0 +1,47 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso6.doc
+titulo: Word – Resolución Exenta SII N°06 del 17 de Enero del 2012 Rectifica Resolución Ex. Sii N°4, del 13 de Enero del 2012, que Fija Tablas de Valores de Trolebuses, Microbuses, Camiones, Taxis, Taxis Colectivos, Taxibuses, Automóviles, Station Wagons, Furgones, Camionetas, Incluyendo el de sus Acoplados
+categoria: otros
+---
+RESOLUCION EXENTA SII N°06 DEL 17 DE ENERO DEL 2012 MATERIA : RECTIFICA RESOLUCIÓN EX. SII N°4, DEL 13 DE ENERO DEL 2012, QUE FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE.
+
+	Hoy se ha resuelto lo que sigue:
+
+	
+
+	VISTOS: Lo dispuesto en el artículo 6°, letra A, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y en el artículo 34º bis, Nºs. 2 y 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974.
+
+	CONSIDERANDO: 
+
+	1.-	Que, por Resolución Exenta N° 4, de fecha 13 de enero de 2012, se fijó el valor corriente en plaza de los trolebuses, microbuses, taxibuses, camiones, y de los acoplados y carros de arrastre.
+
+2.-	Que en el punto N° 5 de la parte resolutiva, se estableció el criterio para determinar el valor corriente en plaza de los vehículos que fueren del año 2012 y tuvieren la calidad de usados.
+
+3.-	Que en el punto N° 6 de la parte resolutiva se estableció el valor corriente en plaza de los vehículos ingresados al país por importación directa.
+
+4.-	Que se hace necesario rectificar ambos puntos.
+
+	RESUELVO:
+
+	1.- Efectúense las siguientes rectificaciones a los puntos N° 5 y N° 6 de la parte resolutiva de la Resolución Sii Ex. N° 4 de fecha 13 de enero de 2012, para los que se fijara su texto definitivo, de la siguiente forma:
+
+	“5.- Si el vehículo fuere del año 2012, su valor corriente en plaza será el que figure en la respectiva factura, contrato o convención, sin deducir el monto del Impuesto a las Ventas y Servicios del Decreto Ley Nº 825, de 1974.”
+
+
+	“6.- En el caso de vehículos importados directamente, el valor corriente en plaza será el valor aduanero o en su defecto el valor CIF más los derechos de aduana y el Impuesto a las Ventas y Servicios.”
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+
+
+(Fdo.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines:
+
+Distribución:
+•	Internet
+•	Boletín
+•	Diario Oficial en extracto
+
+

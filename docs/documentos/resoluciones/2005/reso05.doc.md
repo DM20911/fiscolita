@@ -1,0 +1,100 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso05.doc
+titulo: Word – Resolución Exenta SII N°05 del 11 de Enero del 2005 Deja sin Efecto Autorización Otorgada a Compañías de Seguros para Eximirse de la Obligación de Emitir Facturas Fuente: Oficina de Factura Electrónica y Documentos de Venta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°05 DEL 11 DE ENERO DEL 2005 MATERIA : DEJA SIN EFECTO AUTORIZACIÓN OTORGADA A COMPAÑÍAS DE SEGUROS PARA EXIMIRSE DE LA OBLIGACIÓN DE EMITIR FACTURAS
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el N° 1, de la letra A), del Art. 6°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; los Arts. 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; el Oficio N° 4455, de 1975; la Res. Ex. N° 6080, de 1999; la Circular N° 39, del 2000, del Servicio de Impuestos Internos, y
+
+
+CONSIDERANDO :
+
+
+1°	Que, de acuerdo a lo establecido en el Art. 56 del D.L. N° 825, de 1974, y mediante el Oficio N° 4455, de 1975, el Servicio de Impuestos Internos eximió a las Compañías de Seguros de la obligación de emitir Facturas, establecida en los Arts. 52 al 55 de la Ley sobre Impuesto a las Ventas y Servicios. 
+
+2°	Que, el resolutivo 6° de la Res. Ex. N° 6080, de 1999, y la letra b) del Capítulo IV de la Circular N° 39, de 2000, señalan quienes no deben otorgar Facturas no Afectas o Exentas del Impuesto a las Ventas y Servicios establecido en el D.L. N° 825, de 1974, entre los que se menciona a los contribuyentes autorizados por el Servicio para no emitir documentos por operaciones no afectas o exentas del Impuesto al Valor Agregado o que deban otorgar documentos especiales.
+
+3°	Que, las Compañías de Seguros actualmente se encuentran en condiciones de acogerse al procedimiento de emisión de Documentos Tributarios Electrónicos establecido por el Servicio de Impuestos Internos por Res. Ex. SII N° 45, de 01.09.2003.
+
+
+SE RESUELVE:
+
+
+1°	Déjase sin efecto la autorización otorgada por Oficio N° 4455 del año 1975, en cuanto exime a Compañías de Seguros de emitir Facturas, y la autorización otorgada por Resolución N° 6080, de 1999 y Circular N° 39 del año 2000, que exime a las mismas, de la obligación de emitir Facturas de Ventas y Servicios por operaciones no afectas o exentas del Impuesto a las Ventas y Servicios, que establece el Decreto Ley N° 825 de 1974.
+
+2°	A contar de la fecha de entrada en vigencia de la presente Resolución, las Compañías de Seguros deberán emitir Facturas por todas las operaciones gravadas con el Impuesto a la Ventas y Servicios establecido en el D.L. 825, de 1974, que efectúen con asegurados o contratantes clientes que sean vendedores, importadores o prestadores de servicios, y “Facturas de Ventas y Servicios no Afectos o Exentos IVA”, por las operaciones exentas o no gravadas que realicen con aquellos. Asimismo las Compañías de Seguros deberán emitir Facturas por todas las operaciones que celebren con órganos o servicios de la Administración Publica y Municipalidades, en la cuales la emisión del referido documento es un requisito para la obtención del pago de las primas. Se exceptúa de lo anterior a las operaciones relativas a la contratación de las Pólizas Obligatorias de Accidentes Personales (SOAP) u otros seguros cuya contratación sea legalmente obligatoria; operaciones respecto de las cuales la exención de emisión de facturas, contenida en el Oficio N° 4455 de 31 de Julio de 1975, se mantiene plenamente vigente.
+
+3° Sin perjuicio de lo anterior, para los efectos de la fiscalización del Impuesto al Valor Agregado se estará a la información contenida en el Libro de Registro de Ingresos o Libro de Caja de cada Compañía de Seguros debidamente timbrado por el Servicio de Impuestos Internos, en el cual se registrará toda la información relativa a las pólizas de seguro emitidas en el periodo correspondiente, en los términos y condiciones determinadas por la Superintendencia de Valores y Seguros.
+
+4°	Esta resolución entrará en vigencia a contar del 1° de Julio del 2005.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) JUAN TORO RIVERA
+     DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distribución:
+Internet
+Diario Oficial en extracto
+PAGE  
+
+
+PAGE  1
+
+
+
+
+

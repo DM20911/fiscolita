@@ -1,0 +1,82 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso32.doc
+titulo: Word – Resolución Exenta N°32 del 12 de Diciembre del 2002 Autoriza al banco del estado de chile a no emitir documentos internos por comisiones que perciba asociadas al producto ahorro. Fuente: Depto de Opiva y Catastro de Contribuyentes
+categoria: otros
+---
+                                
+RESOLUCION EXENTA N°32 DEL 12 DE DICIEMBRE DEL 2002 MATERIA : AUTORIZA AL BANCO DEL ESTADO DE CHILE A NO EMITIR DOCUMENTOS INTERNOS POR COMISIONES QUE PERCIBA ASOCIADAS AL PRODUCTO AHORRO.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+				VISTOS: Lo dispuesto en los artículos 6° letra A, N° 1 del Código Tributario, artículo 56, inciso segundo de la Ley sobre Impuesto a las Ventas y Servicios y artículo 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, y
+
+
+				CONSIDERANDO:
+
+
+1° Que, la Res. Ex. N° 1110 del 30-08-78, autorizó a los Bancos e Instituciones Financieras a sustituir la obligación de otorgar boletas por las comisiones que perciban en cada una de las operaciones, por documentos internos.
+
+2° Que, el artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Director para establecer otro tipo de control de las operaciones, que estime suficiente, para resguardar el interés fiscal.
+
+3° Que, el Banco del Estado de Chile cobra comisiones asociadas al producto ahorro y que origina una emisión individual masiva de documentos internos equivalentes a 6,15 a 8,00 millones de documentos y cuyos valores fluctúan entre 0,02 UF a 0,125 UF más IVA.
+
+
+SE RESUELVE:
+
+
+1° Se autoriza al Banco del Estado de Chile a sustituir por un archivo magnético, los documentos internos que actualmente emite conforme a la Res. Ex. N° 1110 del 30-08-1978, en reemplazo de boletas de ventas y servicios por cobro de comisiones asociadas al producto ahorro.
+
+2° El referido archivo magnético, deberá generarse el segundo día hábil siguiente al cobro de las comisiones y mantenerse en CD-ROM no regrabable para ser entregado al Servicio de Impuestos Internos, cuando este lo requiera.
+
+
+El archivo deberá contener al menos los siguientes campos: N° de cuenta de ahorro, período, RUT y dígito verificador, monto comisión, monto IVA, monto total y fecha del cobro.
+
+3° La declaración y pago del Impuesto al Valor Agregado asociada a estas transacciones, deberá cumplir la normativa vigente al respecto.
+
+
+4° La presente resolución regirá a contar de la fecha de su publicación en el Diario Oficial.
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+
+
+
+
+
+					(Fdo) JUAN TORO RIVERA
+					                  DIRECTOR
+
+
+
+				Lo que transcribo a Ud.,  para su conocimiento y demás fines.
+
+				Saluda a Ud.
+
+
+
+
+					Secretario General
+
+
+
+
+
+DISTRIBUCIÓN:
+- Secretaría Director
+- Subdirección de Fiscalización
+- Oficina de Partes 
+- Internet
+- Diario Oficial ( en extracto) 
+
+
+
+
+
+
+
+
+
+

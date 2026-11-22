@@ -1,0 +1,122 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso122.doc
+titulo: Word – Resolución Exenta SII N°122 del 10 de Octubre del 2008 Crea Departamento Jurídico en la I Dirección Regional Iquique y Autoriza Delegación de Facultades que Indica. Fuente: Departamento de Gestión de las Personas
+categoria: otros
+---
+RESOLUCION EXENTA SII N°122 DEL 10 DE OCTUBRE DEL 2008 MATERIA : CREA DEPARTAMENTO JURÍDICO EN LA I DIRECCIÓN REGIONAL IQUIQUE Y AUTORIZA DELEGACIÓN DE FACULTADES QUE INDICA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS:  Lo dispuesto en el artículo 6° letra B) N° 5 y  N° 7 del Código Tributario; en el inciso final del artículo 4° en las letras c) y ñ) del artículo 7° y en el artículo 20, todos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; en el artículo 41, de la Ley 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19653, de 13 Diciembre de 2000, del Ministerio Secretaría General de la Presidencia, y
+
+
+CONSIDERANDO:
+
+1.-  Que de acuerdo a lo dispuesto en el inciso final del Art.4° de la Ley Orgánica del Servicio de Impuestos Internos, ya citada, en las Direcciones Regionales existirán los Departamentos que establezca el Director, con sujeción a la planta del Servicio.
+
+2.- Que las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos facultan a esta Dirección para dictar las órdenes que sean convenientes para la más expedita marcha del mismo y para fijar y modificar la organización interna de sus unidades así como sus atribuciones y obligaciones;
+
+3.- Que asimismo, el N° 7, letra B), del Art. 6 del Código Tributario y el Art. 20 de la Ley Orgánica del Servicio, facultan a los Directores Regionales del Servicio para autorizar a funcionarios de su dependencia para resolver determinadas materias o hacer uso de alguna de sus atribuciones, aún de las de su exclusiva competencia, debiendo, en esta materia, obrar de acuerdo a las instrucciones del Director;
+
+4.- Que se hace necesario dotar a la I Dirección Regional Iquique de un Departamento Jurídico con el objeto que ejerza las atribuciones que dicho estamento cumple en todas las demás Direcciones Regionales del país;
+
+5.- Que para el cumplimiento de dicho fin, es necesario establecer las atribuciones y obligaciones que deberá ejercer o asumir el citado estamento jurídico;
+
+6.- Que asimismo es pertinente autorizar al respectivo Director Regional para delegar las facultades necesarias para asegurar el adecuado cumplimiento de aquellas; y
+
+7.- Las necesidades que impone la buena marcha administrativa de la Unidades Operativas del Servicio;
+
+
+
+RESUELVO:
+
+PRIMERO.- Créase en la Dirección Regional Iquique el Departamento Jurídico, a contar del  01 de Octubre de 2008, el cual  estará ubicado en la sede de la Dirección Regional, a cargo de un profesional abogado, y dependerá jerárquicamente del respectivo Director Regional.
+
+SEGUNDO.-  Serán funciones del Departamento Jurídico las siguientes:
+
+A)  Asesorar al Director Regional en materias legales:
+
+Informar en derecho sobre las materias que éste someta a su conocimiento.
+Examinar la admisibilidad de peticiones de información de los contribuyentes y otros organismos.
+Informar de los criterios jurídicos adoptados por las Cortes de Apelaciones que sean de interés para el Servicio.
+
+
+Actuaciones relacionadas con procedimientos jurisdiccionales:
+
+Patrocinar y representar al Servicio ante los Tribunales, en los siguientes casos:
+Recursos que se tramiten ante las Cortes de Apelaciones, deducidos contra sentencias recaídas en reclamos de denuncios tramitados de acuerdo al Art. 165 del Código Tributario y en los recursos de hecho.
+Querellas por delito tributario.
+Denuncias por delito tributario.
+Solicitud al fiscal de Ministerio Público que corresponda, de antecedentes sobre delitos tributarios para que el Servicio pueda decidir si presentará denuncia o interpondrá querella y en los procesos seguidos ante el juez de garantía, en casos que se rechace tal solicitud, de acuerdo al inciso séptimo del Art. 162 del Código Tributario.
+Recursos que se tramiten ante los Tribunales Especiales de Alzada de los Bienes Raíces.
+En los demás procesos en que se le requiera especialmente.
+Remitir al Departamento Jurídico u Oficina Jurídica que corresponda, copia de los exhortos dirigidos por Tribunales de su jurisdicción.
+Solicitar al Departamento de Defensa Judicial que el Subdirector Jurídico designe abogado patrocinante y apoderado en los recursos extraordinarios interpuestos en contra del Director Regional.  Analizar la legalidad del acto impugnado, elaborar un informe y remitir copia al Departamento de Defensa Judicial. Igual acción le corresponde en los recursos extraordinarios deducidos contra actuaciones del Juez Tributario.
+
+ Participar en el procedimiento de determinación judicial de Impuestos de Timbres y Estampillas a que se refiere el párrafo 3°, del Título III del Libro Tercero del Código Tributario.
+
+Conocer y resolver las denuncias no reclamadas, por infracciones tributarias previstas y tipificadas en el Art. 97, N°s 6, 7, 10, 17, 19, 20 y 21 del Código Tributario, y además, conceder las condonaciones que se soliciten respecto  de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones dictadas al efecto.
+
+Actuar en el Comité Regional de Inversiones:
+
+Prestar apoyo legal  a las áreas que efectúen labores de fiscalización, supervisando la correcta aplicación de las normas, en todos aquellos casos que se requiera su colaboración.
+
+Colaborar en las recopilaciones de antecedentes relativos a irregularidades susceptibles de ser sancionadas con pena corporal conforme a lo dispuesto en los artículos 97, N° 4 y N° 5 y Art. 100 del Código Tributario u otro ilícitos penales.
+
+Analizar los antecedentes que le sean remitidos por el Jefe del Departamento respectivo y emitir un informe legal en  el que deberá pronunciarse especialmente sobre las irregularidades detectadas y la suficiencia y mérito de los antecedentes probatorios acompañados, indicando sí, en su concepto, éstas podrían constituir infracciones a las citadas normas tributarias.
+
+Confeccionar actas de Denuncias cuando se decida aplicar sólo sanción pecuniaria.
+
+Colaborar con las labores que desarrolla la Fiscalía Antifacturas Falsas, creada según Res. Ex. N°  5660, del 28 de diciembre de 2000.
+
+Colaborar con las labores que desempeña la Fiscalía Contra el Comercio Clandestino, creada de conformidad con lo dispuesto en la Resolución N° 03 del 11 de enero del 2002.
+
+Le corresponde, además, todas las funciones de carácter legal que esta Dirección o el Director Regional le encomienden.
+
+
+TERCERO.-   Autorízase al Director de la I Dirección Regional Iquique, para delegar en el Jefe del Departamento Jurídico de su dependencia, las siguientes facultades.
+
+La establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros o resoluciones que incidan en el pago de un impuesto  o en los elementos que sirvan de base para determinarlo.
+
+La de aplicar las sanciones administrativas que correspondan respecto de  las infracciones tributarias previstas y tipificadas en el artículo 97 N°s 6, 7, 10, 17, 19, 20 y 21 del Código Tributario y conceder las condonaciones que se soliciten en relación con dichas sanciones, siempre que se cumplan con los requisitos establecidos en las resoluciones e instrucciones emitidas al efecto;  y la de aplicar las sanciones administrativas que correspondan a las infracciones señaladas, cuando transcurrido el plazo legal, no se haya reclamado de ellas.
+
+Las contenidas en la Res. Ex. N° 2.482, de 03 de junio de 1994, sólo en lo que no se oponga a las facultades autorizadas delegar en funcionarios del Área de Término de Giro.
+
+La de otorgar, a petición de los solicitantes, Certificado de Exención de Impuestos a las Donaciones y Certificado de Pago de Impuestos a las Donaciones.
+
+
+
+Anótese, Comuníquese y Publíquese en extracto
+
+
+
+
+
+(Fdo.) RICARDO ESCOBAR CALDERÓN
+DIRECTOR
+
+
+
+Lo que transcribo a usted para su conocimiento.
+Saluda atentamente a usted,
+
+
+Distribución:
+Internet
+Boletín
+Diario Oficial, en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

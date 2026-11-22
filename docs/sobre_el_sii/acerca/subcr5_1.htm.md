@@ -1,0 +1,118 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr5_1.htm
+titulo: subcr5_1.htm
+categoria: sobre_el_sii
+---
+**5. GESTION DE
+CALIDAD DE LOS SERVICIOS Y/O** **PRODUCTOS ENTREGADOS**
+
+5.1 Diseño de productos (programas) y servicios de calidad.
+
+**Definición de Proyectos**
+
+El aporte de los funcionarios, los sistemas de reclamo, las visitas y observaciones en
+terreno de quienes desarrollan el diseño lógico de los nuevos procedimientos y las
+encuestas de opinión a los contribuyentes realizadas por empresas externas, permiten
+detectar diferentes tipos de problemas en los procesos realizados por el Servicio de
+Impuestos Internos. A partir de dichas constataciones y para dar solución a estos
+problemas, se define un Proyecto, al que se le asignan objetivos, áreas responsables y se
+prioriza de acuerdo a su urgencia y a los recursos que se disponen, programando su
+ejecución en el tiempo en el contexto del conjunto de proyectos considerados en el Plan
+estratégico.
+
+Para realizar el Proyecto, entre las áreas que participarán en el mismo y bajo la
+responsabilidad del área que aparece como usuaria, se designa un equipo de proyecto, a
+cargo de un Jefe de Proyecto que dirige al conjunto de profesionales, especialistas y
+usuarios que desarrollaran el trabajo.
+
+El grupo de trabajo a cargo del proyecto, crea un documento interno de definición, en
+el que se especifican, entre otros, los objetivos del proyecto, las condiciones de
+satisfacción de los requerimientos, las características de las soluciones o sistemas
+propuestos, los presupuestos y las programaciones en el tiempo. En caso que corresponda,
+se hacen evaluaciones de las diferentes alternativas que dan solución a un problema,
+planteándose indicadores de tipo económico para ayudar a la decisión de elegir cual o
+que conjunto de ellas se utilizarán.
+
+Estos informes de definición son más formales y devienen en especificaciones
+técnicas detalladas, cuando en el proceso de decisiones se opta por desarrollar el
+proyecto con recursos externos. En este último caso, el equipo de proyecto se transforma
+en una contraparte del consultor o empresa externa que se contrata.
+
+**Metodología General Para el Rediseño de Procesos**
+
+Tras la definición, viene el desarrollo de la solución, o la construcción, según
+sea el caso, en donde la metodología empleada por el Servicio de Impuestos Internos es la
+siguiente:
+
+* Definición de requerimientos por parte del usuario respecto del proceso en cuestión.
+  En general, este levantamiento se inicia tomando como ejemplo a regionales exitosas en
+  relación al tema de análisis, de tal forma de asumir y extender esas prácticas o
+  experiencias, formalizando los procedimientos que se llevan a cabo e identificando
+  requerimientos adicionales que se juzgue conveniente incorporar.
+
+* En el caso de una mejora a un proceso actual, se efectúa un levantamiento en terreno de
+  cómo se lleva a cabo el proceso en la actualidad y se determina qué etapas son factibles
+  de mejorar. Este levantamiento de información se hace con la participación de todos los
+  funcionarios involucrados y en a lo menos 4 Direcciones Regionales.
+
+* Mediante trabajo personal del analista y reuniones de trabajo con los funcionarios se
+  hace el diseño lógico del nuevo proceso o del proceso mejorado. Este diseño es
+  presentado en reuniones de Directivos tanto de Direcciones Regionales como de la
+  Dirección Nacional. De esta forma se pretende fortalecer el diseño con la experiencia de
+  estos Directivos en el tema que se esta tratando.
+
+* Se desarrolla el diseño físico del nuevo proceso o bien las adecuaciones necesarias
+  para el proceso mejorado. En esta etapa se definen los sistemas de apoyo con el cual va a
+  contar el proceso y sus requerimientos computacionales, el perfil de los funcionarios que
+  se verán involucrados en el proceso, los tiempos de implantación del proceso y su
+  despliegue.
+
+* Para validar el nuevo proceso, éste es implantado como plan piloto, por un período de
+  uno a dos meses en una Sede Regional del Servicio. De esta forma, se obtiene la
+  retroalimentación por parte de los funcionarios de la Regional que hace de piloto,
+  respecto de las adecuaciones que se deben efectuar antes de hacer extensivo el proceso a
+  las demás Regionales.
+
+* Durante el período en que se desarrolla el plan piloto los responsables del diseño o
+  rediseño evalúan el proceso realizando visitas diarias a la Regional Piloto. En estas
+  visitas se puede comprobar el funcionamiento de los sistemas de apoyo, el buen
+  entendimiento de las instrucciones por parte de los funcionarios y observar como responden
+  los contribuyentes ante el nuevo procedimiento. Además, los contribuyentes son
+  entrevistados al azar para obtener su opinión respecto a la atención recibida de acuerdo
+  a las nuevas instrucciones.
+
+* De acuerdo a la experiencia vivida durante el plan piloto y a las observaciones hechas
+  al proceso tanto por los funcionarios como por los contribuyentes, se desarrollan las
+  adecuaciones necesarias para extenderlo a todo Chile.
+
+* Se realiza capacitación para todos los funcionarios del país que participan en el
+  nuevo procedimiento o diseño. Dependiendo de la cantidad de personal involucrado se
+  llevan a cabo uno o más cursos.
+
+* Se inicia la implementación masiva del proceso de acuerdo a los recursos disponibles
+  tanto monetarios como humanos.
+
+* Para observar y velar por el buen funcionamiento del proceso los responsables de llevar
+  a cabo el rediseño cumplen la función de mesa de ayuda para responder a todas las
+  preguntas relacionadas con el tema y a su vez retroalimentarse mediante las observaciones,
+  sugerencias y reclamos tanto de los funcionarios como de los contribuyentes. A partir del
+  análisis de éstas se generan instrucciones complementarias, llegándose en no pocas
+  oportunidades a sacar nuevas versiones de las Circulares o de los Sistemas implementados.
+
+**Políticas para Priorizar los Proyectos**
+
+Frente a la necesidad de priorizar en el desarrollo de los diferentes proyectos, El
+Director Nacional junto a los Subdirectores analizan todas las alternativas y aprueban
+listas de proyectos priorizados por incidencia en el buen cumplimiento tributario y en la
+disponibilidad de recursos del Servicio. Luego, estas decisiones son discutidas con los
+Directores Regionales.
+
+En el Comité de Presupuesto, se conjugan las prioridades establecidas con los cambios
+que va experimentando la discusión presupuestaria, y después la ejecución del
+presupuesto aprobado.
+
+Finalmente, durante la ejecución de los nuevos procedimientos, se desarrollan
+indicadores con la finalidad de controlar la calidad de los diseños y los resultados
+esperados. A manera de ejemplo, se pueden mencionar entre otros, trámites del impuesto a
+las herencias despachados en forma inmediata, entrega en forma inmediata de certificados
+de Término de Giro y declaraciones efectuadas por Internet.

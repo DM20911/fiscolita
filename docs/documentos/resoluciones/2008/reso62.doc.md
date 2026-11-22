@@ -1,0 +1,151 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso62.doc
+titulo: Word – Resolución Exenta SII N°62 del 14 de Mayo del 2008 Instruye sobre el Ejercicio por los Directores Regionales de la Facultad para Autorizar a los Contribuyentes Domiciliados en el Territorio de su Jurisdicción a Llevar su Contabilidad en Moneda Extranjera y Delega dicha Facultad en el Director
+categoria: otros
+---
+RESOLUCION EXENTA SII N°62 DEL 14 DE MAYO DEL 2008 MATERIA : INSTRUYE SOBRE EL EJERCICIO POR LOS DIRECTORES REGIONALES DE LA FACULTAD PARA AUTORIZAR A LOS CONTRIBUYENTES DOMICILIADOS EN EL TERRITORIO DE SU JURISDICCIÓN A LLEVAR SU CONTABILIDAD EN MONEDA EXTRANJERA Y DELEGA DICHA FACULTAD EN EL DIRECTOR GRANDES CONTRIBUYENTES RESPECTO DE LAS SOLICITUDES PRESENTADAS POR LOS CONTRIBUYENTES INCLUIDOS EN LA NÓMINA DE GRANDES CONTRIBUYENTES.
+
+Hoy se ha resuelto lo que sigue:
+																		VISTOS: Lo dispuesto en los artículos 6, letra A), N°s 1° y 3° y 18 del Código Tributario contenido en el artículo 1 del Decreto Ley N°830 de 1974; en el Decreto con Fuerza de Ley N°7, de 1980, que fija el Texto de la Ley Orgánica del Servicio de Impuestos Internos; en la Ley N°20.263, publicada en el Diario Oficial de 02 de mayo de 2008, y 
+																		CONSIDERANDO:
+
+1.- Que, mediante la Ley N°20.263, publicada en el Diario Oficial de 02 de mayo de 2008, se sustituyó el artículo 18 del Código Tributario con el objeto de, entre otras materias, adecuar los requerimientos exigidos para que los exportadores y otros contribuyentes en similares circunstancias sean autorizados a llevar su contabilidad en moneda extranjera considerando las actuales tendencias sobre la materia, especialmente las que se recogen en las normas internacionales de contabilidad. 
+
+Hasta antes de dicha reforma legal, para acceder a esta autorización se exigía demostrar que el capital había sido aportado en moneda extranjera o que la mayor parte del movimiento se llevaba a cabo en dicha moneda;
+
+2.- Que, el nuevo artículo 18 del Código Tributario, en su N°1), mantiene como regla general que, para todos los efectos tributarios, los contribuyentes llevarán su contabilidad en moneda nacional;
+
+3.- Que, el N°2) del actual artículo 18 del Código Tributario dispone que este Servicio podrá autorizar, por resolución fundada, que determinados contribuyentes o grupos de contribuyentes lleven su contabilidad en moneda extranjera, en los siguientes casos:
+
+	a) Cuando la naturaleza, volumen, habitualidad u otras características de sus operaciones de comercio exterior en moneda extranjera lo justifique;
+
+	b) Cuando su capital se haya aportado desde el extranjero o sus deudas se hayan contraído con el exterior mayoritariamente en moneda extranjera;
+
+	c) Cuando una determinada moneda extranjera influya de manera fundamental en los precios de los bienes o servicios propios del giro del contribuyente;
+
+	d) Cuando el contribuyente sea una sociedad filial o establecimiento permanente de otra sociedad o empresa que determine sus resultados para fines tributarios en moneda extranjera, siempre que sus actividades se lleven a cabo sin un grado significativo de autonomía o como una extensión de las actividades de la matriz o empresa;
+
+4.- Que, en cuanto a la vigencia de la autorización para llevar contabilidad en moneda extranjera, el inciso segundo del N°2) del nuevo artículo 18 del Código Tributario, dispone que la referida autorización regirá desde el primer ejercicio del contribuyente, cuando éste la solicite en la declaración a que se refiere el artículo 68 del mismo texto legal, o a partir del año comercial siguiente a la fecha de la presentación de la solicitud, en los demás casos.
+
+Por otra parte, el inciso tercero del mismo N°2) del artículo 18 del Código Tributario, dispone que los contribuyentes que hayan sido autorizados a llevar su contabilidad en moneda extranjera de acuerdo a lo comentado, deben llevarla de la forma autorizada por a lo menos dos años comerciales consecutivos, pudiendo solicitar su exclusión de dicho régimen para los años comerciales siguientes al vencimiento del referido período de dos años. Dicha solicitud deberá ser presentada hasta el último día hábil del mes de octubre de cada año. La resolución que se pronuncie sobre esta solicitud regirá a partir del año comercial siguiente al de su presentación y respecto de los impuestos que corresponda pagar por ese año comercial y los siguientes;
+
+5.- Que, el inciso cuarto del comentado N°2) del artículo 18 del Código Tributario, dispone que el Servicio podrá revocar, por resolución fundada, las autorizaciones a que se refiere, cuando los respectivos contribuyentes dejen de encontrarse en los casos establecidos en él. La revocación regirá a contar del año comercial siguiente a la notificación al contribuyente de la resolución respectiva, a partir del cual deberá llevarse la contabilidad en moneda nacional. Como se aprecia claramente de lo anterior, la autorización se mantendrá vigente en la medida en que subsistan la o las causales en virtud de las cuales fue otorgada u otra de aquellas que establece la Ley;
+
+6.- Que, el inciso quinto del N°2) del artículo 18 del Código Tributario, establece que la autorización analizada podrá otorgarse siempre que, además de cumplirse con las causales señaladas en el N°3) precedente, en virtud de ella no se disminuya o desvirtúe la base sobre la cual deban pagarse los impuestos. En consecuencia, además de las causales referidas, la Ley establece esta condición para el otorgamiento de la autorización, la que ya se encontraba en el anterior texto del artículo 18 del Código Tributario;
+
+7.- Que, el N°5) del artículo 18 del Código Tributario dispone que para los fines de lo dispuesto en dicha disposición legal, se considerará moneda extranjera cualquiera de aquellas cuyo tipo de cambio y paridad es fijado por el Banco Central de Chile para efectos del N°6 del Capítulo I del Compendio de Normas de Cambios Internacionales o el que dicho Banco establezca en su reemplazo. Cuando corresponda determinar la relación de cambio de la moneda nacional a una determinada moneda extranjera y viceversa, se considerará como tipo de cambio, el valor informado para la fecha respectiva por el Banco Central de Chile. 
+
+Conforme a lo anterior, cabe hacer presente que sólo podrán autorizarse solicitudes mediante las cuales se pida llevar la contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros, monedas cuyo uso para estos efectos, a juicio de este Servicio, y dada su relevancia respecto de la economía nacional y la evolución de su tipo de cambio y paridad respecto de la moneda nacional, no disminuyen o desvirtúan de forma importante la base sobre la cual deben pagarse los impuestos en el país. 
+
+Lo anterior debe entenderse sin perjuicio de considerar en el futuro la incorporación a este sistema de autorización para llevar contabilidad en moneda extranjera de otras monedas de aquellas referidas en este considerando, cuando los antecedentes lo justifiquen;
+
+8.- Que, el Artículo primero transitorio de la Ley N°20.263, de 2008 referida, dispone que los contribuyentes podrán solicitar autorización para llevar contabilidad en moneda extranjera conforme a lo dispuesto por el N°2) del artículo 18 del Código Tributario, con aplicación al año comercial 2008, hasta el último día hábil del mes de mayo de 2008; 
+
+9.- Que, para los efectos de facilitar la tramitación de las solicitudes de los contribuyentes de conformidad a la presente resolución, se estima conveniente que sean conocidas y resueltas por los respectivos Directores Regionales cuando se trate de contribuyentes cuyos domicilios correspondan a su jurisdicción, o por el Director Grandes Contribuyentes cuando se trate de aquellos incluidos en la Nómina de Grandes Contribuyentes, ello sin perjuicio de lo que se resolverá respecto del caso de solicitantes no incluidos en la citada Nómina, que resulten ser filiales de sociedades matrices que sí lo estén;
+
+						RESUELVO,
+
+1.- Los Directores Regionales, respecto de los contribuyentes domiciliados en el territorio de su jurisdicción, ejercerán la facultad contenida en el N°2) del artículo 18 del Código Tributario, relativa a que podrán autorizar a los contribuyentes que lo soliciten para llevar su contabilidad en moneda extranjera, en la forma que establece la presente resolución. Asimismo, se delega dicha facultad en el Director Grandes Contribuyentes, para los efectos de resolver, conforme a esta resolución, las solicitudes de autorización para llevar contabilidad en moneda extranjera que sean presentadas por los contribuyentes incluidos en la Nómina de Grandes Contribuyentes.
+
+2.- Conforme a lo expuesto en el considerando 7.- de esta resolución, dicha autorización podrá ser concedida solamente en cuanto se solicite llevar la contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros, según corresponda.
+
+3.- La autorización para llevar la contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros a que se refiere esta resolución, deberá fundarse en una o más de las siguientes causales:
+
+a) Dicha autorización podrá ser concedida cuando la naturaleza, volumen, habitualidad u otras características de las operaciones de comercio exterior del contribuyente solicitante en alguna de las monedas extranjeras señaladas lo justifique.
+
+Ello tendrá lugar, por ejemplo, cuando la mayor parte de las operaciones de importación o exportación del contribuyente se lleven a cabo en dichas monedas extranjeras. Para estos efectos, se considerará que la mayor parte de la operaciones del giro del contribuyente se llevan a cabo en la moneda extranjera respectiva, cuando sus ingresos o costos y/o gastos operacionales en dicha moneda superen el 50% de sus ingresos operacionales totales del giro o de los costos y/o gastos operacionales del contribuyente, respectivamente, durante el año comercial inmediatamente anterior o durante los seis meses anteriores a la presentación de la solicitud. 
+
+Para el cálculo del porcentaje a que se refiere el párrafo anterior, el total de los ingresos operacionales generados o de los costos y/o gastos operacionales incurridos, según corresponda, deberán convertirse a moneda nacional considerando para tales efectos el tipo de cambio informado por el Banco Central de Chile para el último día del año comercial anterior o para el día anterior a la presentación de la solicitud por parte del contribuyente, según sea el período que utilice para fundar la concurrencia de esta causal.
+
+En cuanto a la comprobación de la concurrencia de los hechos que fundan esta causal, se tendrá en cuenta la información de que dispone este Servicio en sus sistemas de información respecto de los ingresos, costos y/o gastos del contribuyente solicitante, ello sin perjuicio de que podrán solicitarse antecedentes adicionales si de dicha información no resulta acreditada la concurrencia de la causal invocada.
+
+	b) La autorización solicitada también podrá ser concedida cuando el capital del contribuyente solicitante se haya aportado mayoritariamente desde el extranjero. Igualmente, la autorización podrá ser otorgada cuando las deudas del contribuyente se hayan contraído con el exterior mayoritariamente en una de las monedas extranjeras señaladas.
+
+Los hechos que configuran la causal comentada dan cuenta de la moneda en que se obtienen los fondos de las actividades de financiamiento del contribuyente, es decir, la que corresponde al capital aportado o a las deudas contraídas, todo ello para financiar sus actividades.
+
+Cuando la Ley se refiere a que el capital se haya aportado o las deudas se hayan contraído, en ambos casos mayoritariamente en moneda extranjera desde o con el exterior, según corresponda, se refiere a que:
+
+(i) el capital o las deudas del contribuyente conjuntamente o cualquiera de ellos por separado, deben provenir del extranjero en la moneda en que se solicita la autorización para llevar la contabilidad. Para los efectos de acreditar los hechos constitutivos de esta causal, el contribuyente deberá aportar los documentos que comprueben que ha dado cumplimiento a las normas legales aplicables a los créditos y aportes de capital provenientes del exterior a que se refiere el Capítulo XIV del Compendio de Normas de Cambios Internacionales del Banco Central de Chile, o las que se establezcan en su reemplazo. De acuerdo a ello, el capital aportado por el inversionista extranjero o las deudas contraídas con un acreedor domiciliado o residente en el exterior, deberán tener su fuente de origen en el extranjero, y efectuarse en alguna de las monedas extranjeras autorizadas a través de los mecanismos o formas que la legislación chilena establece para el ingreso de capitales o créditos del exterior, como por ejemplo aquellos que contempla el Decreto Ley N°600 de 1974, sobre Estatuto de la Inversión Extranjera.  
+
+(ii) el capital aportado o las deudas contraídas desde o con el exterior, según corresponda, deben representar la mayor parte del capital o las deudas totales del contribuyente. En cuanto al capital, el aporte en moneda extranjera debe corresponder a más del 50% del capital total. Respecto de las deudas, dicho financiamiento debe representar más del 50% del endeudamiento total de la empresa. 
+
+Para otorgar la autorización a que se refiere esta letra b), se deberá evaluar el capital o deudas existentes al momento de la declaración de inicio de actividades del contribuyente o al último día del segundo mes anterior a la presentación de la solicitud, según sea el caso. 
+
+En cuanto al capital, cabe señalar que no se otorgará la autorización respectiva conforme a esta causal cuando su monto no sea significativo en comparación con el resto de las fuentes de financiamiento de la empresa, ello porque lo anterior podría disminuir o desvirtuar significativamente la base sobre la cual se determinen los impuestos respectivos.
+
+Respecto de las deudas comprendidas en esta causal, ellas se refieren sólo a los títulos de deuda emitidos o contratos de crédito suscritos por el contribuyente, como por ejemplo bonos, mutuos, operaciones de crédito de dinero, pagarés y letras de cambio. De esta forma, no se comprenden aquí las deudas provenientes de las actividades operacionales del contribuyente con sus proveedores, las que deben ser consideradas para los efectos de la configuración de la causal a que se refiere la letra a) precedente, cuando ello sea procedente. 
+
+Sobre las deudas, cabe precisar también que, por ejemplo, si el endeudamiento total del contribuyente asciende a $1000, del cual el 60% ha sido contraído en Dólares de los Estados Unidos de Norteamérica, mientras que el capital de la misma empresa, ascendente por ejemplo a $100.000.000, ha sido aportado en moneda nacional, no obstante concurrir formalmente la causal que se comenta respecto de dicho endeudamiento en cuanto mayoritariamente se ha emitido o suscrito en moneda extranjera, la autorización no puede ser concedida, ello porque en este caso se podrían disminuir o desvirtuar de forma importante las bases imponibles respetivas.   
+
+	c) Se podrá conceder igualmente la autorización materia de esta resolución cuando una de las monedas extranjeras señaladas influya de manera fundamental en los precios de los bienes o servicios propios del giro del contribuyente. Dicha moneda extranjera será aquella en la que normalmente se denominen y/o liquiden los precios de venta de los bienes y servicios del contribuyente, o aquella en que se expresen los precios relevantes de los mismos en el mercado internacional a través de bolsas cuyos indicadores se basen en las transacciones de dichos bienes, u otros. Tales bienes o servicios deben decir relación con las operaciones mayoritarias propias del giro del contribuyente, es decir, representar más del 50% del valor total de dichas operaciones, convertidas a moneda nacional de acuerdo a lo expuesto en la letra a) precedente. Como se aprecia de lo anterior, no se requiere para la configuración de la presente causal que las operaciones del contribuyente se hayan celebrado en la moneda de que se trate, sino que esta última debe ser la moneda relevante respecto de dichas operaciones, como por ejemplo, el Dólar de los Estados Unidos de Norteamérica respecto de la venta de petróleo, aunque los contratos respectivos se hayan celebrado en moneda nacional o en otra moneda extranjera que no sea de aquellas en que el contribuyente solicita autorización para llevar su contabilidad.
+
+	d) También podrá concederse la autorización a que se refiere esta resolución, cuando el contribuyente solicitante sea una sociedad filial o establecimiento permanente de otra sociedad o empresa que determine sus resultados para fines tributarios en una de dichas monedas extranjeras, siempre que sus actividades se lleven a cabo sin un grado significativo de autonomía o como una extensión de las actividades de la matriz o empresa. Lo anterior implica la necesidad de establecer lo siguiente:
+
+d.1.- La calidad de filial o establecimiento permanente del contribuyente solicitante, respecto de otra empresa o sociedad que, constituida o no en Chile, determine sus resultados para fines tributarios en una de tales monedas extranjeras. 
+
+(i) Filiales: Conforme a lo dispuesto por el artículo 86 de la Ley N°18.046 de 1981, es sociedad filial de una sociedad anónima, que se denomina matriz, aquella en la que ésta controla directamente o a través de otra persona natural o jurídica más del 50% de su capital con derecho a voto o del capital, si no se tratare de una sociedad por acciones o pueda elegir o designar o hacer elegir o designar a la mayoría de sus directores o administradores. El inciso segundo de la misma disposición establece que la sociedad en comandita será también filial de una anónima, cuando ésta tenga el poder para dirigir u orientar la administración del gestor. Lo dispuesto precedentemente, también resulta aplicable cuando la sociedad matriz sea una sociedad de personas u otra clase de persona jurídica, ello en cuanto sea pertinente.
+
+(ii) Establecimientos permanentes: En general, el “establecimiento permanente” debe ser entendido como la extensión de la actividad de la casa matriz extranjera en Chile, mediante el establecimiento de una oficina o sucursal en donde se desarrolla una actividad formal que asume la representación total de la empresa extranjera, pudiendo cerrar negocios en los términos que se le indiquen. Para estos efectos, deberá acreditarse la calidad de tal por parte de la empresa que solicita la autorización para llevar contabilidad en alguna de las monedas extranjeras señaladas, es decir, la calidad de sucursal, oficina, agente, representante u otra. Respecto de las sociedades anónimas, los artículos 121 y siguientes de la Ley N° 18.046 de 1981, establecen las disposiciones legales que se debe cumplir para los efectos de que una sociedad anónima extranjera pueda constituir una agencia en Chile, las que también resultan aplicables a las sociedades de personas. La calidad de establecimiento permanente para los efectos de la autorización a que se refiere esta resolución se tendrá por acreditada mediante una declaración jurada simple del solicitante, la que deberá contener la individualización completa del titular o propietario del establecimiento permanente, indicando entre otros antecedentes, su nombre o razón social, domicilio o residencia, número de identificación para fines tributarios, tipo o clase de establecimiento permanente de que se trata, contratos en que consta la representación, cuando corresponda, u otros. Dicha declaración jurada deberá ser presentada por el contribuyente solicitante conjuntamente con su solicitud para llevar contabilidad en moneda extranjera, de acuerdo a documento anexo a la presente resolución denominado: “Declaración Jurada Simple sobre la calidad de Establecimiento Permanente para los efectos de solicitar autorización para llevar contabilidad en Moneda Extranjera”.  
+
+(iii) Determinación de sus resultados para fines tributarios por parte de la matriz o titular del establecimiento permanente en la moneda extranjera en que se solicita la autorización. El hecho de que la sociedad matriz o el titular del establecimiento permanente determine sus resultados para fines tributarios en la moneda extranjera respecto de la cual se solicita la autorización comentada, se tendrá por acreditado mediante una declaración jurada simple del contribuyente solicitante en que se individualice a dicha matriz o titular, indicando, entre otros antecedentes, su nombre o razón social, domicilio o residencia, número de identificación para fines tributarios y las disposiciones legales, reglamentarias, autorizaciones, declaraciones de impuestos u otros antecedentes que acrediten el hecho de que determina sus resultados para fines tributarios en la moneda extranjera respectiva. Dicha declaración jurada deberá ser presentada por el contribuyente solicitante conjuntamente con su solicitud para llevar contabilidad en moneda extranjera, de acuerdo a documento anexo a la presente resolución denominado: “Declaración Jurada Simple sobre determinación de resultados en moneda extranjera por parte de la matriz o titular del Establecimiento Permanente para los efectos de solicitar autorización para llevar contabilidad en Moneda Extranjera”.  
+
+d.2.- Que dicha filial o establecimiento permanente lleve a cabo sus actividades sin un grado significativo de autonomía o como una extensión de las actividades de la matriz o empresa.
+
+Las actividades de la filial o establecimiento permanente se llevan a cabo sin un grado significativo de autonomía o como una extensión de las actividades de la matriz o empresa, por ejemplo, cuando sólo venden bienes importados de la matriz o propietario del establecimiento permanente, remitiéndose a aquellos los montos obtenidos de tales operaciones. Respecto del ejemplo anterior, no se trata de analizar los ingresos o gastos de la filial o establecimiento permanente, circunstancia que sería relevante para la configuración de la causal comentada en la letra a) anterior, sino por ejemplo el hecho de que la filial pudiera tener contratos celebrados con su matriz mediante los cuales se establezcan cláusulas de exclusividad entre ellas, de manera que la totalidad o la mayor parte de las operaciones de la filial se llevan a cabo en estrecha relación con las de la matriz. Igualmente, tienen lugar estas circunstancias cuando los flujos de efectivo de las actividades de la matriz o propietario del establecimiento permanente afectan directamente a los flujos de efectivo de la filial o establecimiento permanente. Finalmente, tendrá también lugar esta circunstancia cuando las decisiones relevantes del negocio sean tomadas por la matriz o propietario de establecimiento permanente, es decir, cuando dicha matriz o propietario determine qué bienes se deben producir, de quién se deben adquirir los insumos necesarios para los procesos productivos, a quién se deben prestar los servicios propios del giro de la filial o establecimiento permanente, etc., todo lo cual debe ser debidamente acreditado por el solicitante.
+
+4.- La autorización para llevar contabilidad en moneda extranjera sólo podrá ser otorgada cuando en virtud de ella no se disminuya o desvirtúe la base sobre la cual deban pagarse los impuestos que correspondan, circunstancia que será analizada antes de otorgarse la referida autorización. Se debe hacer presente que la autorización a que se refiere la presente resolución sólo tiene por objeto facilitar la determinación de los resultados para fines tributarios de contribuyentes cuyas operaciones, capital u otras circunstancias que establece la Ley lo hagan aconsejable. Por ello, bajo ninguna circunstancia la autorización busca producir como efecto un aumento o disminución significativas de las respectivas bases imponibles en comparación con las que corresponderían de haberse efectuado la determinación de los tributos en moneda nacional.
+
+5.- Los contribuyentes autorizados a llevar su contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros conforme a la presente resolución, podrán solicitar su exclusión de dicho régimen especial, presentando la correspondiente solicitud hasta el último día hábil del mes de octubre del año respectivo, y la resolución que conceda la exclusión producirá efectos sólo a partir del año comercial siguiente y respecto de los impuestos que correspondan a ese año comercial y los siguientes.
+
+6.- Tanto la solicitud para llevar la contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros, según corresponda, como aquella en que se solicite la exclusión de dicho régimen, deberán ser presentadas por el contribuyente interesado en la Dirección Regional que corresponda a su domicilio, o en la Dirección Grandes Contribuyentes, cuando se trate de contribuyentes que se encuentren incluidos en la Nómina de Grandes Contribuyentes, ello mediante la declaración sobre inicio de actividades a que se refiere el artículo 68 del Código Tributario (formulario N°4415) cuando se solicite esta autorización en dicha oportunidad, o mediante una petición administrativa (formulario 2117), en las que deberá indicarse, además de los datos relativos a la individualización del contribuyente y sus representantes u otros que correspondan, la o las causales en virtud de las cuales se solicita dicha autorización, acompañándose los documentos u otros antecedentes que las justifiquen.
+
+7.- Si el contribuyente autorizado para llevar contabilidad en moneda extranjera conforme a esta resolución, dejare de cumplir con la o las causales en virtud de las cuales se otorgó la autorización, o con cualquiera de aquellas que no haya sido invocada al momento de la solicitud, la autorización podrá ser revocada por el Director Regional respectivo o por el Director Grandes Contribuyentes, según corresponda, resolución que producirá efectos a partir del año comercial siguiente al de su notificación al contribuyente.
+
+8.- La autorización a que se refiere esta resolución no se extenderá a los libros de Compras y Ventas, de Remuneraciones, de Retenciones respecto de los honorarios, ni a otros libros que determine el Director Regional o el Director Grandes Contribuyentes, según corresponda, conforme a las instrucciones que imparta el Director, de lo que se deberá dejar constancia en la resolución que conceda la autorización.
+
+9.- Las solicitudes que se presenten en virtud de lo dispuesto por el Artículo primero transitorio de la Ley N°20.263 de 2008, serán tramitadas conforme a lo resuelto en los números anteriores, teniéndose presente que sólo se aceptarán solicitudes fundadas en dicha disposición hasta el último día hábil del mes de mayo de 2008.
+
+10.- Aquellos contribuyentes que se encuentren autorizados a llevar su contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros conforme al anterior texto del artículo 18 del Código Tributario o en virtud de otras disposiciones legales, podrán continuar llevando su contabilidad en la moneda autorizada. Sin perjuicio de lo anterior, tales contribuyentes podrán solicitar su exclusión de dicho régimen de contabilidad en moneda extranjera o las autorizaciones otorgadas podrán ser revocadas, conforme a lo establecido en la presente resolución. En el caso de los libros a que se refiere el resolutivo 8.- anterior, aquellos contribuyentes que a la fecha de la presente resolución los lleven en moneda extranjera, deberán llevarlos en moneda nacional a partir del presente año calendario.
+
+11.- Tratándose de grupos empresariales cuyas empresas matrices se encuentren incluidas en la Nómina de Grandes Contribuyentes, y respecto de aquellas empresas o sociedades de dichos grupos que no se encuentren incluidas en la citada Nómina, el contribuyente podrá solicitar la autorización para llevar su contabilidad en moneda extranjera de acuerdo a lo dispuesto en la letra c) del N°2 del artículo 18 del Código Tributario ante el Director Regional que corresponda a su domicilio, o ante el Director Grandes Contribuyentes. En este último caso, el Director Grandes Contribuyentes deberá informar de la presentación y resolución de la solicitud del contribuyente al Director Regional respectivo.  
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+
+
+				RICARDO ESCOBAR CALDERÓN
+							       DIRECTOR.
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+REC/JTP/JAR/ACO.
+Distribución.
+Al Boletín.
+A Internet.
+Al Diario Oficial en Extracto.
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  6
+
+
+
+
+

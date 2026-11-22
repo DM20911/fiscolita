@@ -1,0 +1,66 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso63.doc
+titulo: Word – Resolución Exenta SII N°63 del 30 de Junio del 2005 Refunde y Complementa Procedimientos de Autorización que Deben Cumplir los Contribuyentes que Comercian y/o Explotan Máquinas Expendedoras y Delega Facultades que Indica Fuente: Departamento Operación IVA y Catastro de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°63 DEL 30 DE JUNIO DEL 2005 MATERIA : REFUNDE Y COMPLEMENTA PROCEDIMIENTOS DE AUTORIZACIÓN QUE DEBEN CUMPLIR LOS CONTRIBUYENTES QUE COMERCIAN Y/O EXPLOTAN MÁQUINAS EXPENDEDORAS Y DELEGA FACULTADES QUE INDICA
+Hoy se ha resuelto lo que sigue:
+      VISTOS:
+Lo dispuesto en el artículo 6°, letra A, N° 1 y N° 3 del Código Tributario, contenido en el D.L. N° 830, de 1974; el artículo 7° letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15.10.1980; los artículos 52°, 53°, 54°, 55° y  56° de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.L. N° 825, de 1974; y de acuerdo a los instruido por este Servicio en las Resoluciones Exentas N° 2301, de 07.10.1986; Resolución Exenta N° 3162, de 28.06.1996; Circular N° 50, de 09.10.1986, Circular N° 43, de 26.07.1996 y Ordinario N° 839, de 27.03.98 de la Subdirección de Informática.   
+      CONSIDERANDO:
+1.- Que, en la actualidad existe un mercado de contribuyentes que importan, fabrican, distribuyen y venden máquinas expendedoras de productos y servicios, las cuales, a su vez, son compradas por contribuyentes que las explotarán en forma  directa. 
+2.- Que, en virtud del artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios, es facultad de la Dirección Nacional del Servicio de Impuestos Internos otorgar la exención de emisión de boletas para los explotadores de máquinas expendedoras, en la medida que se resguarde el interés fiscal.
+ 3.- Que, se ha constatado la existencia de un mercado informal de contribuyentes que, sin haber requerido a este Servicio la autorización para eximirse de la obligación de emitir boletas, explotan estas máquinas sin emitir la documentación tributaria de conformidad a lo prescrito en los artículos 52°, 53°, 54°, 55° de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.L. N° 825, de 1974.
+4.- Que, con el objeto de efectuar una fiscalización más eficiente y expedita es necesario refundir y complementar las instrucciones que rigen el procedimiento de autorización.  
+5.-  Que, para tal fin, resulta necesario delegar la facultad de autorizar “modelos de máquinas expendedoras" en el Subdirector de Fiscalización y la facultad de eximir de la obligación de emitir boletas en los Directores Regionales.
+
+      SE RESUELVE:
+1.- Para los efectos de la presente resolución, se entiende por máquina expendedora toda máquina que no necesita la intervención de una persona para materializar alguna venta de producto y/o servicio.
+ 
+2.- Todo contribuyente que utilice máquinas expendedoras, que no reciban dinero en forma directa, deberá otorgar el documento tributario correspondiente por el servicio o venta que realice. 
+3.- Los modelos de máquinas expendedoras se autorizarán siempre que cumplan con los siguientes requisitos:
+Requisitos generales:  
+El solicitante de la autorización ante la Dirección Nacional debe ser el fabricante, importador, representante o distribuidor de las máquinas que se desean autorizar.
+El solicitante debe haber dado inicio de actividades como contribuyente de primera categoría y de IVA;  
+La enajenación de los productos y/o servicios que la máquina expenda no debe encontrase prohibida por la legislación vigente. 
+
+Requisitos específicos:
+
+Presentar Carta Solicitud dirigida al Subdirector de Fiscalización, firmada por el representante legal y requiriendo la autorización de un modelo de máquina expendedora, la cual eventualmente podrá funcionar en forma exenta de la emisión de boletas previa autorización de la Dirección Regional respectiva. A dicha solicitud se debe adjuntar:
+
+Un catálogo de la máquina en que se describa en detalle: productos a vender, forma de pago (capacidad de dar vuelto);
+Forma de control de ventas (contador o reporte);
+Procedimiento de reposición y recaudación de dinero;
+Fotografías o imágenes descriptivas de la máquina en cuestión.
+
+El Servicio de Impuestos Internos emitirá una resolución que autoriza al modelo respectivo en el caso que se cumplan los requisitos señalados. En caso contrario, la solicitud será rechazada.
+
+Los contribuyentes que obtengan resoluciones que autoricen un modelo determinado deberán, cada vez que vendan una máquina expendedora autorizada, entregar al comprador  una copia de la resolución que autoriza el modelo respectivo. Esto, con el objeto de facilitar la autorización de exención de emisión de documentos correspondiente.
+
+4.- La solicitud de exención de emitir boletas para máquinas expendedoras cuyos modelos ya se encuentren autorizados por la Dirección Nacional, se deberá efectuar por el contribuyente explotador de la máquina ante la Dirección Regional correspondiente al domicilio de su casa matriz. El contribuyente explotador debe cumplir con los siguientes requisitos:
+
+Contar con inicio de actividades como contribuyente de primera categoría y de IVA;
+No haber sido denunciado o condenado en virtud de los N°s 4, 8, 9, 10, 20, 21, 22, 23 ó 24 del artículo 97° del Código Tributario, dentro de los últimos 24 meses contados hacia atrás desde la fecha de solicitud de la exención;
+Presentar copia de la Resolución que autoriza al modelo de máquina, previamente autorizado por la Dirección Nacional de este Servicio.
+Acreditar el dominio de las máquinas mediante factura de adquisición o la tenencia legítima mediante un acto o contrato que justifique su posesión. En el caso de los fabricantes, cuando exploten dichas máquinas, deberán respaldar su tenencia mediante la emisión de una guía de despacho que individualice el detalle de las máquinas, precios unitarios y destino o lugar de explotación.  
+
+5.- Con los antecedentes conformes, la Dirección Regional procederá a emitir una resolución de exención de emisión de documentos para el contribuyente explotador.
+En el caso que el contribuyente solicite la exención de la emisión de documentos por modelos no autorizados deberá indicársele que previamente deberá obtener la autorización para dicho modelo de conformidad con la dispuesto en el resolutivo N° 3, para lo cual la solicitud respectiva deberá ser presentada por los contribuyentes que se describen en el resolutivo antes señalado, siempre y cuando cumplan con los requisitos indicados en el mismo.
+
+6.- La enajenación de especies o prestación de un servicio por medio de una máquina no autorizada por el SII, sin que se otorgue la documentación exigida por la ley, en la oportunidad y forma debida, será sancionada en conformidad con lo dispuesto en el N° 10 del artículo 97° del Código Tributario.
+
+7.- Delégase en el Subdirector de Fiscalización la facultad de autorizar “modelos de máquinas expendedoras” de acuerdo al resolutivo N°3 y en los Directores Regionales la facultad de eximir de la obligación de emitir boletas, a que se refiere el resolutivo N°4.
+8.- Esta resolución comenzará a regir a partir de la fecha de publicación en el Diario Oficial. 
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+  
+
+
+						    JUAN TORO RIVERA			       	         		DIRECTOR 
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.  
+DISTRIBUCIÓN -   Al Diario Oficial (en extracto) -   Internet -   Boletín
+
+
+
+
+

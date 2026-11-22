@@ -1,0 +1,287 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso21.doc
+titulo: Word – Resolución Exenta SII N°21 del 09 de Febrero del 2011 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°21 DEL 09 DE FEBRERO DEL 2011 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en la Resolución Ex. SII N°150, de diciembre de 2005; y,
+CONSIDERANDO:
+
+1°	Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+
+2°	Que el contribuyente que se detalla en el dispositivo primero se encuentra autorizado a operar conforme al modelo de operación de contabilidad electrónica, conforme a la Res. Ex. SII N°169 de noviembre de 2010 y ha efectuado las pruebas requeridas por el SII para endosar Código de Autorización de Libros (CAL), para libros de compras y ventas a otros contribuyentes.
+3°	Que, los contribuyentes que se detallan en el Resolutivo segundo y tercero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150, de diciembre de 2005, a partir del año 2011. 
+
+4°	Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica. 
+
+5°	Que, los contribuyentes listados en el dispositivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+
+SE RESUELVE:
+
+Primero:	Otorgase Códigos de Autorización de Libros (CAL) tipo 3, endosables, para los libros de Compra y Venta, al siguiente contribuyente:
+
+- SOC. BCN CONSULTORES CIA. LTDA.					RUT 77.870.460-9
+
+
+Segundo: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, utilizando CAL propio, a los siguientes contribuyentes:
+
+- COMERCIAL VALENCIA LTDA.						RUT 96.653.770-1
+- EXPORTADORA SUBSOLE S.A.						RUT 96.615.800-K
+- FLORES COMERCIAL S.A							RUT 78.181.130-0
+- HUNTER DOUGLAS CHILE S.A.						RUT 92.654.000-9
+- HUNTER DOUGLAS COMERCIAL LTDA.					RUT 78.971.280-8
+- MANUFACTURAS TEXTILES FLORES Y CIA. S.A.				RUT 92.987.000-K
+- PERSIANAS ANDINA LTDA.							RUT 78.080.500-5
+- SOC. DE GESTION E INVERSIONES VACCARO LTDA.			RUT 77.913.860-7
+ 
+Tercero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LTDA., RUT 76.029.564-7 a los siguientes contribuyentes:
+
+- CLARO CHILE S.A.								RUT 96.799.250-K
+- COMERCIAL PATAGONIA S.A.						RUT 96.910.780-5
+- CIA. DE PETROLEOS DE CHILE COPEC S.A.					RUT 99.520.000-7
+- CROWN WORLDWIDE INVESTMENTS LTDA.				RUT 77.604.460-1
+- EMPRESA DE LOS FERROCARRILES DEL ESTADO				RUT 61.216.000-7
+- INMOBILIARIA CONJUNTO SANTA TERESITA S.A.				RUT 96.751.630-9
+- LARRAIN VIAL S.A. CORREDORA DE BOLSA				RUT 80.537.000-9
+- PREPARA CAPACITACION LTDA.						RUT 76.060.589-1
+- SERVICIOS COMERCIALES LTDA.						RUT 78.630.740-6
+- SOC. DE INVERSIONES JACARANDA LTDA.					RUT 77.836.790-4
+- SOC. AT TIME LTDA.							RUT 76.113.652-6
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de AM INVERSIONES LTDA., RUT 96.980.620-7. a los siguientes contribuyentes:
+
+INVERSIONES ALMONACID LTDA.						RUT 78.422.870-3
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de ONVISION S.A. RUT 76.372.100-0, a los siguientes contribuyentes:
+
+AUTOMOTORES GILDEMEISTER S.A.					RUT 79.649.140-K
+CARMEISTER S.A.								RUT 96.630.680-7
+CINEMARK CHILE S.A.							RUT 96.659.800-K
+COMERCIAL GILDEMEISTER S.A.						RUT 76.856.310-1
+INMOBILIARIA AUTOMOTORES GILDEMEISTER S.A.			RUT 96.755.780-3
+FINMEISTER S.A.								RUT 99.595.370-6
+FORTALEZA S.A.								RUT 76.856.380-2
+MAQUINARIA NACIONAL S.A.						RUT 96.812.980-5
+MARC LEASING S.A.							RUT 96.658.270-7
+MINVEST S.A.								RUT 99.568.990-1
+OPEN ROAD S.A.								RUT 90.337.000-9
+RTC S.A.									RUT 89.414.100-K
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA. RUT 77.870.460-9, a los siguientes contribuyentes:
+
+AVERY DENNISON CHILE S.A.						RUT 96.721.090-0
+JOHN CRANE CHILE S.A.							RUT 99.517.650-5
+	
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de ENJOY GESTION LTDA. RUT 96.976.920-4, a los siguientes contribuyentes:
+
+ANTONIO MARTINEZ Y CIA.						RUT 77.438.400-6
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8, a los siguientes contribuyentes:
+
+AGRICOLA ALGORTA S A.							RUT 78.204.660-8
+ALTASUR S.A.								RUT 76.430.250-8
+INDUSTRIAS PRODUCTOS ALIMENTICIOS S.A.				RUT 96.628.870-1
+INNOVACION ALIMENTARIA SPA.						RUT 76.072.989-2
+INVERSIONES PUBLICITARIAS SPA.					RUT 76.015.841-0
+IPAL S.A.									RUT 91.482.000-6
+LABORATORIOS ANDROMACO S.A.						RUT 92.448.000-9
+SERVICIOS ALIMENTICIOS HENDAYA SAC.					RUT 96.597.810-0
+TRANSPORTES Y LOGISTICA CHARRABATA SPA.				RUT 76.076.509-0
+
+
+Cuarto:	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+
+Quinto:	Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2011 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+Anótese, comuníquese y publíquese en Internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+RPA/HSS/OBA
+Distribución:
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

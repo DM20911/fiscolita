@@ -1,0 +1,55 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso34.doc
+titulo: Word – Resolución Exenta SII N°34 del 11 de Febrero del 2010 Modifica Resolución Exenta N°193, de 22 de Diciembre de 2009, que Establece Obligación de Presentar Declaración Jurada Sobre Trabajadores, Según Casa Matriz o Sucursales. Fuente: Departamento Medianas y Grandes Empresas e Internacional
+categoria: otros
+---
+
+
+RESOLUCION EXENTA SII N°34 DEL 11 DE FEBRERO DEL 2010 MATERIA : MODIFICA RESOLUCIÓN EXENTA N°193, DE 22 DE DICIEMBRE DE 2009, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE TRABAJADORES, SEGÚN CASA MATRIZ O SUCURSALES.
+
+	Hoy se ha resuelto lo que sigue:
+
+	
+	VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1 y 60° inciso penúltimo del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda; y 
+
+	CONSIDERANDO:
+
+
+Que, por razones de buen servicio se hace necesario redefinir a los contribuyentes obligados a presentar la declaración jurada que establece la Resolución Exenta SII N° 193 de 22 de diciembre de 2009. 
+
+Que, resulta conveniente ampliar el plazo señalado en la resolución mencionada anteriormente, a fin de otorgar el máximo de facilidades para que los contribuyentes que están obligados a declarar, puedan recabar la información necesaria para efectuar dicho trámite. 
+
+SE RESUELVE:
+
+1° Reemplácese el Resolutivo N°1, de la Resolución Exenta N° 193 de 2009 de este Servicio, por el siguiente:
+
+
+“1° Las personas naturales y jurídicas, sociedades de hecho y comunidades, que determinen su renta efectiva mediante contabilidad completa y balance general, y que paguen rentas del artículo 42 N° 1 de la Ley sobre Impuesto a la Renta, o el sueldo empresarial establecido en el inciso tercero del Artículo 31 N° 6 de la ley antes mencionada, deberán presentar al Servicio de Impuestos Internos, hasta el 07 de mayo de cada año, inclusive, una declaración jurada sobre la cantidad de trabajadores, socios o empresarios que tengan asignado un sueldo empresarial, que percibieron tales rentas, de acuerdo a su ubicación en la Casa Matriz o Sucursales.”
+
+
+2° Agréguese el siguiente Resolutivo N° 4, a la Resolución Exenta N° 193 de 2009 de este Servicio:
+
+
+“4° La no presentación de la declaración jurada dentro del plazo señalado en el N°1, se sancionará de acuerdo a lo prescrito en el Artículo 97 N° 15 del Código tributario.”
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+	
+	(Fdo.) PABLO GONZALEZ SUAU
+	                     DIRECTOR (S)
+	
+	
+Lo que transcribo a  Ud., para su conocimiento y demás fines.
+
+
+
+
+
+CSM/MOD/GMV/AVL
+DISTRIBUCIÓN:
+Internet
+Boletín
+Al Diario Oficial (en extracto)
+

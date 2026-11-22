@@ -1,0 +1,71 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/subcr5_4.htm
+titulo: subcr5_4.htm
+categoria: sobre_el_sii
+---
+**5. GESTION DE CALIDAD DE LOS SERVICIOS Y/O PRODUCTOS ENTREGADOS**
+
+5.4 Control y evaluación de los procesos de calidad.
+
+De acuerdo a lo visto anteriormente para todos los procesos principales y de apoyo los
+usuarios tanto externos como internos ayudan a definir los requerimientos que estos
+procesos deben satisfacer. Es así como se obtiene un conjunto de requerimientos que nos
+pueden permitir, de acuerdo al nivel de satisfacción de estos, evaluar el cumplimiento de
+los objetivos de estos procesos.
+
+De esta forma el Servicio de Impuestos Internos ha definido los requisitos necesarios
+para la aprobación, evaluación y mantenimiento tanto de los software como del hardware
+necesario para apoyar las labores realizadas al interior de cada departamento, así como
+mantener y perfeccionar los procesos principales y de apoyo.
+
+**Procesos Informáticos**
+
+Todas las aplicaciones desarrolladas por el Servicio de Impuestos Internos cumplen con
+un ciclo de vida regulado por normas que emanan de un Comité de Informática, una de las
+etapas en este ciclo es la certificación, la cual es ejecutada directamente por las
+áreas usuarias. Para esto se cuenta con Servidores de uso dedicado y exclusivo a esta
+función. Adicionalmente las áreas usuarias, dependiendo de la envergadura del proyecto o
+sistema, incorporan servicios externos de certificación, en los cuales se aplica una
+metodología normalizada.
+
+Todas las áreas usuarias tienen un Comité de coordinación con la Subdirección de
+Informática. En este comité, se llegan a acuerdos respecto a las mejoras que se deben
+hacer a los sistemas.
+
+Dentro de la mantención de los sistemas, la Subdirección de Informática emite
+mensualmente Informes Uptimes en el que se incluyen indicadores que reflejan la
+disponibilidad del Servicio Computacional que se otorga a las distintas Unidades del
+Servicio de Impuestos Internos. Los informes Uptimes se clasifican en Regionales y
+Dirección Nacional y mediante ellos es posible saber por Unidad las interrupciones,
+medida en horas y minutos, de los Servidores.
+
+Mediante la evaluación de los Informes Uptimes, se va perfeccionando el uso de los
+Servidores, logrando que estos evolucionen progresivamente de un modo más eficiente.
+Además, como una manera de dar a conocer la evolución de los sistemas y permitir la
+comparación positiva entre las Unidades del Servicio de Impuestos Internos, estos
+informes son incluidos en la Intranet.
+
+**Procesos Principales y de Apoyo**
+
+El Departamento de Auditoría del Servicio de Impuestos Internos ejerce una actividad
+de control a los procesos principales y de apoyo. Este control se hace mediante una
+continua revisión y evaluación de la ejecución de los procesos, efectuando un análisis
+crítico de la información obtenida y comunicándola, mediante informes, en forma
+permanente al interior de la organización.
+
+Además, este departamento genera mecanismos de control, sobre economía, eficiencia y
+eficacia en toda la cobertura organizacional.
+
+Mediante este departamento se evalúa el cumplimiento de las normas, instrucciones y
+políticas del Servicio a nivel operativo de la Dirección Nacional y Direcciones
+Regionales.
+
+La metodología empleada por este Departamento es la siguiente:
+
+* Presentación: Dar a conocer los objetivos de la visita al Director Regional o Jefe de
+  Unidad, según sea el caso.
+* Reunión de trabajo con los usuarios.
+* Retroalimentación escrita: Se emite un informe técnico con lo observado en terreno,
+  comentarios y sugerencias al respecto.
+* Informes Ejecutivos: Emisión de informes para ser enviados al Director Nacional,
+  Subdirector de Estudios y Subdirectores de las áreas auditadas.

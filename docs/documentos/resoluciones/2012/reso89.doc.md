@@ -1,0 +1,129 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso89.doc
+titulo: Word – Resolución Exenta SII N°89 del 16 de Agosto del 2012 Autoriza Excepcionalmente Reemplazo de Boleta de Ventas y Servicios por el Comprobante Emitido por la Empresa Transbank S.A., a Contribuyentes que Indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°89 DEL 16 DE AGOSTO DEL 2012 MATERIA : AUTORIZA EXCEPCIONALMENTE REEMPLAZO DE BOLETA DE VENTAS Y SERVICIOS POR EL COMPROBANTE EMITIDO POR LA EMPRESA TRANSBANK S.A., A CONTRIBUYENTES QUE INDICA.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS:
+Lo dispuesto en el Art. 6°, letra A, N° 1; Artículos 88 y 97 N°s 10 y 19 del Código Tributario, contenido en el Artículo Primero del D.L. N° 830, de 1974; en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda,  y en los Artículos 2° N°s 1 y 2; 9° letra a), 55°, 56° y 58° de la Ley sobre Impuesto a las Ventas y Servicios; y
+
+CONSIDERANDO:
+
+1° Que, de acuerdo con el inciso 1° del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios, la Dirección Nacional del Servicio de Impuestos Internos podrá eximir de las obligaciones establecidas en los artículos 52 al 55 de la misma Ley, a determinadas actividades, grupos o gremios de contribuyentes, a contribuyentes que vendan o transfieran productos exentos o que presten servicios exentos, y a contribuyentes afectos a los impuestos establecidos en esta ley, cuando por la modalidad de comercialización de algunos productos, o de prestación de algunos servicios, la emisión de boletas, facturas y otros documentos por cada operación pueda dificultar o entrabar las actividades que ellos desarrollan. En estos casos, la Dirección Nacional del Servicio de Impuestos Internos podrá establecer otro tipo de control de las operaciones, que se estime suficiente para resguardar el interés fiscal, sin perjuicio de lo dispuesto en el inciso 3º del artículo 23º del Código Tributario;
+
+2° Que, actualmente, la empresa TRANSBANK S.A., RUT N° 96.689.310-9, ofrece el servicio de habilitación de Terminales de Punto de Venta (POS), que permiten la realización de ventas o prestaciones de servicios, pagaderos al contado o a crédito, mediante la utilización de tarjetas, que identifican al comprador o beneficiario por su nombre o razón social, versión de la tarjeta, y fecha de vencimiento de ella, emitiendo un comprobante de la respectiva operación;
+
+3° Que, los contribuyentes indicados en la presente resolución realizan operaciones, por cuenta propia o por cuenta de terceros, de ventas y servicios afectas al Impuesto al Valor Agregado, por las cuales deben emitir facturas, boletas de ventas y servicios, y otros documentos tributarios, según el caso, han solicitado a este Servicio se les autorice para reemplazar la emisión de boletas de ventas y servicios por comprobantes que sean emitidos por terminales POS habilitados para dicho efecto;
+
+4° Que, este Servicio, en su permanente tarea de facilitar el cumplimiento tributario de los contribuyentes, ha estimado procedente desarrollar un plan piloto que, en una primera etapa, permita reemplazar el uso de las boletas de ventas y servicios afectos al Impuesto al Valor Agregado, por comprobantes emitidos por Terminales POS especialmente definidos para dichas operaciones.
+
+SE RESUELVE:
+
+1°	AUTORÍZASE, a los contribuyentes individualizados en el Anexo N°1 de esta resolución, y en conformidad a lo dispuesto en los Artículos 52 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, para reemplazar la emisión de boletas de ventas y servicios afectos al Impuesto al Valor Agregado, por cuenta propia o por cuenta de terceros, por los comprobantes que sean emitidos a través de Terminales POS habilitados por la empresa TRANSBANK S.A., RUT N° 96.689.310-9, con motivo del pago total o parcial, efectuado mediante tarjetas de crédito o débito, por parte del comprador o beneficiario de los mismos.
+Para efectos de lo prevenido en el párrafo anterior, el comprobante y el duplicado del mismo, generados por el respectivo terminal POS, deberá reunir los requisitos de formato e instrucciones que se contienen en los Anexos N° 2 y 3 de la presente resolución. 
+
+2°	La autorización establecida en el resolutivo 1° de esta resolución, se aplicará sólo respecto de las operaciones de ventas y servicios en las que el pago respectivo se realice mediante el uso de tarjetas de débito o crédito en Terminales POS especialmente habilitados para dichos efectos. Respecto de ventas o servicios por los cuales solo parte del precio se pague por medio del uso de una tarjeta de crédito o débito y el saldo  en dinero efectivo o mediante otro medio de pago autorizado, el vendedor o prestador de servicio deberá emitir además la correspondiente boleta de ventas y servicios, por la parte del precio que corresponda a esta última modalidad de pago.
+
+3°	La autorización a que se refiere la presente resolución, no se aplicará tratándose de operaciones de venta o prestaciones de servicios no afectas o exentas al Impuesto a las Ventas y Servicios, y en aquellas en que, por aplicación de la facultad establecida en el artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, se haya dispuesto el cambio de sujeto del respectivo tributo.
+
+4°	Los contribuyentes, cuando realicen ventas por cuenta de terceros no estarán sujetos a lo establecido en la Circular N°126, del 23 septiembre de 1977, N°20 letra i) párrafo segundo, relativo al registro en el documento emitido al nombre del mandante o de una simbología especial que lo individualice, si cumple copulativamente con lo siguiente:
+Destinar un POS, habilitado por la empresa TRANSBANK S.A., exclusivo para este tipo de operaciones;
+El POS destinado para tal efecto, deberá ser individualizado a través del código identificador TERMINAL que cada Terminal POS posee, registrándolo en el Libro de Ventas y adicionalmente en el detalle de la liquidación o liquidación factura, manual o electrónica, al momento de emitirse al mandante.
+
+5°	Los comprobantes de los Terminales POS a que se refiere la presente resolución, deberán emitirse en duplicado, quedando uno en poder del contribuyente emisor y otro, para ser entregado al comprador o beneficiario del respectivo bien o servicio, debiendo conservarse por el plazo establecido en el artículo 58 de la Ley sobre Impuesto a las Ventas y Servicios.
+Frente a una fiscalización del Servicio de Impuestos Internos, el fiscalizador podrá solicitar de forma inmediata el vale de Totalización General del POS, que registra un resumen de todas las ventas del terminal. La información provista por los terminales POS de TRANSBANK S.A., será también proporcionada a través de una aplicación Web de la misma empresa. 
+
+6°	La contabilidad y registro de las operaciones de que trata la presente resolución, se regirá por las mismas instrucciones que rigen para la emisión de boletas de ventas y servicios, debiendo los contribuyentes registrar, en su Libro de Ventas, en forma separada, los impuestos que afecten a aquellas.
+
+7°	Las anulaciones de las ventas u operaciones a que se refiere la presente autorización se efectuará en el mismo POS habilitado a través de una aplicación dispuesta para tal efecto.
+
+8°	El Servicio fijará, mediante resolución, los requisitos técnicos que deberán cumplir los terminales POS que sean habilitados por la empresa TRANSBANK S.A., RUT N° 96.689.310-9, para efectos previstos en las presentes instrucciones.  
+Asimismo, a fin de efectuar el debido control de las operaciones efectuadas por los contribuyentes autorizados por la presente resolución, la empresa TRANSBANK S.A. deberá hacer entrega a este Servicio, en la forma y plazo que este determine, la información relativa a todas las operaciones  efectuadas a través de los Terminales POS habilitados durante el periodo a que se refiere el resolutivo siguiente.  
+
+9° 	La autorización que se otorga mediante la presente resolución tendrá 5 meses de duración, a partir del mes de su publicación en el Diario Oficial, salvo que este Servicio modifique su vigencia mediante resolución.
+
+10°	Los contribuyentes deberán mantener permanentemente y en buen estado, un ejemplar de la presente resolución, para los efectos de ser exhibida a los funcionarios del Servicio, en el caso que éstos lo requieran. Copia de esta resolución, o su extracto, deberá ser también exhibida en lugares visibles y de fácil acceso, a la vista de sus clientes o del público en general. 
+
+11°	El contribuyente que pretenda se deje sin efecto la autorización concedida mediante la presente resolución, deberá solicitarlo al Servicio de Impuestos Internos, por escrito presentado en la oficina de partes de la Dirección Nacional. Corresponderá, al Subdirector de Fiscalización, actuando por Orden del Director, dictar la correspondiente resolución por la que se deje sin efecto la autorización antes referida; la que regirá a partir del día primero del mes siguiente al de su publicación en el Diario Oficial. A contar de esa fecha, el contribuyente no podrá reemplazar la boleta de ventas y servicios que corresponda emitir, por el comprobante de  tarjeta de crédito o débito que da cuenta del pago del precio mediante el uso de éstas.
+
+12°	Los anexos N° 1, 2 y 3 de esta resolución, se entienden formar parte íntegra de ella, y toda  modificación a éstos, se efectuará mediante resolución publicada en extracto en el Diario Oficial y en forma íntegra en la página Internet del Servicio, www.sii.cl.
+
+13°	La presente resolución y sus anexos se publicarán, en extracto, en el Diario Oficial y en forma íntegra en la página Internet del Servicio, www.sii.cl.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+(Fdo.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+IBC/MSB/HSS/cpg
+Lo que comunico a Ud. Para su conocimiento y fines correspondientes
+DISTRIBUCION:
+Internet
+Diario oficial (en extracto)
+Boletín
+
+ANEXO 1
+Contribuyentes autorizados para el para reemplazar la emisión de boletas de ventas y servicios afectos al Impuesto al Valor Agregado, por cuenta propia o por cuenta de terceros, por los comprobantes que sean emitidos a través de Terminales POS.
+RAZÓN SOCIAL
+
+RUT
+
+LUIS HUMBERTO SALINAS GAONA
+7.898.295-0
+SONIA MARGOT FUENTES PALMA
+8.004.159-4
+FRANCISCO ANTONIO LAGOS CORTES
+8.330.478-2
+GLORIA MONICA QUEZADA CANALES
+8.491.781-8
+NELSON SEGUNDO GUAJARDO ARANEDA
+8.677.390-2
+OSCAR FERNANDO AMPUERO RIVAS
+9.167.129-8
+JUAN CARLOS CAYUL CANIL
+12.143.902-6
+NOLBER MATEO RAMOS
+22.155.850-2
+DISTRIBUIDORA VALENZUELA LECAROS LIMITADA
+76.049.329-5
+IBANEZ Y HORMAZABAL LIMITADA
+76.136.124-4
+RESTAURANT ELKIKA ILMENAU LIMITADA
+77.956.350-2
+RESTAURANT PANORAMA GIRATORIO Y CIA LTDA
+87.522.500-6
+
+
+ANEXO 2
+
+Del Formato de los comprobantes
+El vale emitido por las transacciones realizadas acogidas al resolutivo N°1 de esta resolución, deberá diferenciarse de los comprobantes que actualmente entrega el POS de TRANSBANK S.A. y contar al menos con los campos que se indicaran a continuación, de manera que el consumidor final pueda distinguir claramente un vale realizado por las transacciones no acogidas a esta resolución, de un vale en reemplazo de boleta que cumple los requisitos establecidos por este Servicio y así comprobar si efectivamente se le ha entregado el documento tributario correspondiente:
+Número del ROL ÚNICO TRIBUTARIO del emisor; 
+Nombre o razón social del contribuyente; 
+Domicilio o casa matriz del contribuyente o dirección de la sucursal con indicación de ciudad, lugar, calle y número, con un máximo de 40 caracteres; donde funcionará la máquina POS; 
+Registro del monto de las operaciones realizadas. 
+Todos los valores deberán expresarse en pesos y sin signos, por lo que estos documentos no podrán contener valores negativos (por ejemplo: Notas de crédito y descuentos), a menos que otra Resolución expresa de este Servicio lo permita; 
+Los comprobantes deberán indicar en el campo “Monto Compra” -para operaciones con tarjeta de débito- o “Monto” -para operaciones con tarjetas de crédito-, las compras afectas a IVA que se realicen con el POS.
+El campo “Total” es el monto que resulta de sumar el campo “Monto Compra” o “Monto” otras operaciones no afectas a IVA, es decir, el monto efectivamente pagado con la tarjeta.
+Numero de terminal, número de operación, código de autorización y fecha de emisión con indicación del año, mes, día, hora, minuto y segundo. En caso de usarse palabras o abreviaturas de ellas para referirse al mes de emisión, estas deberán consignarse en castellano; 
+La leyenda "Válido como Boleta" deberá imprimirse al momento de la emisión del vale; 
+Al momento de la emisión del vale deberá imprimirse, la leyenda "Copia Cliente" y “Original Comercio”;
+Adicionalmente el vale podrá traer claramente diferenciados campos relativos a la identificación del vale por parte y uso de TRANSBANK y/o del contribuyente.
+
+ANEXO 3
+
+Ejemplo de comprobantes emitidos en el piloto.
+Comprobante Tarjeta de Crédito- Cliente
+Comprobante Tarjeta de Crédito- Comercio
+
+
+Comprobante Tarjeta de Débito- Cliente
+Comprobante Tarjeta de Débito- Comercio
+
+
+
+

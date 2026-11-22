@@ -1,0 +1,46 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso55.doc
+titulo: Word – Resolución Exenta SII N°55 del 11 de Mayo del 2006 Autoriza a Los Directores Regionales Para Delegar Facultad Que Se Indica. Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°55 DEL 11 DE MAYO DEL 2006 MATERIA : AUTORIZA A LOS DIRECTORES REGIONALES PARA DELEGAR FACULTAD QUE SE INDICA.
+ 
+
+	
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los artículos  7 letra i) y 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980, en el artículo 6°, letra B), N° 7 del Decreto Ley N° 830, sobre Código Tributario, de 1974,  Artículo 41 de la Ley N° 18.575, sobre Bases Generales de la Administración del Estado y
+
+CONSIDERANDO:
+
+Que por Resolución Ex. N° 21, de  01 de marzo de 2006 (D.O. 04.03.2006), se autorizó a los Directores Regionales para delegar en los Jefes de Departamento Regionales de Avaluaciones la función de resolver solicitudes de Reconsideración Administrativa presentadas por los contribuyentes a través del formulario N° 2835.
+
+La necesidad de agilizar la resolución de las presentaciones efectuadas por los contribuyentes a través del formulario 2835.
+
+
+SE RESUELVE:
+
+AUTORÍZASE a los Directores Regionales, para delegar mediante resolución, en los Jefes de Grupos del área Avaluaciones y en los Jefes de Grupos encargados de los convenios de cooperación entre el Servicio de Impuestos Internos y las municipalidades, en sus respectivas jurisdicciones, la función de resolver solicitudes de Reconsideración Administrativa presentadas por los contribuyentes a través del formulario N° 2835; lo anterior sin perjuicio de las facultades delegadas en los Jefes de Departamento de Avaluaciones.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+
+	RICARDO ESCOBAR CALDERÓN
+	DIRECTOR
+
+
+
+
+DISTRIBUCIÓN
+Internet
+Boletín
+Diario Oficial
+Oficina de Partes
+
+
+
+

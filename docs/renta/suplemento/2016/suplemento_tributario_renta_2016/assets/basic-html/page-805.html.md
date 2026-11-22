@@ -1,0 +1,750 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-805.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 805 / 808
+
+Basic version
+
+805 / 808
+
+805
+
+LUMACO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BALMACEDA N°379
+
+45-815172
+
+08:15-18:00
+
+S/COSTO
+
+MELIPEUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PEDRO AGUIRRE CERDA N° 78,
+
+ESQUINA CAUPOLICÁN
+
+45-581075
+
+[b376bc1@abretumundo.cl](mailto:b376bc1@abretumundo.cl)
+
+LU
+
+A
+
+JU:08:30-17:45,
+
+VI:08:30-16:30
+
+S/COSTO
+
+NUEVA IMPERIAL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ERNESTO RIQUELME N°106
+
+45-2924515
+
+[b112bc1@abretumundo.cl](mailto:b112bc1@abretumundo.cl)
+
+08:30-17:30, MI: 08:30-
+
+14:00
+
+S/COSTO
+
+PADRE LAS CASAS
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MAQUEHUE N° 850, LOCAL 14
+
+45-339607
+
+[b327bc1@abretumundo.cl](mailto:b327bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:30
+
+S/COSTO
+
+PERQUENCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+21 DE MAYO N°448
+
+45-2537130
+
+[b279bc1@abretumundo.cl](mailto:b279bc1@abretumundo.cl)
+
+LU A VI:08:30-13:30 / 14:30-
+
+18:00
+
+SA 10:00-12:20
+
+S/COSTO
+
+PUCON
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AV. LOS CASTAÑOS N°51
+
+452-2442587
+
+[b374bc1@abretumundo.cl](mailto:b374bc1@abretumundo.cl)
+
+LU A VI:09:00-19:00
+
+SA:10:00-13:00
+
+S/COSTO
+
+PUCON
+
+INJUV
+
+MIGUEL ANSORENA N° 190
+
+45-293116
+
+rodrigo.vega.mu
+
+[ñuz@injuv.gob.cl](mailto:uz@injuv.gob.cl)
+
+08:30 -18:45
+
+S/COSTO
+
+PUREN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+URRUTIA N°123
+
+82904172
+
+LU A VI:09:30-13:00 / 14:30-
+
+18:00
+
+S/COSTO
+
+RENAICO
+
+INJUV
+
+CIRCUNVALACIÓN PEDRO DE
+
+VALDIVIA N° 370
+
+45-744701
+
+[alexrodrigovaldes@gmail.com](mailto:alexrodrigovaldes@gmail.com)
+
+08:30-19:00
+
+S/COSTO
+
+RENAICO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+P. DE VALDIVIA N°370. POB.
+
+LOS CONQUISTADORES
+
+45-2774220
+
+LU A VI:08:45-13:00 / 14:00-
+
+18:00
+
+S/COSTO
+
+RENAICO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SAN PEDRO S/N
+
+45-2774220
+
+S/COSTO
+
+SAAVEDRA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+EJERCITO ESQ. J.J. LATORRE
+
+S/N
+
+62613450
+
+[b302bc1@abretumundo.cl](mailto:b302bc1@abretumundo.cl)
+
+LU
+
+A
+
+JU:08:30-17:30,
+
+VI08:30-16:30
+
+S/COSTO
+
+SAAVEDRA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SECTOR RUCA RAQUI
+
+45-352346
+
+[b302bp2@abretumundo.cl](mailto:b302bp2@abretumundo.cl)
+
+09:00-18:00
+
+S/COSTO
+
+SAAVEDRA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ALESSANDRI S/N, PUERTO
+
+DOMINGUEZ
+
+84809802
+
+LU A VI:09:00-18:00
+
+SA:09:00-14:00
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PUDETO N° 570
+
+45-2272591
+
+[b098bp4@abretumundo.cl](mailto:b098bp4@abretumundo.cl)
+
+09:00-18:30
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO PRAT N° 42
+
+45-910369
+
+[b098bc1@abretumundo.cl](mailto:b098bc1@abretumundo.cl)
+
+09:30-18:20
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+6 NORTE N° 01466, PUEBLO
+
+NUEVO
+
+45-227187
+
+[b109bc1@abretumundo.cl](mailto:b109bc1@abretumundo.cl)
+
+09:20-18:00
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BELGRADO N° 530, VILLA
+
+VALPARAÍSO
+
+45-2227186
+
+[b098bp6@abretumundo.cl](mailto:b098bp6@abretumundo.cl)
+
+09:30-18:30
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CURIÑANCO N° 40
+
+45-2347196
+
+[b098bp5@abretumundo.cl](mailto:b098bp5@abretumundo.cl)
+
+09:00-18:30
+
+S/COSTO
+
+TEMUCO
+
+INJUV
+
+GENERAL MACKENA N° 825
+
+[dsanchez@injuv.gob.cl](mailto:dsanchez@injuv.gob.cl)
+
+09:00-18:00
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PUERTO EDEN N° 1855, CAMPO
+
+BASO, VILLA AUSTRAL
+
+45-281260
+
+[b098bp2@abretumundo.cl](mailto:b098bp2@abretumundo.cl)
+
+09:00-18:30
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO PRAT N°42
+
+45- 214555
+
+09:00-13:00 / 14:00-18:00
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COSTADO
+
+DEL
+
+PARQUE
+
+LABRANZA
+
+45-2375008
+
+LU A VI:09:30-18:30
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+JOSE DEL ROSARIO MUÑOZ
+
+45-220187
+
+S/COSTO
+
+TEMUCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AV ALEMANIA N°084
+
+45-730064
+
+TEODORO
+
+SCHMIDT
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BALMACEDA N° 380
+
+45-2922733
+
+[b281bc1@abretumundo.cl](mailto:b281bc1@abretumundo.cl)
+
+LU A VI:10:00-18:30
+
+SA 09:00-13:00
+
+S/COSTO
+
+TEODORO
+
+SCHMIDT
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BERNARDO O´HIGGINS S/N,
+
+HUALPIN
+
+86811504
+
+[b281bp1@abretumundo.cl](mailto:b281bp1@abretumundo.cl)
+
+LU A JU:10:30-13:00 /
+
+14:30-19:00, VI:10:30-13:00
+
+/ 14:30-19:00
+
+SA 10:00-13:00
+
+S/COSTO
+
+TEODORO
+
+SCHMIDT
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+DOS SUR S/N (EX ESTACIÓN DE
+
+FERROCARRILES),
+
+BARROS
+
+ARANA
+
+74288087
+
+[b281bp2@abretumundo.cl](mailto:b281bp2@abretumundo.cl)
+
+LU A VI:09:30-13:30 / 14:30-
+
+18:30
+
+S/COSTO
+
+TOLTEN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. LOS COPIHUES S/N
+
+45-2924515
+
+[b276bc1@abretumundo.cl](mailto:b276bc1@abretumundo.cl)
+
+LU
+
+A
+
+JU:09:30-18:00,
+
+VI:09:30-17:00
+
+S/COSTO
+
+TRAIGUÉN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SANTA CRUZ N° 632
+
+45-2465326
+
+[b392bc1@abretumundo.cl](mailto:b392bc1@abretumundo.cl)
+
+08:00-19:00
+
+S/COSTO
+
+VICTORIA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+RAMIREZ N° 256
+
+45-2992990
+
+[b116bc1@abretumundo.cl](mailto:b116bc1@abretumundo.cl)
+
+09:00-12:30 / 14:00-19:00
+
+S/COSTO
+
+VILCUN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. ARTURO PRAT N° 439
+
+45-2918377
+
+[b274bc1@abretumundo.cl](mailto:b274bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:50
+
+SA 10:00-17:00
+
+S/COSTO
+
+VILCUN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LIBERTAD
+
+N°313,
+
+CHERQUENCO
+
+45-2566052
+
+[b274bp1@abretumundo.cl](mailto:b274bp1@abretumundo.cl)
+
+09:00-13:00 / 14:00-18:50
+
+S/COSTO
+
+VILCUN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+GABRIELA MISTRAL Nº 145,
+
+CAJON
+
+45-2371112
+
+[b274bc2@abretumundo.cl](mailto:b274bc2@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:48
+
+S/COSTO
+
+VILLARRICA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BERNARDO LAETAMANDIA N°
+
+1160, POBLACIÓN BERNARDO
+
+O'HIGGINS
+
+45-2419271
+
+[b072bp1@abretumundo.cl](mailto:b072bp1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 15:00-
+
+19:00
+
+S/COSTO
+
+VILLARRICA
+
+INJUV
+
+GENEAL URRUTIA ESQ. MATTA
+
+[infocentrojuvenil@villarrica.org](mailto:infocentrojuvenil@villarrica.org)
+
+08:30 -17:45
+
+S/COSTO
+
+VILLARRICA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PEDRO DE VALDIVIA N°1050
+
+45-2415706
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+[802](./page-802.html)
+[803](./page-803.html)
+[804](./page-804.html)
+[805](./page-805.html)
+[806](./page-806.html)
+[807](./page-807.html)
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

@@ -1,0 +1,201 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso99.doc
+titulo: Word – Resolución Exenta SII N°99 del 27 de Octubre del 2004 Autoriza como receptores de documentos tributarios electrónicos a organismos públicos que se señalan Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N° 99 DEL 27 DE OCTUBRE DEL 2004
+MATERIA : AUTORIZA COMO RECEPTORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMOS PÚBLICOS QUE SE SEÑALAN
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974 y,
+
+CONSIDERANDO:
+
+1° Que, de acuerdo a lo establecido en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974, la Dirección Nacional del Servicio de Impuestos Internos podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de Boletas, Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Notas de Débito y Notas de Crédito.
+2° Que, los Organismos Públicos que se detallan en el resolutivo primero, han postulado como receptores de Documentos Tributarios Electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 63, de Julio de 2004, para ser autorizados.
+3° Que, en Res. Ex. SII N° 78, del 6 de Agosto de 2004, se ha delegado en el Subdirector de Fiscalización la facultad de autorizar a organismos públicos como receptores de documentos tributarios electrónicos.
+
+						     SE RESUELVE:
+
+Primero:	Autorízanse como receptores electrónicos a contar del mes de Octubre de 2004, a los siguientes Organismos Públicos:
+SERVICIO NACIONAL DE SALUD HOSPITAL SAN JOSÉ DE MELIPILLA,		RUT 61.602.123-0
+SERVICIO DE SALUD METROPOLITANO NORTE, 					RUT 61.608.000-8
+SERVICIO DE SALUD ATACAMA HOSPITAL DE CHAÑARAL,			RUT 61.606.305-7
+GOBERNACIÓN PROVINCIAL DE COPIAPÓ,					RUT 60.511.031-2
+DEPARTAMENTO PROVINCIAL DE EDUCACIÓN DE BÍO-BÍO,			RUT 60.902.066-0
+DEPARTAMENTO PROVINCIAL DE EDUCACIÓN DE IQUIQUE,			RUT 60.902.013-K
+SERVICIO NACIONAL DE SALUD HOSPITAL DE LEBU,				RUT 61.602.212-1
+SERVICIO DE SALUD ARAUCO HOSPITAL DE ARAUCO,				RUT 61.602.209-1
+SERVCIO DE SALUD CONCEPCIÓN HOSPITAL DE CONTULMO,			RUT 61.607.103-3
+SERVICIO NACIONAL DE SALUD HOSPITAL DE CURANILAHUE,			RUT 61.602.211-3
+SERVICIO NACIONAL DE SALUD HOSPITAL DE CAÑETE,				RUT 61.602.213-K
+SERVICIO DE SALUD METROPOLITANO NORTE HOSPITAL DE TIL TIL,		RUT 61.608.006-7
+GOBIERNO REGIONAL IV REGIÓN COQUIMBO,					RUT 72.225.700-6
+GOBIERNO REGIONAL DE ANTOFAGASTA,					RUT 72.224.100-2
+ILUSTRE MUNICIPALIDAD DE TALCA,						RUT 69.110.400-1
+CENTRO DE INFORMACIÓN DE RECURSOS NATURALES,				RUT 71.294.800-0
+GOBIERNO REGIONAL DE LA REGIÓN DEL BÍO BÍO,				RUT 72.232.500-1
+Segundo: 	Los Organismos Públicos autorizados, como receptores de Documentos Tributarios Electrónicos, deberán cumplir lo establecido en la Resolución Ex. SII N° 63, de Julio de 2004.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+(Fdo.) BENJAMÍN SCHÜTZ GARCÍA
+  SUBDIRECTOR DE FISCALIZACIÓN
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

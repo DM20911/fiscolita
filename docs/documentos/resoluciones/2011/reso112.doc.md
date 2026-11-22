@@ -1,0 +1,37 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso112.doc
+titulo: Word – Resolución Exenta SII N°112 del 16 de Septiembre del 2011 Complementa Resolución Ex. Sii N° 94, de 02 de Agosto de 2011, en la Forma que Indica. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°112 DEL 16 DE SEPTIEMBRE DEL 2011 MATERIA : COMPLEMENTA RESOLUCIÓN EX. SII N° 94, DE 02 DE AGOSTO DE 2011, EN LA FORMA QUE INDICA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las necesidades del Servicio; lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; las facultades conferidas en las letras c) y ñ) del artículo 7° de dicho estatuto; lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, modificada por las Resoluciones Ex. N°s. 43, 89, 160, 63, 193 y 94, de 31 de marzo del 2004, 26 de julio del 2006, 31 de diciembre de 2007, 08 de mayo de 2009, 24 de diciembre de 2010 y 02 de agosto de 2011, respectivamente, y lo establecido en la Resolución Ex. N° 7.590, de 15 de noviembre de 1999, modificada por la Resolución Ex. SII N° 198, de 22 de diciembre de 2009, todas de esta Dirección Nacional; y,
+
+
+CONSIDERANDO:   
+
+
+Que, se ha estimado necesario complementar la Resolución Ex. SII N° 94, de 02 de agosto de 2011, publicada en el Diario Oficial del 06 de agosto del mismo año, que modificó la denominación, atribuciones, obligaciones, responsabilidades y funciones del ex- Departamento de Medianas y Grandes Empresas e Internacional (actual Departamento de Medianas y Grandes Empresas) y que fijó la denominación, atribuciones, obligaciones, responsabilidades y funciones del nuevo Departamento de Fiscalización Internacional. 
+
+RESUELVO:   
+
+1° COMPLEMÉNTASE, la Resolución Ex. SII N° 94, de 02 de Agosto de 2011, publicada en el Diario Oficial del 06 de agosto del mismo año,  de la siguiente forma:
+
+Cualquier mención, función, asignación o delegación de facultades que aluda o que corresponda al Departamento o al Jefe del Departamento de Medianas y Grandes Empresas e Internacional, contenida en resoluciones o instrucciones vigentes, se entenderá referida al “Departamento o Jefe del Departamento de Medianas y Grandes Empresas”.
+Cualquier mención, función, asignación o delegación de facultades que aluda o que corresponda al Departamento o al Jefe del Departamento de Medianas y Grandes e Internacional, contenida en resoluciones o instrucciones vigentes, se entenderá referida al “Departamento o al Jefe del Departamento de Fiscalización Internacional”, en el ámbito de las atribuciones, obligaciones, responsabilidades y funciones que fueron asignadas a dicho Departamento. 
+2° La presente resolución se publicará en extracto, en el Diario Oficial. 
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+(Fdo.) MARIO VILA FERNÁNDEZ
+                  DIRECTOR (S)
+
+Lo que transcribo para su conocimiento y demás fines,
+Distribución: -   A Internet
+-   Al Boletín
+-   Al Diario Oficial en extracto. 
+

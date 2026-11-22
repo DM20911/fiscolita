@@ -1,0 +1,55 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso31.doc
+titulo: Word – Resolución Exenta SII N°31 del 23 de Febrero del 2012 Sustitúyese las instrucciones de llenado de la Declaración Jurada 1887 para proporcionar la información a que se refiere la Resolución ex. N° 6.836, de fecha 28.12.1993 y sus modificaciones posteriores. Fuente: Departamento Personas y Micr
+categoria: otros
+---
+RESOLUCION EXENTA SII N°31 DEL 23 DE FEBRERO DEL 2012 MATERIA: SUSTITÚYESE LAS INSTRUCCIONES DE LLENADO DE LA DECLARACIÓN JURADA 1887 PARA PROPORCIONAR LA INFORMACIÓN A QUE SE REFIERE LA RESOLUCIÓN EX. N° 6.836, DE FECHA 28.12.1993 Y SUS MODIFICACIONES POSTERIORES.
+Hoy se ha resuelto lo que sigue:
+VISTOS : Lo dispuesto en los artículos 1º y 7º de la ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo  1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974, en los artículo 42 ter, 42 quáter y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974; en el artículo 20 del D.L N° 3.500, del 1980 y en la Ley N° 20.455, de 2010; y
+
+CONSIDERANDO:
+
+					1°. Que, la Ley Nº 20.455, publicada en el Diario Oficial el 31 de Julio de 2010, modificó el artículo 42 ter de la Ley sobre Impuesto a la Renta, sustituyendo dicho texto legal la oración final del  inciso primero del referido artículo por la siguiente: "Aquella parte del excedente de libre disposición que corresponda a recursos originados en depósitos convenidos, tributará de acuerdo al siguiente artículo."
+
+Asimismo, la mencionada ley agregó el artículo 42 quater a la Ley sobre Impuesto a la Renta, estableciendo dicho precepto legal que: “El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley N° 3.500, de 1980, que corresponda a depósitos convenidos efectuados por sobre el límite establecido en el inciso tercero del artículo 20 del citado decreto ley, podrá ser retirado libre de impuestos. Con todo, la rentabilidad generada por dichos depósitos, tributará conforme a las reglas generales. Aquella parte de los excedentes de libre disposición que correspondan a recursos originados en depósitos convenidos de montos inferiores al límite contemplado en el artículo 20 del decreto ley N° 3.500, de 1980, tributará conforme a las reglas generales.”
+
+2°. Que, con el objeto de velar por una eficiente administración y fiscalización de las disposiciones tributarias que la ley le encomienda a este Servicio. 
+
+						3°. Que, con la finalidad de dar mayor claridad a los agentes retenedores, acerca de la información requerida en la Declaración Jurada N° 1887, evitando con ello errores e inconsistencias en el proceso de declaración.
+
+
+
+SE RESUELVE:
+
+	1°. Sustitúyese las instrucciones de llenado del Modelo de Declaración Jurada Formulario Nº 1887, para proporcionar la información y antecedentes a que se refiere la Resolución Exenta Nº 6.836,  de fecha 28.12.93, y sus modificaciones posteriores, por las que se adjuntan como Anexo Nº 1 a la presente Resolución.
+
+   						2°. La Declaración Jurada, deberá enviarse mediante la transmisión electrónica de datos, vía Internet, y su formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos: HYPERLINK "http://www.sii.cl/"www.sii.cl
+3°.  La presente Resolución regirá a contar del Año Tributario 2012, respecto de la información que debe proporcionarse por las rentas percibidas   durante el año comercial 2011 y siguientes
+4°. El Anexo N°1 de esta Resolución, y que se entiende forma parte íntegra de ella, se publicará oportunamente en la página Internet de este Servicio, HYPERLINK "http://www.sii.cl"www.sii.cl.  
+Toda modificación del anexo aludido en el párrafo anterior, se efectuará mediante su oportuna publicación en la página web de este Servicio.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+
+
+
+ 
+                                                            (FDO.) MARIO VILA FERNÁNDEZ
+DIRECTOR (S)
+
+
+
+Anexo 1: HYPERLINK "reso31_anexo1.pdf"Instrucciones de llenado de Modelo de Declaración Jurada N° 1887.
+.
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+IBC/RNS/KCC/pcg
+DISTRIBUCIÓN:
+AL BOLETÍN
+A INTERNET
+AL DIARIO OFICIAL
+
+

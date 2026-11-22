@@ -1,0 +1,30 @@
+---
+url: https://www.sii.cl/destacados/reavaluo/2021/proceso_rav_sne.html
+titulo: ¿En qué consiste?
+categoria: destacado
+---
+[Compartir](https://www.addtoany.com/share?linkurl=sii.cl&linkname=Servicios%20de%20impuestos%20internos)
+[Imprimir](javascript:print();)
+
+## ¿En qué consiste?
+
+**El Reavalúo no Agrícola de Sitios No Edificados, Propiedades Abandonadas o Pozos Lastreros 2021,** es un proceso que, de acuerdo a lo establecido en la Ley de Impuesto Territorial, debe ser realizado por el SII a partir del 1 de enero de cada año, con el fin de actualizar los avalúos fiscales de este tipo de bienes raíces.
+
+En este proceso solo se reavalúan los sitios no edificados, propiedades abandonadas y pozos lastreros que se ubiquen en las áreas urbanas.
+
+Se entenderá por **sitios no edificados** a cualquier bien raíz de la serie **no agrícola**, en que no exista ningún tipo de edificación terminada. No serán consideradas como edificaciones para efectos de la aplicación de esta sobretasa los pavimentos, cualquiera sea su calidad, definida en el marco de las normas asociadas a cada reavalúo de bienes raíces no agrícolas.
+
+Por otro lado, de acuerdo con lo dispuesto en el artículo 15 de la Ley sobre Impuesto Territorial los inmuebles con edificaciones sin concluir o reparar, después de expirados los plazos entregados por la municipalidad respectiva, serán considerados como sitios eriazos (no edificados) para los efectos del pago del Impuesto Territorial que los afecte.
+
+Finalmente, no se considerarán como sitios no edificados aquellos predios en los cuales exista prohibición total de edificar, la que debe estar señalada en el instrumento de planificación territorial correspondiente.
+
+Por su parte, **las propiedades abandonadas** corresponden a imuebles no habitados, que se encuentran permanentemente desatendidos, ya sea por falta de cercos, protecciones adecuadas, aseo o mantención, o bien por otras circunstancias que dejen de manifiesto su abandono o deterioro y que afecten negativamente su entorno inmediato (Decreto Supremo N° 47, de 1992), que fija el nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
+
+La declaración de abandono es efectuada por la municipalidad que tiene jurisdicción sobre la propiedad, por medio de un decreto alcaldicio fundado (artículo 58 bis del Decreto Ley N° 3063, sobre Rentas Municipales).
+
+Finalmente, la definición de **pozo lastrero** se refiere a toda excavación de la que se extrae o se ha extraído arena, ripio, grava, rocas u otros materiales áridos.
+
+Estas propiedades fueron informadas al SII por las distintas municipalidades durante noviembre de 2020, de acuerdo con lo establecido en la Ley N° 21.078 sobre Transparencia del Mercado del Suelo e Impuesto al Aumento de Valor por Ampliación del Límite Urbano.
+
+La ley indica que a las propiedades ubicadas fuera del área de cobertura de servicios públicos de agua potable y recolección de aguas servidas
+**no se les aplicará la sobretasa del 100% de Impuesto Territorial**, es decir, el doble de la tasa vigente, aun cuando estén ubicadas en zonas urbanas de la comuna respectiva.

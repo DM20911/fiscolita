@@ -1,0 +1,192 @@
+---
+url: https://www.sii.cl/portales/reavaluo_no_agricola/2006/dist_increm_giro.pdf
+titulo: REAVALÚO DE PROPIEDADES URBANAS 2006:
+categoria: portal
+---
+REAVALÚO DE PROPIEDADES URBANAS 2006:
+RESULTADOS GENERALES.
+
+DISTRIBUCIÓN DEL INCREMENTO DE GIRO SEMESTRAL POR AGRUPACIÓN DE COMUNAS
+(MM$ de 01/01/2006)
+
+COMUNA
+
+LAS CONDES
+SANTIAGO
+PROVIDENCIA
+LO BARNECHEA
+VITACURA
+VIÑA DEL MAR
+ÑUÑOA
+QUILICURA
+ANTOFAGASTA
+LA REINA
+CONCEPCIÓN
+HUECHURABA
+TEMUCO
+SAN MIGUEL
+LA FLORIDA
+VALPARAÍSO
+COLINA
+
+Giro neto
+
+Giro neto
+
+semestral antes
+
+semestral con
+
+de Reavalúo
+
+Reavalúo
+
+Aporte a la Variación Total del
+
+Aporte de la comuna a la Variación del Impuesto
+
+Impuesto Neto Semestral
+
+Neto Semestral
+
+8.101
+
+2.437
+1.708
+1.192
+1.116
+973
+675
+
+13,5%
+23,0%
+29,6%
+35,8%
+41,2%
+45,0%
+
+28.612
+17.848
+12.188
+8.684
+10.965
+7.806
+
+31.049
+19.556
+13.379
+9.799
+11.938
+8.482
+
+15,5%
+9,8%
+6,7%
+4,9%
+6,0%
+4,2%
+
+665
+588
+529
+487
+468
+
+48,6%
+51,9%
+54,8%
+57,5%
+60,1%
+
+3.833
+2.358
+3.220
+3.178
+4.263
+
+4.498
+2.946
+3.749
+3.665
+4.731
+
+2,2%
+1,5%
+1,9%
+1,8%
+2,4%
+
+375
+347
+345
+329
+286
+267
+240
+
+62,2%
+64,1%
+66,1%
+67,9%
+69,5%
+71,0%
+72,3%
+
+1.540
+2.940
+1.503
+2.049
+2.774
+1.077
+1.311
+
+1.915
+3.287
+1.849
+2.378
+3.059
+1.344
+1.550
+
+1,0%
+1,6%
+0,9%
+1,2%
+1,5%
+0,7%
+0,8%
+
+100,0%
+
+65.982
+
+70.977
+
+35,5%
+
+182.130
+
+200.150
+
+100,0%
+
+3.112
+
+1.813
+
+PEÑALOLÉN
+RESTO DEL PAÍS
+
+4.995
+
+4.995
+
+TOTAL
+
+18.021
+
+18.021
+
+% Acumulado
+
+% Real

@@ -1,0 +1,239 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso133.doc
+titulo: Word – Resolución Exenta SII N°133 del 23 de Noviembre del 2011 Modifica Resoluciones Exentas Sii N° 143 de 2009, N° 166 de 2010 y N° 101 de 2011, que Autorizan Operación de Sistemas Electrónicos de Intermediación en la Venta de Colaciones a los Contribuyentes que Indican. Fuente: Departamento de At
+categoria: otros
+---
+RESOLUCION EXENTA SII N°133 DEL 23 DE NOVIEMBRE DEL 2011 MATERIA : MODIFICA RESOLUCIONES EXENTAS SII N° 143 DE 2009, N° 166 DE 2010 Y N° 101 DE 2011, QUE AUTORIZAN OPERACIÓN DE SISTEMAS ELECTRÓNICOS DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES A LOS CONTRIBUYENTES QUE INDICAN.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; en la Resolución Ex. SII N° 6582, de 1997, modificada y complementada por la Resolución Ex. SII N° 3207, de 1998; y las Resoluciones Ex. SII N°s 143 de 2009; 166 de 2010 y 101 de 2011; y 
+
+
+
+CONSIDERANDO:
+
+
+
+1° Que, el Art. 56, inciso tercero, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974, faculta al Servicio de Impuestos Internos para autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de boletas, facturas, facturas de compra, guías de despacho, liquidaciones facturas, notas de débito y notas de crédito, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
+
+
+2° Que, este Servicio, mediante instrucciones contenidas en la Resolución Ex. SII N° 6582, de 1997, complementada por la Resolución Ex. SII N° 3207 de 1998, normó el procedimiento de operación en las ventas de colaciones por medio de vales o cupones, a fin de permitir un óptimo funcionamiento de ese mercado.
+
+
+3° Que, por Resoluciones Ex. SII N°s 143 de 2009, 166 de 2010 y 101 de 2011, se autorizó a los contribuyentes Accor Services Chile S.A., Sodexho Pass Chile S.A. y Fdd Innovación y Crecimiento S.A.,  la operación de un Sistema Electrónico de Intermediación en la Venta de Colaciones. 
+
+4° Que, resulta necesario adecuar dichas resoluciones a fin de permitir, al trabajador beneficiario de los respectivos vales o cupones electrónicos, el pago mensual por adelantado de los servicios de alimentación proporcionados por los restaurantes afiliados al referido sistema, a su libre elección; permitiendo – al primero- optar a mayores beneficios alimenticios que sean libremente convenidos entre ellos. 
+
+
+SE RESUELVE:
+
+
+1° MODIFÍCANSE, las Resoluciones Exentas SII N° 143, de 2009, N° 166, de 2010, y N° 101, de 2011, de la siguiente forma:
+
+Reemplácese las definiciones de “Ticket electrónico” o “Vale o cupón electrónico” contenidas, respectivamente, en sus resolutivos tercero, por la siguiente:
+
+“Ticket, Vale o Cupón Electrónico: Unidad virtual de medida representativa del consumo que se puede realizar durante un periodo predeterminado, el cual tendrá un valor monetario variable desde un mínimo a un máximo del consumo autorizado.”
+
+
+Reemplácese el párrafo segundo del numeral primero, de sus respectivos resolutivos quinto, por el siguiente: 
+
+“El trabajador podrá efectuar diariamente el consumo correspondiente al saldo total o parcial de un “ticket electrónico, vale o cupón electrónico” según la definición del Resolutivo 3° de la presente resolución. El monto consumido, según el caso, se irá descontando de su monto disponible. En caso que el consumo se efectúe por un valor inferior al mínimo correspondiente a una colación diaria, dicha transacción se recargará por el valor mínimo de la respectiva colación. Si se consume por valor superior al saldo disponible en el ticket electrónico, vale o cupón electrónico, se deberá emitir una boleta por la correspondiente diferencia de precio.”
+
+
+2° La presente resolución entrará en vigencia a contar de la publicación, en extracto, en el Diario Oficial.
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+
+
+
+
+(Fdo.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+
+
+
+
+IBC/RPA/HSS/cpg
+Distribución:
+Internet
+Boletín
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

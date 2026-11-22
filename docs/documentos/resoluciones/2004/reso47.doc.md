@@ -1,0 +1,53 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso47.doc
+titulo: Word – Resolución Exenta SII N°47 del 07 de Mayo del 2004 Complementa Res. Ex. SII N° 5412 del 11 de Diciembre de 2000 Fuente: Depto. de Operación IVA y Catastro
+categoria: otros
+---
+RESOLUCION EXENTA SII N°47 DEL 07 DE MAYO DEL 2004 MATERIA : COMPLEMENTA RES. EX. SII N° 5412 DEL 11 DE DICIEMBRE DE 2000
+Hoy se ha resuelto lo que sigue:	
+	VISTOS: Las facultades contempladas en artículo 6°, letra A, N° 1 del Código Tributario y lo dispuesto en el artículo 66 del mismo texto legal; lo establecido en los artículos 1° y 7° letras a) y c) del  D.F.L. N° 7, de 1980, del Ministerio de Hacienda, que contiene  la Ley Orgánica del Servicio de Impuestos Internos; y lo señalado en el artículo N°10 del DFL N°3, de 1969, sobre Reglamento del RUT, de la misma Secretaría de Estado, y
+
+CONSIDERANDO:
+1. Que, mediante la Res. Ex. N°5412, de diciembre del año 2000, se creó un mecanismo simplificado para otorgar RUT a los extranjeros sin residencia ni domicilio en Chile, ya sea que se trate de personas naturales, jurídicas u otros entes jurídicos, que inviertan en Chile con el objeto de obtener rentas provenientes de las operaciones bursátiles de compra y venta de acciones de sociedades anónimas abiertas con presencia bursátil, a través de las instituciones que operen como "custodios" o en subsidio, de no operar a través de estas entidades, pueden obtener su número RUT con los corredores de bolsa chilenos con los cuales operen directamente.
+2. Que, la Res. Ex. N° 20, de 2001, amplió este mecanismo simplificado de obtención de RUT, de modo que también puedan acogerse a este procedimiento, los extranjeros sin residencia ni domicilio en Chile, que inviertan en instrumentos considerados de renta fija y otros que se indican.
+3. Que, en la actualidad, debido al desarrollo del mercado bursátil chileno y con el objeto de no obstaculizar el flujo de inversión extranjera, se ha estimado necesario modificar las instrucciones relativas a la solicitud de RUT por parte de extranjeros sin residencia ni domicilio en Chile, que inviertan en acciones de sociedades anónimas abiertas, tengan o no presencia bursátil.
+
+SE RESUELVE
+
+
+1.	Modifícase la Resolución Exenta N° 5412 en lo siguiente:
+En el Considerando N° 4, primer párrafo, se sustituye la frase “...., que inviertan en acciones de sociedades anónimas abiertas con presencia bursátil.” por “.....,  que inviertan en acciones de sociedades anónimas abiertas, tengan o no presencia bursátil.”
+En el resolutivo N° 1, primer párrafo, se sustituye la frase “.... y venta de acciones   de sociedades anónimas abiertas con presencia bursátil” por “.... y venta de acciones de sociedades anónimas abiertas, tengan o no presencia bursátil.”
+Se reemplaza el resolutivo 1.c) por el siguiente:
+“c) No podrán acceder a este beneficio, los inversionistas que estén domiciliados en países que pertenezcan al listado de paraísos tributarios establecidos por el D.S. N° 628, publicado en el Diario Oficial el 3 de diciembre de 2003”
+2. 	La presente Resolución regirá a contar de su publicación en el Diario Oficial.
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO
+
+
+
+
+
+		(Fdo)  JUAN TORO RIVERA
+							         DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines 
+
+Saluda a Ud.
+
+
+
+
+
+DISTRIBUCION:
+Secretaria Director
+Subdirección de Fiscalización
+Oficina de Partes
+Internet.
+Diario Oficial (en extracto)
+
+
+
+

@@ -1,0 +1,66 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso29Anexo1.pdf
+titulo: Anexo N°1 – (DDJJ 1845, Formato, Instrucciones) Anexo N°2 (Modelo de Certificado N°33 e Instrucción del certificado) Anexo N°3 (Modelo de Certificado N°34 e Instrucción del certificado)
+categoria: otros
+---
+ANEXO N°1
+
+F1845
+Declaración Jurada Anual sobre Capital Propio Asociado al Inversionista
+FOLIO
+
+AÑO TRIBUTARIO AÑO 20____
+
+S.A;S.C.P.A; SpA
+Institución Intermediaria
+
+Sección A: IDENTIFICACIÓN DEL DECLARANTE (Sociedad Anónima o en Comandita o Institución Intermediaria: Corredoras de Bolsa, Bancos, etc.)
+ROL UNICO TRIBUTARIO
+
+RAZON SOCIAL
+
+DOMICILIO POSTAL
+
+CORREO ELECTRONICO
+
+COMUNA
+
+FAX
+
+Sección B: DATOS DE LOS INFORMADOS (Inversionistas: Persona Natural o Jurídica)
+Nº
+
+RUT DEL TITULAR
+
+Nº DE RUT (S.A. Y EN COMANDITA
+POR ACCIONES, SÓLO PARA
+ACCIONES EN CUSTODIA)
+
+INFORMACIÓN DE SA, S.C.P.A;SpA
+CANTIDAD
+TOTAL
+DE ACCIONES
+SUSCRITAS Y
+PAGADAS
+
+NÚMERO DE
+ACCIONES DEL
+INVERSIONISTA
+
+MONTO DEL CAPITAL
+PROPIO ASOCIADO AL
+INVERSIONISTA
+
+RESUMEN
+
+MONTO TOTAL DEL
+TOTAL DE CASOS
+CAPITAL PROPIO DE LA
+INFORMADOS
+SOCIEDAD
+
+DECLARO BAJO JURAMENTO QUE LOS DATOS CONTENIDOS EN EL PRESENTE DOCUMENTO SON LA EXPRESION FIEL DE LA VERDAD, POR LO QUE ASUMO LA RESPONSABILIDAD CORRESPONDIENTE
+
+RUT REPRESENTANTE LEGAL
+
+TELEFONO

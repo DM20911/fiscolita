@@ -1,0 +1,235 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso27.doc
+titulo: Word – Resolución Exenta SII N°27 del 29 de Febrero del 2008 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°27 DEL 29 DE FEBRERO DEL 2008 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorízanse como emisores electrónicos a contar del mes de Marzo del 2008 a los siguientes contribuyentes:
+	
+
+	- AGRIQUEM AMÉRICA S.A.  						RUT 96.964.370-7  - COMERCIAL FULL DIESEL S.A.  						RUT 99.544.260-4    - COOPERATIVA DE AGUA POTABLE SANTO DOMINGO LTDA. 		RUT 70.011.730-8  - DISTRIBUIDORA DE PRODUCTOS ALIMENTICIOS LOS GUINDOS LTDA.	RUT 78.504.930-6  - DISTRIBUIDORA DE VINOS Y LICORES CALIFORNIA LTDA. 		RUT 76.576.480-7  - FACTURA ELECTRÓNICA INTEGRACIÓN S.A. 				RUT 76.001.565-2  - GESTIÓN Y COMUNICACIONES LTDA.					RUT 76.865.610-K  - GLORIA NANCY SABAG RIADI 						RUT 07.652.515-3  - HEMISFERIO SUR S.A. 							RUT 96.533.330-4  - HILTI CHILE LTDA.  							RUT 84.708.300-K  - IMP Y DIST MERCOFER CHILE LTDA.					RUT 76.925.940-6  - INACAL S.A.  								RUT 96.809.070-4  - INDUSTRIAS DUROMARMOL LTDA.					RUT 79.996.090-7  - INGENIERÍA SERVICIOS Y MONTAJES TERRAL S.A.			RUT 99.582.420-5  - INSTALACIONES INSERCON LTDA.					RUT 76.868.970-9  - JUAN ALBERTO DÍAZ ESPINOSA 						RUT 06.462.805-4  - JUAN ALBERTO TAMBLAY SILVA  						RUT 08.901.202-3  - JUAN PABLO JOFRÉ ZARGES 						RUT 13.435.143-8  - LA PLAZA S.A.    								RUT 96.909.050-3  - MANUEL MODESTO BAHAMONDEZ URZUA  				RUT 06.483.105-4  - MIGUEL IGNACIO JIMENEZ LARA 					RUT 07.435.554-4  - PLÁSTICOS MIGUEL IGNACIO JIMENEZ LARA E.I.R.L. 			RUT 76.300.380-9  - PROPESCA S.A. 								RUT 94.757.000-5  - RECURSOS HUMANOS LTDA. 						RUT 77.598.780-4  - RELACOM INTERNATIONAL HOLAND B.V. AGENCIA EN CHILE 		RUT 59.124.590-2  - SERVICIOS INFORMÁTICOS PLANETA DIGITAL LTDA.  			RUT 77.844.680-4  - SERVINTEGRAL LTDA.  							RUT 77.732.760-7  - SOC COMERCIAL CAUCHOS DEL BRASIL LTDA.				RUT 78.745.970-6  - WORLD PACK S.A. 							RUT 99.516.750-6 
+- ESTACIONAMIENTOS CENTRAL PARKING SYSTEM CHILE LTDA.		RUT 77.248.210-8 
+
+
+	En la Oficina Virtual del SII en Internet se podrá consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que ha presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    (Fdo.)   NELSON MUÑOZ TORRES
+                        SUBDIRECTOR DE FISCALIZACIÓN (S)
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

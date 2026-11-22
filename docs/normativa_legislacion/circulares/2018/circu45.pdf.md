@@ -1,0 +1,826 @@
+---
+url: https://www.sii.cl/normativa_legislacion/circulares/2018/circu45.pdf
+titulo: Circular N° 45 del 10 de Septiembre del 2018 – Tablas de Impuesto Único de Segunda Categoría para el mes de octubre del año 2018, e información adicional relacionada con dicho tributo.
+categoria: circular
+---
+DEPARTAMENTO EMISOR
+OFICINA DE GESTIÓN NORMATIVA
+SISTEMA DE PUBLICACIONES ADMINISTRATIVAS
+
+CIRCULAR N° 45
+FECHA: 10 SEPTIEMBRE 2018
+REFERENCIA:
+
+TABLAS DE IMPUESTO ÚNICO DE SEGUNDA
+CATEGORÍA PARA EL MES DE OCTUBRE N° Y NOMBRE DEL VOLUMEN: 6 RENTA
+DEL AÑO 2018, E INFORMACIÓN ADICIONAL 6(13)00 IMPTO. ÚNICO DE SEGUNDA CATEGORÍA
+RELACIONADA CON DICHO TRIBUTO.
+
+REF. LEGAL: Arts. 42 N° 1, 43 al 47 y 52 bis de la
+Ley de la Renta.
+
+I.-
+
+INFORMACIÓN GENERAL
+1.-
+
+Unidad Tributaria Mensual y Anual del mes de octubre año 2018, según información del
+Servicio de Impuestos Internos (SII))
+
+Meses
+Enero
+2018
+Febrero
+2018
+Marzo
+2018
+Abril
+2018
+Mayo
+2018
+Junio
+2018
+(*) UTA = UTM x 12
+
+2.-
+
+UTM
+47.019
+47.066
+47.301
+47.301
+47.396
+47.538
+
+UTA (*)
+564.228
+564.792
+567.612
+567.612
+568.752
+570.456
+
+Meses
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
+
+2018
+2018
+2018
+2018
+2018
+2018
+
+UTM
+47.681
+47.729
+47.920
+48.016
+
+UTA (*)
+572.172
+572.748
+575.040
+576.192
+
+Índice y Variación del IPC del mes de agosto del año 2018, respecto del mes anterior, según
+información del Instituto Nacional de Estadísticas (INE)
+Índice de Precios al Consumidor (IPC)
+Meses
+
+Valor en puntos
+
+VIPC
+
+Mensual
+(*)
+0,5
+0,0
+0,2
+0,3
+0,3
+0,1
+0,4
+0,2
+
+Variación Porcentual
+Acumulado
+Últimos 12
+2018 (**)
+meses (***)
+0,5
+2,2
+0,5
+2,0
+0,7
+1,8
+1,0
+1,9
+1,3
+2,0
+1,4
+2,5
+1,8
+2,7
+2,0
+2,6
+
+Enero
+2018
+117,00
+0,5
+Febrero
+2018
+117,05
+0,0
+Marzo
+2018
+117,29
+0,2
+Abril
+2018
+117,66
+0,3
+Mayo
+2018
+117,99
+0,3
+Junio
+2018
+118,11
+0,1
+Julio
+2018
+118,53
+0,4
+Agosto
+2018
+118,73
+0,2
+Septiembre 2018
+Octubre
+2018
+Noviembre
+2018
+Diciembre
+2018
+(*) Variación mensual: Corresponde a la publicada oficialmente por el INE en cada mes.
+(**) Variación acumulada 2018: Corresponde a la acumulada a la fecha, respecto del mes de Diciembre del año
+anterior.
+(***) Variación Últimos 12 meses: Corresponde a la variación de los últimos doce meses.
+
+3.-
+
+Porcentajes de Corrección Monetaria (%), según artículo 41 de la LIR
+
+Períodos
+Ene. Feb. Mar. Abr. May. Jun. Jul. Ago. Sep. Oct. Nov. Dic.
+Capital Propio Inicial
+0,1
+0,6
+0,7
+0,9
+1,2
+1,5
+1,6
+1,9
+2,1
+Enero
+2018
+0,5
+0,5
+0,7
+1,0
+1,3
+1,4
+1,8
+1,9
+Febrero
+2018
+0,0
+0,2
+0,6
+0,8
+0,9
+1,3
+1,5
+Marzo
+2018
+0,2
+0,5
+0,8
+0,9
+1,3
+1,4
+Abril
+2018
+0,3
+0,6
+0,7
+1,1
+1,2
+Mayo
+2018
+0,3
+0,4
+0,7
+0,9
+Junio
+2018
+0,1
+0,5
+0,6
+Julio
+2018
+0,4
+0,5
+Agosto
+2018
+0,2
+Septiembre
+2018
+Octubre
+2018
+Noviembre
+2018
+Diciembre
+2018
+NOTA: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de corrección
+monetaria de la Ley de la Renta, cuando el porcentaje de reajuste da como resultado un valor negativo,
+dicho valor no debe considerarse, igualándose éste a un valor cero (0); normativa que rige tanto para los
+efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados
+al 31 de diciembre de cada año como para los términos de giro y demás situaciones de reajustabilidad
+que establece dicho texto legal.
+
+-24.-
+
+Impuesto Único que afecta a los choferes de taxis que no son de su propiedad: El monto del
+impuesto equivale al 3,5% aplicado sobre 2 UTM. Para el mes de octubre del año 2018, el tributo
+asciende a $ 3.361.-
+
+5.-
+
+Gratificación de Zona: Para fijar el límite máximo establecido en el artículo 13º del D.L. Nº 889,
+de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende a $ 655.177, para el mes de octubre del
+año 2018.
+
+6.-
+
+Impuesto Único que afecta a los Trabajadores Agrícolas:
+a)
+b)
+c)
+d)
+e)
+
+7.-
+
+Tasa fija de impuesto..................…………………....................................…...…............… 3,5%
+Cuota exenta para el mes de octubre 2018 (10 UTM)...............................................$ 480.160
+Sólo la cantidad que exceda de los $ 480.160.- queda afecta a la tributación del 3,5%.
+Del impuesto resultante no debe deducirse cantidad alguna.
+La tributación se aplica considerando la misma cantidad sobre la cual se impone en el Sistema
+Previsional que corresponda (IPS ó AFP).
+
+Reliquidación Anual del Impuesto Único de Segunda Categoría por rentas simultáneas
+percibidas de más de un empleador, habilitado o pagador:
+Los trabajadores dependientes que durante el mes de octubre del año 2018, obtengan rentas
+simultáneas de más de un empleador, habilitado o pagador, conforme a lo dispuesto por el artículo
+47 de la LIR, deberán reliquidar anualmente el Impuesto Único de Segunda Categoría que les afecta
+por tales rentas. Los contribuyentes que se encuentren en la situación antes indicada, pueden
+efectuar dentro del presente año calendario pagos provisionales voluntarios a cuenta de las
+diferencias de impuestos que resulten de la reliquidación anual a practicar al citado tributo, y
+enterarlos en arcas fiscales mediante el Form. N° 50 (Línea 59 (Código 67)). Para los mismos fines
+antes señalados, tales contribuyentes pueden solicitar a cualquiera de sus empleadores, habilitados
+o pagadores que les efectúen una mayor retención de Impuesto Único, conforme a lo dispuesto por
+el inciso final del artículo 88 de la LIR, la cual también tendrá la calidad de un pago provisional
+voluntario y que se declara en el Formulario N° 29 (Línea 51, Código 48).
+
+II.-
+
+8.-
+
+Impuesto Global Complementario: Los contribuyentes pueden efectuar pagos provisionales en
+Bancos e Instituciones Financieras Autorizadas para cubrir este impuesto. En atención a que los
+citados pagos sólo es posible realizarlos durante el año por un monto aproximado, se recomienda
+utilizar para estos efectos la Tabla Mensual del IUSC que se presenta en el Capítulo II siguiente.
+
+9.-
+
+En la columna "Tasa de impuesto efectiva máxima por cada tramo de renta", contenida en la
+tabla de cálculo del Impuesto Único de Segunda Categoría, se indica sólo para efectos de referencia
+la tasa efectiva máxima de impuesto que corresponde a cada tramo de renta.
+
+TABLA DE CÁLCULO DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA ESTABLECIDA
+EN EL ARTÍCULO 43 N° 1 DE LA LIR PARA LOS TRABAJADORES DEPENDIENTES y
+PENSIONADOS O JUBILADOS CORRESPONDIENTE AL MES DE OCTUBRE DEL AÑO
+2018
+1.-
+
+Expresada en UTM (según Circular SII N° 71/2015)
+Tramo
+
+(1)
+1
+2
+3
+4
+
+Renta imponible
+mensual en UTM
+Desde
+Hasta
+
+Tasa
+
+CANTIDAD
+A
+REBAJAR
+EN UTM
+
+(2)
+0,0
+13,5
+30
+50
+
+(4)
+Exento
+4%
+8%
+13,5%
+
+(5)
+0,00
+0,54
+1,74
+4,49
+
+(3)
+13,5
+30
+50
+70
+
+TASA DE
+IMPUESTO
+EFECTIVA
+MÁXIMA POR
+CADA TRAMO
+DE RENTA
+(6)
+Exento
+2,20%
+4,52%
+7,09%
+
+5
+70
+90
+23%
+11,14
+10,62%
+6
+90
+120
+30,4%
+17,80
+15,57%
+7
+120
+y más
+35%
+23,32
+Más de 15,57%
+ La tabla se transforma a pesos multiplicando las cantidades de las columnas (2),
+(3) y (5) por el valor de la UTM del mes respectivo.
+
+-32.-
+
+Expresada en Pesos
+
+DIARIO
+
+SEMANAL
+
+QUINCENAL
+
+MENSUAL
+
+PERÍODOS
+
+III.-
+
+RENTA IMPONIBLE MENSUAL
+DESDE
+
+HASTA
+
+$
+$ 648.216,01
+$ 1.440.480,01
+$ 2.400.800,01
+$ 3.361.120,01
+$ 4.321.440,01
+$ 5.761.920,01
+$
+$ 324.108,01
+$ 720.240,01
+$ 1.200.400,01
+$ 1.680.560,01
+$ 2.160.720,01
+$ 2.880.960,01
+$
+$ 151.250,37
+$ 336.111,91
+$ 560.186,51
+$ 784.261,11
+$ 1.008.335,71
+$ 1.344.447,61
+$
+$
+21.607,17
+$
+48.015,91
+$
+80.026,51
+$ 112.037,11
+$ 144.047,71
+$ 192.063,61
+
+$ 648.216,00
+$ 1.440.480,00
+$ 2.400.800,00
+$ 3.361.120,00
+$ 4.321.440,00
+$ 5.761.920,00
+y más
+$ 324.108,00
+$ 720.240,00
+$ 1.200.400,00
+$ 1.680.560,00
+$ 2.160.720,00
+$ 2.880.960,00
+y más
+$ 151.250,36
+$ 336.111,90
+$ 560.186,50
+$ 784.261,10
+$ 1.008.335,70
+$ 1.344.447,60
+y más
+$
+21.607,16
+$
+48.015,90
+$
+80.026,50
+$ 112.037,10
+$ 144.047,70
+$ 192.063,60
+y más
+
+FACTOR
+
+CANTIDAD A
+REBAJAR
+
+EXENTO
+0,04
+0,08
+0,135
+0,23
+0,304
+0,35
+EXENTO
+0,04
+0,08
+0,135
+0,23
+0,304
+0,35
+EXENTO
+0,04
+0,08
+0,135
+0,23
+0,304
+0,35
+EXENTO
+0,04
+0,08
+0,135
+0,23
+0,304
+0,35
+
+$
+$
+25.928,64
+$
+83.547,84
+$ 215.591,84
+$ 534.898,24
+$ 854.684,80
+$ 1.119.733,12
+$
+$
+12.964,32
+$
+41.773,92
+$ 107.795,92
+$ 267.449,12
+$ 427.342,40
+$ 559.866,56
+$
+$
+6.050,01
+$
+19.494,49
+$
+50.304,75
+$ 124.809,55
+$ 199.426,39
+$ 261.270,98
+$
+$
+864,29
+$
+2.784,92
+$
+7.186,38
+$
+17.829,90
+$
+28.489,43
+$
+37.324,36
+
+TASA DE IMPUESTO
+EFECTIVA MÁXIMA
+POR CADA TRAMO
+DE RENTA
+Exento
+2,20%
+4,52%
+7,09%
+10,62%
+15,57%
+Más de 15,57%
+Exento
+2,20%
+4,52%
+7,09%
+10,62%
+15,57%
+Más de 15,57%
+Exento
+2,20%
+4,52%
+7,09%
+10,62%
+15,57%
+Más de 15,57%
+Exento
+2,20%
+4,52%
+7,09%
+10,62%
+15,57%
+Más de 15,57%
+
+TABLA DE CÁLCULO DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA ESTABLECIDA
+EN LA LETRA a) DEL ARTÍCULO 52 BIS DE LA LIR PARA EL PRESIDENTE DE LA
+REPÚBLICA, MINISTROS DE ESTADO, SUBSECRETARIOS, SENADORES Y DIPUTADOS
+CORRESPONDIENTE AL MES DE OCTUBRE 2018
+De acuerdo a lo dispuesto por la letra a) artículo 52 bis de la LIR, la estructura de la tabla del IUSC que se publica a
+continuación, solo se aplicará a las autoridades antes indicadas cuando sus rentas mensuales afectas al IUSC
+clasificadas en el N° 1 del artículo 42 de la LIR, derivadas exclusivamente del ejercicio de sus funciones excedan del
+equivalente a 150 UTM vigente en el mes respectivo. Dicho valor para los efectos antes señalados para el mes de
+octubre 2018, ascienda a $ 7.202.400.En el caso que no se cumpla la condición antes señalada, esto es, que las rentas sean de un monto inferior o igual a
+150 UTM, el IUSC que afecta a las rentas obtenidas por las personas mencionadas, se determinará de acuerdo a la
+escala mensual del IUSC indicada en el Capítulo II anterior.
+
+-4-
+
+1.- Expresada en UTM (según Circular SII N°71/2015)
+Tramo
+
+(1)
+1
+2
+3
+4
+
+Renta imponible
+mensual en UTM
+Desde
+Hasta
+
+Tasa
+
+CANTIDAD
+A
+REBAJAR
+EN UTM
+
+(2)
+0
+13,5
+30
+50
+
+(4)
+Exento
+4%
+8%
+13,5%
+
+(5)
+0,00
+0,54
+1,74
+4,49
+
+(3)
+13,5
+30
+50
+70
+
+TASA DE
+IMPUESTO
+EFECTIVA
+MÁXIMA POR
+CADA TRAMO
+DE RENTA
+(6)
+Exento
+2,20%
+4,52%
+7,09%
+
+5
+70
+90
+23%
+11,14
+10,62%
+6
+90
+120
+30,4%
+17,80
+15,57%
+7
+120
+150
+35%
+23,32
+19,45%
+8
+150
+y más
+40%
+30,82
+Más de 19,45%
+ La tabla se transforma a pesos multiplicando las cantidades de las columnas (2),
+(3) y (5) por el valor de la UTM del mes respectivo.
+
+2.-
+
+Expresada en Pesos
+RENTA IMPONIBLE MENSUAL
+
+MENSUAL
+
+PERÍODO
+
+DESDE
+
+FACTOR
+
+CANTIDAD A
+REBAJAR
+
+HASTA
+
+TASA DE
+IMPUESTO
+EFECTIVA
+MÁXIMA POR
+CADA
+TRAMO DE
+RENTA
+
+$
+
+-
+
+$
+
+648.216,00
+
+Exento
+
+$
+
+-
+
+Exento
+
+$
+
+648.216,01
+
+$ 1.440.480,00
+
+0,04
+
+$
+
+25.928,64
+
+2,20%
+
+$ 1.440.480,01
+
+$ 2.400.800,00
+
+0,08
+
+$
+
+83.547,84
+
+4,52%
+
+$ 2.400.800,01
+
+$ 3.361.120,00
+
+0,135
+
+$
+
+215.591,84
+
+7,09%
+
+$ 3.361.120,01
+
+$ 4.321.440,00
+
+0,23
+
+$
+
+534.898,24
+
+10,62%
+
+$ 4.321.440,01
+
+$ 5.761.920,00
+
+0,304
+
+$
+
+854.684,80
+
+15,57%
+
+$ 5.761.920,01
+
+$ 7.202.400,00
+
+0,35
+
+$ 1.119.733,12
+
+19,45%
+
+$ 7.202.400,01
+
+y más
+
+0,40
+
+$ 1.479.853,12
+
+MÁS DE
+19,45%
+
+Saluda a Ud.,
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+DISTRIBUCIÓN:
+- AL BOLETÍN
+- INTERNET

@@ -1,0 +1,167 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso134.doc
+titulo: Word – Resolución Exenta SII N°134 del 20 de Agosto del 2010 Complementa Resolución Exenta Sii N°79 del 30 de Abril del 2010, en los Términos que Indica. Fuente: Oficina de Asistencia y Atención a los Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°134 DEL 20 DE AGOSTO DEL 2010 MATERIA : COMPLEMENTA RESOLUCIÓN EXENTA SII N°79 DEL 30 DE ABRIL DEL 2010, EN LOS TÉRMINOS QUE INDICA.
+Hoy se ha resuelto lo que sigue,
+
+
+VISTOS Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y 19.880, que establece bases de los procedimientos administrativos que rigen los actos de la Administración Pública; los Arts. 2°, 3 bis, y 7° letras a), b), c) de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. Nº 7, de Hacienda, de 1980; lo establecido en el Art. 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; lo preceptuado en el Art. 6° de la Ley N° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; la Resolución Exenta SII N° 79, de esa misma fecha.
+
+CONSIDERANDO:
+
+1°.- Que, el artículo 2 del D.F.L. N°7 precitado, establece que el Servicio está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales. 
+2°.- Que, el artículo 3 bis del texto legal citado, fija la competencia de la Dirección de Grandes Contribuyentes sobre los contribuyentes calificados como grandes contribuyentes por resolución del Director, cualquiera fuera su domicilio.
+
+3°.- Que, los contribuyentes que se individualizan en la parte resolutiva de la presente resolución, cumplen con uno o más de los requisitos establecidos en los Resolutivos 2° y/o 4° de la Resolución Exenta SII N° 79, de 30 de abril de 2010.
+
+4° Que, en consideración al constante interés de este Servicio por mejorar y facilitar los procesos de asistencia y fiscalización de todos los contribuyentes a lo largo del país, se hace necesario complementar la Nómina de Grandes Contribuyentes de la Dirección de Grandes Contribuyentes. 
+
+5°.- Que, con el mérito de las razones expresadas precedentemente, 
+
+RESUELVO:
+
+1° COMPLEMÉNTASE la  Nómina de Grandes Contribuyentes contenida en el Anexo “A” de la Resolución Ex. SII N° 79, de 30 de abril de 2010, con los contribuyentes que se individualizan a continuación:
+
+   N°
+   RUT
+DV
+  NOMBRE O RAZÓN SOCIAL
+1945
+59078650
+0
+SEMPRA ENERGY INTERNATIONAL
+1946
+76005224
+8
+HIDROTERMIA S.A.
+1947
+76023547
+4
+OMICRON SPA
+1948
+76027259
+0
+INVERSIONES DEL SUR S.A.
+1949
+76027291
+4
+SUPERMERCADOS DEL SUR LTDA.
+1950
+76029208
+7
+COMERCIALIZADORA DEL SUR TRES LTDA.
+1951
+76029209
+5
+COMERCIALIZADORA DEL SUR DOS LTDA.
+1952
+76029643
+0
+COMERCIALIZADORA DEL SUR  UNO.
+1953
+76029661
+9
+COMERCIALIZADORA DEL SUR CUATRO LTDA.
+1954
+76029738
+0
+COMERCIALIZADORA DEL SUR CINCO LTDA.
+1955
+76032263
+6
+INVERSIONES NEXANS TRES S.A.
+1956
+76062693
+7
+SOC. COMERCIALIZADORA DEL SUR LTDA.
+1957
+76082258
+2
+SOLTEX S.A.
+1958
+76094743
+1
+TIBA SATELLITE SERVICES S.A.
+1959
+76412700
+5
+CGE GENERACIÓN S.A.
+1960
+76449760
+0
+INVERSIONES ELÉCTRICAS DEL NORTE LIMITADA
+1961
+77363350
+9
+EMEL INVERSIONES CHILE LIMITADA
+1962
+78118580
+9
+INVERSIONES BEMBERG LTDA.
+1963
+78407060
+3
+INVERSIONES FINNING CHILE LIMITADA
+1964
+93641000
+6
+DISTRIBUIDORA PERKINS CHILENA SAC
+1965
+96574710
+9
+NIPPON SUISAN AMERICAN LATINA  S.A.-
+1966
+96596170
+4
+ESTUDIOS SERVICIOS E INVERSIONES S.A.
+1967
+96807530
+6
+MINERA MELÓN S.A.
+1968
+96837950
+K
+TECNET S.A.
+1969
+96974320
+5
+THE RENTAL STORE CHILE S.A.
+1970
+99551480
+K
+INMOBILIARIA SAN PATRICIO S.A.
+1971
+99596430
+9
+NOVANET S.A.
+1972
+96888460
+3
+KIMBERLY- CLARK CHILE S.A.
+
+
+
+2° La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial, y, consecuentemente, se ceñirán a ella todas las actuaciones de fiscalización que se inicien a contar de su vigencia. 
+
+3° Las Direcciones Regionales que, a la fecha de entrada en vigencia de esta Resolución, hayan asumido la fiscalización directa o el conocimiento de solicitudes o peticiones administrativas que hubieren sido presentadas por los contribuyentes que son incorporados al Anexo A de la Resolución Ex. SII N° 79, de 30 de abril de 2010,  por la presente complementación, deberán continuar con los trámites y diligencias propias de dicha fiscalización o solicitud hasta su debido término, informando de ello a la Dirección de Grandes Contribuyentes. 
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ 
+
+
+
+
+
+
+      (Fdo) JULIO PEREIRA GANDARILLAS
+                         DIRECTOR
+Lo que transcribo para su conocimiento y demás fines.
+
+Distribución:
+Internet
+Boletín 
+Diario Oficial en extracto
+
+

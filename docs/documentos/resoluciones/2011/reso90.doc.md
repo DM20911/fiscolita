@@ -1,0 +1,124 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso90.doc
+titulo: Word – Resolución Exenta SII N°90 del 21 de Julio del 2011 Deniega Solicitud de Incorporación a la Nómina de Grandes Contribuyentes a Contribuyentes que Indica. Fuente: Oficina de Atención y Asistencia a los Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°90 DEL 21 DE JULIO DEL 2011 MATERIA: DENIEGA SOLICITUD DE INCORPORACIÓN A LA NÓMINA DE GRANDES CONTRIBUYENTES A CONTRIBUYENTES QUE INDICA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y 19.880, que establece bases de los procedimientos administrativos que rigen los actos de la Administración Pública; los Arts. 2°, 3 bis, y 7° letras a), b), c) de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. Nº 7, de Hacienda, de 1980; lo establecido en el Art. 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; lo preceptuado en el Art. 6° de la Ley N° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; y la Resolución Exenta SII N° 79, de esa misma fecha.
+
+
+CONSIDERANDO:
+
+1°.- Que, el artículo 2 del D.F.L. N°7 precitado, establece que el Servicio está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales. 
+
+2°.- Que, el artículo 3 bis del texto legal citado, fija la competencia de la Dirección de Grandes Contribuyentes sobre los contribuyentes calificados como grandes contribuyentes por resolución del Director, cualquiera fuera su domicilio.
+
+3°.- Que, los contribuyentes que no hayan sido incluidos en la Nómina de Grandes Contribuyentes por el Servicio, podrán solicitar ser incorporados en ésta, siendo el Director quien resolverá la procedencia de su inclusión sobre la base de los fundamentos y los antecedentes que aportaren los solicitantes.
+
+4°.- Que, el Director podrá, por razones de buen servicio, no considerar como grandes a contribuyentes que cumplan con uno o más de los requisitos establecidos en el Resolutivo N° 2 de la Resolución Ex. N° 79, de 30 de abril de 2010
+ 
+5°.-  Que, con el mérito de las razones expresadas precedentemente, 
+
+
+RESUELVO:
+
+
+1°.- NO HA LUGAR, por razones de buen servicio, a la solicitud de incorporación a la Nómina de “Grandes Contribuyentes”, fijada en Anexo A de la Resolución Exenta N° 79, del 30 de abril de 2010, a los contribuyentes que a continuación se individualizan:
+
+
+
+RUT
+DV
+NOMBRE O RAZÓN SOCIAL
+76.005.909
+9
+MOTORES DE LOS ANDES S.A.
+76.043.027
+7
+FINNING REAL ESTATE LIMITADA
+76.043.045
+5
+FINNING INFRAESTRUCTURA LIMITADA
+76.529.010
+4
+LATIN ENERGY CONVERSION CHILE S.A.
+76.576.920
+5
+FINNING CAPACITACIÓN LIMITADA
+77.072.240
+3
+EMPRESA DE SERVICIOS  DE MEDIDA Y CERTIFICACIÓN LIMITADA
+78.465.110
+K
+MELÓN ÁRIDOS LIMITADA
+79.993.710
+7
+CLUB DE CAMPO MELÓN LTDA.
+82.911.100
+4
+HASBÚN S.A.
+84.481.200
+0
+FINTECH SPA
+87.712.600
+5
+EMPRESA CONSTRUCTORA E IMPORTADORA SAN JORGE LIMITADA
+89.090.100
+K
+FINNING SERVICIOS ESPECIALIZADOS S.A.
+96.510.850
+5
+TRACK LEASING S.A.
+96.615.120
+K
+INMOBILIARIA E INVERSIONES ALEPH S.A.
+96.636.590
+0
+MELÓN MORTEROS S.A.
+96.774.640
+1
+MELÓN SERVICIOS COMPARTIDOS S.A.
+96.883.100
+3
+MORTEROS SECOS S.A.
+
+
+2°.- La fiscalización y/o tramitación de solicitudes administrativas presentadas por los contribuyentes individualizados en la presente resolución, continuará bajo jurisdicción de la Dirección Regional competente conforme al territorio.
+
+
+
+ANÓTESE, COMUNÍQUESE, NOTIFÍQUESE Y PUBLÍQUESE EN INTERNET
+
+ 
+
+
+
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+                       DIRECTOR
+
+Lo que transcribo para su conocimiento y demás fines.
+
+
+BMA/OVL/MJG
+Distribución:
+Internet
+Boletín 
+
+
+
+
+
+
+
+
+
+
+

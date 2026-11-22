@@ -1,0 +1,23 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2011/copiapo/
+titulo: Normativa SII
+categoria: otros
+---
+# ACTOS Y RESOLUCIONES D. R. COPIAPÓ 2011
+
+| **Denominación (tipologías)** | **Tipo de norma** | **Número** | **Fecha del acto** | **Nombre/título** | **Breve descripción del objeto del acto** | **Fecha de publicación Diario Oficial o Internet** | **Medio de publicación** | **Enlace a la publicación o archivo correspondiente** | **Tiene efectos generales** | **Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa** | **Número** | **Fecha** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones y dictámenes | Resolución | 77311005979 | 14-12-2011 | DEROGACION TOTAL DE RESOLUCION QUE AUTORIZA EL USO DE MAQUINA REGISTRADORA EN REEMPLAZO DE BOLETAS | DEROGACION DE MAQUINA REGISTRADORA | 15-12-2011 | Internet | [Ver Documento](reso77311005979_7429.pdf) | SI | Deroga | 155 | 02-10-2009 |
+| Instrucciones y dictámenes | Resolución | 92 | 03-11-2011 | AUTORIZACIÓN PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZACION DE MAQUINA REGISTRADORA | 5-11-2011 | Internet | [Ver Documento](reso92_7034.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 85 | 15-09-2011 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA ELECTRONICA | AUTORIZACION DE MAQUINA REGISTRADORA | 16-9-2011 | Internet | [Ver Documento](reso85_6754.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 80 | 05-08-2011 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZACION DE MAQUINA REGISTRADORA | 5-8-2011 | Internet | [Ver Documento](reso80_6411.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 79 | 05-08-2011 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZACION DE MAQUINA REGISTRADORA | 5-8-2011 | Internet | [Ver Documento](reso79_6412.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 78 | 05-08-2011 | DEROGACION TOTAL DE RESOLUCION QUE AUTORIZA EL USO DE MAQUINA REGISTRADORA EN RREMPLAZO DE BOLETAS | DEROGACION TOTAL DE MAQUINA REGISTRADORA | 5-8-2011 | Internet | [Ver Documento](reso78_6409.pdf) | SI | Deroga | 214-R | 19-12-2008 |
+| Instrucciones y dictámenes | Resolución | 70 | 29-06-2011 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZACION DE MAQUINA REGISTRADORA | 4-7-2011 | Internet | [Ver Documento](reso70_6221.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 69 | 23-06-2011 | DEROGACION TOTAL DE RESOLUCION QUE AUTORIZA EL USO DE MAQUINA REGISTRADORA EN REEMPLAZO DE BOLETAS | DEROGACION DE MAQUINA REGISTRADORA | 28-6-2011 | Internet | [Ver Documento](reso69_6207.pdf) | SI | Deroga | 5410 | 10-09-1998 |
+| Instrucciones y dictámenes | Resolución | 68 | 23-06-2011 | DEROGACION TOTAL DE RESOLUCION QUE AUTORIZA EL USO DE MAQUINA REGISTRADORA EN REEMPLAZO DE BOLETAS | DEROGACION DE MAQUINA REGISTRADORA | 28-6-2011 | Internet | [Ver Documento](reso68_6206.pdf) | SI | Deroga | 216  215  213 | 19-12-2008  19-12-2008  19-12-2008 |
+| Instrucciones y dictámenes | Resolución | 67 | 23-06-2011 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZAZION DE MAQUINA REGISTRADORA | 28-6-2011 | Internet | [Ver Documento](reso67_6205.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 51 | 04-05-2011 | RESOLUCION DEROGACION TOTAL DE RESOLUCION QUE AUTORIZA EL USO DE MAQUINA REGISTRADORA EN REEMPLAZO DE BOLETAS | DEROGACION DE RESOLUCION DE AUTORIZACION DE MAQUINA REGISTRADORA | 12-5-2011 | Internet | [Ver Documento](reso51_5914.pdf) | SI | Deroga | 215 | 19-12-2008 |
+| Instrucciones y dictámenes | Resolución | 50 | 04-05-2011 | RESOLUCION DE AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | AUTORIZACION DE MAQUINA REGISTRADORA | 12-5-2011 | Internet | [Ver Documento](reso50_5915.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 49 | 28-04-2011 | AUTORIZACIÓN | Aut. Vales Maq. R | 9-5-2011 | Internet | [Ver Documento](reso49_5880.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 29 | 10-02-2011 | AUTORIZACIÓN | Aut. Vales Maq. R | 28-2-2011 | Internet | [Ver Documento](reso29_5302.pdf) | SI | Sin modificación | No aplica | No aplica |

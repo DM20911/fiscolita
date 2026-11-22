@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FiscolItA · Asesora TributarIA del SII</title>
+<meta name="description" content="Agente de IA experta en el SII de Chile: responde con fuente oficial, simula boletas, PPM, IVA, multas e impuesto de un sueldo, y avisa tus vencimientos.">
+<meta name="theme-color" content="#0B2545">
+<link rel="canonical" href="https://fiscolita.optimizaria.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="FiscolItA · Asesora TributarIA del SII">
+<meta property="og:description" content="Pregunta lo que quieras sobre impuestos en Chile y recibe la respuesta con la fuente oficial al lado.">
+<meta property="og:url" content="https://fiscolita.optimizaria.com/">
+<meta property="og:image" content="https://fiscolita.optimizaria.com/assets/mascota.png">
+<meta name="twitter:card" content="summary">
+<link rel="icon" type="image/svg+xml" href="/assets/mascota.svg">
+<link rel="apple-touch-icon" href="/assets/mascota.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#0B2545;--navy2:#13315C;--navy3:#1B3A66;--rojo:#D52B1E;--acento:#FF4D3D;--oro:#FFC857;
+  --fondo:#F4F7FB;--texto:#0B2545;--suave:#53698A;--tarjeta:#FFFFFF;--borde:#DCE4EF;--campo:#F7FAFD;--ok:#1E8E5A;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --fondo:#071A31;--texto:#E8EEF6;--suave:#9DB2CE;--tarjeta:#0E2544;--borde:#1E3B62;--campo:#0A203B;--ok:#4CC38A}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--fondo);color:var(--texto);font-family:'Plus Jakarta Sans',system-ui,-apple-system,'Segoe UI',sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+img{max-width:100%;height:auto}
+.hero>*,.sim>*,.ind-grid>*,.grid>*,.nov>*,.mot>*,.pasos>*{min-width:0}
+body{overflow-x:hidden}
+.ia{color:var(--acento);font-weight:800}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+/* nav */
+nav{position:sticky;top:0;z-index:10;background:rgba(11,37,69,.92);backdrop-filter:blur(10px);color:#fff}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
+.marca{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;font-size:20px}
+.marca img{width:36px;height:36px}
+.links{display:flex;gap:22px;font-weight:600;font-size:15px}
+.links a{text-decoration:none;opacity:.85}.links a:hover{opacity:1}
+@media (max-width:760px){.links{display:none}}
+/* hero */
+header{background:radial-gradient(1200px 500px at 85% -10%,#2A4E85 0%,transparent 60%),linear-gradient(160deg,var(--navy),var(--navy2));color:#fff;padding:72px 0 88px;overflow:hidden}
+.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+.pill{display:inline-flex;gap:8px;align-items:center;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);padding:6px 12px;border-radius:999px;font-size:13px;font-weight:600}
+.pill i{width:8px;height:8px;border-radius:50%;background:#4CC38A;display:inline-block}
+h1{font-size:clamp(44px,7.5vw,80px);margin:18px 0 0;letter-spacing:-2px;line-height:.95;font-weight:800}
+.sub{font-size:clamp(18px,2.4vw,22px);color:#A9C1E0;margin:12px 0 22px;font-weight:600}
+.lead{font-size:18px;max-width:560px;color:#DCE6F3;margin:0}
+.btns{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 22px;border-radius:14px;font-weight:700;text-decoration:none;border:0;cursor:pointer;font:inherit;font-weight:700}
+.btn.p{background:var(--rojo);color:#fff}.btn.p:hover{background:#B82418}
+.btn.s{background:rgba(255,255,255,.12);color:#fff}.btn.s:hover{background:rgba(255,255,255,.2)}
+.estado{display:grid;grid-template-columns:auto auto auto;gap:28px;margin:36px 0 0;max-width:620px}
+.estado div{min-width:0}
+.estado dt{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#8FA9CC;font-weight:700;margin-bottom:4px;display:flex;align-items:center;gap:7px}
+.estado div:first-child dt:before{content:"";width:7px;height:7px;border-radius:50%;background:#4CC38A;box-shadow:0 0 0 4px rgba(76,195,138,.18);animation:vivo 2s infinite}
+@keyframes vivo{50%{box-shadow:0 0 0 7px rgba(76,195,138,0)}}
+.estado dd{margin:0;font-size:16px;font-weight:700;color:#fff;line-height:1.35}
+.estado dd a{text-decoration:none;border-bottom:1px dashed rgba(255,255,255,.4)}
+.estado dd a:hover{border-bottom-color:#fff}
+@media (max-width:620px){.estado{grid-template-columns:1fr 1fr;gap:18px}.estado div:nth-child(2){grid-column:1/-1;order:3}}
+.hero-img{justify-self:center;width:100%;max-width:380px;border-radius:28px;box-shadow:0 30px 60px rgba(0,0,0,.35)}
+@media (max-width:860px){.hero{grid-template-columns:1fr}.hero-img{max-width:300px}}
+@media (max-width:520px){.btns .btn{flex:1 1 100%;justify-content:center}.ind-card b{font-size:20px}}
+/* indicadores */
+.ind{margin-top:-44px;position:relative}
+.ind-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.ind-card{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:16px 18px;box-shadow:0 8px 24px rgba(11,37,69,.08)}
+.ind-card small{color:var(--suave);font-weight:600;font-size:13px}
+.ind-card b{display:block;font-size:24px;margin-top:2px;letter-spacing:-.5px}
+.ind-card span{color:var(--suave);font-size:12px}
+@media (max-width:760px){.ind-grid{grid-template-columns:repeat(2,1fr)}}
+section{padding:72px 0}
+h2{font-size:clamp(28px,4vw,38px);margin:0 0 8px;letter-spacing:-1px}
+.muted{color:var(--suave);margin:0 0 32px;font-size:17px}
+/* funciones */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:22px}
+.card .ico{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;font-size:22px;background:rgba(213,43,30,.1)}
+.card h3{margin:14px 0 6px;font-size:18px}
+.card p{margin:0;color:var(--suave);font-size:15px}
+/* simuladores */
+.sim{display:grid;grid-template-columns:260px 1fr;gap:20px;align-items:start}
+@media (max-width:860px){.sim{grid-template-columns:1fr}}
+.tabs{display:flex;flex-direction:column;gap:6px}
+@media (max-width:860px){.tabs{flex-direction:row;overflow-x:auto;padding-bottom:4px}}
+.tab{background:var(--tarjeta);border:1px solid var(--borde);border-radius:12px;padding:12px 14px;text-align:left;font:inherit;font-weight:600;color:var(--texto);cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.panel{background:var(--tarjeta);border:1px solid var(--borde);border-radius:20px;padding:24px}
+.panel h3{margin:0 0 4px;font-size:22px}
+.panel .desc{color:var(--suave);margin:0 0 18px}
+.campos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+label{display:block;font-weight:600;font-size:14px;margin-bottom:6px}
+input,select{width:100%;padding:12px 14px;border-radius:12px;border:1px solid var(--borde);background:var(--campo);color:var(--texto);font:inherit;font-size:17px}
+input:focus,select:focus{outline:2px solid var(--acento);outline-offset:1px}
+.res{margin-top:20px;border-radius:16px;background:var(--campo);border:1px solid var(--borde);overflow:hidden}
+.res table{width:100%;border-collapse:collapse}
+.res td{padding:11px 16px;border-bottom:1px solid var(--borde);font-size:15px}
+.res tr:last-child td{border-bottom:0}
+.res td:last-child{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.res tr.total td{background:var(--navy);color:#fff;font-size:17px}
+.fuente{font-size:13px;color:var(--suave);margin:12px 0 0}
+.fuente a{color:var(--suave)}
+/* calendario */
+.cal{display:grid;gap:10px}
+.ev{display:grid;grid-template-columns:86px 1fr auto;gap:16px;align-items:center;background:var(--tarjeta);border:1px solid var(--borde);border-radius:16px;padding:14px 18px}
+.fecha{text-align:center;background:var(--campo);border-radius:12px;padding:8px 4px}
+.fecha b{display:block;font-size:24px;line-height:1}
+.fecha span{font-size:12px;color:var(--suave);text-transform:uppercase;font-weight:700}
+.ev h4{margin:0;font-size:16px}.ev p{margin:2px 0 0;color:var(--suave);font-size:14px}
+.falta{font-size:13px;font-weight:700;padding:6px 10px;border-radius:999px;background:var(--campo);white-space:nowrap}
+.falta.pronto{background:var(--rojo);color:#fff}
+@media (max-width:560px){.ev{grid-template-columns:70px 1fr}.falta{grid-column:2}}
+/* novedades */
+.nov{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.nov{grid-template-columns:1fr}}
+.nov-col h3{font-size:17px;margin:0 0 10px}
+.nov-item{display:block;background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:14px 16px;margin-bottom:10px;text-decoration:none}
+.nov-item:hover{border-color:var(--acento)}
+.nov-item b{font-size:14px;display:block}
+.nov-item span{font-size:14px;color:var(--suave);display:block;margin-top:4px}
+.esqueleto{height:72px;border-radius:14px;background:linear-gradient(90deg,var(--campo),var(--borde),var(--campo));background-size:200% 100%;animation:sk 1.4s infinite;margin-bottom:10px}
+@keyframes sk{to{background-position:-200% 0}}
+/* motores */
+.mot{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:860px){.mot{grid-template-columns:1fr}}
+.mot .card h3{margin-top:0}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{background:var(--campo);border:1px solid var(--borde);border-radius:999px;padding:6px 12px;font-size:14px;font-weight:600}
+/* pasos */
+.pasos{counter-reset:p;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+@media (max-width:860px){.pasos{grid-template-columns:1fr 1fr}}@media (max-width:520px){.pasos{grid-template-columns:1fr}}
+.paso{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:20px}
+.paso:before{counter-increment:p;content:counter(p);display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--rojo);color:#fff;font-weight:800;margin-bottom:12px}
+.paso h3{margin:0 0 6px;font-size:17px}.paso p{margin:0;color:var(--suave);font-size:15px}
+code{background:var(--campo);border:1px solid var(--borde);padding:1px 6px;border-radius:6px;font-size:14px}
+.cta{background:linear-gradient(160deg,var(--navy),var(--navy3));color:#fff;border-radius:28px;padding:44px;display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:center}
+.cta img{width:120px}.cta h2{color:#fff}.cta p{color:#DCE6F3;margin:0 0 18px}
+@media (max-width:620px){.cta{grid-template-columns:1fr;padding:28px;text-align:center}.cta img{margin:0 auto}.cta .btns{justify-content:center}}
+footer{padding:36px 0 48px;color:var(--suave);font-size:14px}
+footer .pie{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;border-top:1px solid var(--borde);padding-top:28px}
+footer .pie p{margin:0;max-width:620px}
+.potenciado{display:flex;align-items:center;gap:12px;text-decoration:none;background:var(--tarjeta);border:1px solid var(--borde);border-radius:16px;padding:10px 18px 10px 12px}
+.potenciado:hover{border-color:var(--acento)}
+.potenciado img{width:34px;height:auto}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .potenciado img{filter:brightness(0) invert(1)}}
+.potenciado small{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--suave);font-weight:700}
+.potenciado b{display:block;font-size:20px;letter-spacing:-.5px;color:var(--texto)}
+</style>
+</head>
+<body>
+<nav>
+  <div class="wrap">
+    <a class="marca" href="#"><img src="/assets/mascota.svg" alt="" width="36" height="36"><span>Fiscol<span class="ia">I</span>t<span class="ia">A</span></span></a>
+    <div class="links"><a href="#simuladores">Simuladores</a><a href="#calendario">Calendario</a><a href="#novedades">Novedades</a><a href="#usala">Úsala</a><a href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+</nav>
+
+<header>
+  <div class="wrap hero">
+    <div>
+      <h1>Fiscol<span class="ia">I</span>t<span class="ia">A</span></h1>
+      <p class="sub">Asesora Tributar<span class="ia">IA</span> · SII Chile</p>
+      <p class="lead">Pregúntale lo que quieras sobre impuestos en Chile y te responde con la fuente oficial al lado. Simula tus impuestos, lee tus documentos y te avisa antes de cada vencimiento.</p>
+      <div class="btns">
+        <a class="btn p" href="#simuladores">Probar simuladores</a>
+        <a class="btn s" href="#usala">Úsala en Telegram</a>
+        <a class="btn s" href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener"><svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>GitHub</a>
+      </div>
+      <dl class="estado">
+        <div><dt>Hoy</dt><dd id="hoy"></dd></div>
+        <div><dt>Última norma del SII</dt><dd><a id="ultima" href="#novedades">consultando…</a></dd></div>
+        <div><dt>Base oficial</dt><dd>29.700 documentos</dd></div>
+      </dl>
+    </div>
+    <img class="hero-img" src="/assets/demo.svg" alt="Conversación de ejemplo con FiscolItA en Telegram" width="420" height="640">
+  </div>
+</header>
+
+<div class="wrap ind" aria-live="polite">
+  <div class="ind-grid">
+    <div class="ind-card"><small>UF</small><b id="v-uf">…</b><span id="f-uf"></span></div>
+    <div class="ind-card"><small>UTM</small><b id="v-utm">…</b><span id="f-utm"></span></div>
+    <div class="ind-card"><small>Dólar</small><b id="v-usd">…</b><span id="f-usd"></span></div>
+    <div class="ind-card"><small>Euro</small><b id="v-eur">…</b><span id="f-eur"></span></div>
+  </div>
+</div>
+
+<section id="funciones">
+  <div class="wrap">
+    <h2>Qué hace</h2>
+    <p class="muted">Algo simple, pero funcional: todo lo público del SII en una agente que responde en segundos.</p>
+    <div class="grid">
+      <div class="card"><div class="ico">📚</div><h3>Responde con fuente</h3><p>Unos 29.700 documentos oficiales: leyes vigentes, circulares, resoluciones, oficios y preguntas frecuentes.</p></div>
+      <div class="card"><div class="ico">🔄</div><h3>Siempre al día</h3><p>Cada día agrega sola las circulares, resoluciones y oficios nuevos del SII.</p></div>
+      <div class="card"><div class="ico">🧮</div><h3>Simuladores</h3><p>Boletas de honorarios, PPM, IVA, multas por atraso e impuesto de un sueldo, en pesos.</p></div>
+      <div class="card"><div class="ico">🔔</div><h3>Alertas</h3><p>F29, Renta, contribuciones y DJ: aviso 3 días antes, el día anterior y el mismo día.</p></div>
+      <div class="card"><div class="ico">📷</div><h3>Lee tus documentos</h3><p>Foto de una factura o PDF de una notificación: qué es, qué te piden, el plazo y qué hacer.</p></div>
+      <div class="card"><div class="ico">🎙️</div><h3>Notas de voz</h3><p>Pregunta hablando por Telegram y recibe la respuesta por escrito.</p></div>
+      <div class="card"><div class="ico">💱</div><h3>Calculadora</h3><p>UF, USD, EUR y UTM a pesos con los valores del día.</p></div>
+      <div class="card"><div class="ico">🤝</div><h3>Para tu contador</h3><p>Un resumen de tu caso, con normas y montos, listo para reenviar.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="simuladores" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Simuladores</h2>
+    <p class="muted">Funcionan aquí mismo, con los valores del día. Son referenciales: valida los casos importantes con tu contador.</p>
+    <div class="sim">
+      <div class="tabs" role="tablist" id="tabs"></div>
+      <div class="panel" role="tabpanel" id="panel"></div>
+    </div>
+  </div>
+</section>
+
+<section id="calendario" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Próximos vencimientos</h2>
+    <p class="muted">Calculados con días hábiles. En Telegram, <code>/alertas</code> te los recuerda cada mañana.</p>
+    <div class="cal" id="cal"></div>
+  </div>
+</section>
+
+<section id="novedades" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Lo último del SII</h2>
+    <p class="muted">Consultado en vivo en www.sii.cl. <span id="nov-act"></span></p>
+    <div class="nov" id="nov">
+      <div><div class="esqueleto"></div><div class="esqueleto"></div></div>
+      <div><div class="esqueleto"></div><div class="esqueleto"></div></div>
+      <div><div class="esqueleto"></div><div class="esqueleto"></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="motores" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Funciona con tu IA</h2>
+    <p class="muted">Elige el motor que ya tienes. Sin uno de ellos la agente no puede responder.</p>
+    <div class="mot">
+      <div class="card"><h3>Con tu suscripción</h3><p>Usa el plan que ya pagas, sin costo extra.</p><div class="chips"><span class="chip">Claude Pro / Max</span><span class="chip">ChatGPT Plus / Pro</span></div></div>
+      <div class="card"><h3>Con una API key</h3><p>Pago por uso, el más flexible.</p><div class="chips"><span class="chip">Anthropic</span><span class="chip">OpenAI</span><span class="chip">Google Gemini</span><span class="chip">OpenRouter</span></div></div>
+      <div class="card"><h3>Local y gratis</h3><p>Corre en tu propio equipo, sin enviar datos afuera.</p><div class="chips"><span class="chip">Ollama</span><span class="chip">LM Studio</span><span class="chip">llama.cpp</span><span class="chip">Jan</span><span class="chip">LocalAI</span><span class="chip">vLLM</span><span class="chip">GPT4All</span><span class="chip">KoboldCpp</span></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="usala" style="padding-top:24px">
+  <div class="wrap">
+    <h2>Úsala en Telegram</h2>
+    <p class="muted">Tu propio bot, en tu computador o servidor. Las claves quedan en un archivo <code>.env</code> que nunca se comparte. <b>El computador o servidor donde corre debe quedar encendido todo el tiempo</b>: si se apaga, el bot no responde ni envía alertas. ¿No eres del área tecnológica? Sigue el <a href="https://github.com/DM20911/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener"><b>tutorial paso a paso</b></a>.</p>
+    <div class="pasos">
+      <div class="paso"><h3>Crea el bot</h3><p>En Telegram abre <b>@BotFather</b>, envía <code>/newbot</code>, elige nombre y usuario, y copia el token.</p></div>
+      <div class="paso"><h3>Configura</h3><p>Copia <code>.env.example</code> a <code>.env</code> y pon el token y tu motor de IA.</p></div>
+      <div class="paso"><h3>Enciéndelo</h3><p>Ejecuta <code>python3 telegram/bot.py</code>. Escríbele <code>/id</code> y autoriza tu ID.</p></div>
+      <div class="paso"><h3>Pregunta</h3><p>Texto, fotos, PDF o voz. Activa <code>/alertas</code> para los avisos diarios.</p></div>
+    </div>
+    <div style="height:28px"></div>
+    <div class="cta">
+      <img src="/assets/mascota.svg" alt="Mascota de FiscolItA" width="120" height="120">
+      <div>
+        <h2>También como agente o subagente</h2>
+        <p>Úsala sola o intégrala al agente contable o financiero de tu empresa (Claude Code, Codex, Cursor, Gemini CLI y otros que lean <code>AGENTS.md</code>), con servidor MCP incluido.</p>
+        <div class="btns"><a class="btn p" href="https://github.com/DM20911/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener">Tutorial paso a paso</a><a class="btn s" href="https://github.com/DM20911/fiscolita" target="_blank" rel="noopener">Ver en GitHub</a><a class="btn s" href="https://optimizaria.com" rel="noopener">Conversemos</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap pie">
+    <a class="potenciado" href="https://optimizaria.com" rel="noopener">
+      <img src="/assets/optimizaria.png" alt="" width="34" height="43">
+      <span><small>Proyecto potenciado por</small><b>optimizar<span class="ia">IA</span></b></span>
+    </a>
+    <p>Fiscol<span class="ia">I</span>t<span class="ia">A</span> es una herramienta simple pero funcional: orienta con información pública oficial. No es el SII ni habla en su nombre y no reemplaza a un contador o abogado tributario.</p>
+  </div>
+</footer>
+
+<script src="/app.js" defer></script>
+</body>
+</html>

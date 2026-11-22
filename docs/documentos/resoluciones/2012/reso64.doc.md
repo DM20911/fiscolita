@@ -1,0 +1,38 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso64.doc
+titulo: Word – Resolución Exenta SII N°64 del 18 de Mayo del 2012 Deja sin efecto Resol. Ex. SII N° 115 del 23 de julio de 2010. Fuente: Departamento de Asesoría Jurídica
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°64 DEL 18 DE MAYO DEL 2012 MATERIA : DEJA SIN EFECTO RESOL. EX. SII N° 115 DEL 23 DE JULIO DE 2010.
+	Hoy se ha resuelto lo que sigue:
+
+VISTOS: 
+
+Lo dispuesto en el artículo 7º, letras a), c), i) y ñ)  de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; y
+CONSIDERANDO:
+
+	1.- Que de acuerdo a lo dispuesto en el inciso final del Art. 2° de la Ley Orgánica del Servicio de Impuestos Internos, ya citada, éste Servicio está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la Republica, y por las Direcciones Regionales. 
+	2.- Que las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para dictar las órdenes que sean convenientes para la más expedita marcha del Servicio y para fijar y modificar la organización interna de sus unidades así como sus atribuciones y obligaciones.
+	3.- Que, en atención a las necesidades que impone la buena marcha administrativa de la Unidades Operativas. 
+
+	SE RESUELVE:   
+
+	1° DÉJASE SIN EFECTO la Resolución Ex. SII N° 115, de 23 de julio  de 2010.
+
+	2° El Director de Grandes Contribuyentes, procederá a dejar sin efecto toda delegación de facultades relativa a la materia, que haya emitido en cumplimiento de la resolución dejada sin efecto, conforme al resolutivo precedente.   
+	3° La presente resolución regirá a contar de la fecha de su publicación, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+	(Fdo.) JULIO PEREIRA GANDARILLAS        	DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.
+DISTRIBUCIÓN: · Boletín  · Internet.
+- Diario Oficial (en extracto)
+
+
+

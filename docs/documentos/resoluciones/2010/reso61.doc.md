@@ -1,0 +1,249 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso61.doc
+titulo: Word – Resolución Exenta SII N°61 del 01 de Abril del 2010 Autoriza Como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°61 DEL 01 DE ABRIL DEL 2010 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Abril del 2010, a los siguientes contribuyentes:
+
+- ASESORIAS Y TECNOLOGIAS KOOCH LTDA. 					76.070.155-6  
+- CAPACITACIONES EMPRESARIALES LTDA. 					76.715.550-6  
+- CENTRAL DE DISTRIBUCION LAGOS S.A. 					99.571.800-6  
+- COMPAÑIA DE PETROLEOS DE CHILE COPEC S.A. 				99.520.000-7  
+- DHL EXPRESS (CHILE) LTDA.							86.966.100-7  
+- DISTRIBUIDORA DE PRODUCTOS INDUSTRIALES Y COMERCIALES DEL		77.473.370-1  
+  SUR S.A.								 
+- EDGAR ANTONIO MORRIS DIOCARETZ						08.353.183-5  
+- EDUARDO PALLARES E HIJOS LTDA. 						77.066.440-3  
+- ELSA ELIZABETH AGUIRRE TRONCOSO						07.742.573-K  
+- IMPORTADORA Y DISTRIBUIDORA TASCO CHILE LTDA. 				76.520.280-9  
+- INDUSTRIAL COMERCIAL PREVENCION CHILE LTDA.				76.213.650-3
+- INERSA I S.A. 									76.417.170-5  
+- MIRANDA SELLE COMPUTACION LTDA. 						77.006.620-4
+- SENKO INGENIERIA EN SEGURIDAD LTDA. 					76.087.294-6  
+- SERVICIO DE REGISTRO CIVIL E IDENTIFICACION				61.002.000-3  
+- SERVICIOS TURISTICOS NOMADS OF THE SEAS LTDA.				76.391.680-4  
+- SOLIS VELASCO CONTADORES AUDITORES Y CONSULTORES LTDA.  		77.011.160-9  
+- TRANSPORTE TURISMO AUSTRAL LTDA. 						76.391.210-8  
+- TRANSPORTES RODRIGO AZANCOT REBOLLEDO E.I.R.L. 				77.493.850-8
+- GASTON OLEGARIO COMBEAU LOPEZ CONSTRUCCIONES E.I.R.L.		52.004.152-4 
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+
+
+		
+
+    (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

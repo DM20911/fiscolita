@@ -1,0 +1,80 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso67.doc
+titulo: Word – Resolución Exenta SII N°67 del 02 de Diciembre del 2003 Establece Obligación de Presentar Declaración Jurada Anual Sobre Rentas Obtenidas e Impuestos Pagados en el Exterior, Fija Modelo Formulario y Procedimiento de Presentación Fuente: Departamento Fiscalización Selectiva e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°67 DEL 02 DE DICIEMBRE DEL 2003 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE RENTAS OBTENIDAS E IMPUESTOS PAGADOS EN EL EXTERIOR, FIJA MODELO FORMULARIO Y PROCEDIMIENTO DE PRESENTACIÓN
+
+SANTIAGO,
+
+						Hoy se ha resuelto lo que sigue:
+		
+	VISTOS: Lo dispuesto en el artículo 6°, letra A), N° 1 y 60 ° del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, del Ministerio de Hacienda; y en los artículos 3°, 12°, 41° A, 41° B y  41° C de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824 de 1974,  la Res. Ex. N° 45 de 30.12.2002 y
+
+
+CONSIDERANDO:
+
+
+Que, el artículo 3° de la Ley sobre Impuesto a la Renta establece que salvo disposición en contrario, toda persona domiciliada o residente en Chile, pagará impuestos sobre sus rentas de cualquier origen, sea que la fuente de entradas esté situada en el país o fuera de él.
+
+Que, el artículo 12° de la Ley sobre Impuesto a la Renta señala que cuando deban computarse rentas de fuente extranjera, se considerarán las rentas líquidas percibidas, excluyéndose aquellas que no se pueda disponer en razón de caso fortuito o fuerza mayor. Agrega el mismo artículo que para el caso de agencias u otros establecimientos permanentes en el exterior, se considerarán en Chile tanto las rentas percibidas como las devengadas, incluyendo los impuestos a la renta adeudados o pagados en el extranjero.
+
+Que, de acuerdo al número 2 de la letra A del Artículo 41° A  de la Ley de la Renta, los contribuyentes domiciliados o residentes en Chile que perciban rentas del exterior que hayan sido gravadas en el extranjero, por concepto de dividendos percibidos, retiros de utilidades o por las rentas percibidas  por el uso de marcas, patentes, fórmulas, asesorías técnicas y otras prestaciones similares, tendrán derecho a un crédito contra el Impuesto de Primera Categoría, que se calcula en la forma establecida en esta misma disposición.
+
+Que, la letra C del artículo 41° A de la Ley de la Renta, señala que las normas establecidas en las letras A y B, sólo serán aplicables respecto de los contribuyentes que hayan materializado la correspondiente inversión en el extranjero a través del mercado cambiario formal, se encuentren previamente inscritos en el Registro de Inversiones en el Extranjero, que los impuestos a la renta pagados o retenidos en el exterior sean equivalentes o similares a los impuestos contenidos en la Ley de la Renta, o sustitutivos de ellos, y que el pago de estos impuestos se acredite mediante el correspondiente recibo o certificado oficial expedido por la autoridad competente del país extranjero, debidamente legalizados y traducidos si procediere.
+
+Estas mismas disposiciones son aplicables para los contribuyentes domiciliados o residentes en el país, que obtengan rentas afectas al Impuesto de Primera Categoría provenientes de países con los cuales Chile haya suscrito convenios para evitar la doble tributación, esto último de acuerdo al artículo 41° C de la Ley sobre Impuesto a la Renta.
+
+Que, el artículo 41° B señala que los contribuyentes que tengan inversiones e ingresos de fuente extranjera no podrán aplicar, respecto de estas inversiones e ingresos, lo dispuesto en los números 7 y 8 con excepción de las letras f) y g), del artículo 17, y en los artículos 57 y 57 bis.
+
+Que, con el objeto de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar la correcta aplicación de las disposiciones tributarias que la ley le encomienda, es preciso contar con el detalle de las rentas percibidas o devengadas en el exterior por personas naturales o jurídicas residentes en el país, incluyendo aquellas rentas obtenidas de países con los cuales se mantiene un  Convenio vigente para Evitar la Doble Tributación, como también es necesario conocer el detalle de los impuestos pagados o retenidos en el extranjero.
+
+
+SE RESUELVE:
+
+Los contribuyentes con domicilio o residencia en Chile que obtengan rentas de fuente extranjera, las cuales pueden o no haber estado sujetas a impuestos en el exterior, cuyo tratamiento impositivo está regulado en los artículos 3°, 41° A, 41° B y 41° C de la Ley sobre Impuesto a la Renta; deberán presentar al Servicio de Impuestos Internos, antes del 15 de Marzo de cada año, una Declaración Jurada Anual con información sobre el detalle de las rentas percibidas o devengadas y los impuestos pagados o retenidos en el extranjero durante el año calendario anterior o el impuesto adeudado hasta el ejercicio siguiente en el caso de las agencias y otros establecimientos permanentes.
+
+Estos mismos contribuyentes deberán, cuando corresponda, incluir en esta Declaración Jurada la imputación de los créditos a tales impuestos, informando el monto del crédito imputado al pago del Impuesto de Primera Categoría y la parte del crédito traspasado al Impuesto Global Complementario o Adicional del empresario, socio o accionista de la empresa inversionista.
+
+La referida información deberá proporcionarse mediante el Formulario N° 1853 denominado “Declaración Jurada Anual sobre Rentas de Fuente Extranjera”, identificando a la persona pagadora de la renta; su país de residencia; tipo de renta; fecha de percepción o devengo de la renta; monto de la renta bruta; impuesto pagado o retenido en el extranjero; renta percibida o devengada; y con respecto a la aplicación del crédito, se deberá identificar el remanente de crédito del año anterior, el crédito del ejercicio, el impuesto imputado a 1° Categoría, saldo ejercicio siguiente y el monto transferido al Impuesto Global Complementario o Adicional de los empresarios, socios, accionistas, según corresponda.
+
+Tratándose de contribuyentes autorizados para llevar contabilidad en hojas sueltas llevadas computacionalmente, de conformidad a la Resolución Ex. N° 4.228 de 24 de Junio 1999, y sus modificaciones posteriores, la remisión de las declaraciones se hará mediante la transmisión electrónica de datos vía INTERNET u otro medio tecnológico que permita el procesamiento electrónico de datos. Los demás contribuyentes podrán hacer uso de estos mismos medios tecnológicos para cumplir con las obligaciones señaladas.
+
+Deróguese la Resolución Ex. N° 45 de fecha 30 de Diciembre de 2002.
+
+El incumplimiento de la obligación establecida en esta Resolución será sancionado de acuerdo a lo dispuesto en el artículo 97° N° 15 del Código Tributario.
+
+La presente Resolución comenzará a regir a contar de la fecha de su publicación en el Diario Oficial. En forma excepcional, las rentas obtenidas durante año calendario 2003, deberán ser informadas en la Declaración Jurada que se presente antes del 15 de Marzo de 2004.
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO
+
+
+
+
+
+
+
+JUAN TORO RIVERA DIRECTOR
+
+
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda a Ud.,
+
+
+DISTRIBUCION:
+Secretaría del Director.
+Subdirección Normativa.
+Subdirección Jurídica.
+Subdirección de Estudios.
+Subdirección de Fiscalización.
+Direcciones Regionales I a XVI Dirección Regional.
+Dirección Grandes Contribuyentes
+Departamento de Normas Internacionales 
+Departamento de Fiscalización Selectiva e Internacional
+Oficina de Partes.
+Boletín del Servicio.
+Internet.
+
+

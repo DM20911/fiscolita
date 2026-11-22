@@ -1,0 +1,102 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso187.doc
+titulo: Word – Resolución Exenta SII N°187 del 23 de Diciembre del 2010 Establece Forma y Plazo de Declaraciones Juradas que deben Presentar los Contribuyentes con Motivo de la Emisión de Instrumentos de Deuda de Oferta Pública, en Conformidad a lo Dispuesto en los Artículos 74 N° 7 y 104 N° 5 de la ley Sob
+categoria: otros
+---
+RESOLUCION EXENTA SII N°187 DEL 23 DE DICIEMBRE DEL 2010 MATERIA : ESTABLECE FORMA Y PLAZO DE DECLARACIONES JURADAS QUE DEBEN PRESENTAR LOS CONTRIBUYENTES CON MOTIVO DE LA EMISIÓN DE INSTRUMENTOS DE DEUDA DE OFERTA PÚBLICA, EN CONFORMIDAD A LO DISPUESTO EN LOS ARTÍCULOS 74 N° 7 Y 104 N° 5 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+
+VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1; 30 inciso segundo; 60 inciso octavo; 63 inciso primero, todos del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; lo establecido en los artículos 74 N° 7 y 104 N° 5 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974; y 
+
+
+CONSIDERANDO:
+
+1° Que, a este Servicio, le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente, y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las franquicias y beneficios tributarios que la ley establece;
+
+2° Que, el artículo 74, N° 7, inciso final, de la Ley sobre Impuesto a la Renta, establece la obligación para los emisores de instrumentos de deuda de oferta pública a que se refiere el artículo 104, del citado texto legal, de declarar ante el Servicio de Impuestos Internos, en la forma y plazo que éste determine, sobre las retenciones efectuadas de conformidad a dicho número;
+
+3° Que, el artículo 104 N° 5, de la Ley sobre Impuesto a la Renta, establece que el emisor, los depósitos de valores, las bolsas de valores del país que acepten a cotización los instrumentos de deuda pública a que se refiere dicha norma, los representantes de los tenedores de tales instrumentos y los intermediarios que hayan participado en estas operaciones, deberán declarar ante el Servicio de Impuestos Internos, en la forma y plazo que éste determine, mediante resolución, las características de dichas operaciones, informando a lo menos la individualización de las partes e intermediarios que hayan intervenido, valores de emisión y colocación de los instrumentos y demás que establezca este Servicio;
+
+4° Que, el inciso segundo del artículo 30 del Código Tributario faculta al Servicio para autorizar a los contribuyentes a presentar los informes y declaraciones en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+
+
+5° Que, el inciso octavo del artículo 60 del Código Tributario faculta a este Servicio, para que en el desarrollo de las labores de la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, pueda pedir a toda persona domiciliada dentro de su jurisdicción, una declaración jurada por escrito sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas;
+
+6°	Que, el inciso primero del artículo 63 del mismo cuerpo legal, señala que el Servicio hará uso de todos los medios legales para comprobar la exactitud de las declaraciones presentadas por los contribuyentes y para obtener las informaciones y antecedentes relativos a los impuestos que se adeuden o pudieran adeudarse;
+
+7°	Que, la transmisión electrónica de datos vía Internet ofrece mayores garantías de seguridad y rapidez que cualquier otro medio actualmente disponible, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante.
+  
+8°	Que, este Servicio, en cumplimiento de lo dispuesto en los artículos 74, N°7, inciso final, y 104, N°5 de la Ley sobre Impuesto a la Renta, y en uso de las facultades antes mencionadas, ha estimado necesario establecer la forma y plazos para la presentación de la información que deberán entregar los contribuyentes que se indican en las normas legales antes referidas.
+  
+
+SE RESUELVE:
+
+1° Los emisores de instrumentos de deuda de oferta pública, en conformidad a lo dispuesto en el artículo 104 N° 5 de la Ley sobre Impuesto a la Renta, estarán obligados a presentar, ante este Servicio, vía transmisión electrónica de datos, una declaración jurada anual en la que informen los antecedentes que se requieren mediante el Formulario N° 1805, denominado “Declaración Jurada Anual sobre operaciones de instrumentos de deuda de oferta pública acogidos al artículo 104 de la Ley sobre Impuesto a la Renta”, en la que indicarán, entre otros datos, la individualización de las partes e intermediarios que han intervenido en las operaciones, características de éstas, valores de emisión, colocación, enajenación y/o rescate, según formato e instrucciones que se contienen en los Anexos N° 1 y 2 de la presente Resolución. 
+
+A la misma obligación antes indicada, quedarán sujetos aquellos intermediarios que, actuando a nombre propio, por instrucciones de terceros, hayan intervenido en estas operaciones, en cuyo caso deberán indicar la individualización de la persona o entidad que tenga la calidad de titular o beneficiario de dichos instrumentos. 
+
+
+2° Los emisores de instrumentos de deuda de oferta pública, en conformidad al artículo 74, N° 7, inciso final, de la Ley sobre Impuesto a la Renta, estarán obligados a presentar, ante este Servicio, vía transmisión electrónica de datos, una declaración jurada anual sobre las retenciones efectuadas conforme a dicho número, información que se entregará mediante el Formulario N° 1806, denominado “Declaración Jurada Anual sobre retenciones de impuesto efectuadas conforme a lo establecido en artículo 74 N° 7 de la Ley sobre Impuesto a la Renta, realizadas por Emisores de Instrumentos del artículo 104 de la misma Ley”, proporcionando información relativa a los montos de intereses devengados durante el período respectivo, el impuesto total retenido y/o la liberación de la obligación de retención, según corresponda, de acuerdo al formato e instrucciones que se contienen en los Anexos N° 3 y 4 de la presente Resolución.
+
+
+3° Los intermediarios que, actuando a nombre propio, por instrucciones de terceros, hayan intervenido en las operaciones señaladas en el resolutivo N° 1 anterior, estarán obligados a presentar ante este Servicio, vía transmisión electrónica de datos, una declaración jurada anual sobre intereses devengados y la retención de impuesto que corresponda a cada titular de los instrumentos, información que debe proporcionarse mediante el Formulario N° 1849 denominado “Declaración Jurada Anual sobre intereses devengados e impuesto retenido conforme al artículo 74 N° 7 de la Ley sobre Impuesto a la Renta, correspondiente a inversiones efectuadas por Corredores de Bolsa, Agentes de Valores u Otros Intermediarios, por cuenta de terceros inversionistas”, según formato e instrucciones que se contienen en los Anexos N° 5 y 6 de la presente Resolución.
+
+4° Los Anexos N° 1 al 6 de esta Resolución, que se entiende que forman parte integrante de ella, se publicarán oportunamente en la página Internet del Servicio, www.sii.cl. 
+
+
+5° El Servicio pondrá a disposición de los contribuyentes que no puedan acceder a Internet, los medios tecnológicos necesarios para realizar la transmisión electrónica de los datos que permitan presentar las declaraciones juradas a que se refiere la presente Resolución. 
+
+
+6° El plazo para presentar las declaraciones juradas establecidas en la presente Resolución, es hasta el 31 de marzo de cada año, a contar del Año Tributario 2011, respecto de las operaciones celebradas en el año comercial inmediatamente anterior. 
+
+
+7° La no presentación de las declaraciones juradas a que se refieren los resolutivos 1, 2 y 3, anteriores, su presentación tardía, incompleta o errónea, será sancionada en la forma prescrita en el N° 6 ó 15 del artículo 97 del Código Tributario, según corresponda. 
+
+
+8° La presente Resolución se publicará, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+
+
+
+
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/HHB/ADG/HGM/ASM/kcm
+DISTRIBUCIÓN:
+- Al Boletín.
+- A Internet.
+- Al Diario Oficial, En Extracto.
+
+Anexos:
+Anexo N° 1: Formato Formulario Declaración Jurada 1805.
+Anexo N° 2: Instructivo de llenado Declaración Jurada 1805.
+Anexo N° 3: Formato Formulario Declaración Jurada 1806.
+Anexo N° 4: Instructivo de llenado Declaración Jurada 1806.
+Anexo N° 5: Formato Formulario Declaración Jurada 1849.
+Anexo N° 6: Instructivo de llenado Declaración Jurada 1849.
+
+
+
+
+
+
+
+
+
+
+

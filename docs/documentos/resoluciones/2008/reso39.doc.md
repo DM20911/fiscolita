@@ -1,0 +1,75 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso39.doc
+titulo: Word – Resolución Exenta SII N°39 del 27 de Marzo del 2008 Excepciona de las Retenciones por Cambio de Sujeto de Derecho del IVA a las Operaciones Respaldadas con Documentos Tributarios Electrónicos Emitidos por Contribuyentes Emisores Electrónicos. Fuente: Departamento de Personas y de Micro y Pequ
+categoria: otros
+---
+RESOLUCION EXENTA SII N°39 DEL 27 DE MARZO DEL 2008 MATERIA : EXCEPCIONA DE LAS RETENCIONES POR CAMBIO DE SUJETO DE DERECHO DEL IVA A LAS OPERACIONES RESPALDADAS CON DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EMITIDOS POR CONTRIBUYENTES EMISORES ELECTRÓNICOS.
+
+
+Hoy se ha resuelto lo que sigue:
+
+V I S T O S : Lo dispuesto en los artículos 6° Letra a) N° 1, y 88 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 2°, 3°, y  56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. 825, de 1974; lo establecido en la Ley N° 19.799, en la Res. Ex. SII N° 09, de 2001, y en la Res. Ex. SII N° 45, de 2003; y
+
+C O N S I D E R A N D O :  
+
+1° 	Que, según lo previsto en los artículos 2º, 3º, y 10 de la Ley sobre Impuesto a las Ventas y Servicios, por regla general, el sujeto pasivo de derecho del Impuesto al Valor Agregado es el vendedor o prestador de servicio. No obstante, el inciso tercero del Art. 3º del citado Decreto Ley, prescribe que este tributo afectará al adquirente, en los casos que así lo determine la Dirección Nacional del Servicio de Impuestos Internos, a su juicio exclusivo.  
+
+2°	Que, con el objeto de cautelar debidamente el interés fiscal, el Servicio de Impuestos Internos ha estimado necesario hacer uso de la facultad establecida en el inciso tercero del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, cambiando el sujeto de derecho del Impuesto al Valor Agregado y traspasando la responsabilidad de la declaración y pago del tributo a quien realiza la adquisición de determinados bienes y/o servicios.
+
+3°	Que, en las resoluciones exentas N° 1.341 de 2000, N° 55 de 2005, N° 7 de 2003, N° 142 de 2005, N° 3.721 de 2000, N° 5.280 de 2000, N° 4.916 de 2000, N° 3.338 de 1992, N° 29 de 2005, N° 3.311 de 2000, N° 4.095 de 2000 y N° 5.281 de 2000, que disponen cambio de sujeto de derecho del IVA en las ventas de arroz, berries, chatarra, servicios de construcción, ganado, legumbre, madera, oro, papeles y cartones, pesca, productos silvestres y trigo respectivamente, se ha contemplado la posibilidad que el Director Regional excluya del régimen del cambio de sujeto a determinados contribuyentes a través de una resolución, siempre que cumplan ciertos requisitos. Particularmente, se debe tener presente que en las resoluciones exentas N° 29, N° 55, y N° 142, todas del año 2005, se dispuso el cambio de sujeto de derecho del IVA para la venta de papeles y cartones, berries y servicios de construcción, respectivamente, estableciendo como requisito adicional para que operara dicha exclusión que el peticionario hubiera sido autorizado para emitir documentos tributarios electrónicos, de acuerdo a la Res. Ex. N° 45, de 2003. 
+
+4°	Que, de acuerdo con el inciso tercero del artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974, el Director puede autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal, y que en el uso de esta facultad, el Director ha resuelto autorizar la emisión de documentos tributarios que tengan la naturaleza y validez de los documentos electrónicos a que se refiere la Ley N° 19.799.
+
+5°	Que, de acuerdo a la Res. Ex. SII N° 45, de 2003, el Servicio de Impuestos Internos dispuso las normas generales que regulan la forma y condiciones que se exigen para otorgar a los contribuyentes la calidad de emisores electrónicos, y los requisitos que deben cumplir para la emisión, transmisión, registro y almacenamiento de los documentos tributarios electrónicos. 
+
+
+S E  R E S U E L V E :
+
+
+1.-	Que las operaciones de ventas respaldadas con documentos tributarios electrónicos, por los contribuyentes que se encuentren autorizados por el Servicio de Impuestos Internos para ser emisores electrónicos, de acuerdo a lo señalado en la Res. Ex. SII N° 45, de 2003, quedarán excepcionadas del régimen de cambio de sujeto establecido en las resoluciones exentas N° 1.341 de 2000, N° 55 de 2005, N° 7 de 2003, N° 142 de 2005, N° 3.721 de 2000, N° 5.280 de 2000, N° 4.916 de 2000, N° 3.338 de 1992, N° 29 de 2005, N° 3.311 de 2000, N° 4.095 de 2000 y N° 5.281 de 2000, que disponen cambio de sujeto de derecho del IVA en las ventas de arroz, berries, chatarra, servicios de construcción, ganado, legumbre, madera, oro, papeles y cartones, pesca, productos silvestres y trigo respectivamente.
+
+2.-	A los contribuyentes que sean emisores de documentos tributarios electrónicos y cuyas operaciones hayan sido excluidas del régimen de cambio de sujeto de derecho del IVA en virtud de la presente resolución, no se les conferirá la calidad de agente retenedor del tributo por ese solo hecho. Sin embargo, el Director Regional respectivo podrá otorgarle la calidad de agente retenedor previo cumplimiento de las formalidades establecidas en la resolución correspondiente. 
+
+3.-	Los contribuyentes excepcionados y que en razón de ello adquirieron la calidad de agentes retenedores, de acuerdo a lo establecido en las resoluciones que regulan cada uno de los respectivos cambios de sujeto instaurados por el Servicio, mantendrán la calidad de retenedores otorgada en dichas instrucciones, por lo cual no les afectará lo dispuesto en los N°s 1 y 2 de la presente resolución, aún cuando sean emisores electrónicos, salvo que dicha excepción les sea revocada por resolución del Director Regional competente. 
+
+4.-	No podrán acogerse a la excepción establecida en esta resolución, aquellos contribuyentes que se encuentren incorporados en la nómina de contribuyentes de difícil fiscalización publicada por el Servicio de Impuestos Internos. La prohibición establecida en este numeral operará mientras el contribuyente permanezca en la nómina de contribuyentes de difícil fiscalización, pudiendo acogerse por tanto, una vez que haya sido excluido de la nómina señalada. 
+
+5.-	Los Agentes Retenedores que operen con contribuyentes acogidos a lo dispuesto en la presente resolución, con el objeto de corroborar el cumplimiento de los requisitos establecidos en ella, podrán revisar la calidad de emisor electrónico del vendedor y su inclusión o no inclusión en la nómina de contribuyentes de difícil fiscalización a través de la oficina virtual del Servicio en Internet,  HYPERLINK "http://www.sii.cl" www.sii.cl . Además, la nómina de contribuyentes de difícil fiscalización, será puesta en conocimiento de los Agentes Retenedores mensualmente por el Servicio de Impuestos Internos.
+
+6.-	Las disposiciones de esta resolución rigen exclusivamente sobre las operaciones de venta indicadas en el primer resolutivo, las restantes transacciones con emisores electrónicos autorizados por el Servicio, quedan sujetas a las obligaciones y sanciones establecidas en las resoluciones que regulan el cambio de sujeto respectivo. 
+
+7.-	La presente Resolución entrará en vigencia a contar del día primero del mes siguiente al de su publicación en extracto en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO  
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Saluda a Ud.,
+
+
+
+
+
+
+
+(FDO) RICARDO ESCOBAR CALDERÓN 
+    								             DIRECTOR
+DISTRIBUCIÓN:
+Al Diario Oficial (En extracto)
+Internet
+Boletín
+
+
+
+
+
+
+
+
+
+
+
+
+
+

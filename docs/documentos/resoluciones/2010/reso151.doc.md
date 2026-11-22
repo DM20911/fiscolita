@@ -1,0 +1,323 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso151.doc
+titulo: Word – Resolución Exenta SII N°151 del 30 de Septiembre del 2010 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°151 DEL 30 DE SEPTIEMBRE DEL 2010 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en la Resolución Ex. SII N°150, de diciembre de 2005; y,
+CONSIDERANDO:
+
+1°	Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+
+2°	Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150, de diciembre de 2005, a partir del año 2010.
+
+3°	Que, los contribuyentes listados en el dispositivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.  
+
+
+SE RESUELVE:
+
+Primero:	Modifíquese la autorización a proceder conforme al modelo de operación de Contabilidad Electrónica, otorgada en la Res. Ex. SII N°126, del 4 de Agosto de 2010, sustituyéndose a utilizar  CAL propio, a los siguientes contribuyentes:
+
+- ENJOY GESTION LTDA.							RUT 96.976.920-4
+- NAVIERAS ULTRAGAS LTDA.						RUT 92.513.000-1
+
+Se otorgará además a los contribuyentes ENJOY GESTION LTDA., RUT 96.976.920-4 y NAVIERAS ULTRAGAS LTDA., RUT 92.513.000-1, Códigos de Autorización de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otras empresas del mismo holding.
+
+Segundo: Modifíquese la Res. Ex. SII N°55, del 19 de Marzo de 2010, reemplazando a la empresa ENJOY CLUB S.A., RUT 76.417.950-1, por ENJOY GESTION LTDA., RUT 96.976.920-4, en el endoso de los siguientes contribuyentes:
+
+
+CAMPOS DEL NORTE S.A.							RUT 79.981.570-2
+OPERACIONES EL ESCORIAL S.A.						RUT 99.597.870-9
+
+
+
+Tercero: 	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, utilizando CAL propio, a los siguientes contribuyentes:
+
+- ROCKWELL AUTOMATION CHILE S.A.					RUT 96.822.800-5
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LIMITADA, RUT 76.029.564-7 a los siguientes contribuyentes:
+
+- A C NIELSEN CHILE LTDA.							RUT 89.931.100-0
+- DUCASSE INDUSTRIAL S.A.						RUT 83.279.200-4
+- FORMACION DE ACEROS S.A.						RUT 95.672.000-1
+- GESTION INTEGRAL DE CLIENTES S.A.					RUT 96.937.100-6
+- IRADUC RODAMIENTOS LTDA.						RUT 78.778.020-2
+- SOC. CONCESIONARIA VESPUCIO NORTE EXPRESS S.A.			RUT 96.992.030-1
+- SOC. CONCESIONARIA TUNEL SAN CRISTOBAL S.A.			RUT 99.588.750-9
+	     - TELMEX CHILE NETWORKS S.A.						RUT 96.584.930-0
+- UNILEVER CHILE S.A.							RUT 92.091.000-9
+- UNIVERSIDAD CATOLICA DE TEMUCO					RUT 71.918.700-5
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de NAVIERAS ULTRAGAS LIMITADA, RUT 92.513.000−1, a los siguientes contribuyentes:
+
+ADMINISTRADORA DE NAVES HUMBOLDT LTDA.				RUT 78.028.770-5
+GREEN ANDES CHILE S.A.							RUT 96.983.220-8
+HUMBOLDT MARINE TRAINING LTDA.					RUT 76.038.680-4
+LNG TUGS CHILE S.A.							RUT 76.028.651-6
+REMOLCADORES TOCOPILLA LTDA.					RUT 78.470.010-0
+REMOLCADORES ULTRATUG OFFSHORE LTDA.				RUT 79.569.980-5
+REMOLCADORES ULTRATUG LTDA.					RUT 78.558.840-1
+TERMINAL DE EXPORTACION INTERNACIONAL S.A.			RUT 96.854.560-4
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de ONVISION S.A. RUT 76.372.100-0, a los siguientes contribuyentes:
+
+AGUAS CCU-NESTLE CHILE S.A.						RUT 76.007.212-5
+ARTECOLA CHILE S.A.							RUT 77.497.650-7
+CCU INVERSIONES S.A.							RUT 76.593.550-4
+CERVECERIA AUSTRAL S.A.						RUT 96.919.980-7
+CERVECERA CCU CHILE LTDA.						RUT 96.989.120-4
+CISANDINA CHILE S.A.							RUT 76.090.764-2
+COMERCIAL CCU S.A.							RUT 99.554.560-8
+COMERCIAL PATAGONA LTDA.						RUT 77.755.610-K
+COMPAÑIA CERVECERA KUNSTMANN S.A.					RUT 96.981.310-6
+COMPAÑIA CERVECERIAS UNIDAS S.A.					RUT 90.413.000-1
+COMPAÑIA PISQUERA DE CHILE S.A.					RUT 99.586.280-8
+CRECCU S.A.								RUT 76.041.227-9
+EMPRESA EL MERCURIO S.A.P.						RUT 90.193.000-7
+EMBOTELLADORAS CHILENAS UNIDAS S.A.				RUT 99.501.760-1
+EMPRESAS REUTTER S.A.							RUT 76.080.182-8
+FABRICA DE ENVASES PLASTICOS S.A.					RUT 86.150.200-7
+FOODS COMPAÑIA DE ALIMENTOS CCU S.A.				RUT 99.542.980-2
+KIMBERLY−CLARK CHILE S.A.						RUT 96.888.460-3
+INVEX CCU S.A.								RUT 76.572.360-4
+MILLAHUE S.A.								RUT 91.022.000-4
+NEW ECUSA S.A.								RUT 76.718.230-9
+PGIO S.A. AGENCIA EN CHILE						RUT 59.121.070-K
+PROCTER & GAMBLE CHILE LTDA.						RUT 96.656.660-4
+PROMARCA S.A.								RUT 76.736.010-K
+REUTTER S.A.								RUT 81.210.400-4
+SOC. CONCESIONARIA AUTOPISTA VESPUCIO SUR S.A.			RUT 96.972.300-K
+SOC. CONCESIONARIA LITORAL CENTRAL S.A.				RUT 96.943.620-5
+SOC. DE OPERACION Y LOGISTICA DE INFRAESTRUCTURAS S.A.		RUT 99.570.060-3
+TRANSPORTES CCU LTDA.							RUT 79.862.750-3
+TRANSPORTES Y LOGISTICA SURSOL S.A.					RUT 99.568.350-4
+VENDING Y SERVICIOS CCU LTDA.						RUT 77.736.670-K
+VITIVINICOLA DEL MAIPO S.A.						RUT 96.757.010-9
+VIÑA ALTAIR S.A.								RUT 96.969.180-9
+VIÑA DEL MAR DE CASABLANCA S.A.					RUT 96.993.110-9
+VIÑA MISIONES DE RENGO S.A.						RUT 96.931.780-K
+VIÑA SAN PEDRO TARAPACA S.A.						RUT 91.041.000-8
+VIÑA SANTA HELENA S.A.							RUT 79.713.460-0
+VINA URMENETA S.A.							RUT 99.503.120-5
+VIÑA VALLES DE CHILE S.A.						RUT 99.531.920-9
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de AM INVERSIONES LTDA. RUT 96980620-7, a los siguientes contribuyentes:
+
+INMOBILIARIA BICENTENARIO S.A.					RUT 76.569.690-9
+	
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de ENJOY GESTION LTDA. RUT 96976920-4, a los siguientes contribuyentes:
+
+CASINO DE COLCHAGUA S.A.						RUT 99.598.660-4
+ENJOY S.A.								RUT 96.970.380-7
+ENJOY CONSULTORA S.A.							RUT 76.470.570-K
+INMOBILIARIA KUDEN S.A.						RUT 96.929.700-0
+INMOBILIARIA PROYECTOS INTEGRAL ANTOFAGASTA S.A.		RUT 76.306.290-2
+INMOBILIARIA PROYECTO INTEGRAL COQUIMBO S.A.			RUT 76.528.170-9
+INVERSIONES ENJOY SPA.							RUT 76.001.315-3
+INVERSIONES DEL NORTE LTDA.						RUT 96.940.320-K
+OPERACIONES TURISTICAS S.A.						RUT 96.824.970-3
+SLOTS S.A.								RUT 96.907.730-2
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2010, a través del endoso de SERVICIOS REMAQ LIMITADA, RUT 96.958.820−K, a los siguientes contribuyentes:
+
+INMOBILIARIA CENTRO PORTUGAL S.A.					RUT 99.524.640-6
+INMOBILIARIA P K S S.A.							RUT 96.956.020-8
+INMOBILIARIA P Y K S.A.							RUT 96.955.790-8
+INMOBILIARIA PD 75 LTDA.						RUT 76.107.251-K
+INMOBILIARIA PLAZA DV2 LTDA.						RUT 76.002.280-2
+P2K Y COMPAÑIA EN COMANDITA POR ACCIONES				RUT 76.432.050-6
+PROVEEDORA DE MAQUINARIAS DE CONSTRUCCION LTDA.		RUT 78.772.160-5
+RENTA DIRECTA S.A.							RUT 96.946.480-2
+
+
+Cuarto:	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+
+Quinto:	Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2010 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+Anótese, comuníquese y publíquese en Internet.
+
+
+
+
+
+
+
+
+
+
+
+
+IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+RPA/HSS/OBA
+Distribución:
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  4
+
+
+
+
+

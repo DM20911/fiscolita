@@ -1,0 +1,64 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso121.doc
+titulo: Word – Resolución Exenta SII N°121 del 31 de Diciembre del 2004 Establece Condiciones, Formatos y Plazo para Proporcionar Información Sobre Compras de Petróleo Diesel, Cuyo Impuesto Específico puede Deducirse del Débito Fiscal, Según lo Señalado en el Artículo 2° de la Ley 19.764 de 2001 y del Artíc
+categoria: otros
+---
+RESOLUCION EXENTA SII N°121 DEL 31 DE DICIEMBRE DEL 2004 MATERIA : ESTABLECE CONDICIONES, FORMATOS Y PLAZO PARA PROPORCIONAR INFORMACIÓN SOBRE COMPRAS DE PETRÓLEO DIESEL, CUYO IMPUESTO ESPECÍFICO PUEDE DEDUCIRSE DEL DÉBITO FISCAL, SEGÚN LO SEÑALADO EN EL ARTÍCULO 2° DE LA LEY 19.764 DE 2001 Y DEL ARTÍCULO ÚNICO DE LA LEY 19.935 DE 2004.
+Hoy se ha resuelto lo que sigue:
+VISTOS:
+1° Las facultades que me confieren los artículos 1° y 7° letras a) y b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de fecha 30 de Septiembre de 1980; lo establecido en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974, lo establecido en los artículos 6° y 7° de la Ley 18.502, de 1986, y en el Decreto Supremo N° 311 de 1986 del Ministerio de Hacienda, en el artículo 2° de la Ley 19.764 de 2001, modificada por la Ley 19.935 de 2004.
+
+ CONSIDERANDO: 
+
+1° Que el artículo 6º, de la Ley Nº 18.502, de 1986, estableció un impuesto a las gasolinas automotrices y al petróleo diesel, cuyas instrucciones se impartieron por este Servicio mediante Circular N° 29 de 28-04-1986.
+2° Que el artículo 7º del mencionado cuerpo legal, facultó al Presidente de la República para dictar las normas necesarias para que las empresas afectas a IVA, que usen petróleo diesel y que no esté destinado a vehículos motorizados que transiten por las calles, caminos y vías públicas en general, puedan recuperar ese impuesto soportado en la adquisición de dicho combustible, como crédito fiscal del IVA determinado por el período tributario respectivo.
+3° Que en uso de tal facultad, el Ministerio de Hacienda dictó el D.S. N° 311, de fecha 16-04-1986, que reglamentó el sistema de imputación y devolución del impuesto específico al petróleo diesel, establecido en el artículo 6° de la Ley N° 18.502.
+4° Que según el artículo 1° del referido texto reglamentario, no pueden acogerse a la facultad de recuperar el impuesto específico al petróleo establecido en la letra b) del artículo 6° de la Ley N° 18.502, soportado en la adquisición de ese combustible, las empresas de transporte terrestre.
+5° Que la Ley 19.764 de 2001, modificada por la Ley 19.935 de 2004, en su artículo 2º permitió a las empresas de transporte de carga que sean propietarias o arrendatarias con opción de compra de camiones de un peso bruto vehicular igual o superior a 3.860 kilogramos, recuperar un porcentaje de las sumas pagadas por dichos vehículos, por concepto del impuesto específico al petróleo diesel establecido en el artículo 6º de la ley Nº 18.502.
+6º Que el artículo 2º inciso 6º de la citada Ley Nº 19.764 establece que corresponde al Servicio de Impuestos Internos fiscalizar y controlar el uso del beneficio que ella establece, haciendo aplicable al efecto las facultades que le confieren tanto el Código Tributario, contenido en el decreto ley Nº 830, de 1974, como la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974 y la propia Ley Nº 19.764.
+7º Que de conformidad con lo establecido en el artículo 12 letra E) Nº 2 del D.L. Nº 825, de 1974, las empresas de transporte internacional se encuentran exentas de IVA por los servicios que presten, no generando débito por esta actividad, por lo que resulta imposible, de acuerdo al procedimiento legal consagrado para obtener la recuperación del impuesto al petróleo diesel de la Ley Nº 18.502, que puedan acceder a dicho beneficio puesto que no poseen un débito asociado a dicha actividad sobre el cual deducir el monto del tributo a los combustibles que es posible recuperar.
+8° Que el inciso penúltimo del artículo 60 del Código Tributario, señala que para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona, para que concurra a declarar bajo juramento, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas.
+9° Que este Servicio, en uso de las facultades antes mencionadas y dada la necesidad de verificar el cumplimiento de las condiciones establecidas en los considerandos números 1 al 5 precedentes, ha estimado conveniente requerir a los contribuyentes beneficiados con este crédito, de manera periódica y normalizada, el detalle de las operaciones de compras de combustible y del rendimiento de los vehículos que explotan.
+
+SE RESUELVE: 
+Establécese para las empresas señaladas en el artículo 2° de la Ley 19.764 de 2001, esto es, las empresas que posean el giro de transporte de carga terrestre, la obligación de entregar a este Servicio un detalle anual de sus operaciones de compra de combustible y de rendimiento de los vehículos que explotan, de acuerdo a los formularios y formatos de declaración jurada, que se indican en el resolutivo siguiente.
+Se excluye de esta obligación a las empresas de transporte terrestre internacional, por cuanto no gozan de la facultad de recuperar el impuesto específico al petróleo diesel que hubieren soportado en la adquisición de este combustible.
+Fíjase modelo del formulario 1867, contenido como Anexo N°1 de esta resolución, denominado “Declaración Jurada Anual sobre el detalle de rendimientos de vehículos que utilizan petróleo diesel, en empresas de transporte terrestre de carga”. Las instrucciones para el llenado de dicho formulario se contienen en el Anexo N°3 adjunto a esta resolución.
+Fíjase modelo del formulario 1866, contenido como Anexo N°2 de esta resolución, denominado “Declaración Jurada de Compras de petróleo diesel, afectas al Impuesto Específico establecido en la Ley 18.502, de 1986, el que puede ser deducido del débito fiscal, de acuerdo a la Ley 19.764 de 2001”. Las instrucciones para el llenado de dicho formulario se contienen en el Anexo N°4 adjunto a esta resolución.
+Las empresas sometidas a la obligación que se establece en esta resolución deberán remitir al Servicio, por vía electrónica, a más tardar el 15 de marzo de cada año, la totalidad de la información y antecedentes requeridos en la presente resolución, respecto de las operaciones realizadas durante el año comercial inmediatamente anterior.
+Las Declaraciones Juradas definidas en la presente resolución, deberán ser presentadas por primera vez en la Operación Renta 2006, es decir, la información correspondiente al año comercial 2005 deberá ser entregada a más tardar el 15 de marzo del año 2006.
+El incumplimiento de las obligaciones contenidas en la presente resolución será sancionado de acuerdo al artículo 97 N° 1 del Código Tributario 
+La presente resolución regirá a partir de su fecha de publicación en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+ALFREDO ECHEVERRÍA HERRERA  DIRECTOR (S)
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+BOLETÍN SII
+INTERNET
+PAGE  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

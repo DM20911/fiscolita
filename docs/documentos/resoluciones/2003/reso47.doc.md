@@ -1,0 +1,197 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso47.doc
+titulo: Word – Resolución Exenta SII N°47 del 02 de Septiembre del 2003 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°47 DEL 02 DE SEPTIEMBRE DEL 2003 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA
+
+VISTOS: Lo dispuesto en el artículo 6°, Letra A), No. 1, del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974;  en el artículo 56°, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D. L. 825, de 1974  y,
+
+CONSIDERANDO:
+
+1° Que, los contribuyentes que se detallan en Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Resolución Ex. SII N°45 de septiembre de 2003 para ser autorizados
+
+						     SE RESUELVE:
+
+
+Primero:	Autorízase como emisores electrónicos a partir del mes de Septiembre de 2003 a los siguientes contribuyentes:
+ 
+ACEPTA.COM S.A., Rut 96.919.050-8
+CTI COMPANIA TECNO INDUSTRIAL S.A., Rut 90.274.000-7
+CAMARA DE COMERCIO DE SANTIAGO A.G., Rut 70.017.820-k
+EMPRESA NACIONAL DE TELECOMUNICACIONES S.A., Rut 92.580.000-7
+EMPRESAS JORDAN S.A., Rut 88.683.400-4
+E-PARTNERS S.A., Rut 96.915.310-6
+ENTEL TELEFONIA LOCAL S.A., RUT 96.697.410-9 
+INGENIERIA DE SOFTWARE S.A., Rut 78.079.790-8
+SOC DE PROFESIONALES SOUTH CONSULTING LIMITADA , Rut 77.586.860-0
+STI S.A., Rut 78.720.940-8
+TELEFONICA EMPRESAS CTC CHILE S.A., Rut 90.430.000-4
+TRANSTECNIA S.A., Rut 79.907.790-6
+TRANSTECNIA SOPORTE COMPUTACIONAL Y CAPACITACION S.A., Rut 77.417.310-2
+XEROX DE CHILE S.A., Rut 93.360.000-9
+
+En el sitio Web del SII se podrá consultar los documentos que cada contribuyente está autorizado a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45 de Septiembre de 2003.
+
+Anótese, comuníquese y publíquese en extracto
+
+(Fdo.) JUAN TORO RIVERA
+DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines
+Distribución:
+Diario Oficial en extracto
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

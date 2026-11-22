@@ -1,0 +1,245 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso22.doc
+titulo: Word – Resolución Exenta SII N°22 del 16 de Febrero del 2012 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°22 DEL 16 DE FEBRERO DEL 2012 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N°830, de 1974; en la Resolución Ex. SII N°150, de diciembre de 2005; y,
+CONSIDERANDO:
+
+1°	Que, en la Res. Ex. SII N°121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+
+2°	Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150, de diciembre de 2005, a partir del año 2012.
+
+3°    Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica. 
+4°    Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado. 
+
+SE RESUELVE:
+Primero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, utilizando CAL propio, al siguiente contribuyente: 
+
+- INVERCABLE S.A.								RUT 76.006.843-8
+- INVERSIONES NEXANS UNO S.A.					RUT 76.032.262-8
+- NEXANS CHILE S.A.							RUT 76.032.263-6
+
+
+Segundo:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LIMITADA, RUT 76.029.564-7 a los siguientes contribuyentes:
+
+- FUNERARIA DEL HOGAR DE CRISTO LTDA.				RUT 91.520.000-1
+- PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAISO			RUT 81.669.200-8
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+
+CENTRAL DE SERVICIOS TECNICOS LTDA.				RUT 85.859.300-K
+- CTI CIA. TECNO INDUSTRIAL S.A.					RUT 90.274.000-7
+COMERCIAL REUTTER S.A.						RUT 76.150.425-8
+INMOBILIARIA REUTTER S.A.						RUT 76.150.431-2
+INVERSIONES PANORAMICA LTDA.					RUT 76.158.450-2
+INVERSIONES LUMIERE LTDA.						RUT 76.156.340-8
+INVERSIONES DIECISEIS DE JULIO LTDA.				RUT 76.156.370-K
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8 al siguiente contribuyente:
+
+- BCI SEGUROS GENERALES S.A.						RUT 99.147.000-K
+- BCI SEGUROS VIDA S.A.							RUT 96.573.600-K
+- COMERCIAL SERPAN LTDA.						RUT 77.313.060-4
+- LLANOS Y WAMMES SOCIEDAD COMERCIAL LTDA.			RUT 88.909.800-7
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9 a los siguientes contribuyentes:
+
+- KSB CHILE S A								RUT 96.691.060-7
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2012, a través del endoso de BLUELINE TECHNOLOGY SPA. RUT 76.156.362-9 al siguiente contribuyente:
+
+- COMERCIO Y EXPORTACIONES DE CHILE LTDA.			RUT 77.779.410-8
+- IBEROAMERICANA RADIO CHILE S.A.					RUT 96.867.990-2
+- MANUFACTURAS VOILA S.A.						RUT 95.984.000-8
+- SURLAT COMERCIAL S.A.						RUT 96.954.210-2
+- SURLAT INDUSTRIAL S.A.						RUT 76.564.580-8  
+
+	
+Tercero:	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+
+Cuarto:	Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2012 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+
+
+
+
+
+
+
+
+
+CAROLINA SARAVIA MORALES
+SUBDIRECTOR DE FISCALIZACIÓN (S)
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

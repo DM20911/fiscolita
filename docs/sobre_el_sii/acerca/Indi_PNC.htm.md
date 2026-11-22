@@ -1,0 +1,138 @@
+---
+url: https://www.sii.cl/sobre_el_sii/acerca/Indi_PNC.htm
+titulo: Informe de autoevaluación técnica
+categoria: sobre_el_sii
+---
+## Informe de autoevaluación técnica
+
+Autor: SII. Octubre de 1998.
+
+Este estudio contiene el informe de autoevaluación técnica de calidad desarrollado por el SII, en el marco del Premio Nacional a la Calidad de los Servicios Públicos. La autoevaluación comprende los siguientes aspectos: Liderazgo y compromiso de la Dirección, Satisfacción del Usuario, Desarrollo de las Personas y la Organización, Planificación Estratégica, Gestión de la Calidad de los Servicios y/o Productos Entregados, Información y Análisis, Impacto sobre la Comunidad, y Resultados.
+
+Para nuestra institución el brindar un servicio de calidad constituye una preocupación permanente, esta situación se ve reflejada en el "Premio Nacional a la Calidad", que le fue otorgado en octubre de 1998, por el Presidente de la República. Este premio es una consecuencia de la preocupación del servicio por autoevaluarse internamente para detectar aquellos aspectos susceptibles de ser mejorados.
+
+En esta página se incluye el Informe de Autoevaluación Técnica para poner a disposición de los contribuyentes de las preocupaciones que como institución tenemos por ser cada vez mejores.
+
+---
+
+[**Resumen**](estudios/resumen.htm)
+
+**1. Liderazgo y compromiso de la Dirección.**
+
+[1.1. Liderazgo de la Dirección.](subcr1_1.htm)
+
+[1.2. Valores de la Organización.](subcr1_2.htm)
+
+[1.3. Gestión para lograr calidad.](subcr1_3.htm)
+
+[1.4. Relaciones con otros Servicios e Instituciones.](subcr1_4.htm)
+
+**2. Satisfacción del Usuario.**
+
+[2.1. Requerimientos y expectativas de los usuarios.](subcr2_1.htm)
+
+[2.2. Gestión de las relaciones con el usuario.](subcr2_2.htm)
+
+[2.3. Estándares de servicio y compromiso con el usuario.](subcr2_3.htm)
+
+[2.4. Sistemas de medición de satisfacción del usuario.](subcr2_4.htm)
+
+**3. Desarrollo de las Personas y la Organización.**
+
+[3.1. Gestión del personal y relaciones laborales.](subcr3_1.htm)
+
+[3.2. Políticas de reconocimiento al desempeño.](subcr3_2.htm)
+
+[3.3. Capacitación y entrenamiento del personal.](subcr3_3.htm)
+
+[3.4. Promoción de igualdad de oportunidades.](subcr3_4.htm)
+
+[3.5. Nivel de compromiso del personal con los objetivos institucionales.](subcr3_5.htm)
+
+[3.6. Satisfacción del personal y calidad de vida al interior de la organización.](subcr3_6.htm)
+
+[3.7. Seguridad y prevención de riesgos.](subcr3_7.htm)
+
+**4. Planificación Estratégica.**
+
+[4.1. Planificación estratégica de las metas y procesos asociados.](subcr4_1.htm)
+
+[4.2. Planificación operativa.](subcr4_2.htm)
+
+[4.3. Sistemas de seguimiento y evaluación.](subcr4_3.htm)
+
+**5. Gestión de la Calidad de los Servicios y/o Productos Entregados.**
+
+[5.1. Diseño de productos (programas) y servicios de calidad.](subcr5_1.htm)
+
+[5.2. Gestión y mejoramiento continuo de los procesos principales.](subcr5_2.htm)
+
+[5.3. Gestión y mejoramiento continuo de los procesos en áreas de apoyo.](subcr5_3.htm)
+
+[5.4. Control y evaluación de los procesos de calidad.](subcr5_4.htm)
+
+[5.5. Gestión de la calidad de los proveedores.](subcr5_5.htm)
+
+**6. Información y Análisis.**
+
+[6.1. Datos y fuentes.](subcr6_1.htm)
+
+[6.2. Alcances y gestión de la información.](subcr6_2.htm)
+
+[6.3. Documentación.](subcr6_3.htm)
+
+**7. Impacto sobre la Comunidad.**
+
+[7.1. Protección del ambiente y conservación de los recursos.](subcr7_1.htm)
+
+[7.2. Percepción de la organización por parte de la comunidad.](subcr7_2.htm)
+
+[7.3. Información a la comunidad.](subcr7_3.htm)
+
+**8. Resultados.**
+
+[8.1. Resultados de los programas, productos y servicios.](subcr8_1.htm)
+
+[8.2. Resultado del mejoramiento de la productividad y la calidad en los procesos principales.](subcr8_2.htm)
+
+[8.3. Resultado del mejoramiento de la productividad y la calidad en los procesos de las áreas de apoyo.](subcr8_3.htm)
+
+[8.4. Resultados en la calidad de los proveedores.](subcr8_4.htm)
+
+[8.5. Resultados financieros.](subcr8_5.htm)
+
+[8.6. Resultados de la satisfacción de los usuarios.](subcr8_6.htm)
+
+[8.7. Resultados en la satisfacción del personal.](subcr8_7.htm)
+
+[**Glosario**](glosario.htm)
+
+---
+
+**Anexos**
+
+Anexo 1: "Informe sobre desconcentración territorial del SII."
+
+Anexo 2: "Experiencia del SII en el tema de la probidad funcionaria y lucha contra la corrupción."
+
+Anexo 3: "Un análisis del Sistema Tributario Chileno."
+
+Anexo 4: "Plan de lucha contra la evasión."
+
+Anexo 5: "Por los caminos de la modernización del estado."
+
+Anexo 6: "La aplicación de encuestas de opinión como instrumento para mejorar la calidad de atención al contribuyente."
+
+Anexo 7: "Políticas y procedimientos de capacitación."
+
+Anexo 8: "Oferta de capacitación regional 1998."
+
+Anexo 9: "Plan estratégico para la modernización del SII."
+
+Anexo 10: "Memoria del Servicio de Impuestos Internos. Año 1995."
+
+Anexo 11: "Informe de Gestión Operativa y Económica y Balance Presupuestario."
+
+Anexo 12: "Efectos de la Acción del Servicio de Impuestos Internos Sobre la Recaudación de IVA y Renta."
+
+Cerrar

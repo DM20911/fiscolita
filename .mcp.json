@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "asesor-tributario-sii": {
+      "command": "uv",
+      "args": ["run", "-q", "--python", "3.12", "--with", "mcp<2", "--with", "requests", "--with", "beautifulsoup4", "--with", "lxml", "--with", "markdownify", "python", "mcp_sii/server.py"]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+---
+url: https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas_servicios2012.htm
+titulo: JURISPRUDENCIA ADMINISTRATIVA: LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS 2012
+categoria: otros
+---
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra g). (Ord. N° 3438, de 18-12-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3438.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3438/click/'))  [Word](ventas/ja3438.doc)  
+Impuesto al Valor Agregado en arrendamiento de inmueble destinado a oficinas y locales comerciales.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2 – Ley N° 20.267, de 2008, Art. 2°, Art. 15°. (Ord. N° 3437, de 18-12-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3437.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3437/click/'))  [Word](ventas/ja3437.doc)  
+Aplicación de IVA a servicios de evaluación y certificación.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 8°, Art. 13°, N°7 – Ley sobre Impuesto a la Renta, Art. 20°, N°4. (Ord. N° 3436, de 18-12-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3436.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3436/click/'))  [Word](ventas/ja3436.doc)  
+Se ha solicitado a este Servicio un pronunciamiento respecto de la procedencia del Impuesto al Valor Agregado a los servicios de hemodiálisis que prestará a diversos pacientes de manera ambulatoria.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 23° – Res. Ex. N° 109, de 2005 – Oficio N° 2936, de 2012. (Ord. N° 3435, de 18-12-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3435.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3435/click/'))  [Word](ventas/ja3435.doc)  
+Solicita un pronunciamiento sobre el procedimiento para utilizar el crédito fiscal de IVA y el remanente del mismo, acumulado en cinco años, como resultado de la aplicación del cambio de sujeto que ordena la Res. Ex. N° 109, de 2005.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 3°, Art, 56° – Código Tributario, Art. 97°, N°10 – Resoluciones Exentas N°’s 109, de 2005 y 30 de 2006 – Oficio N° 55, de 2012. (Ord. N° 3155, de 15-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3155.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3155/click/'))  [Word](ventas/ja3155.doc)  
+Cambio de sujeto de derecho de IVA en ventas de medios de prepago de telefonía e Internet en caso que indica.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra e), Art. 23° – Circular N° 93, de 2001. (Ord. N° 3154, de 15-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3154.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3154/click/'))  [Word](ventas/ja3154.doc)  
+Uso como crédito fiscal de IVA pagado al cesionario de una factura no fidedigna o falsa.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra g), Art. 17° – D.S. N° 55, Art. 6 – Oficio N° 3486, de 1983. (Ord. N° 3153, de 15-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3153.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3153/click/'))  [Word](ventas/ja3153.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta al arrendamiento de inmuebles rurales con instalaciones.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra g), Art. 17° – D.S. N° 55, Art. 6 – Oficio N° 3486, de 1983. (Ord. N° 3026, de 06-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3026.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3026/click/'))  [Word](ventas/ja3026.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta al arrendamiento de inmuebles rurales con instalaciones.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°1, Art. 8°, Art. 23°, N°2, Art. 27° bis. (Ord. N° 3025, de 06-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3025.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja3025/click/'))  [Word](ventas/ja3025.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre la calidad de empresa constructora que tendría un Fondo de Inversión Privado, por la construcción de un inmueble, para efectos de gravar con IVA su posterior venta.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 21°, N°2, Art. 70° – Código Tributario, Art. 126°. (Ord. N° 2994, de 05-11-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2994.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2994/click/'))  [Word](ventas/ja2994.doc)  
+Tratamiento que debe darse a la resciliación de servicios en relación con el Impuesto al Valor Agregado y la posibilidad de solicitar la devolución del citado impuesto recargado en servicios resciliados a través del mecanismo del Art. 126 del Código Tributario.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, Letra E), N°17 – Circular N° 56, de 1991. (Ord. N° 2947, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2947.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2947/click/'))  [Word](ventas/ja2947.doc)  
+Procedencia de la exención de IVA establecida en el artículo 12°, letra E) N° 17 del D.L. 825 a servicios que indica.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 5°, Art. 11°. (Ord. N° 2937, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2937.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2937/click/'))  [Word](ventas/ja2937.doc)  
+Aplicación de IVA a servicios realizados en España.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 3° – Res. Ex. N° 109, de 2007. (Ord. N° 2936, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2936.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2936/click/'))  [Word](ventas/ja2936.doc)  
+Solicita un pronunciamiento sobre la procedencia de autorizar la devolución de remanente de crédito fiscal acumulado, producto de la aplicación de la Res. Ex. N° 109, de 2005.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 52° – D.S. N°55, de 1977, Art. 22°, Art. 73° – Res. Ex. N° 42, de 2007. (Ord. N° 2935, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2935.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2935/click/'))  [Word](ventas/ja2935.doc)  
+Solicita un pronunciamiento sobre la documentación a emitir en la comercialización de hidrocarburos efectuada por un operador, en virtud de las facultades otorgadas en el Contrato Especial de Operación para la Exploración y Explotación de yacimientos de hidrocarburos y en el Acuerdo de Operación Conjunta (JOA).
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 13°, N°4 – Código de Comercio, Art. 233° – Res. Ex. N° 6080, de 1999. (Ord. N° 2934, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2934.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2934/click/'))  [Word](ventas/ja2934.doc)  
+Requisitos que deben reunir los montos pagados por las empresas, en cumplimiento de su obligación de otorgar a sus trabajadoras el beneficio de sala cuna y jardín infantil, para que dichas sumas sean calificadas como un gasto necesario para producir la renta.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8° letra g, Art. 9, letra a), Art. 17°. (Ord. N° 2933, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2933.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2933/click/'))  [Word](ventas/ja2933.doc)  
+Impuesto al Valor Agregado en arrendamiento de inmuebles.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 13°, N°8 – Código de Comercio, Art. 263°, Art. 266°. (Ord. N° 2932, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2932.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2932/click/'))  [Word](ventas/ja2932.doc)  
+Procedencia de la exención establecida en el artículo 13 N° 8 del D.L. 825.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra g), letra i) – Oficios N°’s 2573, de 1991, 3030, de 2002. (Ord. N° 2931, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2931.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2931/click/'))  [Word](ventas/ja2931.doc)  
+Aplicación del Impuesto al Valor Agregado al arrendamiento de un box de estacionamiento, cuyo uso se cede conjuntamente con el arrendamiento de una oficina.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2 – Oficios N°’s 1419, de 2010 y 1918, de 2009. (Ord. N° 2930, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2930.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2930/click/'))  [Word](ventas/ja2930.doc)  
+Consulta situación tributaria frente al IVA de los servicios de ingeniería y otros, prestados por empresas constructoras.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 8° – Oficio N° 440, de 2012. (Ord. N° 2929, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2929.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2929/click/'))  [Word](ventas/ja2929.doc)  
+Aplicación del Impuesto al Valor Agregado a servicios de búsqueda y selección de personal.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 13°, N°7 – D.F.L. N°1, Art. 16°, Art. 49°, Art. 140° – Oficio N° 3225, de 2009. (Ord. N° 2928, de 29-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2928.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2928/click/'))  [Word](ventas/ja2928.doc)  
+Aplicación de exención contenida en el Art. 13°, N° 7, del D.L. N° 825, a terceros prestadores que, en virtud de un contrato o una autorización, sustituyen a los Servicios de Salud en los beneficios establecidos por ley.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 42°, letra d) – D.S. N° 977, de 1996, Art. 478, Art. 481. (Ord. N° 2900, de 26-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2900.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2900/click/'))  [Word](ventas/ja2900.doc)  
+Informa implicancias tributarias de la calificación sanitaria de alimentos para deportistas.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, Art. 12°, letras B), N°3 y E), N° 17. (Ord. N° 2899, de 26-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2899.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2899/click/'))  [Word](ventas/ja2899.doc)  
+Solicita información respecto a exenciones de IVA que beneficia a productos y servicios que indica.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 42°, letra d) – D.S. N° 977, de 1996, Art. 478, Art. 481 – Oficio N° 334, de 2010. (Ord. N° 2898, de 26-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2898.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2898/click/'))  [Word](ventas/ja2898.doc)  
+Aplicación del Impuesto Adicional a las Bebidas Alcohólicas Analcohólicas y productos similares establecido en el artículo 42, del D.L. 825, que afecta producto calificado como alimento para deportistas.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – D.L. N°910, de 1975, Art. 21° – Ley N° 19.537, Art. 19°. (Ord. N° 2554, de 01-10-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2554.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2554/click/'))  [Word](ventas/ja2554.doc)  
+Aplicación del beneficio contenido en el artículo 21°, del Decreto Ley N° 910, de 1975 a contratos de reparación y mantención cuando éste recae en viviendas sociales.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, Art. 36° – Decreto N° 188, del Ministerio de Agricultura, de 1978, Art. 44°. (Ord. N° 2475, de 25-09-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2475.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2475/click/'))  [Word](ventas/ja2475.doc)  
+Devolución de IVA por servicios de observación de semillas en campos experimentales.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra B, N° 10 – D.L. 600, de 1974 – Circular N° 48, de 1978 – Oficios N°’s 3209, de 1990, 157, de 1995 y 1850, de 2006. (Ord. N° 2373, de 07-09-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2373.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2373/click/'))  [Word](ventas/ja2373.doc)  
+Exención del Art. 12 letra B) N°10 del Decreto Ley N°825, de 1974, a la importación de bienes de capital por una sociedad constituida en Chile.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 13°, N°6 y N°7 – D.F.L. N° 1, de 2005, Art. 16°. (Ord. N° 2078, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2078.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2078/click/'))  [Word](ventas/ja2078.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre la procedencia de aplicar la exención contenida en el Art. 13°, N° 7, del D.L. N° 825, a laboratorio que presta sus servicios, en virtud de un convenio, a una Corporación Municipal de Educación, Salud Cultura y Atención del menor.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, Art. 17° – Circular N° 26, de 1987, Oficios N°’s 516 de 1997, 393, de 1998 y 1051 de 2011. (Ord. N° 2075, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2075.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2075/click/'))  [Word](ventas/ja2075.doc)  
+IVA en las ventas de terrenos urbanizados.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Decreto Ley N°910, de 1975, Art. 21° – Decreto Ley N°2552, de 1979, Art. 3°. (Ord. N° 2074, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2074.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2074/click/'))  [Word](ventas/ja2074.doc)  
+Procedencia del beneficio contenido en el Art. 21°, del D.L. N° 910, a contrato consistente en la confección y habilitación de rejas y pintura de fachadas, correspondiente a viviendas sociales.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°1, Art. 8°. (Ord. N° 2073, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2073.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2073/click/'))  [Word](ventas/ja2073.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta a las operaciones de compra y venta de Bonos de Carbono.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 52° – Circular N° 21, de 1991 – Oficio N° 542, de 1978. (Ord. N° 2072, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2072.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2072/click/'))  [Word](ventas/ja2072.doc)  
+Improcedencia de calificar tributariamente como sociedad de profesionales a empresa cuyo objeto es el control de plagas.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art, 8°, Art, 20°. (Ord. N° 2069, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2069.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2069/click/'))  [Word](ventas/ja2069.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre la aplicación de IVA a los servicios de cobranza de cuentas por cobrar que será licitado por un hospital.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 52°, Art. 53° – Res. Ex. N° 45, de 2003 – Oficio N° 1305, de 2011. (Ord. N° 2068, de 09-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2068.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja2068/click/'))  [Word](ventas/ja2068.doc)  
+Aplicación de IVA a servicios consistentes en la publicación de avisos de venta de autos en un sitio web especialmente diseñado para ello.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra E, N° 17° – Decreto N° 222, de 2011 del Ministerio de Economía, Fomento y Reconstrucción, Art. 3°, letra a) – Circular N°56, de 1991. (Ord. N° 1994, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1994.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1994/click/'))  [Word](ventas/ja1994.doc)  
+Solicita interpretación de exención contenida en el Art. 12°, letra E), N° 17, del D.L. N° 825, de 1974, respecto de hosterías, hostales y otros establecimientos que prestan servicios similares.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra E, N° 17° – Decreto N° 222, de 2011 del Ministerio de Economía, Fomento y Reconstrucción, Art. 3°, letra a) – Circular N°56, de 1991. (Ord. N° 1993, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1993.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1993/click/'))  [Word](ventas/ja1993.doc)  
+Solicita interpretación de la exención contenida en el Art. 12°, letra E), N° 17, del D.L. N° 825, de 1974, respecto de hosterías, hostales y otros establecimientos que prestan servicios similares.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra E, N° 17° – Decreto N° 222, de 2011 del Ministerio de Economía, Fomento y Reconstrucción, Art. 3°, letra a) – Circular N°56, de 1991. (Ord. N° 1985, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1985.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1985/click/'))  [Word](ventas/ja1985.doc)  
+Solicita reconsideración de Resolución, en que se deniega la autorización para inscribirse en el registro de empresas hoteleras, a fin de cumplir con el requisito establecido en el Art. 12°, letra E), N° 17, para hacer uso de la exención.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, Art. 2°, N°2, Art. 13°, N°2. (Ord. N° 1984, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1984.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1984/click/'))  [Word](ventas/ja1984.doc)  
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre la aplicación de IVA a los servicios de traslado efectuados en un helicóptero.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 3°, Art. 8°, letra d), Art. 23°, Art. 64°. (Ord. N° 1983, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1983.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1983/click/'))  [Word](ventas/ja1983.doc)  
+Posibilidad de no pagar el IVA al efectuar una importación, o bien de generar un crédito equivalente, que evite generar el desembolso de dicho impuesto.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – art. 23°, N°3, Art. 27° bis – Circular N° 94, de 2001. (Ord. N° 1982, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1982.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1982/click/'))  [Word](ventas/ja1982.doc)  
+Procedencia de que las sumas adicionadas como débito fiscal por concepto de restitución adicional conforme con el artículo 27° bis, sean reconocidas y restituidas cómo crédito fiscal del contribuyente en caso que indica.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, Art. 2°, N°2, Oficio N°’s 357 y 723 de 2001, N° 4492, de 2003, N° 3424, de 2004 y N° 465, de 2011. (Ord. N° 1981, de 06-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1981.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1981/click/'))  [Word](ventas/ja1981.doc)  
+Aplicación de Impuesto al Valor Agregado a servicios de fiscalización e inspección técnica de rellenos sanitarios.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Ley N° 18.290, Art. 91° bis – Ley N° 20.388 – Circulares N° 10, de 2010 y N°35 de 1977. (Ord. N° 1953, de 03-08-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1953.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1953/click/'))  [Word](ventas/ja1953.doc)  
+Cumplimiento de obligaciones tributarias de trabajadores que ejercen el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 3°, Art. 8°, Art. 23°. (Ord. N° 1773, de 20-07-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1773.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1773/click/'))  [Word](ventas/ja1773.doc)  
+Pago de IVA que debe soportar una Organización No Gubernamental.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2 – Código Tributario, Art. 64°. (Ord. N° 1153, de 15-05-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1153.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1153/click/'))  [Word](ventas/ja1153.doc)  
+Aplicación del Impuesto al Valor Agregado a las remuneraciones recibidas como contrapartida a un conjunto de servicios en virtud de la aplicación del Principio de la Indivisibilidad.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra h), Art. 12°, letra E), N° 16 – Ley sobre Impuesto a la Renta, Art. 30°, Art. 31°, Art. 59°, N°4. (Ord. N° 1152, de 15-05-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1152.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1152/click/'))  [Word](ventas/ja1152.doc)  
+Tratamiento tributario de los ingresos percibidos por servicios informáticos, en relación con los Impuestos al Valor Agregado y a la Renta.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Decreto Ley N° 2564, DE 1979, Art. 8° – Ley sobre Impuesto a la Renta, Art. 59°, Art. 60° – Oficio N°s 4250, de 1999 y 77 de 2005. (Ord. N° 1151, de 15-05-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1151.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1151/click/'))  [Word](ventas/ja1151.doc)  
+Aplicación de la franquicia del Art. 8 del Decreto Ley N°2.564, de 1979, al arrendatario de una aeronave que la explota comercialmente y que la arrienda de una entidad financiera chilena.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 23°, N°4. (Ord. N° 1144, de 15-05-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1144.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja1144/click/'))  [Word](ventas/ja1144.doc)  
+Procedencia que un contribuyente utilice como crédito fiscal, el impuesto soportado en la adquisición de un vehículo, utilizado en su actividad de vendedor ambulante.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, Art. 3° – Ley de la Renta, Art. 40°, N°4 – Circular N° 64, de 2001 – Oficios N°’s 2126 de 1989 y 4840 de 2004. (Ord. N° 555, de 07-03-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja555.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja555/click/'))  [Word](ventas/ja555.doc)  
+Tributación de la venta de artículos promocionales por parte de los distintos Cuerpos de Bomberos de Chile.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 8° – Código Tributario, Art. 15°, Art. 26° – Código de Comercio, Art. 3°, N°7. (Ord. N° 440, de 17-02-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja440.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja440/click/'))  [Word](ventas/ja440.doc)  
+Impuesto al Valor Agregado que afecta al servicio de selección de personal. Cambio de criterio.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°1, Art. 8° letra g) – Oficios N°’s 1921, de 1997, 4561 de 1999 y 4253 de 2005. (Ord. N° 388, de 14-02-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja388.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja388/click/'))  [Word](ventas/ja388.doc)  
+Aplicación del Impuesto al Valor Agregado a diversos servicios informáticos asociados al licenciamiento de un software, los cuales forman parte de un solo contrato
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°2, Art. 15°, Art. 52°, Art. 56° – Resolución Exenta N°63 de 2005 – Oficio N° 2181 de 2009. (Ord. N° 301, de 31-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja301.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja301/click/'))  [Word](ventas/ja301.doc)  
+Aplicación de lo dispuesto en Resolución Exenta del Servicio de Impuestos Internos N° 63 de 2005 a contribuyentes que exploten máquinas pelucheras.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra h), Art. 5°, Art. 12°, letra E), N°7, Art. 59° – Ley N° 17.336, Art. 3°, N°1. (Ord. N° 300, de 31-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja300.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja300/click/'))  [Word](ventas/ja300.doc)  
+Tratamiento tributario de la actividad de comercialización por Internet de libros en formato digital.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 2°, N°1 y 3, Art. 8°, Art. 37°, Art. 40°. (Ord. N° 299, de 31-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja299.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja299/click/'))  [Word](ventas/ja299.doc)  
+Impuestos que afectan a la importación y comercialización de barras pequeñas de oro certificadas internacionalmente.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Decreto Ley N° 910, de 1975, Art. 21° – Circular N° 52 de 2008 – Oficios N°’s 3386 de 2009, 2163, de 1988, 1345, de 1988, 2410, de 2009, 641, de 2009. (Ord. N° 298, de 31-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja298.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja298/click/'))  [Word](ventas/ja298.doc)  
+Procedencia de aplicar la franquicia contenida en el art. 21° del D.L. N°910 de 1975 a diversos proyectos de construcción.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 12°, letra E), N° 16, Art. 36°. (Ord. N° 221, de 27-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja221.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja221/click/'))  [Word](ventas/ja221.doc)  
+Solicita eliminar trabas limitantes a la exportación de servicios.
+
+[Ventas y Servicios – Nuevo Texto – Actual Ley Sobre Impuesto a las – Art. 8°, letra g. (Ord. N° 206, de 27-01-2012)](javascript:link_cert('https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja206.htm','https://www.sii.cl/pagina/jurisprudencia/adminis/2012/ventas/ja206/click/'))  [Word](ventas/ja206.doc)  
+Tratamiento tributario frente al Impuesto al Valor Agregado en arriendo de inmuebles.

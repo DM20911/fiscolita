@@ -1,0 +1,70 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso96.doc
+titulo: Word – Resolución Exenta SII N°96 del 30 de Junio del 2009 Autoriza a Ticketpro Ltda. Para Emitir Boletas de Servicios de Ingreso a Espectáculos Públicos, por Cuenta de Terceros, en la Forma y Condiciones que Indica. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°96 DEL 30 DE JUNIO DEL 2009 MATERIA : AUTORIZA A TICKETPRO LTDA. PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: 
+La solicitud presentada por don Alejandro J. Amenábar Villaseca, RUT N° 5.816.265-5 y don Daniel F. Costadoat Carrasco, RUT N° 9.425.507-4, ambos en representación de TICKETPRO LTDA., RUT N° 76.048.589-6, domiciliados en Monseñor Escrivá de Balaguer N° 6327, comuna de Vitacura, en la que piden autorización para emitir boletas de servicios, en su calidad de mandatarios, para el ingreso a espectáculos y reuniones pagadas presentados o promovidos por terceras personas,conforme lo dispone la Resolución Exenta N° 5028 de 28.08.1998, de esta Dirección Nacional.
+                     Los artículos 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977; la Resolución N° 75, de 17 de Junio de 1985, del Director del Servicio; las atribuciones que se me confieren en el N° 9 de la Res. Ex. N° 5028, de 1998, ya citada, y
+
+
+CONSIDERANDO:
+
+
+1° Que, el artículo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reúnan los requisitos exigidos por el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda N° 55, de 1977, reglamentario de la ley, siempre que a su juicio se resguarden debidamente los intereses fiscales.
+
+
+2° Que, mediante la Resolución N° 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, estableció requisitos distintos a los establecidos en la letra B, del artículo 69 del Decreto Supremo N° 55, de 1977, para las boletas de servicios que deben emitirse por entradas a los espectáculos y reuniones pagadas, sean ocasionales o habituales.  
+
+                     3° Que, por Resolución EX.SII. N°5028, de 28 de agosto de 1998, el Director del Servicio de Impuestos Internos delegó, en el Subdirector de Fiscalización, la facultad para autorizar la emisión de boletas que no reúnan los requisitos exigidos por la Ley y el Reglamento, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interés fiscal se encuentra debidamente resguardado.   
+
+
+
+
+4° Que, analizada la petición y los antecedentes acompañados, esta Dirección Nacional estima que la emisión de boletas de entradas a espectáculos y reuniones pagadas por cuenta de terceros mandantes, que hará la empresa TICKETPRO LTDA. por medios computacionales, en la forma que se establece en la Resolución Ex.SII.N° 5058, de 1998, precitada, resguarda debidamente el interés fiscal.
+
+
+
+SE RESUELVE:
+
+
+1° AUTORÍZASE a TICKETPRO LTDA., RUT N° 76.048.589-6, para que emita, por cuenta de terceros mandantes, boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, con los requisitos que señala la Resolución   Ex.SII N° 5028 de 28.08.1998, del Servicio de Impuestos Internos.
+
+
+ 2°  Las boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, deben ser emitidas en forma individual.            
+                                                                          
+
+
+
+ ANOTESE, NOTIFÍQUESE Y COMUNÍQUESE
+  
+                                                                                                        
+
+
+         IVAN BELTRAND CRUZ  
+                                                           SUBDIRECTOR DE FISCALIZACION                     
+
+  
+    
+
+
+
+
+
+                            
+IBC/RPA/CMV
+DISTRIBUCION
+- Sres. Alejandro Amenábar y Daniel Costadoat, en representación de
+  TICKETPRO LTDA.
+  Monseñor Escrivá de Balaguer N° 6327, Vitacura, Santiago
+- Subdirección de Fiscalización 
+- Departamento de Atención y Asistencia de Contribuyentes
+- Internet
+- Oficina de Partes
+- Archivo 
+

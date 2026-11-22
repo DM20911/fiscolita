@@ -1,0 +1,83 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso13.doc
+titulo: Word – Resolución Exenta SII N°13 del 29 de Enero del 2004 Establece Obligación al Banco de Chile de Presentar Declaración Jurada al SII, en la Forma y Plazos que se Señalan, Sobre los Accionistas Acogidos a la Ley N° 18.041. Fuente: Depto. Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°13 DEL 29 DE ENERO DEL 2004 MATERIA : ESTABLECE OBLIGACIÓN AL BANCO DE CHILE DE PRESENTAR DECLARACIÓN JURADA AL SII, EN LA FORMA Y PLAZOS QUE SE SEÑALAN, SOBRE LOS ACCIONISTAS ACOGIDOS A LA LEY N° 18.041.
+
+
+	Hoy se ha resuelto lo que sigue:
+	
+
+	
+VISTOS: Lo dispuesto en el artículo 60, inciso 8° del D.L. Nº 830, de 1974, los artículos 5° y 19° de la Ley 19.880, de 2003, Resolución Ex. N° 4.228 de 1999, y
+
+
+CONSIDERANDO:
+
+1.- Que, con el propósito de cumplir cabalmente con las obligaciones propias del Servicio de Impuestos Internos de fiscalizar el cumplimiento de las disposiciones tributarias que la Ley le encomienda, es necesario contar con la información pertinente sobre las rentas, créditos y rebajas de los contribuyentes que deben presentar su declaración de impuesto anual a la renta.
+
+2.-  Que, de acuerdo a lo indicado en el artículo 60, inciso octavo del Código Tributario, para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el servicio puede pedir declaración jurada, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas.
+
+3.- Que, el Banco de Chile, está autorizado para llevar su contabilidad en hojas sueltas por medios computacionales, de acuerdo a lo dispuesto en la Resolución Ex. N° 4.228, de 1999.
+
+4.- Que, anualmente el Banco de Chile ha entregado la información, en los plazos y formas que ha sido requerido por este Servicio.
+
+
+SE RESUELVE:
+
+1.- Con motivo de la correcta implementación del proceso Operación Renta que fiscaliza anualmente las declaraciones de Impuestos a la Renta, se hace necesario imponer al Banco de Chile, la obligación de presentar una declaración jurada, en la forma y plazo que se indica con información del Rut del accionista acogido a la Ley N° 18.041 e indicador de pago.
+
+2.- La declaración jurada requerida anualmente, instrucciones y formato de registro, deberán obtenerse en la página Web del Servicio,  HYPERLINK "http://www.sii.cl" www.sii.cl, en la cual se encontrarán disponibles un mes antes del vencimiento del plazo que se establece para su entrega.
+
+3.- La información detallada en el formato de registro, deberá ser remitida a este Servicio a más tardar el 7 de mayo de cada año, mediante transmisión electrónica de datos, a través del sitio web,   HYPERLINK "http://www.sii.cl" www.sii.cl, en el menú de Declaraciones Juradas.
+
+4.- En el evento que la declaración jurada presente problemas o deficiencias, el Servicio, dentro de los cinco días hábiles siguientes a su recepción, comunicará esta circunstancia al Banco a través del sitio Web,  HYPERLINK "http://www.sii.cl" www.sii.cl, para los efectos de que éste rectifique su declaración en el plazo de cinco días hábiles.
+
+5.- Con todo, si se detectan situaciones que impliquen cambios en la información proporcionada en los plazos admitidos, deberá rectificar la información inicialmente proporcionada, en la misma forma y medio indicado en el Resolutivo N° 3. En estos casos, deberá entregarse la nómina completa, incluyendo modificaciones y antecedentes sin modificar.
+
+6.- La presente Resolución regirá a partir del Año Tributario 2004, respecto de los antecedentes existentes en el Banco de Chile durante el año comercial 2003 y para los años tributarios siguientes, entregando la información del año comercial respectivo.
+
+
+ANÓTESE, COMUNÍQUESE Y NOTIFIQUESE 
+
+
+
+
+
+
+(FDO.) JUAN TORO RIVERA
+     		 DIRECTOR
+
+
+
+
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.,
+
+
+
+
+
+
+
+DISTRIBUCIÓN: 
+SECRETARÍA DIRECTOR
+SUBDIRECCIÓN DE FISCALIZACIÓN
+SUBDIRECCIÓN NORMATIVA
+SUBDIRECCIÓN JURÍDICA
+SUBDIRECCIÓN DE INFORMATICA
+DEPARTAMENTO DE OPERACIÓN RENTA 
+DEPTO. IMPUESTOS DIRECTOS
+OFICINA DE PARTES 
+DIARIO OFICIAL 
+INTERNET
+
+
+
+
+
+
+

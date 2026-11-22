@@ -1,0 +1,69 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso42.doc
+titulo: Word – Resolución Exenta SII N°42 del 29 de Marzo del 2011 Introduce Modificaciones al Formulario N° 29, Sobre Declaración Mensual y Pago Simultáneo de Impuestos. Fuente: Departamento de Personas y de Micro y Pequeñas Empresas
+categoria: otros
+---
+RESOLUCION EXENTA SII N°42 DEL 29 DE MARZO DEL 2011 MATERIA : INTRODUCE MODIFICACIONES AL FORMULARIO N° 29, SOBRE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D. F. L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15 de Octubre de 1980; en el artículo 6° letra A N° 1 y en los artículos 8° quáter, 29 y 30 inciso primero del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; las normas pertinentes de la Ley de la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; las normas pertinentes contenidas en la Ley sobre Impuesto a las Ventas y Servicios contenida en el artículo 1° del D. L. N° 825, de 1974; lo dispuesto en la Resolución Ex. N° 74, de 16 de diciembre  de 2003, y sus modificaciones posteriores; lo dispuesto en la Resolución Ex. SII N° 12, del 1° de febrero de 2011; y lo dispuesto en las Leyes N° 20.493 y N° 20.494, publicadas en el Diario Oficial del 14 de febrero del 2011 y del 27 de enero de 2011, respectivamente.
+
+
+CONSIDERANDO:
+1°	Que, es preocupación permanente del Servicio de Impuestos Internos, mejorar el control y fiscalización de los impuestos que el artículo 1° de su Ley Orgánica ha colocado en la esfera de su competencia, y facilitar también el cumplimiento de las obligaciones tributarias por parte de los contribuyentes.
+2°	Que, mediante Resolución Ex. SII N° 12, del 1° de febrero de 2011, se impartieron instrucciones sobre el procedimiento para la autorización de facturas de inicio establecidas a partir de la vigencia de la Ley N° 20.494, publicada en el Diario Oficial de 27 de Enero de 2011, fijando  requisitos para el cumplimiento de dicho trámite; estableciendo que los vendedores emisores de facturas de inicio, deberán registrar estas operaciones en los Códigos 515 y 587 de su declaración mensual Formulario 29 correspondiente a operaciones de venta con retención total del impuesto. 
+3°	Que, mediante la Ley N° 20.493, publicada en el Diario Oficial del 14 de febrero del 2011, que crea un nuevo sistema de protección al contribuyente ante variaciones de los precios internacionales de los combustibles, se crearon mecanismos que faciliten el ajuste a los Impuestos Específicos a los Combustibles establecidos en la Ley N° 18.502, a las nuevas condiciones de los precios de venta internos de la gasolina automotriz, del petróleo diesel y del gas natural comprimido y gas licuado de petróleo, ambos de consumo vehicular, motivadas por cambios en sus cotizaciones internacionales; estableciendo, entre otras disposiciones, que la tasa de los Impuestos Específicos a los Combustibles que se aplique será igual al componente base sumando o restando, según corresponda, el componente variable calculado y determinado de conformidad a dicha ley, y que los contribuyentes del Impuesto al Valor Agregado que tengan derecho a recuperación de dichos Impuestos Específicos deben calcular el monto de dicha recuperación sobre la base de los impuestos así determinados y que si el monto a recuperar resultare negativo, su valor absoluto deberá ser sumado a los débitos del Impuesto al Valor Agregado.
+4°	Que, con motivo de la modificación legal en comento, se hace necesario modificar el Formulario N° 29, establecido mediante la Resolución Ex N° 74, de 16.12.2003, modificada por las Resoluciones Ex N°s. 45, de 30.04.2004; 62, de 13.07.2004; 151, de 29.12.2005; 165, de 18.12.2008; 56, de 24.04.2009; 158, de 26.10.2009 y 143, de 31.08.2010.
+SE RESUELVE:
+1°	MODIFÍCASE, la Resolución SII Ex N° 74, de 16 de Diciembre de 2003, y sus modificaciones posteriores, en lo referido al actual diseño del formulario 29 sobre Declaración Mensual y Pago Simultáneo de Impuestos, en los siguientes términos:
+a) Reemplázase la línea 5 del actual formulario 29 por la siguiente: “Facturas de Compra recibidas con retención total (contribuyentes retenidos) y Facturas de inicio emitidas”.
+b) Incorpórese la siguiente línea, conceptos y códigos respectivos al actual formulario 29: 
+
+LíneaConceptoM3CódigoComponente del Impto.CódigoComponente del Impto.CódigoCódigo19Adiciones al Débito por IEPD Ley 20.493M3738Base739Variable740741c) Incorpórense en la línea 38 “Recuperación de Impuesto Específico al Petróleo Diesel (Art. 7° Ley 18.502, Arts. 1° y 3° D.S. N° 311/86)” y en la línea 39 “Recuperación Impuesto Específico Petróleo Diesel soportado por Transportistas de Carga (Art. 2° Ley N° 19.764)”, los siguientes códigos: 
+Línea
+Código
+Componente del Impuesto
+Código
+Componente del Impuesto
+38
+742
+Base
+743
+Variable
+39
+744
+Base
+745
+Variable
+2° A partir del 1° de abril de 2011, los contribuyentes obligados a declarar y pagar mensualmente sus obligaciones tributarias a través del Formulario 29, sobre Declaración y Pago Simultáneo Mensual, deberán utilizar el nuevo diseño de dicho formulario que se establece mediante el resolutivo anterior. Tratándose de contribuyentes que declaren a través de Internet, el nuevo formato del referido formulario estará disponible a contar del 04 de marzo de este año. 
+3° Las declaraciones mensuales de impuestos que deban ser efectuadas por medio del Formulario 29, y asimismo, las declaraciones rectificatorias en dicho formulario, que correspondan a períodos tributarios anteriores a la vigencia de la presente resolución, deberán utilizar el mismo formato del formulario establecido en el resolutivo 1°. 
+4° El nuevo Formulario 29, con sus nuevos códigos e instrucciones, se incorporan mediante anexos N°s 1 a 4, que se adjuntan a la presente resolución, y se  entienden formar parte íntegra de ella.
+5° Las copias impresas que se obtengan del Formulario 29, contenido en anexo a la presente resolución, no son válidas para declarar y pagar en los Bancos o Instituciones Financieras autorizadas. 
+6° La presente resolución se publicará, en extracto, en el Diario Oficial.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+DISTRIBUCIÓN: Boletín del SII Diario Oficial (Extracto)
+Internet
+Oficina de Gestión Normativa
+
+ANEXOS:
+Anexo 1 (Anverso Formulario N° 29)
+Anexo 2 (Reverso Formulario N° 29)
+Anexo 3 (Instrucciones para llenar el Formulario 29)
+Anexo 4 (Instrucciones para llenar el Formulario 29)
+
+
+
+
+
+
+
+
+
+
+

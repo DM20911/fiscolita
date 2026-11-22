@@ -1,0 +1,71 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso50.doc
+titulo: Word – Resolución Exenta N°50 del 07 de Diciembre del 2001 Modifica Resolución Nº Ex 5111 que Establece Obligación de los Bancos e Instituciones Financieras de Informar Al SII los Intereses u Otras Rentas Pagados o Abonados en Cuenta a sus Clientes por Operaciones de Captación de Cualquier Naturalez
+categoria: otros
+---
+RESOLUCION EXENTA N°50 DEL 07 DE DICIEMBRE DEL 2001 MATERIA : MODIFICA RESOLUCIÓN Nº EX 5111 QUE ESTABLECE OBLIGACIÓN DE LOS BANCOS E INSTITUCIONES FINANCIERAS DE INFORMAR AL SII LOS INTERESES U OTRAS RENTAS PAGADOS O ABONADOS EN CUENTA A SUS CLIENTES POR OPERACIONES DE CAPTACIÓN DE CUALQUIER NATURALEZA, NO ACOGIDOS AL MECANISMO DE INCENTIVO AL AHORRO DE LA LETRA A) DEL ARTICULO 57 BIS DE LA LEY DE LA RENTA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el  artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980; en el artículo 6°, letra A, N° 1 y en el artículo 63, inciso primero del Código Tributario, contenido en el D.L. N° 830, de 1974, y en los artículos pertinentes de la Ley sobre Impuesto a la Renta contenida en el artículo 1 del D.L. 824, de 1974, y 
+
+
+CONSIDERANDO:
+
+
+1.- Que, mediante la Resolución N° Ex 5111, publicada en el D.O. del 31.10.95,  modificada por las Resoluciones N°s. Ex  5534, D.O. 3.12.96; Ex 6172, de 16.12.97; Ex 7211, de 10.12.98  y Ex 5224, D.O. de 30.11.00 se ha establecido la obligación que tienen los contribuyentes de presentar al Servicio de Impuestos Internos las declaraciones juradas sobre la materia que en ellas se indica en la forma y fechas que en ellas se señala.
+
+
+2.-  Que, la  Ley N° 19.738 publicada en el D.O. de 19.06.2001, a través de la letra n) de su artículo 2°, agregó en el inciso final del artículo 101°,  de la Ley de la Renta, a continuación del vocablo "instituciones" y antes del punto (.) seguido, lo siguiente: "y el Banco Central de Chile respecto de las operaciones de igual naturaleza que efectúe".
+
+
+3.- Que, en procura de una mayor eficiencia  en el manejo de la información por parte del Servicio, y de acuerdo con la modificación incorporada al artículo 101 de la Ley de la Renta indicada en el considerando anterior, se debe hacer exigible al Banco Central de Chile la obligación que se establece a través de la Res. Ex. N° 5111 de 1995. 
+
+SE RESUELVE:
+
+
+1.- Introdúcense las siguientes modificaciones a la  Resolución N° Ex 5111, publicada en el D.O. del 31.10.95, modificada por las Resoluciones N°s. Ex  5534, D.O. 03.12.96; 6172, D.O.16.12.97, 7211, D.O. de 10.12.98 y 5224, D.O.30.11.00.:
+
+a) En el encabezamiento  a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+b) En el considerando  N° 3, a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+c) En el resolutivo N° 1, a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+d) En el resolutivo N° 2, a continuación de la palabra “Bancos” agréguese la siguiente frase “,Banco Central de Chile”.
+
+
+2.- La presente resolución regirá a contar del Año Tributario 2002, respecto del informe que debe presentarse por las operaciones efectuadas durante el año comercial 2001 y siguientes.  
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+(Fdo) ALFREDO ECHEVERRIA HERRERA
+ DIRECTOR (S)
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+Secretaria Director
+Subdirección Fiscalización
+Oficinas de Partes 
+Internet
+Diario Oficial (en extracto)
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso146.doc
+titulo: Word – Resolución Exenta SII N°146 del 08 de Septiembre del 2010 Amplía Excepcionalmente Plazo de la Resolución Ex. Sii N° 126, de 1° de Septiembre de 2009. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°146 DEL 08 DE SEPTIEMBRE DEL 2010 MATERIA : AMPLÍA EXCEPCIONALMENTE PLAZO DE LA RESOLUCIÓN EX. SII N° 126, DE 1° DE SEPTIEMBRE DE 2009.
+
+Hoy se ha resuelto lo siguiente:
+
+VISTOS: 
+
+Las facultades contenidas en el Artículo 6°, letra A), N° 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. N° 7, de Hacienda de 1980; lo dispuesto en el Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios y en su reglamento, contenido en el Decreto Supremo de Hacienda N° 55, de 1977; y la Resolución Ex. SII N° 126, del 1° de septiembre de 2009, que autoriza temporalmente a Petrobras Chile Distribución Ltda. la utilización de sistema de emisión de documentos que se indica.
+
+La presentación efectuada por don Vilson Reichemback Da Silva, de fecha 20 de mayo de 2010, en representación de Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, en la que solicita la extensión, hasta septiembre de 2011, del plazo de autorización para operar con el sistema integrado de venta de combustibles y lubricantes a través de tarjetas de crédito; y de venta de combustibles a través de tarjetas prepagadas, denominado “Petrobras Flota – Ticket Car”, fijado por la Resolución Ex. SII N° 126, de 01 de septiembre de 2009. 
+
+
+CONSIDERANDO:
+
+1° Que, el contribuyente individualizado, fundamenta su solicitud en que se encuentra realizando las pruebas de certificación establecidas en la Resolución Ex. SII N°45, del 01 de septiembre del 2003.
+
+2° Que, el resolutivo 3° de la Resolución Ex. SII N° 126, del 01 de septiembre del 2009, señala que el contribuyente Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5, puede solicitar la renovación de la vigencia de autorización de emisión especial de documentos tributarios que fija dicha resolución, fundado en la existencia de razones de fuerza mayor.
+
+3° Que, a juicio de este Servicio, en mérito a las razones antes expuestas, en conformidad a lo dispuesto en el artículo 56° del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, resulta procedente acceder a lo solicitado por el contribuyente. 
+
+
+
+SE RESUELVE:
+
+
+1°.- AMPLÍASE en 8 meses el plazo establecido en el resolutivo 3° de la Resolución Ex. SII N° 126, del 1° de septiembre de 2009, publicada en extracto en el Diario Oficial el 04 de septiembre del mismo año, otorgado a Petrobras Chile Distribución Ltda., RUT N° 79.588.870-5.
+
+2°.- Si el contribuyente manifestara razones de fuerza mayor que, a su juicio, puedan calificarse como atendibles para eventualmente acceder a la renovación del aplazamiento de esta autorización de emisión especial de documentos tributarios y uso de los sistemas descritos en detalle en la Resolución Ex. SII N°126, 01 de septiembre de 2009, podrá solicitar aquella antes del vencimiento del plazo otorgado en el presente resolutivo, mediante formulario 2117 de peticiones administrativas, el que se tramitará conforme al procedimiento general.
+
+3°.- La presente resolución se publicará, en extracto, en el Diario Oficial.
+
+
+
+ANÓTESE, COMUNÍQUESE, NOTIFÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/RPA/HSS/CPG
+DISTRIBUCIÓN:
+-	Al Boletín
+-	A Internet
+-	Al Diario Oficial en Extracto
+

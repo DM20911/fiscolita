@@ -1,0 +1,188 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso9.doc
+titulo: Word – Resolución Exenta SII N°09 del 19 de Enero del 2012 Establece Regulaciones Comunes en Relación al Intercambio de Información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, Referidas a la Obligación de Cotizar de los 
+categoria: otros
+---
+RESOLUCION EXENTA SII N°09 DEL 19 DE ENERO DEL 2012 MATERIA : ESTABLECE REGULACIONES COMUNES EN RELACIÓN AL INTERCAMBIO DE INFORMACIÓN ENTRE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES, EL SERVICIO DE IMPUESTOS INTERNOS Y LA TESORERÍA GENERAL DE LA REPÚBLICA, REFERIDAS A LA OBLIGACIÓN DE COTIZAR DE LOS TRABAJADORES
+
+Hoy se ha resuelto lo que sigue: 
+
+
+
+	
+
+VISTOS: 	Lo dispuesto en el número 3 del artículo 94; en el artículo 92 A del D.L. N° 3.500, de 1980; en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras de Fondos de Pensiones.
+
+			
+
+REF:  	Establece regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, referidas a la obligación de cotizar de los trabajadores independientes. Agréguese el siguiente nuevo Título XIV al Libro II del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, cuyo contenido corresponderá a los Capítulos I, II, III y IV de la presente norma.
+
+
+
+
+OBLIGACIONES DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES 
+
+A más tardar el último día hábil del mes de febrero de cada año, las Administradoras de Fondos de Pensiones -en adelante AFP o Administradoras- deberán determinar y comunicar al Servicio de Impuestos Internos -en adelante SII- el porcentaje promedio simple de las comisiones por depósito de cotizaciones periódicas que hubieren cobrado a sus afiliados durante el año calendario anterior a la fecha de envío de la información, considerando el período en que aquélla tuvo operaciones.
+
+Adicionalmente, la Administradora que al mes de diciembre del año calendario anterior a la fecha de envío de la información, registra la calidad de AFP adjudicataria según lo dispuesto en el Título XV del decreto ley N° 3.500, de 1980, deberá informar al SII el porcentaje promedio simple de las comisiones por depósito de cotizaciones periódicas que cobró en tal calidad a sus afiliados durante el período licitado.
+
+Además, la o las Administradoras que durante el año calendario anterior a la fecha de envío de la información, registraron la calidad de AFP adjudicatarias, deberán informar al SII el período de tiempo en que ejercieron esa función durante dicho año calendario. 
+
+
+Las Administradoras deberán informar al SII, a más tardar el último día hábil del mes de febrero de cada año, las cotizaciones declaradas y pagadas y aquellas declaradas y no pagadas en la AFP en el año calendario anterior, individualizadas por RUT y que se encuentren acreditadas, de acuerdo al siguiente detalle:
+
+El monto total anual actualizado de los pagos provisionales de las cotizaciones enterados por los trabajadores independientes, correspondientes a las rentas devengadas durante el año calendario anterior a la fecha del envío.
+
+El monto total anual actualizado de las cotizaciones pagadas por los trabajadores independientes, correspondientes a las rentas devengadas durante el año calendario anterior a la fecha del envío.
+
+El monto total anual actualizado de las cotizaciones obligatorias declaradas y pagadas por el o los empleadores y por las entidades pagadoras de subsidios, correspondientes a las remuneraciones devengadas en el año calendario anterior a la fecha del envío, respecto de los afiliados que mantuvo vigentes la AFP en dicho año calendario y una vez que se haya finalizado el plazo establecido para acreditar la recaudación recibida correspondiente a las remuneraciones devengadas en el mes de diciembre del referido año calendario. Para lo anterior se deberá considerar todas las cotizaciones enteradas dentro del plazo legal, las que se declararon y posteriormente se pagaron y las que se declararon y pagaron fuera del plazo legal.
+
+El monto total anual actualizado de las cotizaciones obligatorias declaradas y no pagadas por el o los empleadores, correspondientes a las remuneraciones devengadas durante el año calendario anterior a la fecha del envío, las cuales registran un saldo pendiente de pago al término del plazo establecido para acreditar la recaudación recibida correspondiente a las remuneraciones devengadas en el mes de diciembre del referido año calendario, respecto de cada uno de los afiliados incluidos en las respectivas declaraciones.
+
+La información detallada en las letras c) y d) anteriores se deberá enviar en forma separada en los siguientes conceptos: cotización obligatoria para la cuenta de capitalización individual, comisión de la Administradora y cotización para el financiamiento del seguro de invalidez y sobrevivencia. La información anterior será utilizada por el SII, para obtener la remuneración imponible necesaria para el cálculo de la cotización obligatoria de los trabajadores independientes.
+
+
+Los valores monetarios a que se refiere el número anterior, deberán ser informados en forma reajustada al 31 de diciembre del año calendario anterior a la fecha del envío, para lo cual las Administradoras deberán aplicar el porcentaje de variación experimentada por el Índice de Precios al Consumidor entre el último día del mes que antecede al pago de la cotización o pago provisional mensual de las cotizaciones y el último día del mes de noviembre del respectivo año calendario.
+
+
+Para efectos de determinar aquellos trabajadores independientes que ya dieron cumplimiento a su obligación de cotizar por el límite máximo imponible que establece la ley, las Administradoras deberán informar la suma total anual de cotizaciones y pagos provisionales detallados en las letras anteriores, expresadas en Unidades de Fomento con un decimal. Para la determinación de este total, la Administradora deberá considerar los montos nominales en pesos de las cotizaciones y pagos provisionales correspondientes a las remuneraciones o rentas devengadas en cada mes del año calendario anterior a la fecha del envío, expresados en U.F. al valor del último día del mes de devengamiento de las remuneraciones o rentas que sirvieron de base para el cálculo de las respectivas cotizaciones y pagos provisionales.
+
+
+Conjuntamente con la información a que se refiere el número 2. anterior, cada AFP deberá comunicar al SII, respecto de sus afiliados activos y pensionados al primer día hábil del mes de febrero de cada año, la información que a continuación se detalla:
+
+Una nómina de sus afiliados activos, indicando para cada uno de ellos su RUT, los porcentajes de la cotización obligatoria para la cuenta de capitalización individual, la cotización destinada al financiamiento del seguro de invalidez y sobrevivencia y el porcentaje promedio simple de las comisiones por depósito de cotizaciones periódicas, que corresponde al afiliado de acuerdo a lo establecido en el número 1 anterior, y la fecha de incorporación a la AFP.
+
+Una nómina de sus afiliados pensionados, independientemente de la modalidad de pensión seleccionada, indicando para cada uno de ellos su RUT y el tipo de pensión que recibe, de acuerdo a los siguientes grupos:
+
+Grupo N° 1:	Pensionados por vejez o por invalidez total.
+
+Grupo N° 2:	Pensionados por invalidez parcial o que se encontraren dentro del plazo de 6 meses a que se refiere el inciso cuarto del artículo 4° de la Ley.
+
+
+La información deberá remitirse mediante transmisión electrónica de datos, cuyo formato e instrucciones se publicarán en la página web del SII ( HYPERLINK "http://www.sii.cl" www.sii.cl), haciendo uso de la aplicación que para el efecto se encuentra disponible en dicho sitio o en la forma que dicho organismo determine.
+
+El SII comunicará a la Superintendencia de Pensiones el incumplimiento por las AFP de la obligación de informar dentro del plazo establecido para ello, para que las Administradoras regularicen la situación en los plazos que disponga la Superintendencia de Pensiones.
+
+
+La Administradora deberá emitir un certificado de cotizaciones a todos sus afiliados que durante un año calendario hayan enterado como trabajador independiente pagos provisionales mensuales de las cotizaciones. El certificado de cotizaciones deberá ser remitido al afiliado independiente a más tardar el último día de febrero de cada año, mediante correo electrónico, correo postal u otro medio que estime conveniente la AFP y que permita dejar constancia de la comunicación.
+
+Alternativamente y siempre que el afiliado lo solicite, la AFP podrá poner el certificado de cotizaciones a disposición de los afiliados en su sitio web, permitiendo el acceso a través de la clave única de identificación.
+
+
+Las Administradoras deberán comunicar por escrito a la Tesorería General de la República -en adelante TGR-, a más tardar el último día hábil del mes de febrero de 2013 y cada vez que se produzca un cambio, la identificación de la cuenta corriente bancaria de inversiones nacionales del Fondo de Pensiones Tipo C, que será utilizada para el depósito o la transferencia electrónica de fondos que debe realizar la TGR por las cotizaciones obligatorias con cargo tanto a las cantidades señaladas en el numeral iii) del artículo 92 F del decreto ley N° 3.500, de 1980, como a las que se compensaron con el monto de los beneficios del Sistema Único de Prestaciones Familiares.
+
+
+
+INFORMACIÓN QUE EL SII ENVIARÁ A LAS AFP Y A LA TGR SOBRE LAS COTIZACIONES OBLIGATORIAS DE LOS TRABAJADORES INDEPENDIENTES 
+
+El SII comunicará a la TGR, a más tardar el último día hábil del mes de marzo de cada año, la información referida a las cotizaciones, los pagos provisionales de las cotizaciones y el nombre de la Administradora donde se deberán enterar las cotizaciones, de acuerdo a lo establecido en el artículo 11G del Reglamento del D.L. N° 3.500, de 1980.
+
+
+El SII comunicará a la TGR y a la Administradora en que se encuentre afiliado o corresponda afiliarse el trabajador independiente, en los mismos plazos definidos en el calendario de cierre de procesos de declaración de impuestos a la renta de cada año, la información referida a las cotizaciones obligatorias a que están afectos dichos trabajadores, de acuerdo al siguiente detalle:
+
+RUT del trabajador.
+
+Identificación de la AFP a la que se remitirán los pagos por cotizaciones para pensiones.
+
+Tasa de cotización que aplicó el SII para la determinación de las cotizaciones, correspondiente a la suma de la cotización obligatoria para la cuenta de capitalización individual, la comisión de la AFP y la cotización para el financiamiento del seguro de invalidez y sobrevivencia.
+
+El monto total de las cotizaciones establecidas en el Título III del decreto ley N° 3.500, de 1980, que debió enterar el trabajador independiente en base a su renta imponible anual.
+
+El monto total de las cotizaciones previsionales y pagos provisionales mensuales, enteradas por el trabajador independiente durante el año calendario anterior al del proceso de declaración de impuestos a la renta.
+
+El saldo por cotizar correspondiente a la diferencia resultante entre los montos referidos en las letras d) y e) anteriores.
+
+El monto de las cotizaciones establecidas en el Título III del decreto ley N° 3.500, de 1980, a enterar con cargo a las cantidades señaladas en el numeral iii) del artículo 92 F del citado decreto ley.
+
+El monto de las cotizaciones establecidas en el Título III del decreto ley N° 3.500, de 1980, que se compensarán con los beneficios del Sistema Único de Prestaciones Familiares.
+
+El saldo neto por cotizar positivo de las cotizaciones establecidas en el Título III del decreto ley N° 3.500, de 1980.
+
+
+El SII comunicará a la AFP adjudicataria que registró tal calidad durante el año calendario anterior al proceso de declaración de impuestos a la renta y a la TGR, la misma información y en los mismos plazos, definidos en el número 2. anterior, respecto de los trabajadores independientes obligados a cotizar que no se encuentren afiliados al Sistema de Pensiones regulado por el D.L. N° 3.500, de 1980, y que tampoco se encuentren cotizando o hayan cotizado en DIPRECA o CAPREDENA o en alguno de los regímenes administrados por el Instituto de Previsión Social.
+
+En caso que en un mismo año calendario haya habido dos AFP adjudicatarias, el SII remitirá la información señalada a aquélla que haya tenido dicha calidad a la fecha de la primera información de renta que disponga el SII para los trabajadores independientes no afiliados al sistema de pensiones, de acuerdo a lo que se señala en el número siguiente.
+
+
+En los mismos plazos señalados en el número 2 anterior, el SII deberá informar a la TGR y a la AFP adjudicataria que corresponda, la fecha de la primera información de renta de que disponga para los trabajadores independientes no afiliados al sistema de pensiones, durante el año calendario anterior al proceso de declaración de impuestos a la renta. Para estos efectos, el SII deberá considerar la fecha más antigua que disponga, obtenida de las siguientes fuentes:
+
+La declaración jurada de los agentes retenedores por las Retenciones efectuadas conforme a los Arts. 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta –en adelante LIR-. El mes a informar será el mes informado por el agente retenedor.
+
+Las boletas de honorarios electrónicas emitidas por el trabajador independiente. El mes a informar será el mes de la emisión de la respectiva boleta de honorarios.
+
+Los pagos provisionales mensuales que efectúan los trabajadores independientes por las rentas percibidas del artículo 42, N° 2 de la LIR, de acuerdo a lo establecido en el artículo 84 del citado cuerpo legal. El mes a informar corresponderá al mes del período tributario informado en el respectivo formulario.
+
+Cuando no se disponga de la información indicada en las letras anteriores, se deberá considerar el mes de iniciación de actividades informado por el trabajador independiente al SII, en caso que ésta haya ocurrido dentro del respectivo año calendario y en caso contrario, se deberá considerar que la primera renta ocurrió en el mes de enero del año respectivo. 
+
+
+
+
+Si posteriormente se establece la existencia de diferencias que modifican los elementos que han servido de base para determinar los montos informados a la TGR, el SII deberá rehacer los cálculos correspondientes y comunicar nuevamente la información a la TGR, con el objeto que ésta comunique el cambio a las respectivas Administradoras, de acuerdo al detalle indicado en los números 2., 3. y 4. anteriores, según corresponda. 
+
+Lo anterior también será aplicable en los casos de las declaraciones de impuestos a la renta presentadas fuera de plazo legal.
+
+
+Tratándose de trabajadores independientes que, estando o no obligados a hacerlo, no presentaren su declaración anual de impuesto a la renta, el SII deberá efectuar el cálculo de las cotizaciones adeudadas. Esta información será comunicada en la forma establecida en el Reglamento del D.L. N° 3500, de 1980, en la fecha en que se encuentre disponible para su remisión.
+
+
+
+ENTERO DE LAS COTIZACIONES OBLIGATORIAS DE LOS TRABAJADORES INDEPENDIENTES POR LA TESORERÍA GENERAL DE LA REPÚBLICA
+
+A más tardar dentro de los 10 días siguiente de recibida la información remitida por el SII, la TGR deberá enterar en la respectiva Administradora las cotizaciones establecidas en el Título III del D.L. N° 3.500, de 1980, que se efectúan con cargo a las cantidades señaladas en el numeral iii) del artículo 92 F del citado decreto ley, y las compensadas con el monto de los beneficios del Sistema Único de Prestaciones Familiares.
+
+La TGR efectuará el depósito o la transferencia electrónica de fondos por los recursos correspondiente a las cotizaciones establecidas en el Título III del D.L. N° 3.500, de 1980, en la cuenta corriente bancaria informada por la respectiva Administradora.
+
+El mismo día en que la TGR efectúe el depósito o la transferencia electrónica de fondos, deberá remitir a la respectiva Administradora la información necesaria con el objeto de que ésta procese la recaudación de las cotizaciones obligatorias transferidas y efectúe el abono en las correspondientes cuentas personales o en la cuenta de rezagos, según corresponda. La información que deberá remitir la TGR por cada trabajador independiente corresponderá a la misma que recibió desde el SII, de acuerdo a lo señalado en la presente norma.
+
+Adicionalmente, la TGR deberá informar la dirección postal, código de actividad económica y los nombres y apellidos que disponga de los trabajadores independientes que está informando.
+
+El formato y el medio de envío de la información serán acordados entre la TGR y las Administradoras, garantizando que la información requerida se disponga en forma correcta, oportuna y segura.
+
+
+
+DISPOSICIONES TRANSITORIAS
+
+Para efectos de determinar la renta imponible anual del trabajador independiente a que se refiere el inciso primero del artículo 90 del D.L. N° 3.500, de 1980, el SII aplicará el siguiente procedimiento:
+
+A partir del 1 de enero del año 2012, la cotización se realizará sobre el 40% de la renta imponible establecida en el inciso primero del citado artículo 90.
+
+Desde el 1 de enero del año 2013, la cotización se realizará sobre el 70% de la renta imponible establecida en el inciso primero del citado artículo 90.
+
+A partir del 1 de enero de 2014, la cotización se realizará sobre el 100% de la renta imponible establecida en el inciso primero del citado artículo 90.
+
+El envío de la información al SII a que se los números 1., 2. y 4. del Capítulo I de la presente norma, comenzará a regir a contar del año 2013.
+
+
+VIGENCIA
+
+La presente norma regirá a contar de esta fecha.
+
+
+
+
+
+
+
+
+SOLANGE BERSTEIN JÁUREGUI			JULIO PEREIRA GANDARILLAS
+Superintendenta de Pensiones		Director del Servicio de Impuestos Internos
+
+
+
+
+
+
+
+
+SERGIO FRÍAS CERVANTES
+Tesorero General de la República
+	
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
+
+
+
+Distribución
+Boletín 
+Internet
+

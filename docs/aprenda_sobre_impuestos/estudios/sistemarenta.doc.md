@@ -1,0 +1,358 @@
+---
+url: https://www.sii.cl/aprenda_sobre_impuestos/estudios/sistemarenta.doc
+titulo: sistemarenta.doc
+categoria: otros
+---
+
+
+SISTEMA DE IMPUESTO A LA RENTA CHILENO
+
+
+I. INTRODUCCION
+
+1. Principio General
+
+	Las personas residentes o domiciliadas en Chile se encuentran sujetas a un impuesto a la renta sobre sus rentas de cualquier origen, sea que la fuente de origen esté situada dentro del país o fuera de él. 
+
+	Sin embargo, el extranjero que constituye domicilio o residencia en Chile es gravado sólo sobre la renta obtenida de fuente chilena durante los 3 primeros años, en su aplicación este plazo puede ser prorrogado.
+
+	Las personas sin domicilio ni residencia en Chile son gravadas sobre sus rentas obtenidas de fuente chilena.
+
+	Una persona es considerada domiciliada o residente en Chile si:
+
+	- Se puede presumir de sus actividades que ella desea permanecer en el país sobre una base permanente (domicilio).
+	- Permanece por más de seis meses en el país en un año calendario dado o en un periodo de dos años (residente).
+	
+	La renta de fuente chilena es definida como la renta proveniente de:
+	- Bienes situados dentro del territorio chileno.
+	- Actividades desarrolladas en territorio chileno.
+
+
+2. Plazos de Prescripción
+
+	La Administración Tributaria (“Servicio Impuestos Internos”, en adelante “SII”) tiene un plazo de 3 años para revisar y rectificar cualquier declaración de impuesto hecha por un contribuyente. Este plazo se cuenta desde la expiración del plazo en que debió efectuarse el pago.
+
+	Para impuestos sujetos a declaración, el plazo antes mencionado será de 6 años, cuando ésta no se hubiere presentado o la presentada fuere maliciosamente falsa.
+
+	El mismo plazo de prescripción se aplica a la recaudación de impuestos, intereses y demás recargos adeudados por el contribuyente. La Administración a cargo de la recaudación y pago es la “Tesorería General de la República”, la cual, es una administración independiente del “SII”.
+
+
+3. Pagos
+
+	El impuesto sobre la renta es pagado anualmente conjuntamente con la declaración del impuesto. En algunos casos, determinados pagos parciales deben hacerse mensualmente. El exceso de pago respecto de la responsabilidad tributaria final, si existe, es reembolsado  normalmente dentro del mes subsecuente a la declaración del impuesto a la renta.
+
+
+4. El Sistema de Impuesto a la Renta Chileno grava:
+
+	- Rentas de capital (“Impuesto de Primera Categoría”)
+	- Renta de trabajo: remuneraciones (“Impuesto Unico de Segunda Categoría”)
+	- Otras rentas personales (“Impuesto Global Complementario”)
+	- Renta obtenida por no residentes (“Impuesto Adicional”)
+
+
+II. IMPUESTO DE PRIMERA CATEGORIA 
+
+1. Tasa y Base del Impuesto
+
+	La tasa del impuesto de primera categoría es de 15%. Se aplica sobre una base anual, del 1º de Enero al 31 de Diciembre (año calendario).
+
+	La renta es calculada sobre base percibida o devengada. Un libro especial conocido como FUT – “Fondo de Utilidades Tributarias”, es requerido para seguir la ruta de las utilidades no distribuidas por la empresa y su correspondiente situación tributaria.
+	
+	La base imponible se obtiene luego de ajustes de las cuentas financieras de acuerdo con lo dispuesto en la Ley de Impuesto a la Renta.  Las pérdidas pueden ser imputadas a utilidades acumuladas de ejercicios anteriores o la renta de ejercicios posteriores sin límite de tiempo.
+
+	La Ley de la Renta establece, como principio, que se pueden deducir, en la determinación de la base imponible, todos los gastos necesarios para producir la renta mencionando a título ejemplar algunos tipos de gastos que se pueden deducir en cuanto se relacionen con el giro del negocio; asimismo, señala como se aplica la depreciación acelerada. Los bienes tangibles pueden ser depreciados durante toda su vida útil; sin perjuicio de lo anterior, la depreciación acelerada se encuentra disponible para el contribuyente respecto de los bienes nuevos o importados cuya vida útil sea igual o superior a 5 años. En este caso la depreciación es calculada sobre la base de 1/3 de la vida útil normal de bien. Los costos de exploración y otros costos preparatorios pueden, según sea la opción del contribuyente, ser deducidos en el primer año tributario o amortizados durante el periodo de los 6 primeros años del proyecto. 
+
+	Pagos de royalty a personas no residentes o no domiciliadas en Chile son gastos deducibles hasta un límite de 4% del total de la renta proveniente de ventas y servicios en el año correspondiente. Sin embargo, este límite no se aplica sí: 
+
+	
+
+a) El contribuyente demuestra al SII que no hay ni ha existido relación directa o indirecta en el capital, control o administración entre el beneficiario de los pagos y él, o
+
+	b) Si el Estado de residencia del beneficiario aplica una tasa de impuesto sobre esta clase de renta de 30% o más.
+	
+	Respecto de algunas actividades existe la opción para el contribuyente de pagar el impuesto de acuerdo a un sistema de renta presunta (agricultura, minería y transporte terrestre de pequeña escala).
+
+
+2. Créditos internos
+
+	Los contribuyentes afectos a impuesto global complementario y adicional tienen derecho a rebajar, como crédito, el monto del impuesto de primera categoría pagado al nivel de la empresa. Aún si la empresa responsable del pago del impuesto de primera categoría no cumple con dicha obligación, el accionista o dueño no es obligado a pagar dicho impuesto.
+
+	Dividendos y ganancias distribuidos entre empresas no son gravados en la empresa receptora. El crédito de 15% contra el impuesto sigue a la distribución y podrá ser utilizado cuando ésta finalmente se efectúe al individuo residente en Chile sujeto a impuesto global complementario o al no residente sujeto a impuesto adicional.
+
+	Ver más adelante los Ejemplos 1 y 2 en la parte IV: Impuesto Global Complementario.
+
+
+3. Sucursales y Establecimientos Permanentes
+
+	Sucursales y Establecimientos Permanentes de empresas o personas extranjeras se encuentran sujetas a impuesto de primera categoría (15% sobre la base de los resultados reales obtenidos en su gestión en el país).
+
+	Cualquier distribución o remisión de ganancias está sujeta al pago de impuesto adicional (ver parte V Impuesto Adicional). 
+
+
+III. IMPUESTO DE SEGUNDA CATEGORIA 
+
+	Este impuesto es progresivo, con tasas que van desde 0% a 45%, sus tramos son los mismos que los del impuesto global complementario expresados en términos mensuales y no anuales. Se calcula sobre el total de los salarios y compensaciones laborales excepto los pagos por concepto de seguridad social. Este impuesto es retenido  y pagado por el empleador.
+
+	Un empleado que no obtiene ninguna otra renta en un año tributario, no se encuentra obligado a efectuar la declaración de renta anual.
+
+
+IV. IMPUESTO GLOBAL COMPLEMENTARIO 
+
+1. Tasas
+	
+	Este impuesto es progresivo, con tasas de que van desde 0% a 45%, sus tramos son expresados en términos anuales.
+
+
+2. Base Imponible y Cálculo
+	
+	Este impuesto se aplica sobre una base anual, en el cálculo de la base imponible las rentas de toda fuente son incluidas.
+
+	La renta correspondiente a dividendos o utilidades retiradas es agregada y computada para la determinación de la base imponible de acuerdo a la información que proporciona la empresa de donde provienen dichas rentas, según las siguientes reglas generales:
+
+	- Los dividendos o utilidades retiradas deben primero ser imputadas a utilidades tributables, las utilidades exentas sólo pueden ser distribuidas después que las utilidades tributables se han agostado;
+
+	- Las distribuciones de utilidades efectuadas por la empresa deben imputarse a las utilidades tributables más antiguas retenidas (FIFO);
+
+El impuesto de primera categoría correspondiente a las utilidades tributables es agregado para la determinación de la base imponible y la tasa del impuesto y, posteriormente, se rebaja como crédito del impuesto global complementario determinado. Se debe hacer presente que la tasa del impuesto de primera categoría ha variado en el tiempo. En 1989 el impuesto de primera categoría era 0 en todos los casos, cuando las utilidades relacionadas a este año son distribuidas no se agregan a la base imponible y no existe crédito. En una situación en que utilidades de 1997 son distribuidas el cálculo del impuesto funciona de la siguiente manera:	
+
+	EJEMPLO 1
+
+	Renta bruta						1.000
+	Impuesto de primera categoría (15%)		 (150)
+					850	
+
+	Dividendo recibido					   850
+	I. primera categoría pagado es agregado    		   150
+	Base del impuesto personal				1.000
+	Tasa del impuesto 45% (máxima)		450
+	Crédito por I. primera categoría 	          (150)
+							300
+	
+	Por un monto de sueldo “standard” de un ejecutivo en 2000 de US$ 4800 se pagarían US$ 342 por concepto de seguridad social y US$ 521 por concepto de impuesto.
+
+
+V. IMPUESTO ADICIONAL 
+
+1. Características principales
+
+	Este impuesto se aplica a las rentas de fuente chilena obtenidas por personas naturales o jurídicas residentes en el extranjero, en general, cuando el dinero se pone a disposición desde Chile a la persona residente en el extranjero. Este impuesto tiene dos modalidades, según el tipo de renta de que se trate puede ser un impuesto de retención, o bien, un impuesto de declaración anual. 
+
+
+2. Tasas
+
+	La tasa general del impuesto adicional es de 35%, aplicándose tasas distintas en algunos casos:
+
+	- Para los pagos de intereses la tasa es de 35%, sin embargo, si la operación ha sido autorizada por el Banco Central de Chile, la tasa es de 4%.
+
+	- Los pagos por prestaciones de servicios son gravados con tasa de 35% sobre la renta bruta, excepto cuando se trata de asesorías técnicas o servicios personales, que se gravan con una tasa de 20%.
+
+	- Cualquier pago por servicio prestado en el extranjero, 35%. Sin embargo, algunos pagos se exceptúan, como por ejemplo, el servicio de transporte prestado completamente en el extranjero. Empresas extranjeras empleadas en el transporte marítimo y servicios relacionados hacia y desde Chile se gravan con una tasa de 5% de impuesto de retención, este impuesto no se aplica a las naves de países que no graven a las naves chilenas con un impuesto similar.
+
+	- Cantidades pagadas por el arrendamiento de bienes de capital con o sin opción de compra importados susceptibles de acogerse al sistema de pago diferido de tributo aduanero, 1,75%.
+
+	- Pagos de primas de seguros contratados por empresas no establecidas en Chile, para asegurar equipo y otros bienes en Chile, o la vida o asistencia médica de personas residentes o domiciliadas en Chile, 22%, y 2% para el reaseguro;
+
+	- Remesas de utilidades y dividendos, 35%.
+
+	- Pagos de royalty, 30%; sin embargo, si el pago dice relación con un film usado en televisión o cine la tasa de retención se reduce a 20% y si el pago dice relación con el uso de derechos de edición o de autor de libros la tasa de retención se reduce a 15%.
+
+
+3. Base Imponible y Cálculo
+
+	Los dividendos o distribuciones de utilidades deben primero imputarse en primer término a las utilidades tributables y a continuación a las rentas exentas. Las distribuciones de utilidades se deben imputar empezando por aquellas más antiguas retenidas (método FIFO).         
+
+	Impuesto de primera categoría correspondiente a las utilidades tributables se agrega para la determinación de la base imponible y, posteriormente, se rebaja como crédito del impuesto adicional determinado, en la misma forma como si el receptor de la renta fuera un chileno residente y sujeto a impuesto personal en Chile. El cálculo, considerando una distribución en 1997 es el siguiente:
+
+	Ejemplo 2
+
+	Utilidades tributables en Chile				1.000
+	Impuesto de primera categoría (15%)			 (150)       
+	Distribución de utilidades					  850
+
+	Dividendos recibidos por un no residente			  850
+	Impuesto de primera categoría agregado a la base		  150
+	Base del impuesto adicional				           1.000
+	Impuesto adicional (35%)				 350
+	Impuesto de primera categoría			(150)
+	Impuesto a pagar por la distribución				  200
+
+
+4. Sucursales y Establecimientos Permanentes
+
+	La renta obtenida por un establecimiento permanente o sucursal en Chile producto de la actividad desarrollada en el país se encuentra gravada con impuesto adicional cuando se remesa al extranjero. El establecimiento permanente o sucursal tiene derecho a utilizar como crédito contra el impuesto adicional el impuesto de primera categoría que afectó a dichas rentas. El cálculo es el mismo mostrado con anterioridad (ver ejemplo 2).
+
+
+VI. CREDITO POR IMPUESTO EXTRANJERO
+
+	Impuestos pagados en el extranjero pueden ser utilizados como crédito contra los impuestos nacionales hasta un determinado monto y, por el exceso, tratados como un gasto deducible. Un crédito unilateral de hasta un 15% es permitido respecto de algunas rentas de fuente extranjera. En el caso de existir tratado para evitar la doble tributación este crédito aumenta a 30%. El exceso de crédito puede ser utilizado en años posteriores.
+
+	Ver los siguientes ejemplos de un crédito calculado con y sin tratado tributario:
+
+
+
+	Ejemplo 3
+
+	Empresa Extranjera
+
+	Utilidad antes de impuesto					1.000
+	Impuesto a la empresa (30%)				 (300)
+	Utilidad a remesar						   700
+	Impuesto a la remesa (10%)					   (70)
+	Dividendo extranjero neto					   630
+
+Empresa Chilena				Sin Tratado		Con Tratado
+
+Dividendo extranjero neto				630			630
+Incremento por impuesto extranjero			1111			2702
+Base Imponible de I. primera categoría	741			 900
+Impuesto de primera categoría (15%)         (111)		           (135)
+Crédito por impuesto extranjero		111		            135
+A pagar						    0			    0
+
+Renta a distribuir a accionistas			630			630
+
+Remanente crédito por impuesto externo	    0			 135
+Crédito Impuesto de primera categoría	111			 135
+Base imponible del I. global complem.	741			 900
+I. global complementario (35% marginal)   (259)			(315)
+Remanente crédito por impuesto externo        0			 135
+Crédito Impuesto de primera categoría	111			 135
+A pagar				          (148)	                        (45)
+Renta recibida			           482     			 585
+
+
+VII. GANANCIAS DE CAPITAL
+
+	Como regla general, las ganancias de capital son consideradas renta normal y, en consecuencia, gravadas con impuesto de primera categoría e impuesto global complementario o adicional según sea el caso, pero sólo en cuanto se ha producido efectivamente la enajenación del bien. Existen algunas excepciones a esta regla, las más importantes son las siguientes:
+
+	La ganancia de capital producto de la enajenación o cesión de acciones de sociedades anónimas puede estar sujeta a un impuesto de primera categoría en el carácter de impuesto único a la renta (15%) si:
+
+	
+
+a) Las acciones han sido poseídas por más de un año,
+	b) El vendedor no efectúa la operación dentro de un negocio o actividad habitual, y 
+	c) El comprador no es parte relacionada del vendedor.
+
+	La ganancia de capital producto de la enajenación de bienes inmuebles efectuada por personas no obligadas a declarar renta efectiva en la primera categoría no paga impuestos si:
+
+	a) La propiedad ha sido poseída por más de un año,
+	b) El vendedor no efectúa la operación dentro de un negocio o actividad habitual y, 
+	c) El comprador no es parte relacionada del vendedor.
+
+	Si los bienes que se enajenan no se encuentran dentro de alguna de estas excepciones, la ganancia es gravada como cualquier otra utilidad producto de un negocio o actividad.
+
+
+VIII. REGIMENES ESPECIALES
+
+1. Estatuto de la Inversión Extranjera
+
+	Bajo el Estatuto de la Inversión Extranjera (DL 600), el inversionista extranjero puede optar por pagar un mayor impuesto de tasa de 42% en vez del impuesto adicional de tasa de 35%. La tasa será fija por un periodo de 10 años, el cual podrá ser aumentado a un máximo de 20 años. El inversionista puede optar por abandonar el régimen especial y, en consecuencia pagar el impuesto adicional, pero una vez ejercida esta opción no puede volver atrás. 
+
+
+	Ejemplo 4
+
+	Utilidad gravable				1.000
+	Impuesto de primera categoría (15%)	  (150)
+
+	Utilidades a distribuir			               850
+
+	Impuesto a la remesa (27%)3	   	  (270)
+	
+	Utilidad a remesar			               580
+
+2. Fondo de Inversión de Capital Extranjero
+
+	Bajo la legislación del Fondo de Inversión el inversionista extranjero puede también optar por un impuesto especial reducido, el requisito para este beneficio es la obligación de mantener la inversión en Chile por lo menos 5 años. El fondo es gravado con una tasa fija de 10% sobre sus remesas. 
+
+
+	Ejemplo 5
+
+	Utilidades gravables 					1.000
+	Impuesto de primera categoría (15%)	             (150)
+	
+	Dividendos recibidos por el fondo de inversión	   850
+
+	Impuesto a la remesa (10%)				   (85)
+
+	Utilidad a remesar					   765
+		
+
+3. Otros regímenes especiales para ciertas regiones
+
+- Isla de Pascua tiene régimen especial de impuestos según el cual se libera de todo impuesto y contribuciones a los bienes situados en la Isla y a sus rentas; igualmente, a las actividades que digan relación con su territorio, desarrolladas por personas domiciliadas en esa Isla.
+ 
+- Las ciudades de Iquique y Punta Arenas tienen una zona libre de impuestos. En estas zonas no se paga impuesto de primera categoría, sin embargo, cualquier impuesto adicional o impuesto personal se aplica y como el impuesto de primera categoría no ha sido pagado no hay crédito por éste cuando las utilidades o dividendos son remesados.
+
+- El área de Navarino y las comunas de Primavera y Porvenir, en el extremo sur del continente, tienen un régimen especial de impuestos, no se paga impuesto de primera categoría y, no obstante, se otorga un crédito contra cualquier impuesto adicional o impuesto personal según sea el caso equivalente al impuesto de primera categoría que hubiere correspondido pagar. 
+
+- Las provincias de Arica y Parinacota, en el norte de Chile, tienen un crédito especial imputable al impuesto de primera categoría equivalente al 20% del valor de los bienes físicos del activo inmovilizado adquiridos o construidos en el ejercicio.
+
+
+VII. OTROS ASUNTOS
+
+- En general, todo el sistema tributario chileno se encuentra indexado para compensar los efectos de la inflación. En el caso específico de la Ley de Impuesto a la Renta existe un sistema integral, denominado Corrección Monetaria, el cual se aplica a los balances de las empresas que llevan contabilidad completa, y además, contempla normas especiales para corregir las rentas de los contribuyentes que no llevan contabilidad completa (empleados, profesionales, etc.). 
+
+- Las empresas deben llevar sus registros de contabilidad en moneda chilena, sin embargo, si todo o la mayor parte del capital aportado o el negocio es desarrollado en una moneda extranjera, puede ser autorizado por el “SII” la mantención de registros de contabilidad en moneda extranjera.
+
+
+- Los pagos de pensión no constituyen renta para su perceptor si quien efectúa el pago se encuentra obligado a hacerlos por ley. Para quien efectúa el pago, éste no es gasto deducible.
+
+- Los honorarios de directores o las participaciones producto del cargo de director o miembro del directorio de una S.A. están sujetos al impuesto global complementario o impuesto adicional según sea el caso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17/07/00
+(Chilean Tax System, versión en español)
+
+1         630 / 0.85 = 741 (Ley reconoce un 15% de crédito)
+           741 x 15% = 111
+
+2        630 / 0.7 = 900 (Ley reconoce un 30% de crédito)
+          900 x 30% = 270
+
+3 El cálculo de %  es el siguiente 42% - 15% = 27% y la base imponible es 1000 (850 + 150)
+
+
+Servicio de Impuestos Internos
+Subdirección Normativa
+Depto. Tributación Internacional
+
+
+
+

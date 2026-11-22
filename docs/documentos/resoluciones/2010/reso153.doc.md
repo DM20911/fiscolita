@@ -1,0 +1,288 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso153.doc
+titulo: Word – Resolución Exenta SII N°153 del 01 de Octubre del 2010 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°153 DEL 01 DE OCTUBRE DEL 2010 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Octubre del 2010, a los siguientes contribuyentes:
+
+- AGENCIA DE ADUANAS NORMAN SANCHEZ ZUÑIGA Y CIA. LTDA.		RUT 77.040.590-4 
+- AGRICOLA EL QUILLAY LTDA. 						RUT 76.173.400-8 
+- APIA S.A. 								RUT 99.537.890-6 
+- ASESORIAS E INVERSIONES TAURUS LTDA. 				RUT 76.090.276-4 
+- BERTA ROSA GONZALEZ ORTIZ E.I.R.L.					RUT 76.020.033-6 
+- BH COMPLIANCE LTDA. 							RUT 76.102.873-1 
+- CAJA DE PREVISION DE LA DEFENSA NACIONAL 				RUT 61.108.000-K 
+- CARLOS WASTAVINO MEDRANO Y COMPAÑIA LTDA. 			RUT 78.286.830-6 
+- CLINICA DAVILA Y SERVICIOS MEDICOS S.A. 				RUT 96.530.470-3 
+- COLEGIO SANTO TOMAS DE ÑUÑOA LTDA. 				RUT 76.760.480-7 
+- COMERCIAL AGROPET LTDA.  						RUT 77.356.230-K 
+- COMERCIAL ALCAYAGA RIQUELME Y CIA S.A. 				RUT 96.923.000-3 
+- COMERCIAL QUALYPACK LTDA. 						RUT 76.724.860-1 
+- COMERCIALIZADORA CINCO CABEZAS COMPAÑIA LTDA. 		RUT 76.079.018-4 
+- COMERCIALIZADORA TRADECOS CHILE LTDA. 				RUT 77.763.300-7 
+- CORESA S.A. CONTENEDORES REDES Y EN VASES 			RUT 92.723.000-3 
+- CRUZ Y DAVILA INGENIEROS CONSULTORES LTDA. 			RUT 87.930.900-K 
+- DATAWELL SERVICES S.A. 						RUT 76.083.254-5 
+- DINEXXO COMERCIAL LTDA. 						RUT 76.039.938-8 
+- EDITORIAL PACIFICO S.A. 						RUT 78.204.390-0 
+- EDUARDO ENRIQUE HUGEAT VERGARA 					RUT 03.461.622-1 
+- EMPRESA DE MONTAJES INDUSTRIALES SALFA S.A. 			RUT 96.684.600-3 
+- EMPRESA DE TELECOMUNICACIONES INFONET CHILE LTDA. 		RUT 96.831.830-6 
+- EPCOM ENERGIAS SPA. 							RUT 76.098.909-6 
+- EXCEDENTES INDS Y DOMICILIARIOS JAIME SEVERINO E.I.R.L.		RUT 76.867.690-9 
+- G Y M MAQUINAS INDUSTRIALES LTDA. 					RUT 76.054.740-9 
+- G4S SECURITY SERVICES REGIONES S.A.	 				RUT 96.912.870-5 
+- GREENSYSTEMS S.A. 							RUT 76.060.256-6 
+- HARBORLITE CHILE LTDA. 						RUT 96.974.530-5 
+- HECTOR RAUL VIVEROS URREA 						RUT 12.032.840-9 
+- IMPORTADORA Y EXPORTADORA Y DISTRIBUIDORA VARGAS LTDA. 	RUT 77.565.520-8 
+- INGCAL TECNOLOGIAS E INGENIERIA LTDA. 				RUT 77.707.900-K 
+- INTERKAMBIO S.A. 							RUT 99.527.440-K 
+- INVERSIONES E INMOBILIARIA DISAR LTDA.				RUT 79.981.800-0 
+- JORGE HERNAN MIRANDA ALVARADO 					RUT 04.945.289-6 
+- KORLAET Y JARA CONSTRUCCIONES OBRAS Y MONTAJES S.A. 		RUT 76.942.490-3 
+- LAVANDERIA LA IDEAL S.A. 						RUT 76.912.470-5 
+- MASCO CHILE LTDA. 							RUT 76.066.726-9 
+- NOVOFARMA SERVICE S.A.    						RUT 96.945.670-2 
+- PG CORP SERVICIOS S.A. 						RUT 99.534.720-2 
+- QUIMICA DEL SUR Y CIA. LTDA. 						RUT 78.572.860-2 
+- RODAMENDEZ LTDA. 							RUT 89.515.900-K 
+- SERVICIOS DE FACTURACION ELECTRONICA FACTURAENLINEA LTDA. 	RUT 76.102.645-3 
+- SERVICIOS DE INSPECCION Y CALIDAD LTDA. 				RUT 76.058.949-7 
+- SERVICIOS DE MANTENCION INDUSTRIAL LTDA. 			RUT 76.355.660-3 
+- SERVICIOS INTEGRADOS DE SALUD LTDA. 				RUT 79.980.070-5 
+- SERVICIOS INTEGRALES COMPUTACIONALES LTDA. 			RUT 76.079.587-9 
+- SISTEMAS NORTE WEB LTDA. 						RUT 77.743.460-8 
+- SOC. RESINAS Y POLIMEROS COMPAÑIA LTDA. 				RUT 76.097.720-9 
+- SOCIEDAD COMERCIAL E INVERSIONES MINICENTER LTDA. 		RUT 76.097.707-1 
+- SOCIEDAD COMERCIALIZADORA Y RECUPERADORA DE EXCEDENTES 	RUT 76.096.962-1
+  INDUSTRIALES SPA.	 
+- SOPROLE S.A. 								RUT 76.101.812-4 
+- STOCKHOLM BUSINESS CONNECTIONS S.A.				RUT 76.102.872-3 
+- TEKMAN SERVICIOS S.A. 						RUT 96.663.150-3 
+- THE FLEXLINE COMPANY S.A. 						RUT 96.934.250-2 
+- ULTRAMAR AGENCIA MARITIMA LTDA. 					RUT 80.992.000-3 
+- VENTAS PERSONALES LTDA. 						RUT 76.085.028-4 
+- WELLFIELD SERVICES LTDA.						RUT 78.382.790-5
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+
+		 
+
+
+
+		    
+
+(Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,123 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso39.doc
+titulo: Word – Resolución Exenta N°39 del 14 de Septiembre del 2001 Autoriza uso de Sistema de Despacho de Combustibles Importados como Pertrechos de las Fuerzas Armadas y de Orden por Parte de Empresas Prestadoras de Servicio de Almacenamiento y Distribución de Combustibles. Fuente: Dpto. de Fiscalización 
+categoria: otros
+---
+RESOLUCION EXENTA N° 39 DEL 14 DE SEPTIEMBRE DEL 2001 MATERIA : AUTORIZA USO DE SISTEMA DE DESPACHO DE COMBUSTIBLES IMPORTADOS COMO PERTRECHOS DE LAS FUERZAS ARMADAS Y DE ORDEN POR PARTE DE EMPRESAS PRESTADORAS DE SERVICIO DE ALMACENAMIENTO Y DISTRIBUCIÓN DE COMBUSTIBLES.
+
+Hoy se ha resuelto lo que sigue:
+
+1°	Las facultades contenidas en el Artículo 6°, letra A), N°. 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°. 7, de Hacienda de 1980; lo dispuesto en el Decreto Ley N° 825 de 1974 sobre Impuesto a las Ventas y Servicios y en el Decreto Supremo de Hacienda N° 55 de 1977, reglamentario del DL N° 825 de 1974;
+
+2°	La Resolución N° Ex. 5.661 de 2000 de este Servicio, modificada por la Resolución N° Ex. 24 de 2001, que deroga el Sistema de Cupones en Ventas de Combustibles, en cuanto a su emisión a partir del 01 de Octubre de 2001 y en cuanto a su utilización a partir del 01 de enero de 2002.
+
+3°	Lo señalado en el Oficio Ord. N°6313-3 de fecha 02.05.2001 de la Comandancia en Jefe de la Fuerza Aérea de Chile, en el Oficio Ord. N°529 de fecha 29.05.2001 de la Dirección de Logística de Carabineros de Chile, y lo planteado en las reuniones sostenidas con representantes de las Jefaturas Logísticas de las instituciones antes señaladas, del Ejercito de Chile, de la Armada de Chile y de la Dirección General de Investigaciones, respecto a la necesidad de establecer un sistema legal y expedito que permita retirar los combustibles adquiridos por dichas instituciones en el extranjero para el uso en vehículos, al amparo del D.L. N°480 de 1974, entregados para su almacenamiento y distribución a través de la Red de Estaciones de Servicio adheridas a Empresas Mayoristas del rubro que operan en el país.
+
+
+C O N S I D E R A N D O :
+
+1°	Que, se hace necesario regularizar el uso dado a los Cupones de Combustibles por parte de Empresas Mayoristas del rubro, en cuanto a que se han utilizado para efectuar entregas de combustibles a las Instituciones Armadas desde Estaciones de Servicio, combustibles que son de propiedad de las Fuerzas Armadas y de Orden, para las cuales las Empresas Mayoristas prestaban un servicio de almacenaje y distribución, en consecuencia que las autorizaciones de utilización del sistema de cupones, siempre se establecieron respecto de una venta prepagada y que se documentaba tributariamente al momento del prepago.
+
+2°	Que, las propuestas efectuadas por las Jefaturas Logísticas de las FF.AA. y de Orden, en el sentido de mantener un sistema de entrega de estos combustibles dejados en almacenamiento, similar al sistema de cupones el cual es simple y expedito en la entrega de combustible, contemplan la emisión de una "Orden de Entrega de Combustible de las FF.AA. y de Orden", dirigida al Almacenista y Distribuidor contratado, a fin de que proceda a surtir los vehículos del propietario del combustible. 
+
+3°	Que, la forma legal de efectuar despachos de combustibles desde las instalaciones del prestador de servicios de almacenamiento y distribución a las instalaciones del propietario de los combustibles, es aquélla en que la Distribuidora hace uso de guías de despacho, que no importan ventas, que dan cuenta de la existencia de inventarios de productos en instalaciones específicamente dispuestas y bajo el control del prestador de servicios, para que desde ellas se surta el combustible, a granel, a través de medios de transportes especiales, hacia las instalaciones o faenas del propietario del combustible.
+
+4°	Que, como medida de control y fiscalización de las estaciones de servicio que realizan la entrega del combustible dejado en almacenamiento por las FF.AA y de Orden, se hace necesaria la emisión de un documento tributario, que dé cuenta de la operación de entrega y que en el caso corresponderá a una guía de despacho con formato especial, destinada exclusivamente a la operación de entrega de combustibles de las FF.AA. y de Orden en estaciones de servicio de expendio directo al público. 
+
+5°	Que, de conformidad a los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, y las facultades contenidas en el artículo 6° del Código Tributario, corresponde al Servicio aplicar y fiscalizar las disposiciones tributarias, incluyendo la interpretación administrativa de dichas disposiciones, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+
+6°	Que, en conformidad a lo dispuesto en el artículo 56° del Decreto Ley N° 825 y con el fin de resguardar adecuadamente el interés fiscal en las ventas de combustibles en estaciones de servicio, se estima necesario regular el procedimiento para las entregas de combustibles que sean pertrechos de las FF. AA. y de Orden, por medio de una "Orden de Entrega de Combustibles de las FF.AA. y de Orden" y una "Guía de Despacho de Combustibles de las FF.AA. y de Orden".
+
+
+S E  R E S U E L V E :
+
+Las empresas productoras o distribuidoras de combustibles que deseen prestar servicios de distribución de combustibles de propiedad de las FF.AA. y de Orden a que se refiere el D.L. 480 de 1974, deberán solicitar autorización a la Dirección Nacional del Servicio de Impuestos Internos por intermedio de la Dirección Regional bajo cuya jurisdicción tengan su domicilio y adoptar el siguiente procedimiento:
+
+Establecer contratos de almacenaje y distribución de los combustibles, con la red de estaciones de servicio adheridas y con la Institución armada correspondiente, que establezcan los volúmenes  de combustible a distribuir, los que estarán respaldados con la importación respectiva o con el servicio de almacenaje efectuado.
+
+El retiro de los combustibles desde las estaciones de servicio adheridas, por parte de las instituciones propietarias, se hará condicionada a la presentación de una “Orden de Entrega de Combustibles de las FF.AA. y de Orden” de la Institución que retira, la cual tendrá las siguientes características:
+
+Tipo de Documento: Formato tipo Orden de Entrega reducido y preimpreso, en dos partes, con orden de entrega y talón (Empresa Mayorista y Propietario del Combustible respectivamente).
+Consignar en ambas partes del documento el Número de Serie de la Orden de Entrega (Código Institucional y Número correlativo único).
+Además, la orden de entrega deberá necesariamente consignar: 
+Identificación de la Institución de las FF.AA. y de Orden: Razón Social.
+Identificación de la empresa mayorista que distribuye el combustible: Razón Social, Rut y Dirección, datos que pueden ser reemplazados por el logotipo de dicha empresa.
+Tipo de combustible.
+Cantidad en litros.
+Leyenda Advertencia: "Combustible Propiedad del Estado de Chile. Uso Exclusivo de las FF.AA. y de Orden. Prohibida su Venta”.
+
+Opcionalmente, este documento podrá ser emitido en un formato único para todas las Instituciones Armadas y de Orden, con correlativo único sin código institucional, debiendo consignar en forma destacada el nombre de la Institución de que se trata en cada caso.
+
+La entrega del combustible solicitado se hará contra presentación de la "Orden de Entrega de Combustibles de las FF.AA. y de Orden", debiendo emitirse una "Guía de Despacho de Combustibles de las FF.AA. y de Orden " de la estación de servicio que surte el combustible requerido por la Institución Armada o de Orden a través de la(s) orden(es) de entrega correspondiente(s) . 
+
+La "Guía de Despacho de Combustibles de las FF.AA. y de Orden" que se emitirá por cada entrega de combustible deberá:
+
+Emitirse en triplicado, con indicación preimpresa del destino de cada ejemplar.
+Original: FF.AA. y de Orden; Duplicado: SII (a conservar por el emisor); Triplicado: Distribuidora Mayorista. Opcionalmente, se podrán agregar copias destinadas a controles internos del sistema. El destino de cada una de las copias, tanto obligatorias como voluntarias, deberá consignarse en el vértice inferior derecho del documento y en dirección horizontal.   
+La confección de estas guías de despacho de combustibles deberá cumplir con los requisitos de formato y numeración de las guías de despacho establecidos en la Res. N° Ex. 1661 de 1985.
+Indicar la identificación, razón social, Rut y dirección de la estación de servicio que entrega el combustible.
+Deberá llevar preimpreso en el anverso, en forma destacada la siguiente leyenda: “El presente documento fue autorizado por la Resolución N°..........de ......... de la Dirección Nacional del S.I.I.”, correspondiente a la presente resolución. 
+Cada talonario deberá ser timbrado, previamente a su uso, por el Servicio de Impuestos Internos.
+En el documento autorizado se deberá consignar, los siguientes datos: 
+Razón  Social, Rut y Dirección de la Institución destinataria de los combustibles. 
+Fecha de Entrega.
+Tipos de Combustible.
+Cantidad de Combustibles (litros).
+Placa Patente del o los Vehículos que carguen combustible. En caso de no existir este dato, deberá estamparse el nombre, Rut y firma del funcionario conductor del vehículo.
+Número de Serie de las Ordenes de Entrega de Combustibles de las FF.AA. y de Orden 
+Leyenda Advertencia: ”Combustible Propiedad del Estado de Chile. No Constituye Venta”. 
+
+Opcionalmente, este documento podrá consignar en forma preimpresa los antecedentes que identifican a los destinatarios, de manera de facilitar su emisión mediante la selección y marca de la institución que retira el combustible.
+
+El Triplicado de las Guías de Despacho de Combustibles de las FF.AA. y de Orden y las Ordenes de Entrega de Combustibles de las FF.AA. y de Orden asociadas a ese documento, deberán ser conservados juntos, por la distribuidora mayorista que suscribió contrato de almacenaje y/o distribución con las Instituciones Armadas y de Orden, durante seis años, conforme lo previene el Artículo No. 58 del DL No. 825, de 1974.
+  
+La empresa mayorista deberá llevar el registro, timbrado por el Servicio, que más abajo se indica:
+
+Correlativo mensual de guías de despacho de combustibles emitidos por concepto de entregas a las FF.AA. y de Orden por cada estación de servicio, con mención de su número y fecha; nombre y RUT del destinatario, cantidad de litros y tipo de combustibles.
+
+A nivel nacional y para cada estación de servicio deberá totalizarse por institución armada, tipo de producto y cantidad de litros.
+
+Copia del correlativo correspondiente a cada estación de servicio deberá ser remitida por la distribuidora mayorista a ella y ser mantenida en el establecimiento.
+
+Para fines de control y fiscalización de los despachos de combustibles efectuados con este Sistema, las distribuidoras mayoristas de combustibles autorizadas para utilizar el procedimiento de distribución de esta Resolución, deberán remitir información de las operaciones del sistema cuando el Servicio lo solicite, en la forma y por los períodos que éste determine. De igual forma, las Instituciones Armadas y de Orden deberán proporcionar información pertinente al Servicio de Impuestos Internos, a través de los canales institucionales correspondientes.
+
+La emisión de las guías de despacho que establece este procedimiento de distribución, sin cumplir con los requisitos señalados en la presente Resolución y el incumplimiento de cualquiera de las obligaciones dispuestas en ella, se sancionará de acuerdo a las disposiciones pertinentes del Código Tributario. En particular, la no emisión, o emisión sin consignar la totalidad de los antecedentes requeridos (Patente (s) o Nombre (s), Rut y Firma del Funcionario Conductor, Número (s) de Serie de las Ordenes de Entrega, e identificación de la Institución Armada que retira) hará acreedora a la estación de servicio que efectúa el despacho, de la infracción establecida en el Artículo 109 del Código Tributario.  
+
+La presente Resolución será publicada en extracto en el Diario Oficial, y entrará en vigencia a partir de la fecha de su publicación.
+
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE
+
+
+(FDO)	JAVIER ETCHEBERRY CELHAY
+		      			DIRECTOR 
+
+
+Lo que transcribo a Ud. para su conocimiento y demás fines,
+
+Saluda a Ud. 
+
+
+
+
+DISTRIBUCION
+SR. DIRECTOR
+SRES. SUBDIRECTORES
+SRES. DIRECTORES REGIONALES DEL PAIS
+DEPARTAMENTO DE FISCALIZACION INTERNA
+DEPARTAMENTO DE ASESORIA JURIDICA
+SECRETARIA GENERAL
+BOLETIN
+INTERNET
+DIARIO OFICIAL (EXTRACTO)
+OFICINA DE PARTES
+PÁGINA  1
+
+
+PÁGINA  2
+		
+
+
+
+
+

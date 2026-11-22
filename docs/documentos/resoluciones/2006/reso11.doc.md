@@ -1,0 +1,69 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso11.doc
+titulo: Word – Resolución Exenta SII N°11 del 23 de Enero del 2006 Modifica Resolución Ex. N° 5.517 de 26.11.1996. Dispone Inscripción Automática de los Agentes Retenedores de Cambio de Sujeto Como Retenedores de Pequeños Productores Agrícolas. Fuente: Oficina de Factura Electrónica y Documentos de Venta
+categoria: otros
+---
+RESOLUCION EXENTA SII N°11 DEL 23 DE ENERO DEL 2006 MATERIA : MODIFICA RESOLUCIÓN EX. N° 5.517 DE 26.11.1996. DISPONE INSCRIPCIÓN AUTOMÁTICA DE LOS AGENTES RETENEDORES DE CAMBIO DE SUJETO COMO RETENEDORES DE PEQUEÑOS PRODUCTORES AGRÍCOLAS.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: La facultad que me confiere el Art. 6, letra A, N° 1 y 3 del DL N° 830, sobre Código Tributario, y lo dispuesto en el Art. 1, letra g) y siguientes de la Ley N° 19.034, publicada en el Diario Oficial de 30 de Enero de 1991, que permite la devolución a los pequeños productores agrícolas del crédito fiscal no recuperado mediante otro mecanismo legal cuando realicen ventas a ciertas empresas que el Director del Servicio de Impuestos Internos determine, y
+
+
+C O N S I D E R A N D O : 
+
+
+1.-	Que, se hace necesario establecer las empresas adquirentes de productos agropecuarios que tendrán la calidad de agentes retenedores del Impuesto al Valor Agregado por las compras que efectúan a los pequeños productores agrícolas definidos en la letra a), del Art. 1, de la Ley N° 19.034,
+
+2.-	Que, para facilitar el acceso y operación del sistema y considerando que los agentes retenedores conforme a resoluciones de cambio de sujeto existentes fueron evaluados previamente a la concesión de tal calidad, se estima que deben adquirir automáticamente la calidad de retenedores de Pequeños Productores Agrícolas.
+
+
+S E   R E S U E L V E :
+
+
+1.-	Reemplazase  el dispositivo N° 1 de la Res. Ex. N° 5.517, de 1996, por el siguiente:
+
+“Tendrán la calidad de agentes retenedores del Impuesto al Valor Agregado, por las compras que efectúen a los pequeños productores agrícolas definidos en la letra a), del Art. 1 de la Ley N° 19.034, aquellos contribuyentes que declaren sus impuestos sobre la base de contabilidad completa, a quienes el Director Regional respectivo les hubiere otorgado dicha calidad y que se encuentren inscritos en el registro a que se refiere el dispositivo N° 7 de esta Resolución.
+
+Podrán solicitar voluntariamente su inscripción aquellos contribuyentes que cumplan con el requisito de declarar sus rentas sobre la base de contabilidad completa y que efectúen operaciones de compras a los pequeños productores agrícolas.
+
+El Director Regional otorgará la calidad de agente retenedor del IVA de los Pequeños Productores Agrícolas conforme a la Ley N° 19.034 de 1991, previa evaluación del comportamiento tributario de los solicitantes y siempre que no se encuentren investigados, denunciados, querellados o condenados por infracciones tributarias sancionadas con pena corporal, sin perjuicio de cumplir con los requisitos que en cada caso determine el Director Regional respectivo, acerca del monto de las ventas de las empresas solicitantes, de su capital o de cualquiera otra circunstancia que garantice un adecuado control de las facturas de compra que se emitan.
+
+Para los efectos de lo dispuesto en el párrafo precedente, delegase en los Directores Regionales las facultades contenidas en la letra g) del Artículo 1 de la Ley 19.034.
+
+Asimismo, tendrán la calidad de agentes retenedores del Impuesto al Valor Agregado, por las compras que efectúen a los pequeños productores agrícolas definidos en la letra a), del Art. 1 de la Ley N° 19.034, aquellos contribuyentes que tengan la calidad de agentes retenedores, conforme a cualesquiera de las resoluciones de cambio de sujeto actualmente vigentes o que se dicten en el futuro.”
+
+2.-	Reemplazase el dispositivo N° 7 de la Res. Ex. N° 5.517, de 1996, por el siguiente:
+
+“Verificado el cumplimiento de los requisitos exigidos por el N° 1 de esta resolución, la Dirección Regional procederá a inscribir en un libro o registro las empresas autorizadas, debiendo anotar en él los siguientes antecedentes: número correlativo, fecha, inscripción, RUT, nombre empresa, domicilio y comuna. Posteriormente, entregará a la empresa autorizada, un certificado, en el que conste su inscripción en el rol de empresas retenedoras de IVA a pequeños productores agrícolas.
+
+La inscripción en el libro o registro de los contribuyentes a que se refiere el párrafo final del dispositivo N° 1 de esta Resolución, se realizará al cierre del ejercicio agrícola definido entre el 1° de junio y el 31 de mayo del año siguiente, previo al envío de la información correspondiente que actualiza la Nómina de Agentes Retenedores.”
+ 
+3.-	La presente resolución regirá a contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+
+
+
+ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+(FDO) JUAN TORO RIVERA
+             DIRECTOR
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Saluda a Ud.,
+ERH/MSC/MVH/jjm
+DISTRIBUCION:
+Secretaría Director
+Subdirección de Fiscalización
+Subdirección Normativa
+Departamento Asesoría Jurídica
+Secretaría General
+Oficina de Partes
+Internet
+Diario Oficial (Extracto)
+
+
+
+
+

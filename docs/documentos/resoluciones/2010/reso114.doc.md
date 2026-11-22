@@ -1,0 +1,202 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso114.doc
+titulo: Word – Resolución Exenta SII N°114 del 21 de Julio del 2010 Reorganiza las Unidades que Conforman el Departamento Subdirección Jurídica y Establece Ámbitos de Competencia. Fuente: Depto. de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°114 DEL 21 DE JULIO DEL 2010 MATERIA : REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA.
+
+Hoy se ha resuelto lo que sigue:
+VISTOS: Lo dispuesto en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos; en el Código Tributario contenido en el Artículo 1° del  D.L N° 830 de 1974; en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado; y en las Resoluciones Ex. N° 349 de 1984; N° 652 de 1997, N° 7590 de 1999, N° 5660 de 2000, N° 3 de 2002; N° 72 de 2008, y N° 130 de 2009; y
+
+CONSIDERANDO: 
+
+1.- Que, de acuerdo a lo que disponen  las letras a), c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, al Director le corresponde organizar, dirigir, planificar y coordinar el funcionamiento del Servicio, dictar las órdenes que estime necesarias o convenientes para la más expedita marcha del mismo, pudiendo además fijar y modificar la organización interna de las unidades del Servicio, cambiando sus dependencias, atribuciones y obligaciones;
+
+2.- Que, por Resolución Ex. N° 4 de 11 de enero de 2010,  se fijaron  las funciones del Departamento Subdirección Jurídica;
+
+3.- Que, por Resolución Ex. N° 10 de 21 de enero de 2009, se establecieron las dependencias jerárquicas y las atribuciones de los departamentos y oficinas que conforman el Departamento Subdirección Jurídica; 
+
+4.- Que, en atención a los requerimientos y desafíos que debe enfrentar el Departamento Subdirección Jurídica, producto de la entrada en funciones de la nueva justicia tributaria, y de la necesidad de asumir de mejor forma el combate a la evasión, para la adecuada coordinación y funcionamiento se hace indispensable reorganizar las unidades existentes al interior de aquél, fijando sus funciones; y
+
+5.- Las necesidades del Servicio,
+
+RESUELVO:
+
+1.- Al Departamento de Asesoría Jurídica le corresponden las siguientes funciones:
+
+a) Informar en derecho sobre todas las materias que sean de competencia de la Subdirección Jurídica, a requerimiento del Director, de los Subdirectores, de los Directores Regionales y del Director de Grandes Contribuyentes. Los informes que emita y que impliquen un cambio de doctrina deberán ser sometidos a la aprobación del Director.
+
+b) Sugerir al Director las reformas legales y reglamentarias de las normas que le hayan parecido obscuras o defectuosas al ser consultadas para la redacción de un informe.
+
+c) Informar, en los casos que se le requiera, en las investigaciones y sumarios administrativos que se instruyan en la Dirección Nacional.
+
+d) Elaborar los informes dirigidos a la Contraloría General de la República, o, visarlos en los casos que así corresponda.
+
+e) Coordinar, supervisar y apoyar el cumplimiento de las funciones que, de acuerdo a lo que se señala en el numeral 2 siguiente, competen a las Oficinas establecidas bajo su dependencia.
+
+f) Colaborar en las acciones administrativas necesarias para la conformación de los Tribunales Especiales de Alzada, actuando en coordinación con las áreas operativas regionales y con la Subdirección de Avaluaciones; y
+
+g) Cualquier otra tarea de carácter legal que el Director o el Jefe del Departamento Subdirección Jurídica le encomiende, desarrollándolas directamente o a través de las oficinas de su dependencia.
+
+2.-  Establécense bajo la dependencia directa del Departamento de Asesoría Jurídica, las siguientes oficinas:
+
+I.- “Oficina de Análisis de la Jurisprudencia”, creada por Resolución N° Ex 652 de 1997, con las siguientes funciones: 
+a) Revisar las resoluciones pronunciadas por la Dirección de Grandes Contribuyentes o las Direcciones Regionales en procedimientos administrativos de revisión de la actuación fiscalizadora o del artículo 123 bis del Código Tributario, y de aplicación de sanciones, observando que se ajusten a la ley e instrucciones del Servicio.
+
+b) Supervigilar y colaborar con las acciones pertinentes para fortalecer los fundamentos jurídicos de las actuaciones de fiscalización.
+
+c) Supervisar la gestión del procedimiento administrativo de aplicación de sanciones por infracciones tributarias.
+
+d) Analizar la jurisprudencia que los Tribunales dicten sobre materias tributarias, para su incorporación en el Banco Jurídico de datos y su publicación en el Boletín del Servicio.
+
+e)  Hacer presente las actuaciones del Servicio que hayan sido reclamadas por no hacer correcta aplicación de la ley, de los reglamentos o de las instrucciones del Servicio.
+
+f) Sugerir las acciones necesarias para lograr una adecuada uniformidad de criterios entre las resoluciones y actuaciones del Servicio y la jurisprudencia sostenida por los tribunales.
+
+g) Apoyar con información sobre jurisprudencia judicial a los Jefes de Departamento u Oficinas de Procedimientos Administrativos, Jefes de Departamentos Jurídicos, Jefes de Oficinas Jurídicas y abogados del área jurídica en la ejecución de sus diversas funciones; y
+
+
+h) Realizar toda otra tarea de carácter legal que expresamente le sea encomendada por el Director, el Jefe del Departamento Subdirección Jurídica o el Jefe del Departamento de Asesoría Jurídica.
+
+II.- “Oficina de Procedimientos Administrativos”, creada por Resolución N° Ex 72 de 2008, bajo la denominación “Oficina de Supervisión y Coordinación de Procedimientos Administrativos”, con las siguientes funciones:
+a) Supervisar y coordinar a nivel nacional el desarrollo de los procedimientos administrativos de revisión de las actuaciones de fiscalización. 
+b) Apoyar, desde el nivel central, a los Jefes de Departamento u Oficinas de Procedimientos Administrativos, Jefes de Departamentos Jurídicos, Jefes de Oficinas Jurídicas y abogados del área jurídica encargados de los procedimientos de revisión de las actuaciones de fiscalización y, en general, de los procedimientos administrativos de resolución de conflictos con relevancia jurídica. 
+c) Efectuar un seguimiento del funcionamiento y aplicación de mejoras al procedimiento de revisión de las actuaciones de fiscalización y a los procedimientos de resolución de los conflictos con relevancia jurídica que se desarrollan en sede administrativa. 
+d) Entregar lineamientos y efectuar la coordinación para la satisfacción de las necesidades de capacitación  para los abogados que prestan apoyo a fiscalización o que forman parte de los equipos encargados de la revisión de las actuaciones de fiscalización y de la resolución de los conflictos de relevancia jurídica que se conocen sede administrativa, en relación al cumplimiento de sus funciones y de los objetivos institucionales. 
+e) Colaborar con las acciones pertinentes para fortalecer los fundamentos jurídicos de las actuaciones de fiscalización a través del control del procedimiento de revisión de las mencionadas actuaciones y de los procedimientos de resolución de los conflictos con relevancia jurídica desarrollados en sede administrativa. 
+f) Coordinar y tramitar el procedimiento de resolución de los recursos jerárquicos y de revisión, interpuestos por los contribuyentes respecto de resoluciones dictadas por los Directores Regionales, para que sean conocidos y resueltos por el Director del Servicio, cuando corresponda. 
+g) Coordinar y tramitar los procedimientos de resolución de peticiones de información presentadas al amparo  de la Ley 20.285, en todas aquellas materias que de acuerdo a las instrucciones vigentes, sean de competencia de la Subdirección Jurídica.
+h) Representar al Servicio de Impuestos Internos en los reclamos que se ventilen  ante el Consejo para la Transparencia, sin perjuicio de las facultades del Departamento de Defensa Judicial y Delitos Tributarios, en su caso.
+i) Recopilar y mantener la información necesaria para conocer, en todo momento, el estado de ejecución de las facultades de revisión de las actuaciones de fiscalización, por parte de las autoridades delegatarias de las mismas; y  
+j) Realizar toda otra tarea de carácter legal que expresamente le sea encomendada por el Director, el Jefe del Departamento Subdirección Jurídica o el Jefe del Departamento de Asesoría Jurídica.
+III.- “Oficina de Litigación Tributaria”,  creada por Resolución N° Ex 10 de 2009, bajo la denominación “Oficina de Litigación Civil”, con las siguientes funciones:
+a) Dirigir y apoyar a las áreas operativas regionales, en la defensa judicial del Servicio en todos los asuntos y recursos asociados a los procedimientos judiciales tributarios, que se establecen en el Título II, en los párrafos primero y segundo del Título III, y en el Título IV, todos del Libro Tercero del Código Tributario.  
+b) Dirigir y apoyar a las áreas operativas regionales, en la defensa de los intereses del Servicio en todos los asuntos y recursos que digan relación con la solicitud de autorización judicial que el Servicio interponga para acceder a la información bancaria sujeta a reserva o secreto, en conformidad al procedimiento establecido en el artículo 62 bis del Código Tributario.
+c) Asumir la litigación directa ante los tribunales ordinarios o especiales, en materias propias de su competencia, en los casos que expresamente determine esta Dirección o el Jefe del Departamento Subdirección Jurídica.
+d) Asumir la litigación directa, en materias propias de su competencia, que sean de conocimiento de la Corte Suprema, con excepción de aquellos casos que expresamente determine esta Dirección o el Jefe del Departamento Subdirección Jurídica.
+e) Orientar y uniformar los criterios jurídicos en base a los cuales deben desarrollar su labor los abogados del Servicio, en materias de su competencia.
+f) Apoyar y controlar la gestión de los departamentos y oficinas  jurídicas regionales, en materias de su competencia.
+g) Coordinarse y colaborar con el Departamento de Defensa Judicial y Delitos Tributarios y sus oficinas dependientes en los casos que ello sea necesario; y
+h) Realizar toda otra tarea de carácter legal que expresamente le sea encomendada por el Director, el Jefe del Departamento Subdirección Jurídica o el Jefe del Departamento de Asesoría Jurídica.
+
+3.- Al Departamento de Defensa Judicial y Delitos Tributarios, le corresponden las siguientes funciones:
+
+a) Dirección de la defensa del Servicio y, o de sus personeros, con excepción de los casos regidos por el punto III del numeral precedente, en todos los asuntos y recursos, jurisdiccionales y administrativos, en que la ley le asigne la calidad de parte, en los recursos ordinarios y extraordinarios que se interpongan por o en contra del mismo Servicio, además de la defensa judicial de los funcionarios de esta Institución en los casos establecidos en el Estatuto Administrativo. Deberá además asumir directamente dicha defensa en los casos que expresamente encomiende el Jefe del Departamento Subdirección Jurídica.
+
+b) Representar al Servicio ante el Tribunal Constitucional.
+
+c) Representar  al Servicio en los reclamos que se ventilen ante el Consejo para la Transparencia, cuando así se determine por la superioridad institucional.
+
+d) Representar al Servicio ante las Cortes de Apelaciones en los reclamos de ilegalidad que se deduzcan al amparo de la Ley N° 20.285.  
+
+e) Informar al Jefe del Departamento Subdirección Jurídica de los procesos de recopilación de antecedentes practicados por el Servicio a raíz de infracciones sancionadas con pena corporal, así como de aquellos casos en que se tome conocimiento por otras vías, recomendando la presentación de querellas o denuncias ante la justicia ordinaria en contra de los responsables, cuando los antecedentes sean a su juicio suficientes para que prospere la acción.
+
+f) Controlar la gestión del ejercicio de la acción penal en los procesos a que dé lugar la persecución de los delitos tributarios y comunes, en los que este Servicio tenga interés, ante los Tribunales de Justicia.
+
+g) Apoyar en forma directa a las Direcciones Regionales en materias de competencia del Departamento.
+
+h)  Coordinar, supervisar y apoyar el cumplimiento de las funciones que competen a las oficinas dispuestas bajo su dependencia.
+
+i) Controlar la gestión y la calidad de las actuaciones desarrolladas por los departamentos y oficinas jurídicas regionales, en asuntos de competencia del Departamento.
+
+j) Colaborar en la generación de planes y programas de prevención, detección, fiscalización y sanción del delito tributario, en conjunto con las unidades internas y los organismos externos que corresponda.
+
+k)  Mantener vínculos de coordinación con el Ministerio Público, las policías y otros entes externos, en materias propias de la litigación, procesos de recopilación de antecedentes por delitos tributarios y otras relacionadas con las funciones propias del Departamento.
+
+l) Elaborar instructivos generales y preparar instrucciones, en materias de su competencia. 
+
+ll) Realizar la recopilación de antecedentes a que se refieren el artículo 7 letra f) de la Ley Orgánica del Servicio de Impuestos Internos, y el artículo 161 N° 10 del Código Tributario, respecto de aquellas irregularidades presumiblemente constitutivas  de delitos tributarios, sancionadas con multa y pena corporal, con el objeto que la autoridad competente adopte la decisión a que se refiere el artículo 162, inciso tercero del Código Tributario.
+
+m) Supervisar y formular directrices respecto de las actuaciones de detección, recopilación de antecedentes y cuidado de los medios de prueba recabados en los casos de irregularidades tributarias susceptibles de ser sancionadas con pena corporal, que se practiquen en las Direcciones Regionales, en la Dirección de Grandes Contribuyentes y demás unidades de este Servicio que practiquen una recopilación de antecedentes, así como también proponer estrategias de acción relativas a casos específicos que sean conocidos por estos estamentos; y
+
+n) Realizar toda otra función que el Director o el Jefe del Departamento Subdirección Jurídica le encomiende, desarrollándolas directamente o a través de las oficinas de su dependencia.
+
+4.- Establécense bajo  la dependencia directa del Departamento Defensa Judicial y Delitos Tributarios, las siguientes oficinas:
+
+I.- “Oficina de Litigación Penal”,  creada por Resolución N°  Ex. 10 del 2009,  con  las siguientes funciones:
+a) Coordinar la ejecución de las funciones propias del Departamento, relativas a todos los procedimientos judiciales de carácter penal que sean de interés del Servicio, con áreas operativas regionales. Al efecto, podrá, en coordinación con la jefatura del Departamento de Defensa Judicial y Delitos Tributarios, establecer criterios generales sobre el ejercicio de las labores de litigación que le están encomendados. 
+b) Analizar los hechos con caracteres de ilícitos tributarios o comunes que se detecten en las labores de fiscalización ordinaria que ejecuta el Servicio o de las que se tome conocimiento por otras vías.
+c) Asumir la litigación en materias penales en forma directa, en los casos que expresamente determine esta Dirección o el Jefe del Departamento Subdirección Jurídica. 
+d) Asumir la litigación directa en los asuntos criminales que sean de conocimiento de la Corte Suprema.
+e) Colaborar con los organismos policiales y de investigación, a fin de propender al éxito de las diligencias que se decreten en relación con los hechos que se investiguen por la autoridad competente.
+f) Coordinarse y colaborar con la Oficina de Litigación Tributaria en los casos que ello sea necesario; y 
+g) Realizar toda otra función que expresamente le encomiende el Director, el  Jefe del Departamento Subdirección Jurídica  o el Jefe del Departamento de Defensa Judicial y Delitos Tributarios, en su caso.
+II.- “Oficina de Análisis y Prevención del Delito Tributario” creada por Resolución N° Ex. 130 de 2009, bajo la denominación de “Oficina de Recopilación de Antecedentes”, con las siguientes funciones:
+
+a) Realizar la recopilación de antecedentes a que se refiere el artículo 7° letra f) de la Ley Orgánica del Servicio de Impuestos Internos y el artículo 161 N° 10 del Código Tributario, respecto de irregularidades presumiblemente constitutivas de delitos tributarios.
+
+b) Realizar análisis preliminares respecto de conductas presumiblemente constitutivas de delitos tributarios, a fin de determinar la procedencia de efectuar recopilaciones de antecedentes.
+
+c) Coordinar, a nivel de las Direcciones Regionales, las labores realizadas por éstas relativas a la recopilación de antecedentes indicada en la letra a) precedente.
+
+d) Participar en la realización de peritajes, en materias de su especialidad, que soliciten el Ministerio Público o los tribunales de justicia.
+
+e) Efectuar análisis y estudios respecto de determinadas actividades empresariales o sectores económicos, a fin de prevenir eventuales conductas evasivas de impuestos.
+
+f) Elaborar e implantar un sistema de inteligencia fiscal que, mediante el empleo metódico de técnicas especializadas, permita establecer proyectos integrales para la detección y planificación de actuaciones contra del fraude tributario.
+
+g) Remitir a las respectivas Direcciones Regionales, a través del Jefe del Departamento de Defensa Judicial y Delitos Tributarios, los antecedentes que correspondan para la aplicación de las sanciones que fuesen procedentes y la determinación y cobro de los impuestos adeudados; y
+
+h) Realizar toda otra función que expresamente le encomiende el Director,  el Jefe del Departamento Subdirección Jurídica o el Jefe del Departamento de Defensa Judicial y Delitos Tributarios, en su caso.
+
+III.- “Oficina Fiscalía Contra el Comercio Clandestino”, creada por Resolución Ex. 3 del 2002, con las siguientes funciones:
+a) Analizar los hechos detectados en las labores de fiscalización ordinaria que ejecuta el Servicio, o de las que se tome conocimiento por otras vías, en que aparezcan indicios de las conductas tipificadas en los numerales 8, 9, 25 y 26 del Artículo 97 del Código Tributario. 
+b) Control de la gestión de la labor de los departamentos y oficinas jurídicas regionales, relativas a los delitos previstos en los números 8, 9, 25 y 26 del artículo 97 del Código Tributario, de conformidad a los criterios definidos por la Oficina de Litigación Penal.
+c) Asumir la litigación directa en los asuntos criminales, de su competencia, que sean de conocimiento de la Corte Suprema.
+d) Coordinarse con los entes internos y externos que corresponda, en materias relativas a procedimientos permanentes para la detección y comunicación de conductas constitutivas de los delitos de su competencia, así como promover el intercambio de información relevante en materia del combate al comercio clandestino.
+
+e) Planificar y desarrollar una política de inserción ante Entidades Nacionales e Internacionales que se relacionen con el combate al comercio clandestino.
+
+f) Colaborar con los organismos policiales y de investigación, a fin de propender al éxito de las diligencias que se detecten en relación con los hechos que se investiguen por al autoridad competente.
+
+g) Asumir la litigación penal directa en casos judiciales seguidos por los delitos previstos en los números 8, 9, 25 y 26 del artículo 97 del Código Tributario, en los casos que expresamente determine esta Dirección o el Jefe del Departamento Subdirección Jurídica.
+
+h) Coordinarse y colaborar con la Oficina de Litigación Tributaria en los casos en que ello sea necesario; y
+
+i) Realizar toda otra función que expresamente le encomiende el Director, el Jefe del Departamento Subdirección Jurídica o el Jefe del Departamento de Defensa Judicial y Delitos Tributarios, en su caso.
+
+5.- Cualquier mención, asignación de funciones, delegación de facultades u otras que aludan a la Oficina de  Litigación Civil, contenida en resoluciones o instrucciones, se entenderá referida a la “Oficina de Litigación Tributaria”.
+
+6.- Cualquier mención, asignación de funciones, delegación de facultades u otras que aludan a la Oficina de Recopilación de Antecedentes, contenida en resoluciones o instrucciones, se entenderá referida  a  la “Oficina de Análisis y Prevención del Delito Tributario”.
+
+7.- Corresponderá al Jefe del Departamento Subdirección Jurídica implementar las medidas tendientes a organizar, supervigilar y coordinar el funcionamiento de todos los departamentos y oficinas que están bajo su dependencia directa e indirecta.
+
+
+
+8.- A contar de la fecha de vigencia de la presente resolución, las instrucciones que en ella se contienen priman sobre toda norma que pugne con sus disposiciones.
+
+9.- La presente Resolución regirá a partir de la fecha de su publicación en extracto en el Diario Oficial.
+ANOTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+
+
+(FDO.) JULIO PEREIRA GANDARILLAS
+  DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes
+
+Internet
+Diario Oficial
+Boletín
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 1
+
+
+
+
+

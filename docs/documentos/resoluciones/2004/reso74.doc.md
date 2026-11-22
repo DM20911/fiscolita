@@ -1,0 +1,60 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso74.doc
+titulo: Word – Resolución Exenta SII N°74 del 15 de Julio del 2004 Modifica Res. Ex. SII N° 42 de 26.03.2004 que Establece Obligación de Presentar Declaración Jurada Resumen Anual de IVA de Compras y Ventas. Fuente: Departamento de Operación IVA y Catastro de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°74 DEL 15 DE JULIO DEL 2004 MATERIA : MODIFICA RES. EX. SII N° 42 DE 26.03.2004 QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA RESUMEN ANUAL DE IVA DE COMPRAS Y VENTAS.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS:
+
+Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980; en el artículo 6°, letra A, N°1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y  68 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. N° 825, de 1974; en el D.S. N° 893, de 20 de Octubre de 2003, que modificó el D.S. N° 55, del Ministerio de Hacienda, de 1977, incorporando a su texto el artículo 83 bis y
+
+
+CONSIDERANDO:
+1°) Que, el resolutivo 1 de la Resolución Exenta SII N° 42, de 26 de Marzo de 2004, dispone que los contribuyentes afectos a IVA y los exportadores, cuya sumatoria anual de créditos, sea superior a $ 250.000.000, deberán presentar una vez al año ante el Servicio de Impuestos Internos, una Declaración Jurada que contendrá un Resumen Anual, con el IVA que afectó a las compras de bienes, utilización de servicios e importaciones realizadas, durante el año calendario inmediatamente anterior a aquél en que debe presentarse la Declaración Jurada, y un Resumen Anual, con  el IVA que afectó a las ventas de bienes y prestación de servicios efectuados, durante el año calendario inmediatamente anterior a aquél en que debe presentarse la Declaración Jurada, en el plazo que se señala en el resolutivo 11.  
+
+
+2°) Que, el resolutivo 11 señala que el plazo para presentar la Declaración Jurada Resumen Anual de IVA de Compras y Ventas, vía Internet, vence el 15 de Julio. 
+
+
+3°) El interés del Servicio de Impuestos Internos de facilitar y fomentar el cumplimiento voluntario por parte de los contribuyentes a través de los sistemas, procedimientos, normativa y asistencia que se pone a disposición de los mismos.
+
+
+SE RESUELVE:
+
+1°	Amplíase para el año 2004, el plazo para presentar la Declaración Jurada Resumen Anual de IVA de Compras y Ventas, vía Internet, indicado en el inciso tercero del resolutivo 11 de la Resolución Exenta SII N° 42 de 26 de Marzo de 2004, hasta el 31 de Julio de 2004.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+
+
+
+(FDO.) JUAN TORO RIVERA
+DIRECTOR
+
+
+
+
+Lo que transcribo a Ud., para su conocimiento y fines consiguientes,
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+Al Diario Oficial (En extracto)
+Internet
+Boletín
+Oficina de Partes
+
+
+
+
+

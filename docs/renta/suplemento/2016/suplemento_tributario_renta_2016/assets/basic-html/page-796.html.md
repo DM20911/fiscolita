@@ -1,0 +1,730 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-796.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 796 / 808
+
+Basic version
+
+796 / 808
+
+796
+
+HIJUELAS
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CUARTEL N° 075
+
+33-271138
+
+[b295bc1@abretumundo.cl](mailto:b295bc1@abretumundo.cl)
+
+LU A VI: 08:30-20:00
+
+SA:09:00-13:00
+
+S/COSTO
+
+ISLA DE PASCUA
+
+INJUV
+
+CALLE ATAMU TEKENA S/N
+
+32-210059
+
+[nrapahango@injuv.gob.cl](mailto:nrapahango@injuv.gob.cl)
+
+08:00-17:30
+
+S/COSTO
+
+ISLA DE PASCUA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ATAMU TEKENA S/N, HANGA
+
+ROA
+
+32-2100559
+
+LU A VI:08:00-13:30 / 14:00-
+
+17:30
+
+S/COSTO
+
+ISLA DE PASCUA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SECTOR TAHAI 122123
+
+(132-32)551020
+
+JUAN FERNANDEZ
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CAMINO EL PANGAL S/N,
+
+DEPENDENCIAS CONAF
+
+32-2751045/6
+
+LU A VI:08:30-13:00 / 14:30-
+
+20:00
+
+SA:11:00-13:00 /
+
+17:00-20:00
+
+S/COSTO
+
+LA CALERA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+J.J. NUÑEZ N° 57, ARTIFICIO
+
+[b234bc1@abretumundo.cl](mailto:b234bc1@abretumundo.cl)
+
+LU A VI: 09:00-14: / 15:00-
+
+19:00
+
+S/COSTO
+
+LA CALERA
+
+INJUV
+
+IRIARTE N°630
+
+09:00 - 18:00
+
+S/COSTO
+
+LA CALERA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVENIDA O'HIGGINS N°810
+
+32-222254
+
+S/COSTO
+
+LA LIGUA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+POLANCO S/N
+
+33-711036
+
+[b043bc1@abretumundo.cl](mailto:b043bc1@abretumundo.cl)
+
+LU A VI:08:45-13:15 / 15:00-
+
+19:00
+
+S/COSTO
+
+LA LIGUA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PJE. 8 PONIENTE N°018,
+
+PLACILLA DE LA LIGUA
+
+33-712798
+
+[b298bc1@abretumundo.cl](mailto:b298bc1@abretumundo.cl)
+
+LU A VI:08:45-13:30 / 14:50-
+
+19:00
+
+S/COSTO
+
+LA LIGUA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PASAJE 8 PONIENTE N°018
+
+33-712798
+
+LIMACHE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+URMENETA N° 920
+
+33-411538
+
+[b091bc1@abretumundo.cl](mailto:b091bc1@abretumundo.cl)
+
+LU A VI:08:30-13:00 / 14:00-
+
+18:00
+
+S/COSTO
+
+LLAY-LLAY
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ALMIRANTE LATORRE N°019
+
+34-613247
+
+[b087bc1@abretumundo.cl](mailto:b087bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 15:00-
+
+18:00
+
+S/COSTO
+
+LOS ANDES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVENIDA INDEPENDENCIA N°
+
+594
+
+34-424432
+
+[b232bc1@abretumundo.cl](mailto:b232bc1@abretumundo.cl)
+
+09:30-17:45
+
+S/COSTO
+
+LOS ANDES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. INDEPENDENCIA N°594
+
+34- 406023
+
+09:00-17:45
+
+S/COSTO
+
+LOS ANDES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AV INDEPENDENCIA N°594
+
+34-424432
+
+NOGALES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PEDRO FELIX VICUÑA N° 477
+
+33-262590
+
+[b181bc1@abretumundo.cl](mailto:b181bc1@abretumundo.cl)
+
+LU A VI:09:00-13:30 / 14:30-
+
+18:00
+
+S/COSTO
+
+NOGALES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LOS CEREZOS N°2699, POB.
+
+MACAL3, EL MELON
+
+33-280199
+
+09:00-13:00 / 14:00-18:00
+
+S/COSTO
+
+OLMUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO
+
+PRAT
+
+N°
+
+5002,
+
+PARADERO 25
+
+33-442743
+
+[b073bc1@abretumundo.cl](mailto:b073bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:00
+
+S/COSTO
+
+PANQUEHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LAS CHILCAS ESQUINA PASAJE
+
+3
+
+S/COSTO
+
+PAPUDO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+DOMINGO
+
+FERNANDEZ
+
+CONCHA N°225
+
+33-791101 anexo 18
+
+[b127bc1@abretumundo.cl](mailto:b127bc1@abretumundo.cl)
+
+LU
+
+A
+
+JU:08:30-17:35,
+
+VI:8:30-13:30 / 14:30-16:20
+
+S/COSTO
+
+PETORCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL MONTT N° 845
+
+33-781077 anexo 29
+
+[b041bc1@abretumundo.cl](mailto:b041bc1@abretumundo.cl)
+
+LU A JU:08:30-13:00 /
+
+13:30-17:30, VI:08:30-13:00
+
+/ 13:30-16:30
+
+S/COSTO
+
+PUCHUNCAVI
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. BERNARDO O´HIGGINS
+
+N° 140
+
+32-2791718 anexo 57
+
+[b237bc1@abretumundo.cl](mailto:b237bc1@abretumundo.cl)
+
+LU A VI:09:00-13:30 / 14:30-
+
+17:20
+
+S/COSTO
+
+PUTAENDO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SAN MARTÍN N° 654
+
+34- 501004
+
+[b304bc1@abretumundo.cl](mailto:b304bc1@abretumundo.cl)
+
+LU A VI:08:00-13:00 / 14:00-
+
+17:00
+
+S/COSTO
+
+QUILLOTA
+
+INJUV
+
+BLANCO ENCALADA N°312
+
+09:00-17:30
+
+S/COSTO
+
+QUILLOTA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SAN MARTIN N°336
+
+33-265050
+
+LU A JU:08:45-17:15 /
+
+VI:08:45-14:00
+
+S/COSTO
+
+QUILPUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COVADONGA N° 1271
+
+32-3171790
+
+[b088bc1@abretumundo.cl](mailto:b088bc1@abretumundo.cl)
+
+LU A VI:08:10-14:00 / 15:10-
+
+18:00
+
+SA 09:00-13:00
+
+S/COSTO
+
+QUINTERO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CENTRO
+
+CULTURAL
+
+LIDIA
+
+IRACHET,
+
+ARTURO
+
+PRAT
+
+N°1960
+
+32-932357
+
+LU A JU:08:30-14:00 /
+
+14:45-18:00
+
+S/COSTO
+
+RINCONADA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. SAN MARTIN N° 988
+
+34-401508
+
+[b233bc1@abretumundo.cl](mailto:b233bc1@abretumundo.cl)
+
+09:00-13:00 / 15:00-18:00
+
+S/COSTO
+
+SAN ANTONIO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SANFUENTES
+
+N°2365,
+
+BARRANCAS
+
+35-203223
+
+LU A VI:09:00-18:30
+
+S/COSTO
+
+SAN ESTEBAN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ALESSANDRI N°95
+
+34-482649
+
+15:00-19:00
+
+S/COSTO
+
+SAN FELIPE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+RIQUELME N°60
+
+34-519043
+
+LU-MI-VI:09:00-14:00
+
+/
+
+15:00-19:30, MA-JU:09:00-
+
+13:30 / 15:00-19:30
+
+S/COSTO
+
+SAN FELIPE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SANTIAGO
+
+BUERAS
+
+N°895,
+
+CURIMON
+
+34-530465
+
+S/COSTO
+
+SANTA MARIA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BERNARDO O'HIGGINS S/N
+
+34-583413
+
+LU A VI:10:00-13:00 / 15:00-
+
+19:00
+
+S/COSTO
+
+VALPARAISO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. PLAYA ANCHA N° 201
+
+32-2288578
+
+[b186bc1@abretumundo.cl](mailto:b186bc1@abretumundo.cl)
+
+09:00-13:00 / 14:00-17:00
+
+S/COSTO
+
+VALPARAISO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE 8 N°724, PLACILLA DE
+
+PEÑUELAS
+
+32-2939514
+
+[b133bc1@abretumundo.cl](mailto:b133bc1@abretumundo.cl)
+
+09:00-14:00 / 15:00-17:30
+
+S/COSTO
+
+VALPARAISO
+
+INJUV
+
+REPUBLICA N° 181, PLAYA
+
+ANCHA
+
+32-344957
+
+[ccasas@injuv.gob.cl](mailto:ccasas@injuv.gob.cl)
+
+09:00 -18:00
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[791](./page-791.html)
+[792](./page-792.html)
+[793](./page-793.html)
+[794](./page-794.html)
+[795](./page-795.html)
+[796](./page-796.html)
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+[802](./page-802.html)
+…
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

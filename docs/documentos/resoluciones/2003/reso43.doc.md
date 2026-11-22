@@ -1,0 +1,45 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso43.doc
+titulo: Word – Resolución Exenta SII N°43 del 18 de Agosto del 2003 Delega Facultad que Indica al Subdirector de Avaluaciones Fuente: Subdirección de Avaluaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°43 DEL 18 DE AGOSTO DEL 2003 MATERIA : DELEGA FACULTAD QUE INDICA AL SUBDIRECTOR DE AVALUACIONES
+
+SANTIAGO, 
+
+Hoy se ha resuelto lo que sigue:
+
+RESOLUCION SII EXENTA N°  ________/.-VISTOS: Lo dispuesto en el artículo 7°, letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; lo establecido en el artículo 41 de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, contenida en el D.F.L. N° 1/19.653, del Ministerio Secretaria General de la Presidencia, de 2001, que aprobó el texto refundido, coordinado y sistematizado de la ley ya mencionada; la Resolución N° 520, de 1996, de la Contraloría General de la Republica, el artículo 167 de la Ley General de Urbanismo y Construcciones, el artículo 28 de la Ley sobre Impuesto Territorial; las necesidades del Servicio, y
+
+CONSIDERANDO:
+
+La necesidad de agilizar y fortalecer los procesos de fiscalización del Impuesto Territorial y del D.F.L. N° 2 de 1959.
+
+RESUELVO:
+
+DELÉGASE en el Subdirector de Avaluaciones la  facultad de firmar los oficios y otros documentos que deban dirigirse a los contribuyentes, relativos a la comunicación e implementación de planes de fiscalización del Impuesto Territorial y de las viviendas acogidas al D.F.L. N°2 de 1959, de tal forma de verificar si éstas cumplen con los requisitos legales y reglamentarios, así como con las características y condiciones con que fueron aprobadas.
+
+Los documentos mencionados, deberán consignar la frase “Por orden del Director”.
+
+ANÓTESE, COMUNÍQUESE Y PUBLIQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+
+
+
+	
+(Fdo.) JUAN TORO RIVERA
+DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes:
+
+
+
+
+DISTRIBUCIÓN:
+SECRETARIA DIRECTOR
+SUBDIRECCIÓN DE AVALUACIONES
+INTERNET
+

@@ -1,0 +1,63 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso63.doc
+titulo: Word – Resolución Exenta SII N°63 del 30 de Octubre del 2003 Modifica y Complementa Res. Ex N° 46/2003, que Dispone Cambio de Sujeto Total de Derecho del IVA a Contribuyentes que Indica. Fuente: Departamento Fiscalización Selectiva e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°63 DEL 30 DE OCTUBRE DEL 2003 MATERIA : MODIFICA Y COMPLEMENTA RES. EX N° 46/2003, QUE DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO DEL IVA A CONTRIBUYENTES QUE INDICA.
+
+
+SANTIAGO,
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en los Arts. 6°, letra A, N° 1 y 88 del Código Tributario, y Arts. 2 y 3 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825 de 1974, y  
+
+
+C O N S I D E R A N D O:
+
+
+1°	Que, se hace necesario precisar la definición de empresa constructora e incorporar nuevos agentes retenedores, al cambio de sujeto establecido en la Res. N° Ex 46/2003, de manera que la medida adoptada no produzca distorsiones en el mercado;
+
+
+S E   R E S U E L V E:
+
+
+1.-	Agrégase al final del dispositivo N° 1 de la Res. Ex. N° 46 de 01 de septiembre de 2003 los siguientes párrafos:
+
+“Para efectos de esta resolución, se entenderá como empresa constructora, además, aquellas empresas que desarrollan las actividades señaladas en el Art. 8° letra e) de la Ley sobre Impuesto a las Ventas y Servicios, referidas a ejecución de contratos de instalación o confección de especialidades y a contratos generales de construcción.
+
+También tendrán la calidad de empresas constructoras, aquellas empresas que transfieren bienes inmuebles construidos para ellas por administración por otra empresa constructora, conforme se señala en la Circular N° 33, de 1987, del Servicio de Impuestos Internos.”
+
+2.-Esta modificación, tendrá el mismo período de vigencia de la Resolución Ex. N° 46 de 01.09.2003, esto es, entre el 1° de noviembre de 2003 y el 31 de diciembre de 2004.
+
+
+ANOTESE Y PUBLIQUESE EN EXTRACTO
+
+(FDO) JUAN TORO RIVERA
+             DIRECTOR
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Saluda a Ud.,
+BSG/ERH/PSV
+DISTRIBUCION:
+Secretaría Director
+Subdirección de Fiscalización
+Sr. Subdirector de Fiscalización Grandes Empresas
+Sres. Directores Regionales
+Departamento Asesoría Jurídica
+Secretaría General
+Oficina de Partes
+Boletín
+Internet
+Diario Oficial (Extracto)
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

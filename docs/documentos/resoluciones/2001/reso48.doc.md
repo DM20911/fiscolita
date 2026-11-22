@@ -1,0 +1,71 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso48.doc
+titulo: Word – Resolución Exenta N°48 del 07 de Diciembre del 2001 Establece Obligación a los Dueños de Bienes Raíces Agrícolas y No Agrícolas de Informar la Nómina de Aquellas Propiedades Sobre las que Han Constituido o Terminado Un Usufructo Durante el Año o Parte de él Fuente: Dpto. Op. Renta
+categoria: otros
+---
+RESOLUCION EXENTA N°48 DEL 07 DE DICIEMBRE DEL 2001 MATERIA : ESTABLECE OBLIGACIÓN A LOS DUEÑOS DE BIENES RAÍCES AGRÍCOLAS Y NO AGRÍCOLAS DE INFORMAR LA NÓMINA DE AQUELLAS PROPIEDADES SOBRE LAS QUE HAN CONSTITUIDO O TERMINADO UN USUFRUCTO DURANTE EL AÑO O PARTE DE ÉL
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos; en el artículo 6º letra A) Nº 1 e inciso 8° del artículo 60 del Código Tributario y en los artículos 20 N° 1 letras a), b), c), d) y f) y artículo 39 N° 3  de la Ley de la Renta, textos legales contenidos en el artículo 1º del D.F.L. Nº 7 del Ministerio de Hacienda, de 1980; artículo 1º del D.L. Nº 830, de 1974 y artículo 1º del D.L. Nº 824, de 1974, respectivamente.
+
+
+CONSIDERANDO: 
+
+
+Que, el derecho a hacer uso del crédito por concepto de contribuciones de bienes raíces en contra del impuesto de Primera Categoría de la Ley de la Renta, es un beneficio establecido en favor de los propietarios o usufructuarios de dichos bienes en las situaciones y condiciones que las normas de este mismo texto legal establecen.
+
+
+Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, especialmente por aquellas rebajas que constituyen beneficios tributarios para los contribuyentes, se hace necesario optimizar el uso de los recursos y de la información que se utilizan para el buen logro de esta función.
+
+
+3.  Que, a través de las Resoluciones Exentas N° 6.171, publicada en el Diario Oficial de 16 de Diciembre de 1997 y N° 7.212 publicada en el Diario Oficial de 10 de Diciembre de 1998, se estableció la obligación de los contribuyentes de la primera categoría de informar a este Servicio la nómina de los bienes raíces destinados a su actividad que dan derecho al crédito por contribuciones de bienes raíces y la nómina de socios y su porcentaje de participación en el capital y utilidades de la empresa cuando se trate de nuevas sociedades o comunidades o las existentes hayan sufrido modificaciones.
+
+
+SE RESUELVE :
+
+
+Los propietarios de bienes raíces agrícolas y no agrícolas que den derecho al crédito a que se refiere el considerando número 1, que durante el año calendario anterior hayan constituído usufructo sobre dichos bienes a favor de terceros durante todo ese período o parte de él, o haya terminado el usufructo en el mismo espacio de tiempo, deberán informar al Servicio de Impuestos Internos la nómina de bienes raíces que se encuentran en esta situación, en la forma y oportunidad que se señala en los resolutivos números 2 y 3 siguientes. 
+
+
+
+La información requerida deberá proporcionarse en el Formulario 1897, titulado “Declaración Jurada Anual sobre Nómina de Bienes Raíces Agrícolas y No Agrícolas en los que se constituyó usufructo a favor de terceros durante el año o parte de él, o el termino del derecho de usufructo cuando corresponda”, el cual se adjunta como Anexo N°1 a la presente Resolución y está disponible en las Unidades del Servicio, el que deberá confeccionarse de acuerdo con las instrucciones contenidas en el reverso de dicho formulario y conforme a aquellas que impartirá el Servicio mediante otros instructivos. 
+
+
+La mencionada Declaración Jurada deberá ser presentada antes del 15 de Marzo de cada año, en la Dirección Regional o Unidad del Servicio de Impuestos Internos que corresponda al domicilio del propietario del bien raíz obligado a cumplir con dicho trámite. 
+
+
+El retardo u omisión en la presentación de la declaración a que se refiere esta Resolución, se sancionará de acuerdo a lo dispuesto en el Nº 1 del artículo 97 del Código Tributario.
+
+
+La presente Resolución regirá para los Formularios 1897 que deban presentarse a partir del Año Tributario 2002 y siguientes.
+
+
+Esta Resolución deja sin efecto lo dispuesto en las Resoluciones Exentas N° 6.171, publicada en el Diario Oficial de 16 de Diciembre de 1997 y N° 7.212 publicada en el Diario Oficial de 10 de Diciembre de 1998, sólo en aquella parte que dice relación con la obligación de presentar la declaración jurada a que se refiere el Formulario N° 1825, titulada “Declaración Jurada Anual sobre Nómina Actualizada de Bienes Raíces Agrícolas y No Agrícolas Destinados al Giro que dan Derecho al Crédito por Contribuciones de bienes Raíces”. 
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+
+
+
+(Fdo) ALFREDO ECHEVERRIA HERRERA
+ DIRECTOR (S)
+
+
+
+ANEXOS
+1) 	Declaración Jurada Anual sobre Nómina de Bienes Raíces Agrícolas y No Agrícolas en los que se constituyó usufructo a favor de terceros durante el año o parte de él, o el termino del derecho de usufructo cuando corresponda. 
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+Saluda a Ud.
+
+DISTRIBUCIÓN:
+Secretaria Director
+Subdirección Fiscalización
+Oficinas de Partes 
+Internet
+Diario Oficial (en extracto)
+
+

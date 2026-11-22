@@ -1,0 +1,44 @@
+---
+url: https://www.sii.cl/documentos/circulares/2005/circu19.doc
+titulo: Word – Circular N° 19 del 06 de Abril del 2005 Informa porcentaje de reajuste del artículo 72 de la Ley de la Renta a aplicar a los Impuestos Anuales a la Renta a declarar en el Año Tributario 2005. Fuente: Impuestos Directos
+categoria: otros
+---
+CIRCULAR N°19 DEL 06 DE ABRIL DEL 2005  MATERIA : INFORMA PORCENTAJE DE REAJUSTE DEL ARTÍCULO 72 DE LA LEY DE LA RENTA A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2005.
+
+
+
+1.-	Atendido a que la Variación del Indice de Precios al Consumidor comprendida entre el mes de Noviembre del año 2004 y el mes de Marzo del año 2005, dio como resultado un valor negativo (-0,2%), los Impuestos Anuales de la Ley de la Renta a declarar y pagar en el presente Año Tributario 2005 -hasta el 02 de Mayo del año 2005- no quedan sujetos a reajuste alguno en aquella parte del tributo no cubierta con créditos, impuestos retenidos y/o pagos provisionales mensuales efectuados durante el año 2004, debiendo declararse y pagarse por el mismo valor nominal determinado al término del ejercicio (Artículo 72° de la Ley de la Renta y Circulares N°s. 4 y 17, de 2005, publicadas en Internet:  HYPERLINK "http://www.sii.cl" www.sii.cl). 
+
+2.-	Por lo tanto, en la primera y segunda columna de la Línea 58 del Formulario N° 22, se anotará como valor un cero (0).
+
+
+Saluda a Ud.,
+
+
+
+
+
+
+					JUAN TORO RIVERA
+                                                                                          DIRECTOR
+
+
+
+
+
+
+
+DISTRIBUCION:
+- AL BOLETIN
+- INTERNET
+PAGE  
+
+
+PAGE  2
+
+
+
+
+
+
+

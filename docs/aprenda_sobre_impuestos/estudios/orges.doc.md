@@ -1,0 +1,196 @@
+---
+url: https://www.sii.cl/aprenda_sobre_impuestos/estudios/orges.doc
+titulo: orges.doc
+categoria: otros
+---
+Centro Interamericano de Administradores Tributarios - CIAT
+
+
+
+
+
+
+
+
+
+
+
+
+TENDENCIAS MODERNAS DE LA TRIBUTACFION Y LA
+ADMINISTRACION TRIBUTARIA
+
+
+
+
+
+
+
+
+
+
+
+
+ORGANIZACIÓN Y GESTION DE LA 
+ADMINISTRACION TRIBUTARIA
+
+
+
+
+Javier Etcheberry
+Director
+Servicio Impuestos Internos
+de Chile
+
+
+
+
+
+
+
+27ª Asamblea General del CIAT
+Santiago de Chile,
+
+ORGANIZACIÓN Y GESTIÓN DE LA ADMINISTRACIÓN TRIBUTARIA
+
+
+La organización y la gestión de la Administración Tributaria (AT), deberán corresponder a la realidad de cada país, así como a los objetivos estratégicos que ésta se haya finado.  En efecto, en un país federal, en que  se quiere enfatizar la descentralización geográfica y en que los impuestos recaudados en cada provincia permanecerán en ella, corresponderá descentralizar las decisiones de la AT a nivel provincial.  En otro país, en que las realidades agrícolas y no urbanas sean muy distintas en su tributación, podrá ser aconsejable subdividir la AT en dos entidades especializadas..
+Los objetivos estratégicos de diversas AT también pueden ser distintos, ya que para algunas, el objetivo principal es el aumentar la recaudación en el más breve plazo posible, o bien para otras puede privilegiarse una mejor atención a los contribuyentes, etc.  La forma de organizar  y de gestionar a la AT también dependerá de los objetivos estratégicos escogidos.
+En este trabajo se analizarán los principales aspectos de la organización y la gestión de una A.T., a saber, su estructura orgánica, el control de la gestión, la privatización de alguna de sus actividades, la carrera civil de sus funcionarios, su capacitación y su ética profesional.
+
+ESTRUCTURA ORGÁNICA DE LA AT
+
+Los cientos o miles de funcionarios de una AT deberán estar agrupados en Direcciones, Departamentos, Unidades, etc., cada una con sus correspondientes funciones, atribuciones y jefaturas.  Para hacer esta subdivisión se suele emplear una combinación de los siguientes criterios:
+
+Geográfico.  Los funcionarios estarán distribuidos en unidades cuya responsabilidad esté limitada a la fiscalización y atención de un conjunto de contribuyentes localizados en una determinada área geográfica para cada una de éstas unidades.
+Funcional.  Los funcionarios podrán también estar agrupados en distintas unidades especializadas en algunas áreas de trabajo de la AT: finanzas, personal, fiscalización, jurídica, informática, etc.
+
+
+Por Impuesto.  Los funcionarios podrán pertenecer a distintas unidades,  cada una de ellas encargadas de fiscalizar y administrar un impuesto diferente: IVA, renta, territorial, herencia, combustibles etc.
+Por tipo de contribuyente.  Los funcionarios estarán agrupados en diversas unidades especializadas según el tipo de contribuyentes, de acuerdo a su tamaño (grandes, medianos y pequeños) o a su actividad económica (agricultura, comercio, industria, minería, etc.).
+
+A modo de ejemplo, una posible organización de una AT podrá consistir en que un 20% de su personal pertenezca a la Dirección Central y el 80% restante a las diferentes unidades distribuídas a lo largo  del país, de acuerdo al criterio geográfico.  El Personal de la Dirección Central estará organizado en Departamentos de acuerdo a criterios funcionales.  En cada unidad geográfica, su personal estará también subdividido y especializado de acuerdo a criterios funcionales.  En consecuencia, los encargados funcionales en las regiones tendrán una dependencia jerárquica del jefe regional, pero una dependencia funcional del jefe de Departamento de la función correspondiente en la Dirección Central.  Al interior de los equipos que realizan la función de fiscalización en cada una de las unidades territoriales, podrá darse una subespecialización por tipo de contribuyente, por sector económico, y/o por tipo de impuesto.
+Dentro de la AT coexisten distintos tipos de funcionarios:  Directivos, profesionales, administrativos y auxiliares, los cuales desarrollan funciones diferentes.  Sus características profesionales y humanas, número y ubicación dentro de la AT deberán ser decididas por cada país, dependiendo también de sus objetivos estratégicos.
+En cada AT deberá decidirse también sobre la normativa que regulará los poderes y delegaciones para la toma de decisiones.
+Como una forma de hacer más ágil y efectiva la gestión de la AT, deberá propenderse a que haya una política de amplia delegación hacia las capas inferiores de la organización y hacia las unidades regionales.  Para ello será necesario contar con funcionarios muy calificados en los mandos medios de la AT.
+También deberán diseñarse los procedimientos administrativos para controlar la forma en que se están ejerciendo las facultades delegadas a través de la organización, apoyándose en Sistemas de Información Computacional cuando corresponda.
+
+
+
+
+CONTROL DE GESTION Y DE COSTOS EN LA ADMINISTRACION TRIBUTARIA
+
+Partiendo del plan estratégico de la AT, es necesario definir los objetivos o metas centrales a conseguir por cada unidad de ella, cuantificando y precisando al máximo.  Por ejemplo, para la unidad funcional encargada de la fiscalización en la AT, es necesario definir y precisar qué se entiende por buena fiscalización y qué se le va a pedir a la función fiscalizadora.  Habrá que definir qué es una buena gestión global de dicha función y en que consistirá una gestión regular o bien,  mediocre.  En la misma forma, habrá que repetir este ejercicio para el resto de las funciones de la AT, lo mismo que para el resto de las unidades, como son las oficinas regionales.  Esto es importante, ya que no necesariamente todos los funcionarios que pertenecen a una función o unidad geográfica entienden qué significa una buena o mala gestión de su respectiva unidad, o tal vez entienden cosas distintas y que, mediante el ejercicio de definir precisamente qué  se espera de estas unidades, se produzca una mejor coordinación a futuro del trabajo de estas unidades en la AT.
+
+
+Seguidamente, la AT deberá hacer un esfuerzo por definir políticas por cada una de las áreas de ellas, por cada función y por cada tema que trata la AT.  Estas políticas deberán ser de tipo general y no ir a un grado de detalle que signifique definir los procedimientos.  Por ejemplo, si se está definiendo la política de salarios de la AT, bastará decir que se quiere tener una diferencia de no más de un 20% con los salarios del sector privado en las áreas auxiliares – administrativa en cambio, en el área de profesionales y directivos se podrá tener una diferencia hasta de un 30%.  Esto no significa definir detalladamente en esta etapa los sueldos de cada uno de los funcionarios de la AT, pero sí ser lo suficientemente preciso para poder saber a qué atenerse en términos del resto de las políticas de la AT y después poder hacer una gestión concordante con ellas. 
+Una vez definidas las políticas en la AT, es útil para su gestión planificar.  Para ello se harán planes generales para la AT, tanto anuales como quinquenales, pero desglosados por cada una de sus unidades.  Estos planes deberán tener metas cualitativas definidas en firma muy precisas e intentando además su cuantificación.  Si muchas metas no se pueden cuantificar, al menos se pueden medir algunos elementos de ellas.  Por ejemplo, si se pretende mejorar la atención a los contribuyentes, se podrán hacer algunas mediciones, como el tiempo de espera promedio que tienen cuando concurren a las oficinas de la AT, o bien,  calcular cuanto le cuesta a los contribuyentes cumplir con las regulaciones impuestas por la AT  Para ello habrá que hacer estudios de casos, segmentando  a los contribuyentes en chicos, medianos y grandes, y tal vez, por sector económico.  En base a estas muestras, se podrá tener una estación de cuál es la carga que se impone sobre los distintos contribuyentes a consecuencia de la legislación y de las prácticas de la AT.
+Para poder tener un adecuado control de gestión, será necesario definir las estadísticas a llevar, las que posibilitarán los correspondientes controles de las diversas unidades o áreas de la AT.  Estas estadísticas deberán apuntar a las variables principales o claves, que den cuenta de la forma en que se están comportando las respectivas gestiones de las unidades y sus  planes anuales.  Habrá que tratar de tener pocas estadísticas por cada área, ya que el tener una multiplicidad de estadísticas o datos, aparte del mayor costo que significa su mantención, también dificulta su priorización y el que estas estadísticas efectivamente sirvan para la toma de decisiones.  Deberán definirse procedimientos periódicos de control de avance de los planes anuales y su redefinición en función de los resultados de estos controles.
+La AT también deberá ser extremadamente rigurosa en la forma en que hace su asignación presupuestaria anual y en el control por el cumplimiento de este supuesto, el que debería estar en concordancia con las metas y planes anuales.  Es necesario que éstas a su vez concuerden con las políticas por áreas y funciones, y con los objetivos o medidas de excelencia global que se hayan definido con anterioridad.
+En forma paralela al ciclo de control de gestión y presupuestario antes definido, se pueden realizar varias otras actividades.  La primera de ellas es el estudio de costos.  Para ello se deberá comenzar por aquellos procedimientos o actividades que, por información preliminar, signifiquen una parte sustancial de los costos de la AT.
+Para cada una de estas actividades será necesario un estudio de costos detallado y tratar de bajarlos, ya sea por menor utilización de las actividades que llevan a estos costos, o bien, simplificando los procedimientos que se emplean por parte de la AT.  Otra posibilidad para trabajarlos es apoyar computacionalmente las tareas que corresponden a esta actividad.
+Finalmente, es necesario analizar la importancia de que tanto el hardware como el software computacional, los sistemas de información administrativo que se utilizan en la AT, estén alineados con los objetivos antes mencionados.  Es decir, que sean un verdadero apoyo para la obtención de estadísticas que ayuden a medir la calidad de la gestión que se está realizando en cada una de las áreas, así como el cumplimiento de planes y programas y también ayuden a que todos los procedimientos que realizan se hagan en la forma más simple y eficiente posible.  
+
+3.	CONTRATACIÓN DE SERVICIOS AL SECTOR PRIVADO POR PARTE DE LA AT.
+
+Se analizarán las distintas funciones de la AT que son susceptibles de ser transferidas al sector privado de la economía.
+El diseño de la AT y de su organización deberá estar relacionado con la estrategia económica que se está siguiendo en un país determinado.  En la medida que se le quisiera dar un rol preponderante al mercado en la asignación de recursos, lo recomendable sería traspasarle al sector privado, o apoyarse en él, todo lo que sea compatible con la delicada misión que tiene el Estado en la Administración de los tributos.
+Los principales criterios a considerar en la decisión de sí una tarea de la AT puede ser entregada al sector privado son:
+La naturaleza de la función.  Es claro que hay tareas que son indelegables, como por ejemplo, la dirección de la AT.  Tampoco parece aconsejable que la fiscalización tributaria sea delegada al sector privado.  Sin embargo, incluso en este caso, se podría subcontratar parte de esta fiscalización en empresas privadas, las cuales deberán ser fiscalizadas a su vez por funcionarios de la AT.
+Confidencialidad de la Información Tributaria.  Dada las características de organismo fiscalizador que tiene la AT y la reserva que por ley debe mantener respecto de la información específica que administra, deben crearse mecanismos de resguardo y control a fin de no vulnerar dicho principio.  Esto es válido tanto al interior de la AT,  como para las empresas privadas que realicen trabajos para ella.
+Calidad de la función o Servicio.  Al delegar una función en empresas del sector privado, es imprescindible que al menos se asegure que la calidad de dicho servicio no se deteriore.
+Consideraciones Económicas.  Será necesario evaluar lo que le cuesta realizar una cierta tarea a la AT, considerando las inversiones y sus gastos corrientes y compararla con lo que le resultaría el contratarla en el sector privado.
+Facilidades Administrativas.  Es frecuente que la normativa legal a que están sujetas las AT –tanto en materia de manejo de recursos humanos como de gastos- sea mucho más rígida que la que afecta al sector privado.
+Impacto en la Gestión Global.  Puede ser aconsejable delegar algunas tareas o funciones en el sector privado como una forma de descargar a la administración superior de la AT de tener que preocuparse de ellas. 
+Consideraciones Político – Electorales.  En algunas situaciones puede haber cierta presión política sobre los funcionarios de la AT para que se inhiban de cumplir sus funciones por consideraciones electorales.  Ello podría desaparecer al entregar estas tareas al sector privado.
+Consideraciones de Control Etico.  Muchas labores que debe realizar la AT son delicadas, pudiendo algunos funcionarios abusar de su autoridad o tener conductas deshonestas, lo que también puede suceder en el sector privado.  En consecuencia, al analizar la conveniencia de privatizar una tarea, habría que considerar su impacto sobre este delicado tema.
+La Cultura del País.  Al margen de las consideraciones anteriores, factores tales como la idiosincrasia de la población de un país y su opinión pública, pueden dificultar la privatización de ciertas tareas o funciones de la AT.  Sin embargo, si existen buenos argumentos, ésta se puede ir modificando.
+
+Los servicios que en general  son convenientes de traspasar al sector privado, subcontratándolos  por parte de la at, son entre otros, los siguientes:
+Impresión de los formularios necesarios para la Declaración de los impuestos.
+Distribución de estos mismos formularios.  Esto incluye tanto el transporte como su distribución entre los contribuyentes a lo largo del país, pudiendo incluso venderse estos formularios a través de los vendedores de diarios.
+Recaudación de los impuestos, a través del sistema bancario.  Los bancos también podrán, junto con la recaudación de los dineros correspondiente a los impuestos, recolectar los formularios propiamente tales, e incluso recibir aquellos que no importan un pago en dinero.
+Digitación de los formularios correspondientes a las declaraciones de impuestos.  Esta digitación la podrá hacer el banco que recibe los formularios, o bien la AT podrá recibir de ellos estos formularios y enviarlos a digitar a empresas privadas especializadas.
+Se puede también subcontratar en el sector privado, arrendando el hardware computacional o bien contratando tiempo computacional en la modalidad service , el ejecutar los procesos computacionales de la AT.  También se podrá subcontratar  el desarrollo de software computacional.
+Cobranza de deudas tributarias.  Esto consiste en que la AT subcontrata abogados externos para agilizar la cobranza de los impuestos morosos, o bien podrá licitar la cartera de deudores tributarios morosos, traspasando por esta vía también sus cobranzas al sector privado.
+La AT tienen necesidad de comunicarse por escrito con los contribuyentes, ya sea notificándolos legalmente de alguna diligencia que ellos deban efectuar o de algunas sanciones a que ellos estén expuestos, o bien solamente enviándoloes información que requieren conocer para su desempeño como contribuyentes.  Para realizar estas labores, la AT se puede basar en el correo nacional, en correos privados o en empresas externas que realicen estas funciones.
+En cuanto a los recursos de Personal que requiere una AT, parte de ellos pueden ser obtenidos a través de contratos a honorarios que permiten incorporar gente por horas o por períodos cortos para realizar labores específicas de apoyo a la labor que realizan los funcionarios de la AT propiamente tales.
+La AT también podrá subcontratar parte de las labores de la selección del personal, necesarias para su incorporación a la planta de la AT, entre las cuales están los informes sicológicos sobre los postulantes.
+Las labores de capacitación también pueden ser contratadas con el sector privado en firma parcial, ya sea utilizando profesores externos a la AT o bien enviando funcionarios de ella a capacitarse a cursos que impartan las diversas universidades o institutos especializados.
+Dentro de las funciones de servicio que  se realizan al interior de la AT, se puede subcontratar con el sector privado, al menos parcialmente, todo lo que es el transporte, ya sea, arrendando vehículos taxis o bien, utilizando los medios colectivos de movilización.  También se pueden subcontratar con empresas externas los servicios de aseo de los locales de la AT.
+
+Para que estas labores de subcontratación con el sector privado se lleven en forma exitosa, es necesario ser muy cuidadosos en la forma de decidir la subcontratación misma  de las respectivas tareas.  Habrá que hacer licitaciones públicas y transparentes, que den garantías a todas las empresas que podrían postular a realizar estas actividades para la AT y de modo que se cumplan con que  los trabajos sean hechos en la forma más eficiente, al menor costo y en los plazos más breves posibles.  Se debe propender además, a distribuir los contratos en distintas empresas para reducir riesgos  de incumplimiento y eliminar así la posibilidad de la dependencia por parte de la AT.
+Una de las tareas que necesariamente debe asumir la AT es el control sistemático y exhaustivo de la calidad y oportunidad de los trabajos subcontratados al sector privado.
+Finalmente, es necesario que las AT agilicen sus procedimientos administrativos para realizar en forma oportuna los pagos por los servicios que ha realizado el sector privado, ya que si es demasiado burocrático y demoroso, el sector privado no se interesará en efectuar trabajos para la AT, o bien cobrará cantidades excesivas por realizarlos.
+
+CARRERA CIVIL EN LA AT.	
+
+En esta sección nos referiremos a las componentes de una carrera civil para el personal que compone la AT.  Las políticas de selección, de remuneraciones, de capacitación, de calificaciones, de promociones y nombramientos así como la política de despidos, tienen que estar íntimamente relacionadas al plan estratégico, así como las políticas que la AT desee llevar a cabo.
+La política de selección deberá estar basada en concursos de modo que puedan ingresar a la AT funcionarios que tengan la formación profesional y los conocimientos óptimos necesarios para los cargos en los cuales deberán desempeñarse.  Se deberá también analizar el perfil sicológico de los postulantes, de modo de poder medir sus potencialidades para trabajar en equipo y en forma individual, ya que en muchas ocasiones las características sicológicas interfieren el buen desempeño de los funcionarios; especialmente énfasis debe emplearse en tratar  de conocer los valores éticos de los funcionarios de la AT, ya que estos estarán expuestos a muchas tentaciones a consecuencia de lo delicado de la naturaleza de sus funciones.  En el caso de aquéllos funcionarios que vayan a ocupar cargos de jefatura, será importante poder conocer sus aptitudes y características personales que les permitan ejercer un rol de liderazgo, ya que deberán realizar un trabajo gerencial.  A menudo, en nuestras AT, una variable que desgraciadamente se considera para la incorporación de funcionarios a ésta, es la variable política, es decir, en qué medida los funcionarios son cercanos políticamente al partido que está en el gobierno.  Obviamente, este tipo de característica no debería ser considerada para el ingreso de funcionarios a la AT,  ya que por la naturaleza de sus funciones, el trabajo de ellos debería ser eminentemente técnico.
+
+Deberá definirse también con mucha precisión la política de remuneraciones del personal de la AT.  Esta política tendrá que considerar entre otros aspectos, la relación con el sector privado, no debiendo haber demasiada diferencia con éste.  De lo contrario, no se atraerán o no permanecerán en la AT los mejores elementos que son los necesarios para realizar una labor tan compleja e importante.  Las remuneraciones tampoco deberían ser bajas en comparación con las necesidades mínimas para los funcionarios de la AT, que este elemento sería esgrimido como justificación, en algunos casos, para explicar o  ser permisivo ante la falta de conducta ética que pueden tener los funcionarios de la AT.  La política de remuneraciones debería considerar también los aspectos previsionales y de salud.
+
+La política de capacitación de la AT es una de las claves que explican su buen funcionamiento, tal como se explicará en la sección 5.
+
+Otra parte muy importante de la política de recursos humanos de la AT es su política de calificaciones.  Hay que tener una instancia formal en que al menos una vez al año, se le diga a cada uno de los funcionarios en qué lo está haciendo bien, en qué lo está haciendo mal y en qué es lo que debe corregir.  Esto deberá ser hecho de acuerdo a un procedimiento normado para toda la AT y aplicado el jefe de cada funcionario, con revisión de los jefes de cada funcionario, con revisión de los jefes superiores.  La calificación misma deberá ser comunicada al funcionario por su propio jefe, dándole posibilidad que haga preguntas o incluso pueda disentir con argumentos de la calificación que se le ha otorgado.  Estas calificaciones deberán ser importantes para la carrera funcionaria, en el sentido de que aquéllos que sean mejor  calificados vayan teniendo más posibilidades de ascender a cargos superiores y mejoren sus remuneraciones.
+
+También deberá considerarse en forma muy cuidadosa la política de promociones y nombramientos de los funcionarios de la AT.  En la medida que se vayan produciendo vacantes, en general será necesario proveerlas con funcionarios que ya están en la AT, en base a algún concurso de antecedentes, o bien en base  a exámenes o pruebas que aseguren que estas vacantes serán ocupadas por los funcionarios más idóneos que están en ella.  Se debería considerar principalmente las calificaciones obtenidas y otros antecedentes del rendimiento de los funcionarios, en vez de basarse únicamente en la antigüedad, como desgraciadamente sucede en muchas AT.
+
+Otro antecedente a considerar es la capacitación efectuada y los cursos aprobados.  Dado lo especializado del trabajo  de los funcionarios de la AT, es recomendable que en general, las promociones sean con personal interno, salvo que no se encuentren en ella las personas las personas idóneas para ocupar algún cargo.  Esto, aparte de llenar en mejor forma las vacantes que se produzcan, beneficiándose con ello la AT, producirá un fuerte incentivo para sus propios funcionarios, ya que verán que en la medida de la que se esfuercen, van a poder ir accediendo sucesivamente a cargos de mayor responsabilidad, que conllevarán mejores remuneraciones.
+
+La AT también deberá tener una política de despidos que permita en forma efectiva y sin mayor trámite, desprenderse de aquéllos funcionarios en que exista fundada sospecha que no actúen en forma ética.  Deberá haber también un procedimiento expedito para poder despedir los funcionarios más ineficientes o más conflictivos, o que no estén colaborando con el resto de sus compañeros o en los trabajos de la AT.  Obviamente, para poder hacer estos despidos en forma ágil, deberá existir una política de indemnización, tal como existe en general en el sector privado.  La normativa de muchas AT, que hace prácticamente imposible despedir a funcionarios, atenta directamente contra la eficiencia del trabajo de esta propia administración, impidiéndole deshacerse de los malos elementos.  Esto, aparte del daño directo que ellos causan, influye  en forma muy negativa en la moral del resto de los buenos funcionarios de la AT.
+
+Finalmente, deberá considerarse los deberes y derechos de los empleados de la AT.  En general, será conveniente que estos tengan la obligación de trabajar exclusivamente para la AT, ya que cualquier otro trabajo que hagan para el sector privado podrá significar un conflicto de intereses con su labor como funcionarios de la AT.  Habrá que regular las instancias de negociación salarial, la posibilidad de formar sindicatos y de ejercer el derecho a huelga.  En todo caso, deberá considerarse el inmenso daño que pueden causar a la sociedad los funcionarios de la AT si dejan de trabajar por motivos de una huelga.  Entre otros temas a considerar, será necesario dictar políticas sobre el tema de la jubilación de los funcionarios, determinando bajo qué condiciones pueden jubilar y si esta jubilación es voluntaria u obligatoria.
+
+
+5.	CAPACITACION Y ADIESTRAMIENTO EN LA AT.
+
+El trabajo de los funcionarios de la AT es muy especializado, ya que ellos requieren estar en conocimiento de múltiples materias legales muy complejas.  Deberán conocer también los procedimientos que la propia AT ha definido, tanto para sus operaciones internas, como para la forma en que los contribuyentes deben llevar sus libros contables y trabajo administrativo – tributario.  También los funcionarios de la AT deberán tener un cabal conocimiento del comportamiento de los contribuyentes según sus respectivos sectores económicos, según sea el tamaño de ellos, así sobre las formas más frecuentes en que realizan labores ilícitas de evasión tributaria, e incluso las modalidades de los fraudes cometidos  en estas materias.
+
+Es recomendable que existan intensos programas de capacitación al ingreso de los funcionarios a la AT.  Estos deberían durar varios mese e incluso un año.  Los funcionarios deberán también participar en estos cursos de formación intensivos cuando accedan a un nivel de mayor responsabilidad dentro de la AT, o bien sean promovidos a otro estamento  dentro de ellas.
+
+Otra actividad my necesaria de capacitación lo constituyen los seminarios cortos de actualización.  Estos deberán versar sobre distintas materias legales y su actualización.  También deberán impartirse seminarios que expliquen los cambios en los procedimientos administrativos que se vayan produciendo en la AT.  Existirá también la necesidad de que los funcionarios participen en cursos cortos cuando tengan que cambiar su área de responsabilidad o la función de su trabajo.
+
+Finalmente, como en cualquier otra institución, los funcionarios deberán tener la posibilidad de participar en seminarios que les sirvan para actualizar sus conocimientos profesionales.
+
+
+La principal forma de capacitación es aquélla que se realiza a través del trabajo mismo, donde los jefes deben jugar un rol primordial.  En efecto, los jefes, más que tomar las principales decisiones, deben delegar el trabajo y las decisiones y después controlarlo;  deberían ser unos verdaderos profesores que enseñen a sus subordinados la mejor forma de ir realizando los trabajos, para que ellos en forma creativa puedan ir resolviendo los problemas que se les vayan planteando.  Esta capacitación en el trabajo deberá ser facilitada con un esfuerzo de toda la organización tributaria en editar manuales con las políticas de sus respectivas áreas, así como con los procedimientos que se deben utilizar al interior de la AT.  Finalmente, lo que ayuda mucho a la capacitación en el trabajo es un buen diseño del software computacional que utilizan los funcionarios de la Administración.  En efecto, en la medida que éste sea claro y fácil de usar, los funcionarios podrán ir aprendiendo por su propia cuenta la mejor forma de realizar su trabajo.
+
+Las jefaturas superiores de la AT no sólo tiene que tener conocimientos muy extensos y profundos de la legislación tributaria, de los procedimientos de la AT, de cómo en general actúan los contribuyentes y de las formas en que ellos intentan evadir sus obligaciones, sino que además deberán ser muy buenos jefes o líderes.  Es decir, deberán ser buenos administradores de empresas.  Esto explica la necesidad de que los funcionarios superiores de todas las AT participen regularmente en cursos gerenciales.
+
+
+
+6.	PROMOCIÓN DE LA ÉTICA PROFESIONAL EN LA AT
+
+Con el fin de promover la ética profesional en la AT, es necesario conocer las fallas más frecuentes a ella en que incurren sus funcionarios, las causas estructurales que ayudan a explicarlas, así como las otras características de la gestión de la AT que influyan en estas faltas de ética.
+
+Las faltas a la ética en que incurren los funcionarios de la AT a veces corresponden al abuso del poder discrecional que ellos tienen para perjudicar a enemigos políticos, enemigos personales de ellos, o bien de alguna jefatura superior.  Otra falla grave que suele suceder en la ética funcionaria corresponde a que los funcionarios perdonan ciertas fallas o delitos tributarios a cambio de  recibir favores personales o de un pago en dinero.  En algunos casos, también los funcionarios realizan ciertas asesorías pagadas a contribuyentes o bien a  oficinas de abogados o de contadores, ofreciéndoles protección ante cualquier falla que ellos o sus clientes puedan cometer en materias tributarias.  A veces los funcionarios reciben pagos en dinero de algunos contribuyentes a cambio de  agilizar sus trámites ante la AT.
+
+Para promover la ética profesional en la AT, es necesario entender cuáles son las principales razones por las que algunos funcionarios suelen fallar en el cumplimiento de sus deberes morales.  Algunas de ellas son:
+
+Los bajos sueldos justifican en parte la necesidad de los funcionarios de complementar sus ingresos, así como el que ellos no perciban como un castigo demasiado grande el ser despedidos de la AT, dado el salario que  están recibiendo.
+
+El poder y la discrecionalidad de que suelen gozar los funcionarios de la AT.
+
+La cultura de un país sobre eses materias.  En algunos países es frecuente la práctica del soborno a funcionarios públicos, por lo que socialmente no aparece como un delito demasiado grave el que los funcionarios de la AT hagan lo mismo.
+
+La cultura interna de una organización puede ser tal que las fallas a la ética sean toleradas o consideradas normales, o bien en otras AT, sean reprobadas en forma muy clara por el resto de los funcionarios.  La cultura interna de la AT puede ser cambiada, pero para ello hay que tomar una serie de medidas y mantenerlas en el tiempo, con lo que se logrará modificarla paulatinamente.
+
+La probabilidad de ser sorprendido indudablemente influye en un funcionario que está considerado cometer una conducta poco ética.
+
+Finalmente, influye también el sistema sancionatorio dependiendo de la voluntad de la autoridad de aplicar sanciones  a los funcionarios sorprendidos y a los contribuyentes coludidos, así como de la gravedad de la sanción aplicada según la legislación que exista para estos efectos.  Es importante que las sanciones vayan incluso más allá de la destitución del funcionario, cuando éste haya sido cómplice de un fraude tributario.  En estos casos, la AT deberá también querellarse por las responsabilidades que él tenga en la defraudación que se haya cometido al Fisco.
+
+La promoción de la ética profesional y las formas de evitar las fallas a ella, son facilitadas en gran medida por la simplicidad y la estandarización de los procedimientos que deban seguir los funcionarios de la AT.  En efecto, sistemas complejos y que le den amplias atribuciones al funcionario, son más difíciles de auditar y de demostrar que el funcionario actuó presionando indebidamente a un contribuyente.
+
+Como una forma de evitar las fallas a la ética profesional de los funcionarios de la AT, deben existir procedimientos periódicos de auditoría que revisen las actuaciones de los funcionarios de la AT, tanto para ver si están cumpliendo las instrucciones y normas de esa Administración, así como para detectar posibles fallas en la ética funcionaria.  En los casos en que se detecten fallas en la actuación de los funcionarios – en particular fallas éticas – deberán iniciarse los sumarios, para después, en función de ellos, aplicar las sanciones correspondientes.  La legislación deberá practicar sumarios rápidos y efectivos que  permitan, en base a presunciones fundadas de mala conducta, sancionar a los funcionarios afectados.
+
+Si bien en la AT será siempre necesario que exista una Contraloría cuyos funcionarios estén realizando auditorias y los sumarios cuando corresponda, la principal responsabilidad de la vigilancia ética de los funcionarios debe radicar en su jefatura.  En efecto, los jefes deben conocer a sus subordinados, saber lo que están haciendo, cómo lo están haciendo y estar siempre atentos a posibles fallas en la conducta de ellos para poder reprenderlos a tiempo y, en los casos que corresponda, iniciar las auditorías, las cuales pueden terminar en sumarios y sanciones.  En este sentido, la Contraloría solamente es una ayuda al trabajo de  vigilancia que deben hacer permanentemente los respectivos jefes.
+
+PÁGINA  1
+
+
+PÁGINA  1
+
+
+
+
+

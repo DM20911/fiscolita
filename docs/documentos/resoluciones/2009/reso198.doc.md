@@ -1,0 +1,69 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso198.doc
+titulo: Word – Resolución Exenta SII N°198 del 22 de Diciembre del 2009 Modifica Resolución Exenta N° 7.590, de 15 de Noviembre de 1999, en lo Relacionado con el Departamento Subdirección de Fiscalización Fuente: Secretaría del Director
+categoria: otros
+---
+RESOLUCION EXENTA SII N°198 DEL 22 DE DICIEMBRE DEL 2009 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 7.590, DE 15 DE NOVIEMBRE DE 1999, EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN
+						
+							Hoy se ha resuelto lo que sigue:
+                                                                             VISTOS: Lo dispuesto en los artículos 3°, 7° y 9°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda; lo establecido en la resolución exenta N° 7.590, de 15 de noviembre de 1999 y sus modificaciones posteriores; y,
+
+                                                     CONSIDERANDO:
+
+1°.- Que de acuerdo a lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos citada en los vistos, la Dirección Nacional estará constituida por los Departamentos Subdirecciones y Departamentos que establezca el Director con sujeción a la planta del Servicio; y,
+2°.- Que el interés constante de mejorar todos los procesos de fiscalización que este Servicio aplica, perfeccionando su calidad, hace necesario redefinir las facultades, atribuciones, responsabilidades y obligaciones de las jefaturas a cargo del Departamento Subdirección de Fiscalización,
+
+RESUELVO:
+
+PRIMERO: Sustitúyese el número 5 del dispositivo I de la Resolución exenta N°  7.590, de 15 de noviembre  de 1999, por el siguiente;
+“En la Subdirección de Fiscalización, se establecen las siguientes atribuciones, responsabilidades y obligaciones del Subdirector respectivo:   
+Proponer al Director estrategias de asistencia para facilitar el cumplimiento voluntario de las obligaciones tributarias; 
+Proponer al Director estrategias de control y de fiscalización de los impuestos y obligaciones tributarias que según la ley son de competencia de este Servicio;
+Proponer al Director el diseño, mejoras y reemplazos de modelos de cumplimiento, fiscalización, atención y asistencia de los impuestos y obligaciones tributarias;
+Coordinar con las Direcciones Regionales y Dirección de Grandes Contribuyentes la implementación de tales modelos;
+Proponer al Director el diseño, mejoras y reemplazos de los sistemas, operaciones y aplicaciones a través de los cuales se implementan y aplican por funcionarios del Servicio y contribuyentes los modelos de cumplimiento, fiscalización, atención y asistencia;
+Administrar la denominada “Operación Renta”;
+Administrar la denominada “Operación IVA”;
+Administrar el Sistema Ciclo de Vida del contribuyente;
+Administrar la operación asociada a los servicios de Atención y Asistencia al contribuyente.
+Preparar y proponer, a requerimiento del Director, respuestas a las consultas relacionadas con los procesos, sistemas, operaciones y aplicaciones relacionadas con las materias de fiscalización;
+Administrar las aplicaciones relacionadas con devoluciones de impuestos, tales como, IVA Exportador, conforme al Art. 36 del D.L. 825; IVA Activo fijo a que se refiere el Art. 27 bis del mismo; cambios de sujeto dispuestos en virtud del Art. 3°, del referido cuerpo legal y otras devoluciones propias de los impuestos que contiene la legislación tributaria, excluyendo el Impuesto Territorial. 
+Administrar otras operaciones, sistemas y aplicaciones para el cumplimiento tributario de los impuestos cuya fiscalización entrega la ley al Servicio de Impuestos Internos y que no se encuentren administrados por otras Subdirecciones;
+Distribuir entre las Direcciones Regionales y Dirección de Grandes Contribuyentes en su caso, las funciones y cargas de trabajo derivadas de las operaciones, sistemas y aplicaciones de su competencia;
+Coordinar con las Direcciones Regionales la fiscalización directa de los contribuyentes, previo requerimiento del Director, notificar denuncios por infracciones a las leyes tributarias, proceder a citar a contribuyentes y otras personas en cuanto diga relación con la fiscalización del cumplimiento de las obligaciones tributarias y liquidar y girar impuestos, reajustes, intereses y multas, todo ello sin perjuicio de las atribuciones que el Código Tributario y otras disposiciones legales confieren a los Directores Regionales;
+Elaborar y distribuir a las Direcciones Regionales programas Selectivos de Auditoría.  En el caso de la Dirección de Grandes Contribuyentes, estos programas serán preparados conjuntamente entre esta y la Subdirección;
+Elaborar y distribuir a las Direcciones Regionales las pautas y directrices para la preparación de Programas Emergentes de Auditoría.  En el caso de la Dirección de Grandes Contribuyentes, estas pautas y directrices serán preparados conjuntamente entre esta y la Subdirección;
+Captar y consolidar la información de los resultados y gestión obtenidos por las Direcciones Regionales y Dirección de Grandes Contribuyentes respecto de los Sistemas, Operaciones, Aplicaciones y Programas Emergentes o Selectivos de Auditoría para los efectos de otorgar a dichas unidades retroalimentación y herramientas de gestión y al Director y Subdirecciones información para la gestión general del Servicio;
+Mantener un registro actualizado y clasificado de los campos de información provenientes de los Sistemas, Operaciones y Aplicaciones con el objeto de optimizar su utilización;
+Efectuar la revisión y adaptación según corresponda, de Sistemas, Operaciones y Aplicaciones de acuerdo a las interpretaciones administrativas propuestas por la Subdirección Normativa;
+Controlar y revisar permanentemente la operatividad de las aplicaciones informáticas internas en que la Subdirección ejecute sus funciones a efectos de proponer actualizaciones o mejoras a la Subdirección de Informática;
+Controlar y revisar permanentemente la operatividad de usuario de las aplicaciones informáticas que ejecuten los Sistemas, Operaciones y Aplicaciones a efectos de solicitar actualizaciones o mejoras a la Subdirección de Informática que faciliten el trabajo regional;
+Proponer al Director pautas generales para la evaluación del cumplimiento de las funciones de las Direcciones Regionales y Dirección de Grandes Contribuyentes en materias de fiscalización;
+Proponer al Director el reordenamiento o reorganización de Departamentos y   Oficinas de la Subdirección para el mejor desempeño de esta;
+Sugerir al Director la definición de perfiles y competencias requeridas para los cargos de la Subdirección;
+Sugerir al Director pautas generales para la evaluación del cumplimiento de las funciones de la Subdirección y su personal;
+Proponer, en la oportunidad que el Director disponga, el presupuesto anual para la Subdirección y la ejecución del mismo; y,
+Otras actividades que el Director estime de competencia de esta Subdirección.
+
+SEGUNDO: Corresponderá al Subdirector de Fiscalización implementar las medidas que sean procedentes tendientes a organizar la Subdirección de Fiscalización de acuerdo a las atribuciones, obligaciones y responsabilidades que esta Resolución establece para dicha Subdirección.
+
+ TERCERO: A contar de la fecha de vigencia de esta resolución déjase sin efecto toda norma que verse sobre la materia.
+CUARTO: Esta resolución regirá a contar de la fecha de su publicación en extracto en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO 
+
+
+(Fdo.) RICARDO ESCOBAR CALDERÓN
+     DIRECTOR
+
+Lo que transcribo para su conocimiento y fines pertinentes,
+Saluda a Ud.,
+
+
+Distribución:
+Al Boletín
+Internet
+Diario Oficial en extracto
+
+
+

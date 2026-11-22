@@ -1,0 +1,239 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso42.doc
+titulo: Word – Resolución Exenta SII N°42 del 19 de Marzo del 2012 Téngase por Desafiliados del Sistema de Facturación Electrónica a los Contribuyentes que se Indican. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°42 DEL 19 DE MARZO DEL 2012 MATERIA : TÉNGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA A LOS CONTRIBUYENTES QUE SE INDICAN.
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), Nº 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974; la Res. Ex. SII Nº 45, de 01 de Septiembre de 2003; la Res. Ex. SII Nº 08, de 23 de Enero de 2004; la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005; y
+
+CONSIDERANDO:
+	
+1° Que, mediante Res. Ex. SII Nº 08, de 23 de Enero de 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. Nº 825, de 1974.  
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplica para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII Nº 45, de Septiembre de 2003.   
+
+3° Que, conforme el Resolutivo 12° de la Res. Ex. SII Nº 45, antes citada, el contribuyente podrá desistirse de ser un emisor electrónico, situación que deberá informar al Servicio de Impuestos Internos, a través de la correspondiente solicitud de desafiliación. 
+
+4° Que, los contribuyentes que se detallan en el Dispositivo Primero de esta resolución, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos. 
+5° Que, los contribuyentes que se detallan en el Dispositivo Segundo de esta resolución, con el fin de incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos, otorgada mediante la Res. Ex. SII Nº 90, de 31 de Julio de 2008, Res. Ex. SII Nº 57, de 09 de Mayo de 2008 y Res. Ex. SII Nº 77, de 28 de Junio de 2007.
+
+
+						    SE RESUELVE:
+
+1° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003 y la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los contribuyentes:
+
+
+- ANDRES RODRIGO MORGADO HERNANDEZ						13.974.609-0
+- COLEGIOS DE LA SANTISIMA TRINIDAD S.A.						96.684.860-K
+- COMERCIAL CINCO CONTINENTES ANDRES ALBERTO CIPULLO E.I.R.L.		77.400.460-2
+- CIA. MINERA SAN MANUEL LTDA.							76.088.586-K
+- DESARROLLO DE TECNOLOGÍAS DE COMPUTACIÓN INNOVADORAS LTDA.		76.141.897-1
+- FUNDACIÓN SOLIDARIDAD PARA EL EMPRENDIMIENTO PRODUCTIVO		65.956.250-2
+- HADA DEL ROSARIO ROJAS ZUÑIGA							10.275.328-3
+- INTERNATIONAL FIRST SERVICE DE CHILE S.A.					99.591.510-3
+- JOSÉ EDUARDO LEON KONAR SILVA							05.084.186-3
+- JUAN JOSÉ AUDA MARTINEZ								08.038.149-2
+- MARIO EULOGIO PARRA MORA								13.492.727-5
+- MELON S.A.										93.390.000-2
+- MILAGROS TERESA WANG KOU								14.536.276-8
+- PEDRO PABLO SANTA MARÍA TORREALBA						07.652.186-7
+- PEREZ MUNDACA FRANCISCO AGENCIA DE VIAJES Y CAPACITACIÓN E.I.R.L.	76.540.390-1
+- RESTAURANT EL SUIZO LTDA.								78.198.040-4
+- INVERSIONES M.E.S. SPA.								76.072.089-5
+- SAN JUAN VILLEGAS, JORGE ANDRES Y OTRA						53.311.234-K
+- SEBASTIAN ANDRES HASBUN ZEGPI TEXTIL E.I.R.L.					76.179.859-6
+- SERVICIO DE INGENIERÍA DE FLOTAS PESQUERAS E INMOBILIARÍA 			79.757.710-3
+ Y CONSTRUCTORA LTDA.			
+- SOC. ORIENTAL SERVICE LTDA.								77.442.520-9
+- SYNAPSIS SOLUCIONES Y SERVICIOS IT LTDA.						96.529.420-1
+- VANESSA GEMA PALACIOS ASENJO							10.912.876-7	 
+
+2° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003, con el fin de que incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los siguientes contribuyentes:
+
+
+- COMERCIALIZADORA E INVERSIONES VIAL LTDA.					76.895.310-4
+- FACILITY GROUP CONSULTORES LTDA.						76.012.087-1
+- MAAS ABOGADOS Y AUDITORES TRIBUTARIOS LTDA.					76.401.090-6
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+
+
+(Fdo.) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+         Lo que transcribo a Ud., para su conocimiento y demás fines
+RPA/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

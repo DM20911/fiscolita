@@ -1,0 +1,222 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso53.doc
+titulo: Word – Resolución Exenta SII N°53 del 25 de Septiembre del 2003 Autoriza a Compañía de Petróleos de Chile COPEC S.A. a eximirse de requisitos establecidos en la Resolución N° Ex. 1661, de 1985, respecto de guías de despacho que indica. Fuente: Departamento de Fiscalización Selectiva e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°53 DEL 25 DE SEPTIEMBRE DEL 2003 MATERIA : AUTORIZA A COMPAÑÍA DE PETRÓLEOS DE CHILE COPEC S.A. A EXIMIRSE DE REQUISITOS ESTABLECIDOS EN LA RESOLUCIÓN N° EX. 1661, DE 1985, RESPECTO DE GUÍAS DE DESPACHO QUE INDICA.
+Santiago, 
+
+	Hoy se ha resuelto lo que sigue:
+
+VISTOS:
+
+
+1° Las facultades contenidas en el Artículo 6°, letra A), N° 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N° 7, de Hacienda de 1980; lo dispuesto en el Decreto Ley N° 825 de 1974 sobre Impuesto a las Ventas y Servicios y en el Decreto Supremo de Hacienda N° 55 de 1977, reglamentario del DL N° 825 de 1974.
+
+2° El escrito de fecha 24 de julio de 2003, presentado por Don Ricardo Budinich Diez en representación de Compañía de Petróleos de Chile S.A. RUT: 90.690.000-9 con domicilio en Agustinas N° 1382 comuna de Santiago, en el que informa la creación de la filial RUT: 99.520.000–7, la que concentrará los activos y pasivos, así como también la operación del negocio de distribución de combustibles de la empresa matriz RUT: 90.690.000–9. 
+
+3° El escrito de fecha 25 de agosto de 2003, que complementa el escrito del 24 de julio, presentado por Don Ricardo Budinich Diez en representación de Compañía de Petróleos de Chile COPEC S.A. RUT: 99.520.000–7, con domicilio en Agustinas N° 1382 comuna de Santiago, en el que informa:
+
+La creación de la empresa filial Compañía de Petróleos de Chile COPEC S.A. RUT: 99.520.000–7, de ahora en adelante Filial COPEC S.A., la cuál concentrará los activos y pasivos, así como también la operación del negocio de distribución de combustibles de la empresa matriz Compañía de Petróleos de Chile S.A. RUT: 90.690.000–9.
+
+
+Y además solicita lo siguiente:
+
+Autorización de las Guías de despacho en formato ticket para la venta de combustibles y lubricantes con tarjeta TCT, sistema de ventas al crédito de gasolina para uso de vehículos de clientes que sean contribuyentes del IVA y que tengan camionetas u otros vehículos de trabajos similares, por cuyo consumo de gasolina tengan derecho a utilizar el IVA Crédito Fiscal.
+
+CONSIDERANDO: 
+
+1° - Que, la empresa Compañía de Petróleos de Chile COPEC S.A. RUT: 99.520.000–7 realizó inicio de actividades y presentó todos los antecedentes solicitados en el artículo 68 del Código Tributario.
+
+2° - Que, la Resolución Ex. N° 6499 del 29 de septiembre de 1999 autoriza a Compañía de Petróleos de Chile S.A. RUT: 90.690.000–9 a eximirse de requisitos establecidos en la Resolución N° Ex. N° 1661, de 1985, respecto de guías de despacho.
+
+3° - Que, la nueva filial Compañía de Petróleos de Chile COPEC S.A. RUT: 99.520.000–7 concentrará todo el negocio de distribución de combustibles de la empresa matriz Compañía de Petróleos de Chile S.A. RUT: 90.690.000–9.
+4° - Que, el sistema consistente en la venta de gasolina a crédito, opera mediante la utilización de una tarjeta magnética que identifica al usuario, con el nombre o razón social de la empresa y LA PATENTE DEL VEHICULO AUTORIZADO, la que permite accionar un microcomputador e ingresar los datos que se requieren para los fines de emitir un comprobante de venta. Además de los datos de fecha, producto y cantidades suministradas, el sistema permite el registro del odómetro del vehículo, dato con el cual el cliente controla su rendimiento. El microcomputador, instalado en cada Estación de Servicio COPEC adherida al sistema, funciona conectado al computador central ubicado en la Filial COPEC S.A..
+
+5° - Que, este comprobante de venta reemplazaría a las guías de despacho que están obligados a otorgar para postergar la emisión de las respectivas facturas, puesto que cumple con todos los requisitos establecidos en la Ley del ramo y su Reglamento, omitiéndose sólo los aspectos formales dispuestos en la mencionada Resolución N° Ex. 1661, como son: dimensiones mínimas, tipo de papel a utilizar, etc., por no ser adaptables al sistema. 
+
+6° - Que, respecto al timbraje de los rollos de guías especiales de despacho solicita acogerse a las normas de la Resolución N° Ex. 5.285, de 22.09.93, que estimó conveniente para un mejor control de los documentos que van en rollos, que éstos se timbren con una numeración única nacional en la jurisdicción de la casa Filial COPEC S.A.
+
+7° - Que, las ventas que se realizarían por el sistema Tarjeta Copec Transporte, serían las efectuadas por la Distribuidora Mayorista, con almacenaje del combustible, quien opera con una red de estaciones de servicio que venden combustibles por cuenta de la empresa (consignatarios), por su propia cuenta (revendedores o concesionarios) y en establecimientos propios de la empresa, directamente a sus clientes sin que exista de por medio ninguna transferencia a terceros vendedores, ya que el combustible utilizado, sólo es almacenado en cada estación de servicio COPEC habilitada.
+
+8° - Que, mediante Resolución N° Ex. 3159 del 25.10.90 se autorizó el procedimiento para las ventas al crédito de Petróleo Diesel y mediante Resolución N° Ex. 00043 del 18.01.92 se amplió la autorización por las ventas al crédito de lubricantes.
+
+9° - Que, de conformidad a los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, y artículo 6° del Código Tributario, corresponde al Servicio la aplicación y fiscalización de las disposiciones tributarias, incluyendo la interpretación administrativa de dichas disposiciones, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+
+RESUELVE:
+
+1° AUTORÍZASE a la COMPAÑIA DE PETROLEOS DE CHILE COPEC S.A., RUT N° 99.520.000-7, para eximirse de los requisitos establecidos en la Resolución N° Ex. 1661, de 1985, de esta Dirección Nacional, respecto de las guías de despacho que otorgará por las ventas al crédito de petróleo diesel, lubricantes y gasolinas, para uso de vehículos de clientes que sean contribuyentes del IVA y que tengan camionetas u otros vehículos similares, por cuyo consumo de combustibles tengan derecho a utilizar el crédito fiscal, efectuadas mediante el sistema "Tarjeta Copec Transporte", que serán emitidas por microcomputadores instalados en las Estaciones de Servicio Copec, adheridas a dicho sistema, siempre y cuando las ventas se efectúen directamente a sus clientes y no exista por medio ninguna transferencia a terceros vendedores. En ningún caso esta autorización operará para que el sistema pueda ser utilizado en vehículos en que el consumo de combustibles no da derecho a crédito fiscal y las adquisiciones deban ser documentadas con boletas de venta.
+
+2° Esta autorización operará hasta el 31 de diciembre del 2003, condicionada al cumplimiento de las obligaciones que más abajo se indican. 
+
+A.- Las guías de despacho cuya utilización se autoriza, deberán cumplir con los siguientes requisitos:
+
+A.1 En el reverso de cada ejemplar deberá indicarse en forma impresa y visible:
+
+Guía de despacho; 
+Nombre o razón social, dirección y R.U.T. de la Filial COPEC S.A;
+Destino de los ejemplares: ORIGINAL-Cliente; DUPLICADO-Control Tributario; TRIPLICADO-S.I.I., para los cuales deberá utilizarse papel de color blanco, amarillo y celeste, respectivamente; 
+Número y fecha de la presente Resolución; y
+Leyenda "Válida sólo para ventas de combustibles y lubricantes, sistema T.C.T."
+
+A.2 En el anverso e impreso por el microcomputador al momento de emitirse la guía de despacho, deberá indicar a lo menos:
+
+Nombre o razón social, dirección y R.U.T. de la estación de servicio vendedora;
+Numeración correlativa. Esta se llevará por cada máquina expendedora de la estación de servicio y deberá ser impresa por el microcomputador al momento de emitirse la guía, a cuyo efecto la empresa deberá implementar un programa que le permita consignar números consecutivos; 
+Identificación de la Unidad del S.I.I. correspondiente a la jurisdicción de la casa Filial COPEC S.A, donde se timbrarán estos documentos;
+Nombre o razón social, dirección y R.U.T. del comprador;
+Producto cargado;
+Fecha emisión de la guía;
+Patente del vehículo; y
+Litros vendidos, valor unitario y total; en el caso de los lubricantes podrá indicar la unidad física en la que se contiene el producto.
+
+B.- La estación de servicio expendedora será responsable de controlar que existe consistencia entre la patente del vehículo surtido con el consignado en la tarjeta T.C.T. Para ello el expendedor del combustible deberá indicar el número de la placa patente del vehículo surtido, anotando al reverso del original de la guía de despacho este antecedente. El incumplimiento de este requisito podrá ser causal de retiro de la autorización para la estación de servicio que incurra en la omisión. 
+
+C.- La utilización del crédito fiscal del combustible adquirido con tarjeta T.C.T., en los casos en que sea procedente, dependerá de que el vehículo que cargó el combustible sea de aquellos que den derecho a dicha utilización y del hecho de que el adquirente guarde la guía de despacho junto con la factura, debiendo exhibirlos a funcionarios del Servicio, cuando éstos lo requieran.
+
+D.- El triplicado de la guía de despacho deberá permanecer en forma de rollo en el interior del microcomputador, hasta el término de su utilización. Este triplicado deberá ser conservado por el contribuyente durante seis años, conforme lo previene el artículo 70°, N° 5 del Decreto Supremo de Hacienda N° 55, de 1977, reglamentario del D.L. N° 825, de 1974. 
+
+E.- Previo a la utilización de cada uno de los microcomputadores que permiten la emisión de estas guías de despacho, se deberá comunicar el hecho a la Dirección Regional correspondiente a la jurisdicción en donde se utilizará. 
+
+E.1 Cumplida la diligencia anterior, la Dirección Regional verificará que se trata de los microcomputadores que emplea el sistema Tarjeta Copec Transporte y emitirá un Certificado en que conste que la Estación de Servicio se encuentra autorizada para utilizar el o los microcomputadores que en él se identifica(n) y para emitir las guías de despacho a que se refiere la presente resolución.
+
+E.2 Emitido el certificado, la Dirección Regional efectuará las verificaciones pertinentes y procederá a sellar cada microcomputador, desde su base o mueble sobre el cual se instale. La remoción de este sello podrá efectuarse sólo por un funcionario del S.I.I. que tenga el carácter de ministro de fe. 
+
+E.3 Los rollos a utilizar deberán ser timbrados en la Unidad que corresponda a la jurisdicción de la Filial COPEC S.A., con una sola numeración del uno al infinito. El contribuyente llevará en su casa Filial COPEC S.A un libro timbrado por el Servicio, en el que deberá anotar los números de los rollos asignados a cada una de las estaciones de servicio. Las estaciones de servicio llevarán un libro timbrado por el Servicio, en el que deberán anotar el número de los rollos asignados a cada una de éstas. 
+
+F.- La empresa peticionaria llevará los registros, timbrados por el Servicio, que más abajo se indican: 
+
+F.1 Correlativo mensual de guías de despacho emitidas por concepto de ventas sistema T.C.T., por cada estación de servicio, con mención de su número y fecha; nombre y R.U.T. del comprador; producto cargado, cantidad de litros en el caso de combustibles y unidades físicas para los lubricantes, precio unitario, total y, finalmente, número del rollo al cual corresponde el documento. 
+
+Deberá subtotalizarse cada hoja, consignándose en la última el total general del mes.
+
+Copia de este correlativo deberá ser mantenido en la estación de servicio correspondiente. 
+
+F.2 Correlativo mensual nacional de las facturas emitidas en relación a estas guías de despacho, por estaciones de servicio ordenadas de norte a sur del país, en el que se consignará número y fecha de la factura; nombre y número de R.U.T. del comprador; valor neto, Impuesto al Valor Agregado, Impuesto Específico y total. Este correlativo deberá subtotalizarse por hoja, totalizarse por estación de servicio y en la última hoja consignar el total general.
+
+Este registro deberá ser mantenido en la casa Filial COPEC S.A junto con el de guías de despacho, señalados en la letra F.1. 
+
+F.3 En caso que se desee llevar los señalados correlativos en hojas sueltas, éstas deberán ser debidamente legajadas por movimiento mensual, debiendo cumplirse con los procedimientos y obligaciones que se indican en la Res. Nº Ex. 4228 de 24.06.99 modificada por la Res. Nº Ex. 5004 del 22.07.99.
+
+G.- La Filial COPEC S.A., consignará en su Libro de Ventas Diarias un resumen de las ventas correspondientes al sistema T.C.T, aparte del resumen mensual que dispone el artículo 75° del D.S. de Hacienda N° 55, de 1977, reglamentario del D.L. N° 825, de 1974.
+
+H.- Si por cualquier motivo el microcomputador no pudiera ser utilizado y el contribuyente efectuara ventas acogidas al sistema T.C.T., deberá otorgar guías de despacho que cumplan con todos los requisitos legales, los establecidos en la Resolución N° Ex. 1661, de 1985, y numeración correlativa única nacional, las cuales serán registradas al final del movimiento diario del correlativo señalado en el punto F.1. 
+
+I.- La Filial COPEC S.A., deberá remitir trimestralmente, hasta el décimo día del mes siguiente de cumplido el trimestre, al Departamento de Fiscalización Selectiva e Internacional, un informe acerca del funcionamiento del sistema, a través de medios tecnológicos que se convendrán conforme a formato de registro proporcionado por dicho Departamento, conteniendo los siguientes datos:
+
+I.1 En relación con las ventas efectuadas a través del sistema:
+
+RUT del comprador
+N° de factura de venta y fecha
+Patente del vehículo
+Litros comprados por vehículo para combustibles o unidades físicas de almacenamiento para los lubricantes.
+Monto neto
+Impuesto Específico
+Impuesto al Valor Agregado 
+Total factura de venta. 
+
+I.2 En relación al Rendimiento de combustible por vehículo que utiliza T.C.T.:
+
+RUT y nombre o razón social del comprador
+Período trimestral evaluado
+Número de la tarjeta
+Producto surtido
+Tipo de vehículo, modelo y patente
+Fecha de uso
+Estación de Servicio, Rut y domicilio
+Precio por litro
+Litros surtidos
+Número de guía de despacho
+Monto adquirido
+Registro de Odómetro conforme a dato indicado por el cliente
+Rendimiento kilómetros por litro
+Rendimiento en pesos por kilómetro 
+
+J.- En cada estación de servicio donde se utilice este sistema se mantendrá permanentemente y en buen estado, un ejemplar de la presente resolución, para los fines de ser exhibido a los funcionarios del Servicio, cuando éstos lo requieran. 
+
+K.- En caso de extravío o inutilización de las guías de despacho, se aplicará lo dispuesto en el artículo 97 N° 16, del Código Tributario. 
+
+La emisión de guías de despacho sin cumplir con los requisitos señalados en la presente Resolución será motivo suficiente para dejarla sin efecto. El incumplimiento de cualquiera de las obligaciones dispuestas en ella, dará origen a sanciones que se aplicarán respecto del infractor de acuerdo a las disposiciones pertinentes del Código Tributario.
+
+La empresa peticionaria deberá emitir factura sólo cuando el adquirente sea contribuyente de IVA y el combustible esté destinado a vehículos que dan derecho a utilizar el crédito fiscal. La emisión de factura en una venta que debe ser documentada con boleta, constituye una infracción sancionada en el artículo 97 N°10 del Código Tributario.
+
+Si la infracción consiste en surtir productos distintos a los autorizados para el sistema, o bien el expendio de productos autorizados, a un vehículo distinto al consignado en la tarjeta, la estación de servicio o punto de venta que efectúa el servicio se hará acreedor a la sanción establecida en el artículo 97 N° 10 al no documentar tributariamente una venta que no corresponde a la entrega de combustible conforme al sistema autorizado y podrá causar la revocación de la autorización particular otorgada para operar bajo este sistema; el adquirente del combustible será sancionado con la infracción contemplada en el artículo 97 N° 19 del Código Tributario, por no exigir el documento tributario que corresponda, y el cliente de Filial COPEC S.A, titular de la tarjeta, se hará acreedor, además a las sanciones y cobros que el Servicio pueda formularle respecto del uso indebido del crédito fiscal utilizado.
+
+3°  A partir del 1 de enero de 2004 las condiciones para operar con el sistema “TCT” serán las mismas que las aprobadas anteriormente salvo los puntos que se detallan a continuación:
+
+A.-	Las tarjetas de crédito que se utilicen en el sistema deberán consignar los siguientes antecedentes: razón social y RUT del cliente; identificación del documento tributario: Factura; número de tarjeta, vigencia de uso, patente y tipo del vehículo para el cual fue autorizada. En cuanto a la patente y el tipo de vehículo deberán consignarse en tamaño visible y en caracteres destacados.
+
+B.-	La Filial COPEC S.A., deberá remitir mensualmente, al Departamento de Fiscalización Selectiva e Internacional, un informe acerca del funcionamiento del sistema, a través de medios tecnológicos que se convendrán conforme a un formato de registro proporcionado por dicho Departamento, conteniendo los siguientes datos:
+
+	B.1 En relación con las ventas efectuadas a través del sistema:
+
+RUT del comprador
+Razón Social 
+Número Factura
+Fecha Factura
+Período mensual evaluado
+Monto Neto
+Impuesto al Fondo de Estabilización del Petróleo
+Impuesto Específico a los combustibles
+Impuesto al Valor Agregado
+Total factura de venta.
+
+B.2  En relación al rendimiento por vehículo:
+
+RUT
+Período mensual evaluado
+Número de la tarjeta
+Tipo de Vehículo 
+Patente
+Producto surtido
+Litros totales entregados en el período
+Monto total de las entregas en el período
+Número de entregas efectuadas en el período
+Rendimiento kilómetros por litro
+Rendimiento en pesos por kilómetro
+
+Nota: La información de los rendimientos, solo debe ser entregada en el caso que el producto adquirido sea un combustible.
+
+4°  La presente resolución deberá ser publicada en extracto en el Diario Oficial, por cuenta y costo de la empresa peticionaria, entrando en vigencia el mismo día de su publicación. 
+
+
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+	DIRECTOR
+	
+
+Lo que transcribo a Ud. para su conocimiento y demás fines,
+
+Saluda a Ud. 
+
+
+
+
+
+DISTRIBUCIÓN:
+
+SR. RICARDO BUDINICH DIEZ GERENTE DE ADM. Y FINANZAS COPEC S.A.
+AGUSTINAS N° 1382 SANTIAGO
+SR. DIRECTOR
+SRES. SUBDIRECTORES
+SRES. DIRECTORES REGIONALES DEL PAIS
+DEPARTAMENTO DE FISCALIZACIÓN INTERNA
+DEPARTAMENTO DE ASESORIA JURIDICA
+SECRETARIA GENERAL
+BOLETIN
+INTERNET
+OFICINA DE PARTES
+
+PAGE  1
+
+
+
+
+

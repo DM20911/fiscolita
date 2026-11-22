@@ -1,0 +1,228 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso161.doc
+titulo: Word – Resolución Exenta SII N°161 del 12 de Diciembre del 2008 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°161 DEL 12 DE DICIEMBRE DEL 2008 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos a contar del mes de Diciembre del 2008 a los siguientes contribuyentes:
+
+- ABRIL Y CÍA. LTDA. 								86.821.000-1 - AISLAPANEL S.A. 									96.788.050-7 - ANDES IMPORTADORA Y EXPORTADORA LTDA. 					77.304.460-0 - ASESORÍAS INMOBILIARIA PRAGMANET LTDA. 					76.196.110-1 - BRUENING S.A. 									99.596.310-8 - COMERCIAL FERAGUS LTDA.  							96.708.540-5 - CONSTRUCTORA RONATO S.A. 							88.582.700-4 - CONTRERAS, VALDÉS Y CÍA. LTDA. 						76.805.790-7 - DIRECT LTDA. 									77.697.060-3 - ENGINEERING & SYSTEMS E.I.R.L. 						76.635.160-3 - ENO CHILE S.A. 									76.446.080-4 - HIDROELÉCTRICA EL MANZANO S.A. 						76.803.940-2 - INMOBILIARIA AEG LTDA. 							79.595.090-7 - INVERSIONES Y ASESORÍAS CIBOS LTDA. 					76.304.630-3 - MUDANZAS NAVAS S.A. 								76.033.711-0 - PERFOMALLAS S.A. 								96.843.910-3 - PLÁSTICOS SANTA ESTER LTDA. 							78.059.990-1 - SALMONES ITATA S.A. 								76.653.690-5 - SANTANDER CORREDORA DE SEGUROS LTDA. 					96.524.260-0 - SERVICIOS DE INGENIERÍA GERARDO CARU E.I.R.L. 				76.024.054-0 - SERVICIOS KOSHER CHILE LTDA. 						77.728.410-K - SOCIEDAD DE TRANSPORTES ROMAGNOLI LTDA. 				76.004.285-4 - SOUTH HISPANO AUDITORES CONSULTORES LTDA. 				77.482.140-6 - THERMO PARTS S.A. 								99.589.630-3 - TMF CHILE ASESORÍAS EMPRESARIALES LTDA. 					76.646.770-9
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               JORGE TRUJILLO PUENTES
+                        SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+MSB/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

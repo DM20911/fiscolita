@@ -1,0 +1,59 @@
+---
+url: https://www.sii.cl/documentos/normativa_ddrr/2010/temuco/
+titulo: Normativa SII
+categoria: otros
+---
+[Ver meses anteriores](index_hasta_agosto.html)
+
+# ACTOS Y RESOLUCIONES D. R. TEMUCO 2010
+
+| **Denominación (tipologías)** | **Tipo de norma** | **Número** | **Fecha del acto** | **Nombre/título** | **Breve descripción del objeto del acto** | **Fecha de publicación Diario Oficial o Internet** | **Medio de publicación** | **Enlace a la publicación o archivo correspondiente** | **Tiene efectos generales** | **Sólo en caso de efectos generales, seleccionar el efecto sobre la normativa** | **Número** | **Fecha** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrucciones y dictámenes | Resolución | 7613 | 27-12-2010 | AUTORIZACIÓN | Autoriza Máquina registradora | 7-1-2011 | Internet | [Ver Documento](reso7613_4885.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7582 | 23-12-2010 | AUTORIZACION | Autoriza Máquina registradora | 7-1-2011 | Internet | [Ver Documento](reso7582_4884.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7576 | 23-12-2010 | DEROGACIÓN | Deroga maquina registradora | 7-1-2011 | Internet | [Ver Documento](reso7576_4883.pdf) | SI | Deroga | 57 | 11-06-2008 |
+| Instrucciones y dictámenes | Resolución | 7501 | 21-12-2010 | DEROGACIÓN | Deroga maquina registradora | 7-1-2011 | Internet | [Ver Documento](reso7501_4882.pdf) | SI | Deroga | 438 | 29-11-2004 |
+| Instrucciones y dictámenes | Resolución | 7395 | 15-12-2010 | AUTORIZACIÓN | Autoriza Maquina registradora | 3-1-2011 | Internet | [Ver Documento](reso7395_4795.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7302 | 13-12-2010 | AUTORIZACIÓN | Autoriza Maquina registradora Deroga Maquina Registradora | 3-1-2011 | Internet | [Ver Documento](reso7302_4801.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7301 | 13-12-2010 | AUTORIZACIÓN | Autoriza Maquina registradora | 3-1-2011 | Internet | [Ver Documento](reso7301_4798.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7300 | 13-12-2010 | AUTORIZACIÓN | Autoriza Maquina registradora | 3-1-2011 | Internet | [Ver Documento](reso7300_4796.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 7299 | 13-12-2010 | DEROGACIÓN | Deroga Maquina Registradora | 3-1-2011 | Internet | [Ver Documento](reso7299_4799.pdf) | SI | Deroga | 368 | 06-10-2004 |
+| Instrucciones y dictámenes | Resolución | 7055 | 02-12-2010 | AUTORIZACION | Autoriza Maquina Registradora | 13-12-2010 | Internet | [Ver Documento](reso7055_4682.pdf) | SI | Complementa | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6852 | 23-11-2010 | REVOCACIÓN | Revoca Calidad agente Retenedor | 9-12-2010 | Internet | [Ver Documento](reso6852_4563.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6851 | 23-11-2010 | REVOCACIÓN | Revoca Calidad agente Retenedor | 9-12-2010 | Internet | [Ver Documento](reso6851_4564.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6591 | 12-11-2010 | AUTORIZACIÓN | Autoriza Máquina Registradora | 6-12-2010 | Internet | [Ver Documento](reso6591_4481.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6590 | 12-11-2010 | DEROGACION | Derogación máquina registradora | 6-12-2010 | Internet | [Ver Documento](reso6590_4482.pdf) | SI | Deroga | 429 | 11-11-1998 |
+| Instrucciones y dictámenes | Resolución | 6491 | 09-11-2010 | DEROGACION | Autoriza Máquina Registradora | 6-12-2010 | Internet | [Ver Documento](reso6491_4483.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6400 | 04-11-2010 | AUTORIZACION | Autoriza Máquina Registradora | 26-11-2010 | Internet | [Ver Documento](reso6400_4430.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6394 | 04-11-2010 | AUTORIZACION | Autoriza Máquina Registradora | 26-11-2010 | Internet | [Ver Documento](reso6394_4429.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6373 | 04-11-2010 | REVOCACIÓN | Deniega revocacion | 26-11-2010 | Internet | [Ver Documento](reso6373_4428.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6069 | 22-10-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 10-11-2010 | Internet | [Ver Documento](reso6069_4167.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6068 | 21-10-2010 | DEROGACIÓN | Deroga Máquina registradora | 10-11-2010 | Internet | [Ver Documento](reso6068_4166.pdf) | SI | Deroga | 55 | 09-02-2001 |
+| Instrucciones y dictámenes | Resolución | 6067 | 21-10-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 10-11-2010 | Internet | [Ver Documento](reso6067_4164.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 6003 | 19-10-2010 | DEROGACIÓN | Deroga Máquina registradora | 10-11-2010 | Internet | [Ver Documento](reso6003_4163.pdf) | SI | Deroga | 424 | 27-08-2010 |
+| Instrucciones y dictámenes | Resolución | 5985 | 18-10-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 10-11-2010 | Internet | [Ver Documento](reso5985_4168.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5966 | 18-10-2010 | DEROGACIÓN | Deroga Máquina registradora | 10-11-2010 | Internet | [Ver Documento](reso5966_4162.pdf) | SI | Deroga | 55 | 17-02-2006 |
+| Instrucciones y dictámenes | Oficio Ordinario | 420 | 15-10-2010 | RESPUESTA CONSULTA | Gastos por adquisición de vehículo | 10-11-2010 | Internet | [Ver Documento](ordinario420_4161.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5690 | 04-10-2010 | DEROGACIÓN | Deroga Maquina Registradora | 22-10-2010 | Internet | [Ver Documento](reso5690_4035.pdf) | SI | Deroga | 303 | 31-10-2002 |
+| Instrucciones y dictámenes | Resolución | 5689 | 04-10-2010 | DEROGACIÓN | Deroga Maquina Registradora | 22-10-2010 | Internet | [Ver Documento](reso5689_4034.pdf) | SI | Deroga | 26 | 20-01-2006 |
+| Instrucciones y dictámenes | Resolución | 5688 | 04-10-2010 | DEROGACIÓN | Deroga Maquina Registradora | 22-10-2010 | Internet | [Ver Documento](reso5688_4033.pdf) | SI | Deroga | 243 | 20-07-2001 |
+| Instrucciones y dictámenes | Resolución | 5687 | 04-10-2010 | DEROGACIÓN | Deroga Maquina Registradora | 22-10-2010 | Internet | [Ver Documento](reso5687_4032.pdf) | SI | Deroga | 245 | 26-06-1998 |
+| Instrucciones y dictámenes | Resolución | 5650 | 01-10-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 22-10-2010 | Internet | [Ver Documento](reso5650_4030.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5424 | 22-09-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 15-10-2010 | Internet | [Ver Documento](reso5424_3881.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5323 | 15-09-2010 | AUTORIZACIÓN | Autorización Maquina Registradora | 15-10-2010 | Internet | [Ver Documento](reso5323_3894.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 4699 | 15-09-2010 | AUTORIZA USO DE MAQUINAS REGISTRADORAS | Autoriza Emision de Vales en reemplazo de boletas por medio de Maquinas Registradoras | 8-10-2010 | Internet | [Ver Documento](reso4699_3766.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 4698 | 15-09-2010 | AUTORIZA USO DE MAQUINAS REGISTRADORAS | Autoriza Emision de Vales en reemplazo de boletas por medio de Maquinas Registradoras | 8-10-2010 | Internet | [Ver Documento](reso4698_3765.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 4694 | 15-09-2010 | AUTORIZA USO DE MAQUINAS REGISTRADORAS | Autoriza Emision de Vales en reemplazo de boletas por medio de Maquinas Registradoras | 8-10-2010 | Internet | [Ver Documento](reso4694_3764.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 4693 | 15-09-2010 | DEROGACION PARCIAL USO DE MAQUINAS REGISTRADORAS | Deja sin efecto en forma parcial Resolucion Ex. 5105 de 16/10/2009 | 8-10-2010 | Internet | [Ver Documento](reso4693_3763.pdf) | SI | Modifica | 5105 | 16-10-2009 |
+| Instrucciones y dictámenes | Resolución | 4692 | 15-09-2010 | DEROGACION TOTAL USO MAQUINAS REGISTRADORAS | Dejase sin efecto en forma total Resolucion Ex. 5243de 19/10/2009 | 8-10-2010 | Internet | [Ver Documento](reso4692_3762.pdf) | SI | Deroga | 5243 | 19-10-2009 |
+| Instrucciones y dictámenes | Resolución | 4691 | 15-09-2010 | AUTORIZA USO DE MAQUINAS REGISTRADORAS | Autoriza Emision de Vales en reemplazo de boletas por medio de Maquinas Registradoras | 8-10-2010 | Internet | [Ver Documento](reso4691_3761.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5296 | 14-09-2010 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA | Autorización Maquina Registradora | 8-10-2010 | Internet | [Ver Documento](reso5296_3757.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5295 | 14-09-2010 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA EN DOMICILIO QUE INDICA. | Autorización Maquina Registradora | 8-10-2010 | Internet | [Ver Documento](reso5295_3756.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5286 | 14-09-2010 | AUTORIZACION PARA EMITIR VALES EN REEMPLAZO DE BOLETAS POR MEDIO DE MAQUINA REGISTRADORA EN DOMICILIO QUE INDICA. | Autorización Maquina Registradora | 8-10-2010 | Internet | [Ver Documento](reso5286_3759.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5262 | 13-09-2010 | REVOCA CALIDAD DE AGENTE RETENEDOR DE IVA.- | Revoca calidad agente retenedor IVA | 8-10-2010 | Internet | [Ver Documento](reso5262_3758.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5113 | 07-09-2010 | DEROGACIÓN. | Deroga Máquina Expendedora. | 15-10-2010 | Internet | [Ver Documento](reso5113_3844.pdf) | SI | Modifica | 92 | 15-04-2008 |
+| Instrucciones y dictámenes | Resolución | 5101 | 06-09-2010 | AUTORIZACIÓN. | Autoriza Máquina Registradora. | 15-10-2010 | Internet | [Ver Documento](reso5101_3843.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5100 | 06-09-2010 | AUTORIZACIÓN. | Autoriza Máquina Registradora. | 15-10-2010 | Internet | [Ver Documento](reso5100_3842.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5098 | 06-09-2010 | AUTORIZACIÓN. | Autoriza Máquina Registradora. | 15-10-2010 | Internet | [Ver Documento](reso5098_3841.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5097 | 06-09-2010 | AUTORIZACIÓN. | Autoriza Máquina Registradora. | 15-10-2010 | Internet | [Ver Documento](reso5097_3840.pdf) | SI | Sin modificación | No aplica | No aplica |
+| Instrucciones y dictámenes | Resolución | 5096 | 06-09-2010 | AUTORIZACIÓN | Autoriza Máquina Registradora | 19-11-2010 | Internet | [Ver Documento](reso5096_4381.pdf) | SI | Sin modificación | No aplica | No aplica |

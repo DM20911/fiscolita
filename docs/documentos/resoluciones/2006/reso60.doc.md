@@ -1,0 +1,208 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso60.doc
+titulo: Word – Resolución Exenta SII N°60 del 23 de Mayo del 2006 Tipo De Cambio A Utilizar Para La Determinación, En Moneda Nacional, De Los Montos Por Los Cuales Se Solicita La Devolución IVA Exportador, Por Los Contribuyentes Que Lleven Su Contabilidad Y Declaren Y Paguen Los Tributos En Moneda Extranjer
+categoria: otros
+---
+RESOLUCION EXENTA SII N°60 DEL 23 DE MAYO DEL 2006 MATERIA : TIPO DE CAMBIO A UTILIZAR PARA LA DETERMINACIÓN, EN MONEDA NACIONAL, DE LOS MONTOS POR LOS CUALES SE SOLICITA LA DEVOLUCIÓN IVA EXPORTADOR, POR LOS CONTRIBUYENTES QUE LLEVEN SU CONTABILIDAD Y DECLAREN Y PAGUEN LOS TRIBUTOS EN MONEDA EXTRANJERA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+					    
+
+VISTOS: Las facultades contempladas en los Art. 6º letra A) Nº 1; 18 y 30 del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en los Arts. 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; lo dispuesto en los artículos 36, del D.L. N° 825, de 1974; 2°, letra c) del D.S. N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción; y lo dispuesto en las Res. Ex. N° 5396, de 07.12.2000, modificada por las Res. Ex. N°s 03, de 30.03.2001; y 44, de 20.04.2006; en la Res. Ex. N° 23, de 19.06.2001; y en las Circulares N°s 22, de 30.03.2001; 37, de 19.06.2001; y 24, de 20.04.2006, del Servicio de Impuestos Internos; y
+
+   CONSIDERANDO: 
+1.- 	Que, el Art. 2°, letra c) del D.S. N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción, faculta al Servicio de Impuestos Internos para determinar las especificaciones que debe contener la Declaración Jurada, por medio de la cual se solicita la devolución “IVA Exportadores”.
+
+2.-	Que, la Res. Ex. N° 23, de 2001, estableció los requisitos y antecedentes que deben acompañar los exportadores para obtener la recuperación del Impuesto al Valor Agregado, contenido en el Título II del D.L. N° 825, de 1974 y de los tributos que indica, establecidos en el Título III, de este mismo cuerpo legal.
+
+3.-	Que, la Res. Ex. SII N° 44, de 2006, la cual modifica la Res. Ex. N° 5396, de 7 de diciembre del 2000, modificada a su vez por la Res. Ex. N° 03, de 09 de Enero del 2001, en su resolutivo tercero señala que, para la determinación y pago de los impuestos internos que se expresen o efectúen en moneda nacional, se deberá considerar el tipo de cambio observado, vigente a la fecha de la determinación del impuesto, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.
+
+4.-	Que, la Res. Ex. N° 23, de 2001, establece, en la letra q del resolutivo N° 1, que la solicitud de devolución del “IVA Exportadores”, se debe presentar en pesos, en conformidad al D.S. N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción, de 1975, que dispone que dicha devolución se efectuará en moneda nacional.
+
+
+						   RESUELVO:
+
+Para los fines de lo dispuesto en la Res. Ex. N° 23, de 2001, los contribuyentes que presenten una solicitud de devolución de “IVA Exportadores”, deberán consignar en ésta, en moneda nacional,  los montos registrados en moneda extranjera en el respectivo Formulario 29 y en su contabilidad. Para ello, deberán considerar el tipo de cambio observado vigente al último día del mes del período a que se refiere la solicitud. Dicho valor se determinará según publicación efectuada por el Banco Central de Chile, de conformidad al N° 6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.
+
+		Anótese, Comuníquese y Publíquese en extracto.  
+
+ 
+  
+
+				                       RICARDO ESCOBAR CALDERÓN
+						    		               DIRECTOR
+
+
+			Lo que transcribo para Ud. para su conocimiento y 
+			demás fines.
+
+   
+								  	       SECRETARIA GENERAL 
+
+
+
+DISTRIBUCION: -	Internet
+-	Diario Oficial -     Boletín 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

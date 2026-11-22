@@ -1,0 +1,290 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso106.doc
+titulo: Word – Resolución Exenta SII N°106 del 24 de Agosto del 2011 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señalan. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°106 DEL 24 DE AGOSTO DEL 2011 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+
+Hoy se ha resuelto lo que sigue:
+
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en la Resolución Ex. SII N°150, de diciembre de 2005; y,
+CONSIDERANDO:
+
+1°	Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+
+2°    Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica. 
+3°    Que, los contribuyentes listados en el dispositivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N°150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado. 
+
+SE RESUELVE:
+
+Primero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LIMITADA, RUT 76.029.564-7 a los siguientes contribuyentes:
+
+- AGRICOLA EL AVELLANO S.A.						RUT 96.923.620-6
+- AGRICOLA VIDA NUEVA S.A.						RUT 96.996.290-K
+- CIA. ELECTRO METALURGICA S.A.					RUT 90.320.000-6
+- ETC MEDIOS S.A.								RUT 96.919.990-4
+- INDUSTRIA DE ACEROS ESPECIALES S.A.				RUT 92.892.000-3
+- INVERSIONES ELECMETAL S.A.						RUT 99.506.820-6
+- PRODUCCIONES MEGAVISION LTDA.					RUT 78.794.060-9
+- RED TELEVISIVA MEGAVISION S.A.					RUT 79.952.350-7
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+
+ACE SEGUROS S.A.							RUT 99.225.000-3
+ARAMARK INVERSIONES LATINOAMERICANAS LTDA.			RUT 76.013.451-1
+AMIAD ANDINA S.A.							RUT 76.087.033-1
+AUTOMOTRIZ INTERNACIONAL S.A. 					RUT 96.558.910-4
+AUTOMOTRIZ NORDICA S.A. 						RUT 96.712.870-8
+BANCO SECURITY							RUT 97.053.000-2
+CDR MANTENIMIENTO INTEGRAL S.A.					RUT 96.527.450-2
+CENTRAL DE ABASTECIMIENTO LTDA.					RUT 88.279.900-K
+CENTRAL DE RESTAURANTES ARAMARK LTDA.			RUT 76.178.360-2
+CENTRAL DE RESTAURANTES ARAMARK MULTISERVICIOS LTDA.	RUT 76.178.390-4
+CENTRO DE INNOVACION Y SERVICIO S.A.				RUT 76.040.054-8
+CONSTRUCTORA DEL NUEVO ESTREMO S.A.				RUT 96.762.180-3
+CONSTRUCTORA MILLENIUM S.A.					RUT 76.098.095-1
+CONSTRUCTORA SENCO S.A. 						RUT 76.098.456-6
+COSMETICOS AVON S.A.							RUT 85.077.900-7
+COSTANERA DEL NUEVO EXTREMO S.A. 				RUT 99.560.810-3
+FALEX S.A.								RUT 96.693.790-4
+FLESAN ANCLAJES S.A.							RUT 76.154.079-3
+FORESTAL TORNAGALEONES S.A.					RUT 81.507.700-8
+GESTION Y SERVICIOS S.A.						RUT 99.514.880-3
+GREENSYSTEMS S.A.							RUT 76.060.256-6
+HYDROSYSTEMS S.A.							RUT 76.128.767-2
+INMOBILIARIA ANDES DEL N.E. S.A.					RUT 96.641.640-8
+INMOBILIARIA CENTRO UNO S.A.					RUT 76.780.120-3
+INMOBILIARIA COSTANERA OFFICE S.A. 				RUT 76.875.190-0
+INMOBILIARIA ENCOMENDEROS DE LAS CONDES S.A.			RUT 96.562.180-6
+INMOBILIARIA ISLAS S.A.							RUT 96.623.700-7
+INMOBILIARIA JACARANDA DEL SUR S.A.				RUT 76.577.630-9
+INMOBILIARIA MIRADORES DE CONCEPCION S.A.			RUT 96.843.180-3
+INMOBILIARIA NIEVES DEL SUR S.A.					RUT 76.547.510-4
+INMOBILIARIA NORUEGA S.A.						RUT 76.515.960-1
+INMOBILIARIA SAN LUIS S.A.						RUT 76.577.600-7
+INMOBILIARIA SENARQ S.A.						RUT 99.529.760-4
+INSTITUTO I C S S.A.							RUT 78.612.440-9
+INTERANDINA S.A.							RUT 96.643.810-K
+INVERSIONES AGROINDUSTRIAL LTDA.					RUT 76.112.917-1
+INVERSIONES CENTRALCORP LTDA.					RUT 96.936.210-4
+INVERSIONES DAIRY ENTERPRISES S.A				RUT 90.494.000-3
+INVERSIONES EN ASEO Y MANTENIMIENTO S.A.			RUT 96.989.740-7
+INVERSIONES INTERNACIONALES TERRANOVA S.A.			RUT 76.120.369-K
+INVERSIONES PALM S.A.							RUT 96.979.910-3
+INVERSIONES SENCORP S.A.						RUT 96.703.900-4
+MASISA S.A.								RUT 96.802.690-9
+MASISA ECOENERGIA S.A.						RUT 76.112.774-8
+MASISA FORESTAL S.A.							RUT 99.537.270-3
+MASISA PARTES Y PIEZAS LTDA.					RUT 77.790.860-K
+MAQUINAS Y HERRAMIENTAS BLACK & DECKER DE CHILE S.A.	RUT 93.912.000-9
+MINERA LOS PELAMBRES						RUT 96.790.240-3
+PRODUCTOS MEDICOS DESECHABLES MEDISOR LTDA.		RUT 76.829.640-5
+SAER ANDINA S.A.							RUT 76.084.325-3
+SEGURICORP S.A.							RUT 96.922.550-6
+SEGURICORP SERVICIOS S.A.						RUT 96.966.680-4
+SENCORP ASL INTEGRACION INMOBILIARIA S.A.			RUT 99.590.370-9
+SENCORP DESARROLLO INMOBILIARIO S.A.				RUT 79.977.880-7
+SENCORP S.A.								RUT 96.693.780-7
+SERVICIOS AUTOMOTRICES INTERNACIONALES S.A.			RUT 96.804.580-6
+SERVICIOS GASTRONOMICOS GENERALES LTDA.			RUT 96.945.020-8
+SOCIEDAD DE INVERSIONES CENIT LTDA.				RUT 78.053.100-2
+SOCIEDAD DE INVERSIONES FIRST LTDA.				RUT 77.883.010-8
+SOCIEDAD DE INVERSIONES INVERMED LTDA. 			RUT 76.098.465-5
+SOCIEDAD DE INVERSIONES PORTO ALTO LTDA. 			RUT 76.095.555-8
+SOCIEDAD DE INVERSIONES PORTOMAR LTDA.			RUT 76.169.190-2
+SOCIEDAD DE INVERSIONES PORTOVENTURA LTDA. 			RUT 76.047.270-0
+SOCIEDAD DE INVERSIONES PORTOVITA LTDA.			RUT 76.169.230-5
+SOCIEDAD DE INVERSIONES SUCCESS LTDA.				RUT 78.053.090-1
+SX MAQUINARIAS S.A.							RUT 79.816.170-9
+
+
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2011, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8 al siguiente contribuyente:
+
+- CLINICA ALEMANA DE SANTIAGO S.A.					RUT 96.770.100-9
+- DISTRIBUIDORA DE PRODUCTOS ALIMENTICIOS 			RUT 78.504.930-6
+  LOS GUINDOS LTDA.
+- SERVICIOS CLINICA ALEMANA LTDA.					RUT 77.413.290-2
+- SERVICIOS DIAGNOSTICOS CLINICA ALEMANA LTDA.			RUT 76.436.880-0
+	
+Segundo:	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+
+Tercero:	Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2011 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+
+Anótese, comuníquese y publíquese en Internet.
+
+
+
+
+
+(Fdo) IVÁN BELTRAND CRUZ
+SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

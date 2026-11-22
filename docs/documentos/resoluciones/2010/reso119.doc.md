@@ -1,0 +1,73 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso119.doc
+titulo: Word – Resolución Exenta SII N°119 del 29 de Julio del 2010 Delega Facultad que Indica en Jefa del Departamento Jurídico. Fuente: Dirección Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°119 DEL 28 DE JULIO DEL 2010 MATERIA : DELEGA FACULTAD QUE INDICA EN JEFA DEL DEPARTAMENTO JURÍDICO.
+
+Hoy se ha resuelto lo siguiente:
+
+VISTOS: Lo dispuesto en los artículos 10 y 41 de la Ley Nº 18.575, sobre Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19.653, de 13 Diciembre de 2002, del Ministerio Secretaría General de la Presidencia; artículo 3 bis de la Ley Orgánica del Servicio de Impuestos Internos y lo dispuesto en Resolución Exenta N°115, de 23 de Julio de 2010. 
+
+CONSIDERANDO:
+
+1°.- Que, en virtud del artículo 10 de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, se ha establecido un procedimiento administrativo para resolver las peticiones de revisión de las liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan para determinarlo, que se basa en la misma facultad que el artículo 6°, letra B, N° 5°, del Código Tributario concede a los Directores Regionales de este Servicio para corregir, por la vía administrativa, los vicios o errores manifiestos que en aquellos detecten. 
+
+2°.- Que, de acuerdo a lo dispuesto por el artículo 123 bis del Código Tributario incorporado a dicho cuerpo legal por la Ley N° 20.322, de 2009, que fortalece y perfecciona la jurisdicción tributaria y aduanera; respecto de los actos a que se refiere el artículo 124 del señalado Código, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la Ley N° 19.880, con las modificaciones que la propia disposición señala.
+
+3°.- Que, de acuerdo a lo establecido por el artículo 41 de la Ley N° 18.575, de 1986, el ejercicio de las atribuciones y facultades propias, podrá ser delegado sobre las bases y principios que la propia disposición señala. 
+
+4°.- Que, mediante Resolución Exenta SII N° 185, de 23.07.2010, publicada en el D.O. el 27 de julio de 2010, el Director del Servicio autorizó al suscrito para delegar en el Jefe del Departamento Jurídico de su dependencia, y en quien lo reemplace en caso de ausencia, impedimento o inhabilidad, la facultad establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión  fundadas en vicios o errores manifiestos, que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo o que denieguen peticiones a que se refiere el artículo 126 del Código Tributario; todos emitidos por la Dirección de Grandes Contribuyentes. Lo anterior, de acuerdo a las instrucciones que rigen el procedimiento de revisión administrativa de las señaladas actuaciones. Asimismo, autorizó para delegar, la facultad de resolver los recursos de reposición administrativa interpuestos en virtud del artículo 123 bis del Código Tributario, en contra de actos emitidos por la Dirección de Grandes Contribuyentes.
+
+RESUELVO: 
+
+PRIMERO: DELÉGASE en la Jefa del Departamento Jurídico de la Dirección de Grandes Contribuyentes, doña ELENA FRESIA AMAYA SILVA, RUT N°9.224.948-4, las siguientes facultades:
+
+a) La facultad establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión fundadas en vicios o errores manifiestos, que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo o que denieguen peticiones a que se refiere el artículo 126 del Código Tributario; todos emitidos por la Dirección de Grandes Contribuyentes. Lo anterior, de acuerdo a las instrucciones que rijan el procedimiento de revisión administrativa de las señaladas actuaciones. 
+
+b) La facultad de resolver los recursos de reposición administrativa interpuestos en virtud del artículo 123 bis del Código Tributario, en contra de actos emitidos por la Dirección de Grandes Contribuyentes. 
+
+La funcionaria designada, al hacer uso de la facultad delegada, deberá mencionar la presente resolución. 
+
+SEGUNDO: En caso de ausencia, impedimento o inhabilidad de la Jefa del Departamento Jurídico, hará uso de las facultades señaladas en el resolutivo primero de la presente resolución doña Claudia Andrea Gajardo Guerrero, RUT 12.290.427-K. 
+
+La funcionaria designada, al hacer uso de la facultad delegada, deberá mencionar la presente resolución. 
+
+TERCERO: Se dejan sin efecto las resoluciones anteriores sobre la materia.
+
+CUARTO: La presente resolución exenta tendrá vigencia a partir de su publicación en extracto en el Diario Oficial.
+
+
+
+
+(Fdo) BERNARDO MARCHANT AGUILA
+				                  DIRECTOR DE GRANDES CONTRIBUYENTES
+ 
+       Lo que transcribo para su conocimiento y demás fines. 
+
+Distribución:
+Internet.
+Diario Oficial en extracto.
+Boletín SII.
+Secretaría Depto Jurídico DGC
+Secretaría Director DGC
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+

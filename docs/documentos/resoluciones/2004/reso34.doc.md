@@ -1,0 +1,36 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso34.doc
+titulo: Word – Resolución Exenta SII N°34 del 19 de Febrero del 2004 Modifica Resolución Exenta N°8.655, del 27 de Diciembre de 1999 Fuente: Departamento de Operaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°34 DEL 19 DE FEBRERO DEL 2004 MATERIA : MODIFICA RESOLUCIÓN EXENTA N°8.655, DEL 27 DE DICIEMBRE DE 1999
+
+VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1 y 76 del Código Tributario; en el artículo 2° de la Ley N° 17.990 y en el artículo 16° N° 1 de la Ley N° 17.235, sobre Impuesto Territorial,
+CONSIDERANDO:
+
+Que para una oportuna y adecuada información a este Servicio, es necesario autorizar el uso de nuevas tecnologías para la captura de algunos antecedentes relativos a la individualización del (o los) inmueble(s) que se enajena(n) y del (o los) adquirente(s) y enajenante(s);
+
+Que es necesario otorgar mayores facilidades a los Notarios y Conservadores de Bienes Raíces para llenar el Formulario N° 2890 ”Declaración sobre enajenación e inscripción de Bienes Raíces”;
+
+SE RESUELVE:
+
+1.- Agrégase en la letra b) del resolutivo 1° de la Res. Ex. N° 8.655, publicada en extracto en el Diario Oficial del 05 de enero de 2000, el siguiente inciso segundo:
+“Se podrá dar cumplimiento a lo señalado en el inciso precedente utilizando el software de llenado suministrado por el SII, debiendo en este caso imprimirse dos ejemplares; uno de ellos tendrá el carácter de copia.”.
+
+2.- Intercálase en la letra c) del resolutivo 1° de la Res. Ex. N° 8.655, publicada en extracto en el Diario Oficial del 05 de enero de 2000, el siguiente inciso tercero:
+“Se podrá dar cumplimiento a lo señalado en el inciso precedente utilizando el software de llenado suministrado por el SII, debiendo en este caso imprimirse dos ejemplares; uno de ellos tendrá el carácter de copia.”.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+ (FDO) ALFREDO E. ECHEVERRIA HERRERA
+DIRECTOR (S)
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.
+DISTRIBUCIÓN: 
+Secretaría del Director
+Subdirección de Avaluaciones
+Oficina de Partes
+Al Diario Oficial (en extracto) 
+Internet
+Boletín 
+

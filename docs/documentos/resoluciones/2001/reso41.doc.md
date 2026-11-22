@@ -1,0 +1,49 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso41.doc
+titulo: Word – Resolución Exenta N°41 del 26 de Septiembre del 2001 Modifica Resolución N° 40 del 14 de Septiembre de 2001 que dispone opción de Cambio de Sujeto de Derecho del IVA para Contribuyentes que indica. Fuente: Subdirección de Fiscalización.
+categoria: otros
+---
+RESOLUCION EXENTA N°41 DEL 26 DE SEPTIEMBRE DEL 2001 MATERIA : MODIFICA RESOLUCIÓN N° 40 DEL 14 DE SEPTIEMBRE DE 2001 QUE DISPONE OPCIÓN DE CAMBIO DE SUJETO DE DERECHO DEL IVA PARA COTRIBUYENTES QUE INDICA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los Arts. 6, letra A, N° 1 y 88 del Código Tributario, y Arts. 2 y 3 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el D.L. N°825 de 1974, y Arts. 69° y 71 bis del D.S. Nº55 de Hacienda, de 1977, sobre Reglamento del D.L. 825, y
+
+CONSIDERANDO: 
+
+ 1º Que, por error, el resolutivo 2° de la Resolución N° 40, de fecha 14 de septiembre en el primer  párrafo dice “a que se refiere el dispositivo N° 10 de esta resolución”, debiendo decir “a que se refiere el dispositivo N°11 de esta resolución”
+ 			
+						SE RESUELVE
+
+
+1.- SUSTITUYESE, en el resolutivo 2° de la referida resolución N°40,  la expresión “dispositivo N°10” por la expresión “dispositivo N°11”.
+
+
+					ANOTESE Y COMUNIQUESE
+
+
+
+
+(FDO.)    	JAVIER ETCHEBERRY CELHAY
+ DIRECTOR
+
+
+DISTRIBUCIÓN:
+
+- Internet
+Lo que transcribo para su conocimiento y demás fines,
+
+Saluda a Ud.,
+
+- Boletín
+
+PÁGINA  
+
+
+PÁGINA  1
+
+
+
+
+

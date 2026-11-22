@@ -1,0 +1,613 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-801.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 801 / 808
+
+Basic version
+
+801 / 808
+
+801
+
+**REGION DEL MAULE**
+
+**Comuna Nombre**
+
+**Dirección**
+
+**Teléfono Email**
+
+**Horario**
+
+**Semana**
+
+**Horario**
+
+**Fin de**
+
+**Semana Costo**
+
+CAUQUENES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CLAUDINA URRUTIA ESQ. SAN
+
+FRANCISCO S/N
+
+73-563095
+
+S/COSTO
+
+COLBUN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. RARI S/N, PANIMAVIDA
+
+9-1667106
+
+[b153bp1@abretumundo.cl](mailto:b153bp1@abretumundo.cl)
+
+LU A VI:09:00-21:00
+
+S/COSTO
+
+COLBUN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ADOLFO NOVOA N° 220
+
+73-210575 anexo 235
+
+/ 9-9594621 (Celular
+
+Jefa BP)
+
+[b153bc1@abretumundo.cl](mailto:b153bc1@abretumundo.cl)
+
+LU A SA: 09:00-18:30
+
+S/COSTO
+
+CONSTITUCION
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+FREIRE N°477
+
+71-673965
+
+LU A VI:09:00-18:00
+
+S/COSTO
+
+CUREPTO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+JOSE MIGUEL CARRERA N°29
+
+75-690018
+
+LU A VI:09:30-19:00
+
+S/COSTO
+
+CURICO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ESTADO N° 498 ESQUINA PEÑA
+
+75-315360
+
+[b254bc1@abretumundo.cl](mailto:b254bc1@abretumundo.cl)
+
+09:00-18:00
+
+S/COSTO
+
+CURICO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANSO DE VELASCO N° 744
+
+75-312157
+
+[b262bc1@abretumundo.cl](mailto:b262bc1@abretumundo.cl)
+
+MA A SA:10:30-13:00 /
+
+15:30-21:00
+
+S/COSTO
+
+CURICO
+
+INJUV
+
+PRAT N°21
+
+09:00-18:00
+
+S/I
+
+CURICO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PRAT N°21
+
+75-322991
+
+S/COSTO
+
+HUALAÑE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+RUTA J-60 EX ESTACION
+
+FERROCARRILES S/N
+
+75-544732
+
+LU A VI:08:30-17:30
+
+S/COSTO
+
+LICANTEN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE MATAQUITO S/N
+
+10:00-14:00 / 15:00-19:00
+
+S/COSTO
+
+LINARES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL RODRIGUEZ N°580
+
+73-633399
+
+[b008bc1@abretumundo.cl](mailto:b008bc1@abretumundo.cl)
+
+LU A JU:09:00-19:00 / VI:
+
+09:00-18:00
+
+S/COSTO
+
+LINARES
+
+INJUV
+
+MAIPU N°360
+
+09:00-18:00
+
+S/I
+
+LINARES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+VALENTIN LETLIER N°572
+
+73-210662
+
+LONGAVI
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+1 NORTE CON 1 PONIENTE S/N
+
+73-411933 / 411937
+
+[b154bc1@abretumundo.cl](mailto:b154bc1@abretumundo.cl)
+
+08:30-18:30
+
+S/COSTO
+
+MAULE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BALMACEDA N° 845
+
+71-715401
+
+[b344bc1@abretumundo.cl](mailto:b344bc1@abretumundo.cl)
+
+LU A VI:09:00-18:00
+
+S/COSTO
+
+MOLINA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+QUECHEREGUAS N°1647
+
+75-543508
+
+08:30-17:00
+
+S/COSTO
+
+PARRAL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+URRUTIA
+
+S/N,
+
+EDIFICIO
+
+CONSISTORIAL
+
+73-465340
+
+LU
+
+A
+
+JU:08:30-17:30,
+
+VI:08:30-16:30
+
+S/COSTO
+
+PELARCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVENIDA SAN PEDRO S/N
+
+9-94991271
+
+S/COSTO
+
+PENCAHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+JULIO ZACARIAS MEZA S/N
+
+71-217968 Municipio
+
+[b260bc1@abretumundo.cl](mailto:b260bc1@abretumundo.cl)
+
+08:30-18:00
+
+S/COSTO
+
+ROMERAL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LIBERTAD N°1113
+
+75-5444295
+
+S/COSTO
+
+SAGRADA FAMILIA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ESMERALDA
+
+N°56,
+
+ESQ
+
+VALDIVIA
+
+75-520950
+
+SAN CLEMENTE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CARLOS SILVA RENARD S/N
+
+71-621570
+
+ANEXO
+
+244
+
+LU A VI:08:30-14:00 / 15:00-
+
+17:30
+
+S/COSTO
+
+SAN CLEMENTE
+
+INJUV
+
+CARLOS SILVA RENARD S/N
+
+09:00-18:00
+
+S/I
+
+SAN JAVIER
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ESMERALDA N|1351, 2° PISO
+
+73-760600 anexo 168
+
+08:30-13:30 / 14:30-19:30
+
+S/COSTO
+
+SAN JAVIER
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO PRAT N°2639
+
+73-322375
+
+S/COSTO
+
+SAN RAFAEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. RAFAEL S/N
+
+71-651231
+
+[b319bc1@abretumundo.cl](mailto:b319bc1@abretumundo.cl)
+
+LU A VI:09:00-18:45
+
+S/COSTO
+
+TALCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LOS PEUMOS N°157 ESQ. LOS
+
+QUILLAYES S/N, LA FLORIDA
+
+71-215120
+
+LU A VI:10:00-19:00
+
+S/COSTO
+
+TALCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+1 ORIENTE N°1590 (ENTRE 4 Y 5
+
+NORTE)
+
+71-226787
+
+10:00-19:00
+
+S/COSTO
+
+TALCA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LOS PEUMOS N°157 ESQ. LOS
+
+QUILLAYES S/N, LA FLORIDA
+
+71- 215120
+
+09:00-13:00 / 14:00-18:00
+
+S/COSTO
+
+TALCA
+
+INJUV
+
+1 PONIENTE 5 NORTE N°1610
+
+09:00-18:00
+
+S/COSTO
+
+TALCA
+
+INJUV
+
+2 SUR N°2240
+
+09:00-18:00
+
+S/COSTO
+
+TENO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+AVDA. LIBERTADORES N°398
+
+75-510290
+
+LU A VI:09:00-17:45
+
+S/COSTO
+
+VICHUQUÉN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+IGNACIO CARERA PINTO S/N,
+
+LLICO
+
+75-400045
+
+[b366bc1@abretumundo.cl](mailto:b366bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 15:00-
+
+18:30
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[796](./page-796.html)
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+[802](./page-802.html)
+[803](./page-803.html)
+[804](./page-804.html)
+[805](./page-805.html)
+[806](./page-806.html)
+[807](./page-807.html)
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

@@ -1,0 +1,271 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso179.doc
+titulo: Word – Resolución Exenta SII N°179 del 02 de Diciembre del 2009 Autoriza Como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°179 DEL 02 DE DICIEMBRE DEL 2009 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso 1°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Diciembre del 2009, a los siguientes contribuyentes:
+
+- 4 TIPOS S.A. 									 76.014.198-4
+- ACEROS CHILE S.A.								 93.926.000-5
+- ADECCO RECURSOS HUMANOS S.A.						 96.820.170-0
+- AGA S.A.										 90.100.000-K
+- ANDRADE Y MARTINEZ LTDA. 							 78.104.790-2
+- CFC CAPITAL S.A.								 99.533.410-0
+- COMERCIAL AUTOMOTRIZ SIGLO XXI S.A.					 78.770.630-4
+- COMERCIAL E INDUSTRIAL INGO LTDA. 						 76.002.410-4
+- COMERCIAL MANESH RAJAN NAWALRAI NAWALRAI E.I.R.L.			 52.002.764-5
+- COOP. SERV. DE ABAST. Y DIST. DE AGUA POTABLE Y ALCANT. 			 70.452.300-9
+  EL TAMBO LTDA.	 
+- COTELSA S.A.									 96.570.160-5
+- DEMARIA S.A.									 80.276.900-8
+- DISTRIBUIDORA DE MATERIALES DEL SUR LTDA. 				 78.475.660-2
+- DOLE CHILE S.A.									 94.612.000-6
+- ETHON PHARMACEUTICALS COMERCIALIZADORA IMP. EXP. Y DIST. LTDA.	 76.956.140-4
+- EVERIS BPO SERVICIOS PROFESIONALES, TECNICOS Y TECNOLOGICOS	  	 76.880.470-2
+  CHILE LTDA. 
+- EXPORTADORES DEL AGRO S.A.							 95.891.000-2
+- GESTION DE NEGOCIOS TECNOLOGICOS GOTREKKING S.A. 			 76.067.739-6
+- GRON DISEÑO Y GESTION LTDA.							 76.067.773-6
+- IMPORTADORA TERMOMIN LTDA.						 86.667.200-8
+- JOSE DANIEL MIRANDA CHADICADI						 09.362.911-6
+- KALOP CHILENA S.A.								 96.555.650-8
+- LACON AUDITORES CONSULTORES LTDA. 					 76.747.160-2
+- LASER DISC CHILE S.A.								 96.800.700-9
+- MARIANELA TERESA ABELEIDA LARRAIN						 15.371.897-0
+- MATHIESEN S.A.C.								 92.207.000-8
+- PANELES ARAUCO S.A.								 96.510.970-6
+- PATRICIO CHAVEZ I Y CIA. LTDA.						 78.235.350-0
+- PINTO GLAVICH INGENIERIA Y CONSTRUCCION S.A.				 78.110.590-2
+- PLASTICOS POLYFLEX INDUSTRIAL Y COMERCIAL S.A.				 79.503.250-9
+- SEÑALIZACION Y PUBLICIDAD LTDA.						 77.171.370-K
+- SISTEMAS TECNOLOGICOS INTEGRADOS S.A.					 79.584.340-K
+- SMALL BUSINESS LTDA. 								 76.074.493-K
+- SOC. COMERCIALIZADORA DE PRODUCTOS FORESTALES LTDA. 			 77.574.360-3
+- SOC. TECNICA DE INSPECCION S.A.						 96.584.880-0
+- SOCIEDAD COMERCIAL BERINHARD CHILE LTDA.				 76.504.990-3
+- SOCIEDAD COMERCIAL KIDO LTDA.						 76.072.684-2
+- SOCIEDAD COMERCIAL LABONORT LTDA.					 76.511.550-7
+- SOCIEDAD COMERCIALIZADORA Y DE SERVICIOS MACAL LTDA.			 79.546.430-1
+- SOCIEDAD DE PROMOCION AGRICOLA LTDA.					 84.835.100-8
+- SUMMIT CHILE IMPORTADORA Y DISTRIBUIDORA DE ARTICULOS		 76.052.637-1
+  DE LIBRERIA Y OFICINA LTDA.
+- VARAS Y ASOCIADOS LTDA.							 76.256.930-2
+- WINDSOR SUITE S.A.								 96.939.470-7
+- MAURICIO HOCHSCHILD INGENIERIA Y SERVICIOS S.A.				 96.885.630-8
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+                            (Fdo.) IVÁN BELTRAND CRUZ
+                        SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

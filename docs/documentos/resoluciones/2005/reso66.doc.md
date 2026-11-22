@@ -1,0 +1,72 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso66.doc
+titulo: Word – Resolución Exenta SII N°66 del 30 de Junio del 2005 Modifica Fecha de Entrada en Vigencia de la Res. Ex. SII N° 05, del 11 de Enero del 2005, que deja sin Efecto Autorización Otorgada a Compañías de Seguros para Eximirse de la Obligación de Emitir Facturas Fuente: Oficina de Factura Electróni
+categoria: otros
+---
+RESOLUCION EXENTA SII N°66 DEL 30 DE JUNIO DEL 2005 MATERIA : MODIFICA FECHA DE ENTRADA EN VIGENCIA DE LA RES. EX. SII N° 05, DEL 11 DE ENERO DEL 2005, QUE DEJA SIN EFECTO AUTORIZACIÓN OTORGADA A COMPAÑÍAS DE SEGUROS PARA EXIMIRSE DE LA OBLIGACIÓN DE EMITIR FACTURAS
+
+
+VISTOS: Lo dispuesto en el N° 1, de la letra A), del Art. 6°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; los Arts. 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; el Oficio N° 4455, de 1975, la Res. Ex. N° 6080, de 1999; la Circular N° 39, del 2000, del Servicio de Impuestos Internos; la Res. Ex. SII N° 05, del 11 de Enero del 2005; y
+
+CONSIDERANDO :
+
+1°	Que, la Res. Ex. SII N° 05, del 11 de Enero del 2005, deja sin efecto lo establecido en el Oficio N° 4455 del año 1975, en la Resolución N° 6080, de 1999 y en la Circular N° 39 del año 2000, a partir del 1 de Julio del 2005, en cuanto eximen a las Compañías de Seguros de la obligación de emitir Facturas, Facturas de Ventas y Servicios por operaciones no afectas o exentas del Impuesto a las Ventas y Servicios, que establece el Decreto Ley N° 825 de 1974, la cual no se aplicará a las operaciones relativas a la contratación de las Pólizas Obligatorias de Accidentes Personales (SOAP) u otros seguros cuya contratación sea legalmente obligatoria; operaciones respecto de las cuales la exención de emisión de facturas, contenida en el Oficio N° 4455 de 31 de Julio de 1975, se mantiene plenamente vigente. 
+
+2° 	Que, actualmente una cantidad considerable de Compañías de Seguros se encuentran en pleno proceso de incorporación al sistema de Facturación Electrónica, según lo establecido por el Servicio de Impuestos Internos en la Res. Ex. SII N° 45, de fecha 01.09.2003.
+
+3°	Que, por la cantidad de operaciones que realizan las Compañías de Seguros y la necesidad de ajustar sus procedimientos ante estas nuevas exigencias, se ha estimado necesario modificar la fecha de entrada en vigencia de la Res. Ex. SII N° 05, del 11 de Enero del 2005.
+
+SE RESUELVE:
+
+MODIFÍCASE, la fecha de entrada en vigencia de la Res. Ex. SII N° 05, del 11 de Enero del 2005, desde el 1° de Julio del 2005 al 1° de Septiembre del 2005.
+
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+(Fdo.) ALFREDO ECHEVERRIA HERRERA
+	DIRECTOR (S)
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+MSC/IBC/ABZ
+DISTRIBUCION:
+Secretaría Director
+Subdirección Normativa
+Sres. Directores Regionales 
+I a XVI Direcciones Regionales
+Director Dirección Grandes Contribuyentes
+Subdirección de Fiscalización 
+Oficina de Factura Electrónica y Documentos de Venta
+Oficina de Partes
+Boletín
+Internet
+Diario Oficial (Extracto)
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+

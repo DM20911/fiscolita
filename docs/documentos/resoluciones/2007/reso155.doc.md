@@ -1,0 +1,196 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso155.doc
+titulo: Word – Resolución Exenta SII N°155 del 27 de Diciembre del 2007 Autoriza a Proceder Conforme al Modelo de Operación de Contabilidad Electrónica a Contribuyentes que Señala. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°155 DEL 27 DE DICIEMBRE DEL 2007 MATERIA : AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974;  en la Resolución Ex. SII N°150 de diciembre de 2005 y,
+
+CONSIDERANDO:
+
+1°Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N°150 de diciembre de 2005, a partir del año 2007.
+2° Que,  los contribuyentes citados son emisores de documentos tributarios electrónicos, cumplen los requisitos establecidos en la referida Res. Ex. SII N° 150 de diciembre de 2005 y, declaran contar con CAL(Códigos de Autorización de Libros) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por Onvision S.A. RUT 76.372.100-6.
+
+						     SE RESUELVE:
+
+Primero:	Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2007, a los siguientes contribuyentes:
+Vitivinícola y Comercial Santa Ana de Curicó S.A. RUT 87.586.600-1
+Loreal Chile S.A. RUT 79.693.930-3
+Koslan S.A. RUT 96.685.460-K
+Viña Undurraga S.A. RUT 92.461.000-K
+Segundo	Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005 y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+Tercero:      Autorízase además a dichos contribuyentes para almacenar, para fines tributarios, los libros contables de años anteriores al año 2007 en el formato digital establecido por el Servicio, para lo cual deberán cumplir con lo establecido en el resolutivo segundo de Resolución Ex. SII N° 150 de Diciembre de 2005.
+
+
+Anótese, Comuníquese y Publíquese en Internet
+
+
+
+ RENE GARCIA GALLARDO	
+		DIRECTOR (S)
+Lo que transcribo a Ud., para su conocimiento y demás fines
+Distribución:
+Internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+

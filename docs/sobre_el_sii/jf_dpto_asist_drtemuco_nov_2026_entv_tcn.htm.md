@@ -1,0 +1,16 @@
+---
+url: https://www.sii.cl/sobre_el_sii/jf_dpto_asist_drtemuco_nov_2026_entv_tcn.htm
+titulo: CONCURSO DE PERSONAL
+categoria: sobre_el_sii
+---
+|  |
+| --- |
+| [Home](https://www.sii.cl/) | [Procesos Selección](en_seleccion.html) |
+| **POSTULANTES AVANZAN A TERCERA ETAPA EVALUACIÓN TÉCNICA**JEFATURA DE DEPARTAMENTO DE ASISTENCIA AL CONTRIBUYENTE  **DIRECCIÓN REGIONAL TEMUCO** |
+
+|  |
+| --- |
+| --- |
+| |  | | --- | | Finalizado el análisis de postulaciones, se detallan los folios de los/as postulantes preseleccionados/as para la Tercera Etapa "Factor Aptitudes específicas para el desempeño de la función" EVALUACIÓN TÉCNICA, de acuerdo a las bases concursales estipuladas en la **Resolución Exenta SIIPERS N°25272** del 01 de octubre de 2026. |   **CUMPLEN REQUISITOS, AVANZAN A I, II Y III ETAPA EVALUACIÓN TÉCNICA**  | N° | FOLIO | | 1 | 853307 | | 2 | 853465 | | 3 | 853609 | | 4 | 853799 | | 5 | 853983 | | 6 | 854074 | | 7 | 854110 | | 8 | 854139 | | 9 | 854151 | | 10 | 854175 | | 11 | 854189 | | 12 | 854225 |  13 de noviembre de 2026 |
+|  |
+|  |

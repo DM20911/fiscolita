@@ -1,0 +1,73 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso55.doc
+titulo: Word – Resolución Exenta SII N°55 del 03 de Junio del 2004 Modifica Resolución Exenta N° 72, del 12 de Diciembre de 2003, Sobre Delegatoria de Facultades en el Jefe del Departamento Subdirección Jurídica. Fuente: Depto. de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°55 DEL 03 DE JUNIO DEL 2004 MATERIA : MODIFICA RESOLUCIÓN EXENTA N° 72, DE 12 DE DICIEMBRE DE 2003, SOBRE DELEGATORIA DE FACULTADES EN EL JEFE DEL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA.
+
+
+	Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el artículo 7°, letras c), f), g), e i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de 1980, del Ministerio de Hacienda; el artículo 6°, letra A, N° 3°, del Código Tributario; el artículo 41, de la ley 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; el artículo 48, de la Ley N° 19.880;y,  
+
+
+C O N S I D E R A N D O:
+
+
+1.-  Que mediante Res. Ex. N° 72, de 12 de diciembre de 2003, se delegó en el Jefe del Departamento Subdirección Jurídica la facultad de decidir la interposición de la acción para perseguir la aplicación de la respectiva sanción pecuniaria, de acuerdo a lo establecido en el artículo 162, inciso tercero, del Código Tributario, en el caso de las infracciones contempladas en los artículos 30, inciso 5°, 97 N°s 4, 5, 8. 9, 10 inciso 3°,12,13,14,,18,22 y 23; y, 100 del Código Tributario.
+
+2.-	Que la Ley N° 19.946, en su artículo 8°, incorporó un nuevo numeral 25 al artículo 97 del Código Tributario, mediante el cual se sanciona con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo, al que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco y a quien efectúe transacciones con una persona que actúe como usuario de Zona Franca, sabiendo que éste no cuenta con la habilitación correspondiente o teniéndola, la utiliza con la finalidad de defraudar al Fisco.
+
+3.-	Que con el objeto de asegurar el oportuno ejercicio de las acciones derivadas de las infracciones contempladas en el  N° 25 del artículo 97 del Código Tributario, se estima necesario delegar en el Jefe del Departamento Subdirección Jurídica la facultad de decidir la interposición de la acción para perseguir la aplicación de la respectiva sanción pecuniaria y someter el ejercicio de esta facultad al procedimiento establecido en la Res. Ex. N° 72, de 12 de diciembre de 2003. 
+
+
+R E S U E L V O:
+
+
+Primero.- Modifícase el considerando 2° de la Resolución Exenta N° 72, de 12 de diciembre de 2003, reemplazando la conjunción “y” que figura entre los dígitos “22” y “23” por una coma (,) e intercalando entre el dígito “23” y la contracción “del”, la expresión “y 25”. 
+
+
+Segundo.- Modifícase el resolutivo primero de la Resolución Ex. N° 72, de 12 de diciembre de 2003, reemplazando la conjunción “y” que figura entre los dígitos “22” y “23” por una coma (,) ; eliminando el punto y coma (;) que sigue al dígito “23”, e intercalando entre éste y la conjunción “y”, el guarismo “25” precedido de una coma (,).
+
+Anótese, comuníquese y publíquese en extracto. 
+
+
+
+
+
+	
+
+
+
+
+(Fdo.) JUAN TORO RIVERA
+      DIRECTOR
+
+
+
+	Lo que transcribo a Ud. para su conocimiento y fines correspondientes.
+
+
+
+
+
+
+
+
+
+DISTRIBUCIÓN:
+DIARIO OFICIAL
+BOLETÍN SII
+INTERNET
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+
+
+

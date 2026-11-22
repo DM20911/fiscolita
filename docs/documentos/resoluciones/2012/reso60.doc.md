@@ -1,0 +1,82 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso60.doc
+titulo: Word – Resolución Exenta SII N°60 del 14 de Mayo del 2012 Complementa Resolución Ex. Sii N° 1209, de 01.04.2011, Estableciendo la Creación de Nuevos Cargos de Jefe de Grupo en la Xv en la Dirección Regional Metropolitana Santiago Oriente. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°60 DEL 14 DE MAYO DEL 2012 MATERIA : COMPLEMENTA RESOLUCIÓN EX. SII N° 1209, DE 01.04.2011, ESTABLECIENDO LA CREACIÓN DE NUEVOS CARGOS DE JEFE DE GRUPO EN LA XV EN LA DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE.
+Hoy se ha resuelto lo que sigue:
+VISTOS: 
+Lo dispuesto en el artículo 6° del Código Tributario contenido en el artículo 1° del D.L. N° 830, de 1974; el artículo 7°, letras a), c) y ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; y 
+
+CONSIDERANDO: 
+
+1°	Que, mediante Resolución Ex. SII N° 1209, del 01 de Abril de 2011, se establecieron nuevos cargos de Jefe de Grupo en las Direcciones Regionales y se fijaron las condiciones para su operación, y se reemplazó la Resolución Ex. SII N° 5 de 02 de enero de 2009; 
+2°	Que, mediante Resolución Ex. SII N° 49 de 04 de abril de 2012, se creó el Segundo Departamento Fiscalización de Medianas y Grandes Empresas  en la XV Dirección Regional Metropolitana Santiago Oriente; y
+3°	Que, es necesario adecuar los grupos de trabajo del Primer y Segundo Departamentos Fiscalización de Medianas y Grandes Empresas de la XV Dirección Regional Metropolitana Santiago Oriente, para las necesidades de atención y de fiscalización de los contribuyentes de dichos segmentos.
+RESUELVO:
+
+1°	CRÉANSE, en la XV Dirección Regional Metropolitana Santiago Oriente:
+En el Primer Departamento Fiscalización de Medianas y Grandes Empresas, los grupos N°s 14 y 15,  y los cargos de Jefe de Grupo de Medianas y Grandes Empresas N°s 14 y 15, respectivamente; y 
+En el Segundo Departamento Fiscalización de Medianas y Grandes Empresas, los grupos N°s 12 y 13,  y los cargos de Jefe de Grupo de Medianas y Grandes Empresas N°s 12 y 13, respectivamente, según aparece en los siguientes recuadros: 
+
+
+
+ÁREA
+Cargos de jefe de grupo creados
+
+Primer Departamento Fiscalización de Medianas y Grandes Empresas, XV Dirección Regional Metropolitana Santiago Oriente.
+
+
+Grupo N° 14   Medianas y Grandes Empresas
+
+
+Grupo N° 15   Medianas y Grandes Empresas
+
+
+Segundo Departamento Fiscalización de Medianas y Grandes Empresas, XV Dirección Regional Metropolitana Santiago Oriente.
+
+
+Grupo N° 12  Medianas y Grandes Empresas
+
+
+Grupo N° 13  Medianas y Grandes Empresas
+
+
+2°	Los cargos de Jefes de Grupo creados por esta resolución, se proveerán mediante concurso, ello en el marco del Desarrollo de la Carrera del funcionario. 
+Los funcionarios que desempeñen un cargo de Jefe de Grupo, deberán cumplir las labores que se establecen en el Oficio Circular Nº 3.360 de 1998, de esta Dirección Nacional, y aquellas que instruya el Director Regional respectivo. 
+3°	Para optar a los cargos de Jefes de Grupo a que se refiere la presente resolución, los funcionarios deberán cumplir los siguientes requisitos:
+Ser Directivo grado 9 o fiscalizador de planta.
+Estar en lista 1 de distinción.
+Los requisitos técnicos que se establezcan en la Subdirección de Fiscalización y en la Subdirección de Recursos Humanos, de acuerdo al cargo específico.
+4° 	Serán causales de término del nombramiento en el cargo de Jefe de Grupo:
+Una evaluación desfavorable en el último informe de desempeño o en las calificaciones. Para estos efectos, se considerará desfavorable una nota inferior a los 8 puntos en cualquiera de los factores de evaluación. 
+En cualquier momento del período de ejercicio de la función, cuando reiteradamente el Jefe de Grupo no dé cumplimiento a las especificaciones del cargo. Lo anterior deberá constar por escrito a través de un informe emitido por el Jefe de Departamento dirigido al Director Regional. La decisión de cese de funciones requiere la aprobación del Director Regional, con previa información mediante correo electrónico u oficio, a la Subdirección de Fiscalización y a la Subdirección de Recursos Humanos.
+Si ha sido sancionado por una falta grave a los deberes, obligaciones y prohibiciones que establece la ley para los funcionarios del Servicio, y en especial, aquellas infracciones que rigen para los Jefes.
+La renuncia voluntaria presentada por el funcionario. 
+El cambio de las condiciones de la Dirección Regional, que hagan innecesaria la existencia del cargo o cuando la Subdirección de Fiscalización  considere apropiado readecuar los grupos, eliminando alguno de ellos.
+5° 	En lo no previsto en las presentes instrucciones, regirán – en lo pertinente – lo dispuesto en la Resolución Ex. SII N° 1209, de 01 de abril de 2011.  
+6°	A partir de la entrada en vigencia de la presente Resolución, los grupos N°s 3, 4, 8, 9 y 11, actualmente dependientes del Primer Departamento de Fiscalización de Medianas y Grandes Empresas de la XV Dirección Regional Metropolitana Santiago Oriente, formarán parte del Segundo Departamento de Fiscalización de dicho segmento, creado por la Resolución Ex. N° 49, de 04 de abril de 2012.  
+En consecuencia, a contar de la fecha indicada en el párrafo anterior:
+El Primer Departamento Fiscalización de Medianas y Grandes Empresas de la XV Dirección Regional Metropolitana Santiago Oriente, estará formado por los grupos Medianas y Grandes Empresas N°s 1, 2, 5, 6, 7, 10, 14 y 15;  y
+El Segundo Departamento Fiscalización de Medianas y Grandes Empresas de la citada  Dirección Regional, estará formado por los grupos Medianas y Grandes Empresas N°s 3, 4, 8, 9, 11, 12 y 13. 
+7°	La presente resolución regirá a partir del día de su dictación. 
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTRANET
+
+
+
+
+                                                                       (FDO.) JULIO PEREIRA GANDARILLAS                                                                                                DIRECTOR
+Lo que transcribo a Ud., para su conocimiento y demás fines
+Distribución: - Internet.
+
+
+
+
+
+
+
+
+
+
+
+

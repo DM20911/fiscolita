@@ -1,0 +1,83 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso09.doc
+titulo: Word – Resolución Exenta N°09 del 30 de Enero del 2003 Establece obligación de presentar Declaración de Impuesto a la Renta en Formulario 22, mediante transmisión electrónica de datos vía Internet. Deroga Resolución Ex. N° 5944, de fecha 02.09.1999. Fuente: Departamento de Operación Renta
+categoria: otros
+---
+RESOLUCION EXENTA N°09 DEL 30 DE ENERO DEL 2003 MATERIA : ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN DE IMPUESTO A LA RENTA EN FORMULARIO 22, MEDIANTE TRANSMISIÓN ELECTRÓNICA DE DATOS VÍA INTERNET. DEROGA RESOLUCIÓN EX. N° 5944, DE FECHA 02.09.1999.
+
+
+    SANTIAGO,
+
+    HOY SE HA RESUELTO LO QUE SIGUE:
+
+     VISTOS: Las facultades contempladas en el Arts. 6º letra A) Nº 1, en el Art. N° 17°, inciso 3°, y 30° del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974, en los Arts. N° 1 y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda y lo dispuesto en la Resolución Exenta N° 4228 de 24.06.1999, modificada por la Resolución Exenta N° 5004 de 22.07.1999, y en las Circulares N° 36 y 43, de 1999 del Servicio de Impuestos Internos; y,
+
+
+CONSIDERANDO:
+
+
+1.- Que,  en  en virtud de lo dispuesto en la Resolución N° Ex 4228, modificada por la Resolución N° Ex 5004, ambas de 1999, los contribuyentes autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales, han debido  dar cumplimiento a lo dispuesto en el punto 4.2 del resolutivo N° 4 de la señalada resolución, en orden a comprometerse  a efectuar las declaraciones de impuestos  vía Internet en la forma que el Servicio determine y pagarlos por este medio.
+
+
+  RESUELVO:
+
+
+1°.- Los contribuyentes que, en virtud de lo dispuesto en la Resolución Exenta N° 4228, publicada en D.O. de 24.06.99, estén autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales y cuyas ventas y/o servicios anuales hubieren sido superiores a $ 500.000.000.- durante el año 2001, cuyas declaraciones anuales de Impuesto a la Renta resultaren con Pago, y aquellos que estén autorizados para llevar sus libros de contabilidad en hojas sueltas por medios computacionales y cuyas ventas y/o servicios anuales hubieren sido superiores a $ 300.000.000.- nominales al 31 de diciembre del año anterior a aquel en que deben presentar su declaración Anual de Impuestos a la Renta sin Pago, deberán presentar su declaración de impuestos anuales a la Renta efectuada en formulario 22 mediante transmisión electrónica de datos vía Internet.
+
+
+2°.- En el caso en que el retardo en la presentación de la declaración vía Internet se origine por una causa no imputable al contribuyente, como sería  la falta de disponibilidad de la página web del banco mediante el cual  paga el contribuyente, los Directores Regionales condonarán el cien por ciento de los intereses y multas que correspondería aplicar por el atraso en que se haya incurrido. 
+En caso que el retardo en la presentación de la declaración vía Internet sea por la no disponibilidad de la página web del Servicio se aplicará lo dispuesto en el Art. 53 inciso 5° del Decreto Ley Nº 830, de 1974.
+
+
+3°.- Lo dispuesto en esta resolución  no es aplicable a los contribuyentes que declaran y pagan sus tributos en moneda extranjera.
+
+4°.- La presente resolución regirá para las declaraciones anuales de Impuesto a la renta que sean presentadas a partir del 1° de Abril de 2003.
+
+5°.- Derógase la Resolución N° Ex 5944, de 1999.
+
+
+ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+(FDO.)   JUAN TORO RIVERA
+                DIRECTOR 
+
+
+
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes,
+
+
+
+Saluda a Ud.,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISTRIBUCIÓN:
+- AL PERSONAL 
+- AL DIARIO OFICIAL, EN EXTRACTO
+- AL BOLETIN 
+- A INTERNET
+
+PAGE  1
+
+
+
+
+

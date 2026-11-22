@@ -1,0 +1,67 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2005/reso19.doc
+titulo: Word – Resolución Exenta SII N°19 del 11 de Febrero del 2005 Establece Obligación a los arrendatarios y a los corredores de propiedades o personas que entregan en arriendo propiedades por cuenta de terceros, de presentar una declaración jurada sobre los Bienes Raíces No Agrícolas recibidos en arrien
+categoria: otros
+---
+RESOLUCION EXENTA SII N° 19 DEL 11 DE FEBRERO DEL 2005
+MATERIA : ESTABLECE OBLIGACIÓN A LOS ARRENDATARIOS Y A LOS CORREDORES DE PROPIEDADES O PERSONAS QUE ENTREGAN EN ARRIENDO PROPIEDADES POR CUENTA DE TERCEROS, DE PRESENTAR UNA DECLARACIÓN JURADA SOBRE LOS BIENES RAÍCES NO AGRÍCOLAS RECIBIDOS EN ARRIENDO EN EL CASO DE LOS ARRENDATARIOS; Y SOBRE LOS BIENES RAÍCES ENTREGADOS EN ARRIENDO, EN EL CASO DE LOS CORREDORES Y PERSONAS YA SEÑALADOS.
+
+
+
+VISTOS: Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L. N°7, de 1980 del Ministerio de Hacienda; en el artículo 6º letra A) Nº 1, y en los artículos 30 y 60 inciso 8° del Código Tributario contenidos en el artículo 1° del D.L. N°830 de 1974; el N° 1, letra d) del artículo 20 y el N°3 del artículo 39 de la Ley de la Renta, contenida en el artículo 1º del D.L. Nº 824, de 1974; y
+
+
+CONSIDERANDO: 
+
+Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se hace necesario optimizar el uso de los recursos y de la información que se utilizan para el buen logro de esta función.
+
+Que, los dos primeros incisos del artículo 30 del Código Tributario establecen que: “Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine. 
+
+La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.”
+ 
+Que, el inciso 8° del artículo 60 del Código Tributario establece que: “Para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas. Estarán exceptuados de estas obligaciones, salvo en los casos de sucesión por causa de muerte o comunidades en que sean comuneros los parientes, el cónyuge, los parientes por consanguinidad en la línea recta o dentro del cuarto grado de la colateral, el adoptante, el adoptado, los parientes por afinidad en la línea recta o dentro del segundo grado de la colateral de dichos terceros. Además, estarán exceptuados de estas obligaciones las personas obligadas a guardar secreto profesional.”
+
+
+
+					RESUELVO:
+
+Los corredores de propiedades y las personas que hubieren entregado en arriendo por cuenta de terceros bienes raíces no agrícolas, cuyos montos de avalúo fiscal sean iguales o superiores a $30.000.000, y que su participación haya comprendido la suscripción del respectivo contrato de arrendamiento, deberán presentar al Servicio de Impuestos Internos antes del 11 de Marzo de cada año, una Declaración Jurada Anual con información sobre las propiedades arrendadas por todo el año anterior o por uno o mas meses de aquél.
+
+Los contribuyentes de la Primera Categoría a que se refiere el artículo 20 de la Ley de la Renta, que para el desarrollo de su actividad hayan tomado en arriendo bienes raíces no agrícolas cuyos montos de avalúos fiscales sean iguales o superiores a $30.000.000, cuando el respectivo contrato de arrendamiento no haya sido suscrito por un corredor de propiedades u otra persona actuando como arrendador en virtud de un mandato, deberán presentar la Declaración Jurada referida en el párrafo anterior, con información sobre las propiedades que hubiesen tomado en arrendamiento durante todo el año anterior o por uno o más meses del mismo.
+
+La referida información deberá proporcionarse mediante el Formulario N° 1835 denominado "DECLARACIÓN JURADA ANUAL SOBRE BIENES RAÍCES NO AGRÍCOLAS ARRENDADOS", identificando, el Rol de Bien Raíz, Comuna a la que pertenece, Rut del propietario o usufructuario del Bien Raíz, Rut del arrendatario, Monto del Arriendo, Período al cual corresponde el arriendo, Amoblado y Destino del arriendo del Bien Raíz.
+
+La Declaración Jurada a que se refiere el resolutivo 2, deberá enviarse mediante transmisión electrónica de datos, vía Internet. Su formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos:  HYPERLINK "http://www.sii.cl/" www.sii.cl.
+
+El retardo u omisión en la presentación de la declaración a que se refiere esta Resolución, se sancionará de acuerdo a lo dispuesto en el Nº 15 del artículo 97 del Código Tributario.
+
+La presente Resolución regirá para las Declaraciones Juradas que deban presentarse a partir del Año Tributario 2005 y siguientes.
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+BERNARDO LARA BERRÍOS
+DIRECTOR (S)
+
+
+Lo que comunico a Ud., para su conocimiento y demás fines,
+Saluda a Ud.,
+
+AUA/LCA
+DISTRIBUCIÓN:
+SECRETARÍA DIRECTOR
+SUBDIRECCIÓN DE FISCALIZACIÓN
+SUBDIRECCIÓN NORMATIVA
+SUBDIRECCIÓN JURÍDICA
+SUBDIRECCIÓN INFORMÁTICA
+DEPARTAMENTO DE OPERACIÓN RENTA
+DEPARTAMENTO DE IMPUESTOS DIRECTOS
+OFICINA DE PARTES
+DIARIO OFICIAL, EN EXTRACTO
+INTERNET
+

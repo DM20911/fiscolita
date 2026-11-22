@@ -1,0 +1,122 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso129.doc
+titulo: Word – Resolución Exenta SII N°129 del 06 de Agosto del 2010 Reemplaza Resolución Ex. Sii Nº 164, Publicada en D.O. de 06 de Noviembre de 2009, que Establece Registro Especial y Crea Modelo de Certificado de Acreditación de Entrega de Alimentos cuya Comercialización sea Inviable. Fuente: Departament
+categoria: otros
+---
+RESOLUCION EXENTA SII N°129 DEL 06 DE AGOSTO DEL 2010 MATERIA : REEMPLAZA RESOLUCIÓN EX. SII Nº 164, PUBLICADA EN D.O. DE 06 DE NOVIEMBRE DE 2009, QUE ESTABLECE REGISTRO ESPECIAL Y CREA MODELO DE CERTIFICADO DE ACREDITACIÓN DE ENTREGA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE.
+Hoy se ha resuelto lo que sigue:
+
+	VISTOS:
+
+ Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6°, letra A), Nº 1, del Código Tributario, contenido en el artículo 1° del D.L. Nº 830, de 1974; lo establecido en el artículo 31° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974; lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, contenida en D.L. Nº 825, de 1974; y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2 de octubre de 2009.
+
+
+						CONSIDERANDO:
+
+						1°	Que, mediante Resolución Ex. SII N° 164, publicada en el Diario Oficial con fecha 06 de noviembre de 2009, se estableció un procedimiento para que las empresas de la industria agroalimentaria u otras cuyo giro sea la elaboración, importación, distribución y comercialización de alimentos, que se ajusten a las instrucciones contenidas en la Circular N° 54 de 2 de octubre de 2009, puedan optar por el castigo de los alimentos o productos alimenticios cuya comercialización se ha vuelto inviable a través de un método alternativo a su destrucción consistente en su entrega, a una institución sin fines de lucro que los ponga a disposición de personas de escasos recursos para su consumo.
+
+2°	Que, conforme a lo dispuesto en el resolutivo 1°, de la mencionada resolución, la entrega de estos alimentos deberá efectuarse, ya sea directamente o a través de otra Institución sin Fines de Lucro Distribuidora. Ambas instituciones deben encontrarse debidamente incorporadas en un Registro especial que, para dicho efecto, llevará este Servicio.
+
+3°	Que, es necesario incorporar un procedimiento para la emisión de Guías de Despacho y control de inventarios que dan cuenta de la recepción y entrega de alimentos cuando la entrega se efectúa a través de otras Instituciones sin Fines de Lucro Distribuidoras, así como los requisitos que deberá cumplir la guía de despacho que respalde la referida entrega y la generación de los Certificados de acreditación recepción de alimentos cuya comercialización sea inviable.
+
+4°	Que, para los efectos de contar con un texto único y refundido de la Resolución Ex. SII N° 164, de 2009, se ha decidido reemplazar el texto de la misma, incorporando las modificaciones que de acuerdo con lo señalado en los considerandos anteriores deben efectuarse a dicha Resolución.
+
+
+						SE RESUELVE:
+
+
+1°	Las empresas de la industria agroalimentaria u otras cuyo giro sea la elaboración, importación, distribución y comercialización de alimentos que opten por el castigo de los alimentos o productos alimenticios cuya comercialización se ha vuelto inviable, ajustándose para estos efectos a las instrucciones contenidas en la Circular N° 54 de 2 de octubre de 2009, sólo podrán hacer entrega de los mismos, ya sea directamente o a través de una institución sin fines de lucro distribuidora, a otra institución sin fines de lucro que los ponga a disposición de personas de escasos recursos para su consumo final, que se encuentren debidamente incorporadas en un Registro especial que, para dicho efecto, llevará este Servicio.
+
+La entrega deberá respaldarse con la correspondiente guía de despacho emitida por la empresa a la institución sin fines de lucro que en definitiva recibirá los alimentos, la que además de cumplir con los requisitos generales para este tipo de documentos, deberá contener lo siguiente:
+
+a)	Indicación de que la entrega no constituye venta;
+b)	Cuando corresponda, individualizar con número de registro, Rol Único Tributario, nombre o razón social, y domicilio, a la institución sin fines de lucro distribuidora y receptora de alimentos;	
+c)	Individualización de los alimentos que se entregan, especificando su calidad, cantidad, unidad de medida, naturaleza, estado, fecha de vencimiento;
+d)	Expresión del motivo por el cual la comercialización de los mismos se ha vuelto inviable; y
+e)	Cuando los alimentos sean puestos a disposición de distintas instituciones receptoras, deberá emitirse una guía de despacho que respalde la entrega que se haga a cada una de ellas.
+
+Cuando se proceda a la entrega de los alimentos a través de otra Institución sin Fines de Lucro que intervenga como distribuidora, la empresa podrá optar por emitir la guía de despacho a dicha Institución Distribuidora. En tal caso la Institución Distribuidora deberá respaldar la entrega que efectúe a la institución sin fines de lucro que en definitiva recibirá los alimentos mediante la correspondiente guía de despacho emitida por ella a esta última institución. Esta guía de despacho, además de cumplir con los requisitos generales para este tipo de documentos, deberá contener lo siguiente:
+
+Indicación de que la entrega no constituye venta;
+Individualización de los alimentos que se entregan, especificando su calidad, cantidad, unidad de medida, naturaleza, estado y fecha de vencimiento;
+Indicación de que los alimentos se entregan para su distribución a personas de escasos recursos de conformidad con la Circular N° 54, de 2009 y la presente Resolución.
+Cuando los alimentos sean puestos a disposición de distintas instituciones receptoras, deberá emitirse una guía de despacho que respalde la entrega que se haga a cada una de ellas.
+
+Para el sólo efecto de acogerse al procedimiento alternativo del párrafo anterior, las Instituciones sin Fines de Lucro Distribuidoras de Alimentos cuya Comercialización sea Inviable, deberán solicitar al Servicio de Impuestos Internos la autorización de Guías de Despacho, conforme al procedimiento establecido en la Circular N° 19, de 1995.
+
+Para efectos de la contabilización de estas operaciones, las citadas empresas deberán registrar, en sus Libros o Registros de Ventas, las Guías de Despacho emitidas y que respalden la entrega de los alimentos referidos, debiendo cumplir con las reglas siguientes:
+
+Registrar dichas Guías en forma individual, a continuación de las Facturas de Ventas al término de cada mes; y
+El registro debe efectuarse en forma cronológica y previo a la confección del resumen mensual establecido en los incisos segundo y tercero del artículo 75 del D.S. N° 55, de 1977, de Hacienda, Reglamentario de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. N° 825, de 1974.
+
+2°	Las instituciones sin fines de lucro que efectúen la distribución, como aquellas que reciban los alimentos para su entrega gratuita a personas de escasos recursos, deben ser calificadas como habilitadas para recibir alimentos o productos alimenticios cuya comercialización se ha vuelto inviable, para lo cual deberán solicitar su inscripción en un Registro Especial denominado “Registro de Instituciones sin Fines de Lucro Distribuidoras y Receptoras de Alimentos cuya Comercialización sea Inviable”, mediante la presentación de la solicitud en formulario Nº 3210, cuyo formato se contiene en el Anexo Nº 1 y sus instrucciones de llenado en Anexo Nº 3 de la presente resolución, en la Dirección Regional o Unidad del Servicio en cuya jurisdicción tenga domicilio su casa matriz, o en la Dirección de Grandes Contribuyentes, cuando se encuentren incluidos en la Nómina de Grandes Contribuyentes, fijada por Resolución Exenta N° 45, de 2001 y sus modificaciones.
+
+Las instituciones que podrán solicitar su inscripción deberán cumplir con los siguientes requisitos:
+
+Ser una entidad dotada de personalidad jurídica, de aquellas otorgadas y/o controladas directamente por el Ministerio de Justicia, que no tenga fines de lucro, y que se encuentre actualmente vigente, debiendo acompañar para tal efecto certificado de vigencia emitido por tal Ministerio;
+Excepcionalmente las personas jurídicas vinculadas a la Iglesia Católica, por no estar sometidas al control del Ministerio de Justicia, deberán acompañar Certificado de Vigencia emitido por la autoridad eclesiástica competente, Obispado o Arzobispado, según corresponda;
+Tener Rol Único Tributario; y
+No desarrollar actividades económicas relacionadas con la importación o comercialización de alimentos de cualquier clase o naturaleza. Lo anterior, sin perjuicio que el solicitante preste servicios de transporte, intermediación, almacenamiento y distribución de dichos productos o de diferente naturaleza.
+
+3° 	Una vez verificado que la entidad que solicita la inscripción, cumple con los requisitos para calificar como una institución habilitada para recibir alimentos para los efectos previstos en la Circular N° 54 de 2 de octubre de 2009, este Servicio procederá a su inscripción en el “Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Alimentos cuya Comercialización sea Inviable”, cuya nómina se publicará, oportunamente, en el sitio  HYPERLINK "http://www.sii.cl" www.sii.cl. 
+
+La incorporación de las entidades aludidas, será concedida mediante resolución, cuyo resultado se notificará al interesado mediante carta certificada. En todo caso, con el objeto del debido resguardo del interés fiscal, se podrán requerir informes u otros antecedentes que respalden dichas solicitudes y antecedentes aportados por el peticionario. 
+
+4°	Las instituciones sin fines de lucro que reciban los alimentos y efectúen la entrega final de los mismos en forma gratuita a personas de escasos recursos para su consumo, que se encuentren inscritas en el “Registro de Instituciones sin Fines de Lucro Distribuidoras o Receptoras de Alimentos cuya Comercialización sea Inviable”, que reciban dichos alimentos por parte de las empresas señaladas en el resolutivo N° 1, deberán otorgar un certificado que de cuenta de la entrega y recepción de dichos alimentos, denominado “Acreditación Recepción de Alimentos cuya Comercialización sea Inviable”, y cuyo formato se contiene en el Anexo Nº 2 de la presente resolución; el cual contendrá las siguientes características y menciones obligatorias:
+
+a)	Individualización completa de la entidad emisora del certificado, con indicación del Número de Registro Especial que mantiene el Servicio, nombre o razón social, Rol Único Tributario, domicilio, nombre y Rol Único Tributario del representante legal;
+b)	Individualización completa de la empresa o institución sin fines de lucro distribuidora, según corresponda, que efectúa la entrega gratuita, con indicación del nombre o razón social, Rol Único Tributario, domicilio, nombre y Rol Único Tributario del representante legal, Número de Registro Especial que mantiene este Servicio si fuere procedente, número y fecha de cada guía de despacho, con indicación de la cantidad, unidad de medida, calidad y naturaleza de los alimentos, fecha de vencimiento y fecha de recepción de los mismos, todas ellas acreditadas por las respectivas guías de despacho; y
+c)	Antecedentes de la institución sin fines de lucro distribuidora, consistentes en nombre o razón social y Rol Único Tributario, cuando corresponda.
+
+El certificado aludido deberá emitirse en triplicado, debiendo cumplirse con el siguiente procedimiento: 
+
+Certificado Original: Deberá entregarse a la empresa, dentro de los 10 días corridos siguientes al mes en que fueron recibidos por la institución receptora, ello conforme a la fecha estampada en la Guía de Despacho;
+Primera copia (control tributario): En el mismo plazo señalado en el punto anterior, deberá entregarse por la institución receptora de los alimentos en la oficina del Servicio de Impuestos Internos correspondiente a su domicilio, o en la Dirección de Grandes Contribuyentes, según corresponda; y
+Segunda copia: Quedará en poder de la institución emisora del certificado.
+
+Cuando la entrega se efectúe a través de una institución sin fines de lucro distribuidora que respalda dicha entrega mediante una guía de despacho propia, las instituciones sin fines de lucro que reciban los alimentos y efectúen la entrega final de los mismos deberán emitir el certificado antes indicado a dicha institución distribuidora. A su vez, corresponderá a la institución sin fines de lucro distribuidora emitir el certificado de recepción de alimentos cuya comercialización sea inviable a las empresas señaladas en el Resolutivo 1° de quienes los recibieron, dentro del plazo de 10 días corridos siguientes al mes en que ellas recibieron los alimentos para su distribución, siguiendo el mismo formato y procedimiento establecido en los párrafos anteriores.
+
+Estos documentos deberán conservarse por las respectivas empresas e instituciones por los plazos que establece el artículo 200 del Código Tributario, para ser puestos a disposición de este Servicio, cuando lo requiera en el ejercicio de sus facultades de fiscalización.
+
+El incumplimiento por parte de la institución de la entrega del certificado al Servicio de Impuestos Internos dentro del plazo de 10 días señalado precedentemente, se sancionará de conformidad con el artículo 109 del Código Tributario. La aplicación de la referida sanción, no implica que no pueda rebajarse el gasto por parte de la empresa que entregó los alimentos, en la medida en que cuente con el Certificado al momento de presentar la declaración anual de renta, en la cual se haya imputado el gasto originado en el castigo de los alimentos, y se acredite que se cumplen los demás requisitos necesarios al efecto.
+
+5º 	Cuando las instituciones distribuidoras y receptoras de los alimentos hayan incumplido lo establecido en la Circular N° 54 de 2 de octubre de 2009 y en la presente resolución, o las instituciones receptoras hayan emitido certificados erróneos o falsos, la inscripción respectiva podrá ser dejada sin efecto mediante resolución, la que se notificará por carta certificada a la referida institución y se publicará en extracto en el Diario Oficial.
+
+Sin embargo, podrán solicitar su reincorporación al Registro luego de un año de haberse ordenado su exclusión, cuando se acredite que el incumplimiento o error no tuvo como consecuencia un castigo indebido o excesivo por parte del contribuyente receptor del certificado. Si dicha emisión tuvo la consecuencia señalada, no podrán solicitar su reincorporación antes de cinco años, contados desde la fecha de la resolución que dispuso su exclusión.
+
+Con todo, en el caso de aquellas instituciones que hayan emitido certificados falsos, no se admitirá su reincorporación al referido Registro.
+
+6º 	Delégase en el Subdirector de Fiscalización la facultad de dictar las resoluciones que se señalan en los dispositivos 3° y 5° precedentes. En las resoluciones que dicte el delegado se deberá dejar constancia de que lo hace en virtud de la delegación de facultades contenida en la presente resolución, indicando su número y fecha.
+
+7°	Las instituciones sin fines de lucro que efectúen la distribución en calidad de distribuidoras, deberán timbrar un Libro Registro Auxiliar de Existencias para el control de los alimentos objeto de distribución, el que deberá llevarse conforme a las instrucciones contenidas en la Resolución Exenta Nº 985, de 1975, complementadas por las Circulares Nº 14 y Nº 121, ambas del año 1976.
+
+Adicionalmente, respecto de las unidades de entrada y salida, respectivamente, la institución distribuidora, en su Registro de inventario, deberá dejar constancia del Rol Único Tributario y del Nombre o Razón Social de la empresa que hace entrega de los alimentos y del nombre o razón social y Rol Único Tributario de la institución sin fines de lucro a la que dichos alimentos fueron despachados.
+
+8° 	Los Anexos Nº 1, Nº 2 y Nº 3 se entienden que forman parte integrante de esta resolución.
+
+9° 	La presente resolución reemplaza a la Resolución Ex. SII N° 164, publicada en D.O. con fecha 06 de noviembre de 2009, por lo tanto, cualquier referencia que se haga a dicho documento, se entenderá efectuada a la presente resolución a contar de la fecha de vigencia de estas instrucciones.
+
+10°	La presente resolución entrará en vigencia a contar de su publicación, en extracto, en el Diario Oficial.
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+(Fdo.)	JULIO PEREIRA GANDARILLAS
+     DIRECTOR 
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+Anexos:
+•	Anexo Nº 1:“Solicitud de Inscripción en Registro de Instituciones sin Fines de Lucro Distribuidoras o Receptoras de Alimentos, cuya Comercialización sea Inviable” (Formulario Nº 3210).
+•	Anexo Nº 2: Certificado denominado “Acreditación Recepción de Alimentos cuya Comercialización sea Inviable”.
+•	Anexo Nº 3: “Instructivo para llenado de solicitud de inscripción de instituciones sin fines de lucro distribuidoras y/o receptoras de alimentos cuya comercialización sea inviable”.
+
+Distribución:
+Internet
+Boletín
+Diario Oficial en extracto
+
+

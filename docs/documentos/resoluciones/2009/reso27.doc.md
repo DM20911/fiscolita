@@ -1,0 +1,271 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso27.doc
+titulo: Word – Resolución Exenta SII N°27 del 25 de Febrero del 2009 Instruye sobre el ejercicio de la facultad para autorizar a los contribuyentes a declarar y pagar determinados impuestos en moneda extranjera; las obligaciones que genera dicha autorización y delega facultad que indica en el Director Grand
+categoria: otros
+---
+RESOLUCION EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009 MATERIA : INSTRUYE SOBRE EL EJERCICIO DE LA FACULTAD PARA AUTORIZAR A LOS CONTRIBUYENTES A DECLARAR Y PAGAR DETERMINADOS IMPUESTOS EN MONEDA EXTRANJERA; LAS OBLIGACIONES QUE GENERA DICHA AUTORIZACIÓN Y DELEGA FACULTAD QUE INDICA EN EL DIRECTOR GRANDES CONTRIBUYENTES.
+
+Hoy se ha resuelto lo que sigue:
+
+																		VISTOS: Lo dispuesto en los artículos 6, letra A), N°s 1° y 3° y 18 del Código Tributario contenido en el artículo 1 del Decreto Ley N° 830 de 1974; en el Decreto con Fuerza de Ley N° 7, de 1980, que fija el Texto de la Ley Orgánica del Servicio de Impuestos Internos; en la Ley N° 20.263, publicada en el Diario Oficial de 02 de mayo de 2008; en la Resolución Exenta N° 700 de la Dirección de Presupuestos del Ministerio de Hacienda, publicada en el Diario Oficial de 12 de Diciembre de 2008, y 
+																		CONSIDERANDO:
+
+1.- Que, mediante la Ley N° 20.263, publicada en el Diario Oficial de 02 de mayo de 2008, se sustituyó el artículo 18 del Código Tributario con el objeto de, entre otras materias, regular la declaración y el pago de determinados impuestos en moneda extranjera; 
+
+2.- Que, el nuevo artículo 18 del Código Tributario, en su N° 1), dispone como regla general que, para todos los efectos tributarios, los contribuyentes presentarán sus declaraciones de impuestos y efectuarán el pago de los mismos en moneda nacional;
+
+3.- Que, no obstante lo anterior, conforme a lo dispuesto por la letra a), del N° 3), del artículo 18 del Código Tributario, este Servicio estará facultado para autorizar que los contribuyentes a que se refiere el N° 2), es decir, aquellos que se encuentren autorizados a llevar su contabilidad en moneda extranjera de acuerdo a la Resolución Exenta N° 62, de fecha 14 de mayo de 2008, publicada en extracto en el Diario Oficial de 17 de mayo del mismo año, así como aquellos actualmente autorizados a llevar su contabilidad en moneda extranjera, conforme al anterior texto del artículo 18 del Código Tributario o conforme a leyes especiales, declaren todos o algunos de los impuestos que les afecten en la moneda extranjera en que llevan su contabilidad;
+
+4.- Que, el inciso segundo de la letra b), del N° 3), del artículo 18 del Código Tributario, dispone que no se aplicará lo dispuesto en el inciso primero del artículo 53 del mismo texto legal a los contribuyentes autorizados a declarar determinados impuestos en moneda extranjera, respecto de los impuestos comprendidos en dicha autorización. El citado artículo 53, en su inciso primero, dispone que todo impuesto o contribución que no se pague dentro del plazo legal se reajustará en el mismo porcentaje de aumento que haya experimentado el índice de precios al consumidor en el período comprendido entre el último día del segundo mes que precede al de su vencimiento y el último día del segundo mes que precede al de su pago, lo que no resulta aplicable respecto de los impuestos que se declaren en moneda extranjera;
+
+5.- Que, el inciso cuarto, de la letra b), del N° 3), del artículo 18 del Código Tributario, dispone que este Servicio podrá exigir a los contribuyentes autorizados en conformidad al N° 2), el pago de determinados impuestos en la misma moneda extranjera en que lleven su contabilidad. También podrá exigir a determinados contribuyentes o grupos de contribuyentes el pago de los impuestos en la misma moneda en que obtengan los ingresos o realicen las operaciones gravadas. Como se aprecia de lo anterior, este Servicio podrá exigir que los contribuyentes autorizados a llevar su contabilidad en Dólares de los Estados Unidos de Norteamérica o Euros, de acuerdo a la Resolución Exenta N° 62, de 14 de mayo de 2008 del Servicio de Impuestos Internos y la Resolución Exenta N° 700, del 28 de Noviembre de 2008 de la Dirección de Presupuestos del Ministerio de Hacienda, paguen determinados impuestos en la misma moneda en que lleven su contabilidad. Asimismo, subsiste la regla existente en el texto del artículo 18 del Código Tributario anterior a la modificación legal comentada, aunque con otra redacción, en virtud de la cual este Servicio podrá exigir que determinados contribuyentes o grupos de contribuyentes paguen los impuestos respectivos en las mismas monedas extranjeras en que hayan obtenido sus ingresos o realizado las operaciones gravadas;
+
+6.- Que, conforme al inciso quinto de la letra b), del N° 3) del artículo 18 del Código Tributario, las resoluciones que se dicten por este Servicio, autorizando o exigiendo la declaración y/o el pago de impuestos en moneda extranjera, según corresponda, determinarán el período tributario a contar del cual el contribuyente quedará obligado a declarar y/o pagar sus impuestos y recargos conforme a la exigencia o autorización respectiva, la moneda extranjera en que se exija o autorice la declaración y/o el pago y los impuestos u obligaciones fiscales o municipales a que una u otra se extiendan, conforme a las facultades de este Servicio;
+
+7.- Que, el artículo 18 del Código Tributario dispone que respecto de los contribuyentes que simultáneamente lleven su contabilidad, declaren y paguen determinados impuestos en moneda extranjera, conforme al inciso sexto de la letra b), del N° 3) de dicha disposición legal, este Servicio practicará la liquidación y, o el giro de los impuestos y recargos que correspondan en la respectiva moneda extranjera. En cuanto sea aplicable, los recargos establecidos en moneda nacional se convertirán a moneda extranjera de acuerdo al tipo de cambio vigente a la fecha de la liquidación y, o giro;
+
+8.- Que, además, el mismo artículo 18 del Código Tributario dispone en el inciso séptimo de la letra b) de su N°3, que en el caso de los contribuyentes que lleven su contabilidad y declaren determinados impuestos en moneda extranjera, pero deban pagarlos en moneda nacional, sin perjuicio de que los impuestos y recargos se determinarán en la respectiva moneda extranjera, el giro se expresará en moneda nacional, según el tipo de cambio vigente a la fecha del giro;
+
+9.- Que, el inciso octavo, de la letra b), del N°3, del comentado artículo 18, dispone que respecto de aquellos contribuyentes a quienes se exija o autorice sólo el pago de determinados impuestos en moneda extranjera, sin perjuicio de que los impuestos y recargos que correspondan se determinarán en moneda nacional, el giro respectivo se expresará en la moneda extranjera autorizada o exigida según el tipo de cambio vigente a la fecha del giro;
+
+10.- Que, el artículo 18 del Código Tributario también contempla en el inciso noveno de la letra b) de su N°3, que en los casos en que el impuesto haya debido pagarse en moneda extranjera, las multas establecidas por el inciso primero del N° 2 y por el N° 11 del artículo 97 del mismo Código, se determinarán en la misma moneda extranjera en que debió efectuarse dicho pago;
+
+11.- Que, por otra parte, el artículo 18 de Código Tributario, en el inciso décimo de la letra b) de su N° 3), establece que este Servicio o el Tesorero General de la República, según corresponda, podrán revocar, por resolución fundada, las exigencias o autorizaciones a que se refiere esta Resolución, cuando hubiesen cambiado las características de los respectivos contribuyentes que las han motivado. La revocación regirá respecto de las cantidades que deban pagarse a partir del período siguiente a la notificación al contribuyente de la resolución respectiva;
+
+12.- Que, la nueva disposición legal analizada contempla una condición para el ejercicio de la facultad de autorizar la declaración y/o el pago de impuestos en moneda extranjera,  en cuanto el Servicio o el Tesorero General de la República, en su caso, sólo podrán exigir o autorizar la declaración y/o el pago de determinados impuestos en las monedas extranjeras respectivas, cuando con motivo de dichas autorizaciones o exigencias no se afecte la administración financiera del Estado, circunstancia que deberá ser calificada mediante resoluciones de carácter general por la Dirección de Presupuestos del Ministerio de Hacienda. Conforme a lo anterior, dicha Dirección de Presupuestos dictó la Resolución Ex. N° 700 del 28.11.2008, publicada en el Diario Oficial de 12 de Diciembre de 2008, mediante la cual determinó que la declaración y/o el pago de los siguientes impuestos no afecta la administración financiera del Estado: 1.- La declaración y pago del Impuesto a la Renta de Primera Categoría, sea de acuerdo al régimen general o en carácter de impuesto único a la renta; del impuesto único del inciso 3° del artículo 21; del Impuesto único del artículo 38 bis y del Impuesto Adicional y sus retenciones, que se contemplan en los artículos 58, 59, 60 y 61, todos de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N° 824, de 1974, en el caso de aquellos contribuyentes que hayan sido autorizados a llevar su contabilidad en Dólares de los Estados Unidos de América o Euros, sólo en cuanto se exija o autorice al contribuyente a declarar y pagar en la misma moneda extranjera en que lleva su contabilidad; 2.-  La declaración y pago del Impuesto Específico a la Actividad Minera establecido en el artículo 64 bis de la Ley sobre Impuesto a la Renta, en el caso de aquellos contribuyentes que hayan sido autorizados a llevar su contabilidad en Dólares de los Estados Unidos de América o Euros, sólo en cuanto se exija o autorice al contribuyente a declarar y pagar en la misma moneda extranjera en que lleva su contabilidad; 3.- La declaración y pago de los pagos provisionales mensuales a que se refiere el artículo 84, letras a), g) y h), de la Ley sobre Impuesto a la Renta, en el caso de aquellos contribuyentes que hayan sido autorizados a llevar su contabilidad, declarar y pagar los impuestos a que se refieren los números 1 y 2 anteriores, según corresponda, en Dólares de los Estados Unidos de América o Euros, sólo en cuanto se exija o autorice al contribuyente a declarar y pagar en la misma moneda extranjera, el impuesto anual asociado a dichos pagos provisionales; 4.- La declaración y pago de los pagos provisionales mensuales voluntarios a que se refiere el artículo 88, de la Ley sobre Impuesto a la Renta, en el caso de aquellos contribuyentes que hayan sido autorizados a llevar su contabilidad, declarar y pagar los impuestos a que se refieren los números 1 y 2 anteriores en Dólares de los Estados Unidos de América o Euros, sólo en cuanto se exija o autorice al contribuyente a declarar y pagar en la misma moneda extranjera, el impuesto anual asociado a dichos pagos provisionales; 5.-  La declaración y pago del impuesto Ad Valorem de Zona Franca, establecido en el artículo 11° de la Ley N° 18.211, en el caso de aquellos contribuyentes que hayan sido autorizados a llevar su contabilidad en Dólares de los Estados Unidos de América o Euros, sólo en cuanto se exija o autorice al contribuyente a declarar y pagar en la misma moneda extranjera en que lleve su contabilidad;
+
+13.- Que, resulta relevante considerar también que conforme a lo dispuesto por el N° 4) del artículo 18 del Código Tributario, en caso que se hubieren pagado los impuestos en cualesquiera de las monedas extranjeras autorizadas, las devoluciones que se efectúen en cumplimiento de los fallos de los reclamos que se interpongan de conformidad a los artículos 123 y siguientes, como las que se dispongan de acuerdo al artículo 126, del mismo Código Tributario, se llevarán a cabo en la moneda extranjera en que se hubieren pagado, si así lo solicitare el interesado. De igual forma se deberá proceder en aquellos casos en que, habiéndose pagado los impuestos en moneda extranjera, se ordene la devolución de los mismos en virtud de lo establecido en otras disposiciones legales. Cuando el contribuyente no solicite la devolución de los tributos en moneda extranjera, éstos serán devueltos en moneda nacional considerando el tipo de cambio vigente a la fecha de la resolución respectiva. 
+
+Para estos efectos, no se aplicará reajuste alguno que se calcule sobre la base de la variación del Índice de Precios al Consumidor; 
+
+14.- Que, para los fines de lo dispuesto en el artículo 18 del Código Tributario, se considerará moneda extranjera cualquiera de aquellas cuyo tipo de cambio y paridad es fijado por el Banco Central de Chile para efectos del número 6, del Capítulo I, del Compendio de Normas de Cambios Internacionales o el que dicho Banco establezca en su reemplazo. Cuando corresponda determinar la relación de cambio de la moneda nacional a una determinada moneda extranjera y viceversa, se considerará como tipo de cambio, el valor informado para la fecha respectiva por el Banco Central de Chile de acuerdo a la norma mencionada.
+
+
+						SE RESUELVE:
+
+1.- Delegación de facultades en el Director Grandes Contribuyentes.
+
+Se delegan en el Director Grandes Contribuyentes, las facultades para autorizar o exigir la declaración y el pago, en dólares de los Estados Unidos de América o Euros, de los impuestos del Resolutivo N° 3 de la presente Resolución, respecto de los contribuyentes incluidos en la Nómina de Grandes Contribuyentes.
+
+Asimismo, se delegan las facultades para revocar, por resolución fundada, las autorizaciones o exigencias dictadas conforme a esta Resolución, cuando se hubieren alterado las condiciones que las justificaron.
+
+2.- Ejercicio de las facultades contenidas en el N° 3 del Artículo 18 del Código Tributario.
+
+Los Directores Regionales, respecto de los contribuyentes domiciliados en el territorio de su jurisdicción y el Director Grandes Contribuyentes, respecto de los contribuyentes incluidos en la Nómina de Grandes Contribuyentes, ejercerán las facultades contenidas en el N° 3) del artículo 18 del Código Tributario, relativas a que podrán autorizar o exigir, según corresponda, que determinados contribuyentes o grupos de contribuyentes, declaren y paguen los impuestos a que se refiere el considerando 12.- y los recargos respectivos, en dólares de los Estados Unidos de América o Euros. En estos casos, se autorizará el pago en moneda extranjera, sólo cuando se trate de la misma moneda en que se declaran los impuestos, conforme al Resolutivo N° 3 de la presente Resolución. 
+
+Tanto los Directores Regionales como el Director Grandes Contribuyentes, según el caso, podrán asimismo de oficio o a petición de parte, revocar, por resolución fundada, las autorizaciones o exigencias dictadas conforme a esta Resolución, cuando se hubieren alterado las condiciones que las justificaron. Dicha revocación regirá respecto de los impuestos y recargos que deban declararse y pagarse a partir del período siguiente a la notificación al contribuyente de la resolución revocatoria.
+
+
+3.- Impuestos que podrán ser autorizados a declararse y pagarse en moneda extranjera.
+
+Para el efecto de la declaración y el pago de los impuestos en moneda extranjera, se entenderá que los impuestos de competencia del Servicio de Impuestos Internos, contenidos en los siguientes formularios deberán ser declarados y pagados en la moneda extranjera autorizada y el resto de los impuestos contenidos en estos formularios, que no se encuentran entre los listados detallados a continuación, deberán ser declarados y pagados en moneda nacional.
+
+1) Formulario N° 22, Impuestos Anuales a la Renta 
+
+Los siguientes Impuestos Anuales a la Renta:
+Impuestos de Primera Categoría
+Impuesto Único de Primera Categoría
+Impuesto Único del artículo 21 de la Ley de la Renta
+Impuesto Único del artículo 38 bis de la Ley de la Renta
+Impuesto Adicional que afecta a los contribuyentes del artículo 58, N° 1.
+Impuesto Específico de la Actividad Minera. 
+
+Es decir;
+
+Líneas y Códigos del Formulario 
+Concepto 
+Todas las líneas, excepto las correspondientes a los impuestos, retenciones, bases imponibles, rebajas o créditos del Global Complementario y de Segunda Categoría, según sea el caso. 
+
+Todos los conceptos asociados a créditos, rentas, rebajas, impuestos, bases imponibles a excepción de los correspondientes a Global Complementario y Segunda Categoría. 
+Se incluyen también para su declaración en moneda extranjera aquellos conceptos declarados en los recuadros de Base Imponible de Primera Categoría, Datos Contables Balance 8 Columnas y Otros, Enajenación de Acciones, Datos del FUT, Créditos Imputables al Impuesto de Primera Categoría y Créditos Disponibles.
+
+
+
+2) Formulario N° 50, Declaración Mensual y Pago Simultáneo de Impuestos 
+
+Impuesto Base Imponible
+Código Impuesto 
+Determinado
+CódigoCrédito
+CódigoImpuesto a Pagar
+CódigoArt. 58, N° 1 
+10
+130
+88
+12
+Art. 58, N° 2
+100
+131
+101
+102
+Art. 14 bis
+103
+136
+104
+105
+Art. 60, inciso 1
+14 
+137
+106
+300
+Art. 61
+61
+138
+107
+62
+Art. 59
+16, 18, 20,22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 268, 244, 46, 48, 50, 52, 54, 56, 58, 64, 108, 110, 267, 83, 86, 272, 95, 275
+
+
+17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 269, 45, 47, 49, 51, 254, 55, 57, 59, 65, 109, 111, 68, 84, 87, 273, 96, 276
+Art. 84, letra a), g) y h)
+ 
+
+
+67
+Art. 88
+
+
+
+67
+Reintegro Devoluciones Art. 97 Ley de la Renta  
+
+
+
+291
+Impuesto Ad-Valorem Zona Franca Art. 11, Ley N° 18.211 (Facturas)
+82
+
+
+227
+Impuesto Ad-Valorem Zona Franca Art. 11, Ley N° 18.211 (Boletas)
+293
+
+
+294
+Impuesto Ad-Valorem Zona Franca Art. 11, Ley N° 18.211 (Solicitud de Registro Facturas)
+296
+
+
+297
+
+4.- Requisitos para solicitar la autorización para declarar y pagar en moneda extranjera.
+
+Los contribuyentes que estén interesados en declarar y pagar los impuestos en moneda extranjera deberán cumplir con los siguientes requisitos:
+
+Estar autorizado a llevar la contabilidad en dólares de los Estados Unidos de América o en Euros.
+
+Presentar la solicitud para declarar y pagar los impuestos en moneda extranjera a través de un formulario de peticiones administrativas (F2117) en la Dirección Regional que corresponda a su domicilio, o en la Dirección Grandes Contribuyentes, cuando se trate de contribuyentes que se encuentren incluidos en la Nómina de Grandes Contribuyentes, en la que deberá indicarse, además de los datos relativos a la individualización del contribuyente y sus representantes, la moneda extranjera en que solicita efectuar dicha declaración y pago.
+
+La moneda extranjera a que se alude en la letra b) anterior no podrá ser distinta a la moneda en que está autorizado a llevar la contabilidad.
+
+El contribuyente debe adjuntar a su presentación, una declaración jurada simple en que declare disponer de algún instrumento bancario que le permita, conforme al procedimiento vigente a esa fecha, el pago, a través de Internet, de los respectivos impuestos en la moneda extranjera solicitada.
+
+Tratándose de grupos empresariales cuyas empresas matrices se encuentren incluidas en la Nómina de Grandes Contribuyentes, y respecto de aquellas empresas o sociedades de dichos grupos que no se encuentren incluidas en la citada Nómina, el contribuyente podrá solicitar la autorización para declarar y pagar los impuestos en moneda extranjera ante el Director Regional que corresponda a su domicilio, o ante el Director Grandes Contribuyentes. En este último caso, el Director Grandes Contribuyentes deberá informar de la presentación y resolución de la solicitud del contribuyente al Director Regional respectivo.
+
+
+5.- Obligaciones para el contribuyente autorizado a declarar y pagar impuestos en moneda extranjera.
+
+Los contribuyentes que cumplan los requisitos señalados en el número 4.- y sean autorizados a declarar y pagar sus impuestos en moneda extranjera quedarán sujetos a las siguientes obligaciones:
+
+Presentar las declaraciones de impuestos contemplados en los Formularios N° 22 y N° 50, según corresponda, sólo a través de internet en el sitio web del Servicio de Impuestos Internos, www.sii.cl.
+
+La autorización obliga a declarar tanto el Formulario N° 22 como el Formulario N° 50 en los términos que señala esta Resolución.
+
+En el caso de la presentación de declaraciones en Formulario N° 50, se pueden dar las siguientes situaciones:
+Que el contribuyente sólo deba declarar y pagar impuestos en moneda extranjera, caso en el cual deberá presentar un (1) Formulario 50, a través del cual declare y pague tales impuestos en dicha moneda salvo que se deba pagar Pagos Provisionales Mensuales del Art 84 letras a) y g) y, además, deba pagar Pagos Provisionales Mensuales del artículo 84 letra h) o bien Pagos Provisionales Mensuales del artículo 88 de la Ley de la Renta, casos en los cuales, deberá declarar conforme a lo que señala el Resolutivo N° 10.
+Que el contribuyente sólo deba declarar y pagar impuestos en moneda nacional; en este caso también se presentará un (1) Formulario 50 declarando y pagando dichos impuestos en moneda nacional.
+Que el contribuyente deba, en algún o en todos los periodos, declarar y pagar simultáneamente impuestos en moneda extranjera e impuestos en moneda nacional, en esta situación deberá presentar dos (2) Formularios 50, incluyendo en uno, todos los impuestos que deba declarar y pagar en moneda extranjera y en el otro, todos los impuestos que deba declarar y pagar en moneda nacional.
+
+Lo anterior, sin perjuicio que el contribuyente pueda presentar más de 1 ó 2 Formularios N° 50 en cada uno de los casos anteriores, dado que este formulario, permite ser declarado más de 1 vez por el mismo período tributario.
+
+El incumplimiento de las obligaciones previstas en las letras a) y b) precedentes podrá ser causal de revocación de la autorización otorgada.
+
+
+6.- Vigencia de la autorización.
+
+La autorización concedida para declarar y pagar los impuestos respectivos en moneda extranjera, podrá ser concedida:
+
+Para la presentación del Formulario N° 22, a contar de la declaración anual correspondiente al año siguiente al de la solicitud, salvo que ésta haya sido presentada antes del 1° de abril, en cuyo caso, la autorización respectiva podrá concederse para ese mismo año.
+
+Para la presentación del Formulario N° 50, a contar del mismo período tributario correspondiente a la fecha de emisión de la Resolución respectiva.
+
+El contribuyente autorizado a declarar y pagar sus impuestos en moneda extranjera, a través de Resolución, está obligado a declarar y pagar todos los impuestos en moneda extranjera, conforme a lo señalado en el resolutivo N° 3 anterior.
+
+
+7.- Revocación de la autorización.
+
+Si el contribuyente fuera notificado mediante resolución por la Dirección Regional o Dirección Grandes Contribuyentes, según sea el caso, de la revocación de su autorización a llevar contabilidad en moneda extranjera, automáticamente la autorización para declarar y pagar impuestos en moneda extranjera quedará sin efecto, haciéndose efectiva en el caso del Formulario N° 22 a contar de la declaración anual correspondiente al año comercial siguiente al de término de la autorización. Es decir, si el contribuyente es notificado, por ejemplo, de que su autorización para llevar contabilidad en moneda extranjera termina en el mes de Diciembre 2009, la autorización para declarar y pagar se extingue inmediatamente, pero el primer Formulario N° 22 que deberá presentar en moneda nacional será el correspondiente al año comercial 2010, es decir en la Operación Renta, año tributario 2011, pudiendo de este modo declarar y pagar los impuestos correspondientes al año comercial 2009 en moneda extranjera en la Operación Renta, año tributario 2010.
+
+En el caso del Formulario N° 50, la revocación de la autorización para declarar y pagar en moneda extranjera se hará efectiva a contar de la declaración mensual del período tributario correspondiente a Enero del año siguiente al de la fecha de la resolución de revocación.
+
+
+8.- Si el contribuyente desea dejar de declarar y pagar en moneda extranjera y  solicita pagar sus impuestos en moneda nacional.
+
+Si el contribuyente desea dejar de declarar y pagar en moneda extranjera y solicita pagar sus impuestos en moneda nacional, deberá presentar esta solicitud, mediante un formulario de peticiones administrativas (F2117), en la Dirección Regional que corresponda a su domicilio, o en la Dirección Grandes Contribuyentes, cuando se trate de contribuyentes que se encuentren incluidos en la Nómina de Grandes Contribuyentes, en la que deberá indicarse, además de los datos relativos a la individualización del contribuyente y sus representantes, el número y fecha de la Resolución que lo autorizó a dicha declaración y pago.
+En este caso la obligación de declarar y pagar en moneda nacional se hará efectiva para el Formulario N° 22 a contar de la declaración anual correspondiente al año comercial siguiente al de la fecha de la solicitud. En tanto que para el Formulario N° 50 se hará efectiva a contar del período tributario Enero del año comercial siguiente al de la fecha de la solicitud.
+
+Esto quiere decir que un contribuyente que, por ejemplo, desea dejar de declarar y pagar en moneda extranjera y solicita pagar sus impuestos en moneda nacional con fecha  de solicitud mayo 2009, deberá seguir declarando y pagando en moneda extranjera el Formulario N° 50 hasta el período tributario de diciembre 2009, mientras que en el caso del Formulario N° 22 deberá declarar y pagar en moneda extranjera en abril 2010, los impuestos correspondientes al año comercial 2009.
+
+
+9.- Efectos de esta resolución sobre las autorizaciones anteriormente otorgadas.
+
+Los Directores Regionales, así como el Director Grandes Contribuyentes, según sea el caso, deberán emitir resoluciones que dejen sin efecto, a partir del período tributario correspondiente al mes en que esta Resolución sea publicada en el Diario Oficial, la autorización de declarar y pagar en moneda extranjera el Formulario N° 29 a todos aquellos contribuyentes a los que les fue otorgada dicha autorización en forma previa a la publicación de esta Resolución. La mencionada Resolución deberá ser emitida por el Director Regional que tenga jurisdicción sobre el domicilio del contribuyente o Director Grandes Contribuyentes, si el contribuyente pertenece a la nómina de Grandes Contribuyentes, de acuerdo al artículo 61 de la Ley N° 19.880.
+
+Lo anterior, significa que estos contribuyentes, deberán declarar los impuestos contenidos en el Formulario N° 29 en moneda nacional y pagar los impuestos respectivos en moneda nacional, a partir del período tributario correspondiente al mes en que esta Resolución sea publicada en el Diario Oficial.
+
+Para todos los efectos, dichos contribuyentes deberán ajustarse a lo señalado en los resolutivos 1.- al 8.-anteriores, en lo que corresponda.
+
+
+10.- Efectos en la declaración de Pagos Provisionales Mensuales.
+
+De acuerdo a la Resolución Exenta N° 700 del 28.11.2008 de la Dirección de Presupuestos del Ministerio de Hacienda, publicada en el Diario Oficial, se autoriza la declaración y pago en moneda extranjera de los Pagos Provisionales Mensuales a que se refiere el artículo 84, letras a), g) y h), de la Ley sobre Impuesto a la Renta, los cuales se encuentran contenidos en el Formulario N° 29 de Declaración Mensual y Pago Simultáneo.
+
+Los contribuyentes autorizados a declarar y pagar sus impuestos en moneda extranjera, conforme al Resolutivo N° 2 de la presente Resolución, deberán declarar y pagar los impuestos contenidos en el Formulario N° 29 íntegramente en moneda nacional, sin embargo, para hacer efectiva la declaración y pago de los pagos provisionales mensuales correspondientes al artículo 84, letras a), g) y h), de la Ley sobre Impuesto a la Renta, tal como lo permite la Resolución Ex. N° 700 del 28.11.2008 de la Dirección de Presupuesto del Ministerio de Hacienda, los mencionados pagos provisionales mensuales, es decir, los del artículo 84, letras a), g) y h), de la Ley sobre Impuesto a la Renta, deberán declararse en la moneda extranjera autorizada en la actual línea 50 del Formulario N° 50, código  67, de “PPM Voluntarios Art. 88”, correspondiente a Pagos Provisionales Mensuales Voluntarios del artículo 88 del mismo cuerpo legal.
+
+Los contribuyentes que declaren Pago Provisional Mensual Obligatorio, del artículo 84, letras a), g) y h) y Pago Provisional Mensual Voluntario, del artículo 88, todos de la Ley de la Renta, deberán utilizar Formularios 50 independientes para el cumplimiento de cada una de tales obligaciones. Es decir deberán utilizar un (1) Formulario N° 50 para el cumplimiento del Pago Provisional Mensual Obligatorio, del artículo 84, letras a) ó g), otro Formulario N° 50 para el pago del Pago Provisional Mensual del artículo 84 letra h) y otro independiente para el Pago Provisional Mensual Voluntario, del artículo 88.
+
+Sin perjuicio de lo anterior, los contribuyentes, autorizados a declarar y pagar sus impuestos en moneda extranjera, conforme al Resolutivo N° 2 de la presente Resolución, deberán llevar un registro separado, de los Pagos Provisionales Mensuales Obligatorios del artículo 84 a), g) y h) y Pagos Provisionales Mensuales Voluntarios del artículo 88, todos de la Ley de la Renta, que hubieren efectuado conforme a este resolutivo, por el tiempo que se mantenga vigente. 
+
+Dado que el Pago Provisional Mensual Obligatorio, del artículo 84, letras a), g) y h) no pierde su carácter de obligatorio por el hecho de permitirse su declaración y pago en el Formulario N° 50, ello implica que el contribuyente deberá cumplir con dicha obligación tributaria dentro de los primeros 12 días del mes siguiente al cual corresponden los ingresos brutos que generan estos Pagos Provisionales Mensuales Obligatorios.
+
+No obstante lo anterior, estos contribuyentes autorizados a declarar y pagar sus impuestos en moneda extranjera, deberán declarar de la siguiente manera su Formulario N° 29, en lo que respecta a los Pagos Provisionales Mensuales del artículo 84 letras a), g) y h) de la Ley de la Renta: 
+
+a)	Deberán declarar en la columna “Base Imponible”, (códigos 563, 120 ó 701 según corresponda a la línea que declara), el monto correspondiente en moneda nacional. Para efectos de declarar estos códigos en moneda nacional, el monto de los Ingresos Brutos del período, determinados en moneda extranjera, deberá convertirlos a moneda nacional, aplicando el tipo de cambio vigente el último día hábil del período tributario por el cual se está efectuando la declaración.
+
+Deberán declarar en la columna “Tasa”, (códigos 115, 542 ó 702, según corresponda a la línea que declara), la tasa porcentual, conforme a lo señalado por el artículo 84 de la Ley de la Renta.
+
+Deberán declarar en la columna “Créditos” (códigos 68, 122, 711, según corresponda a la línea que declara), el que corresponde a los créditos señalados en las instrucciones del Formulario N° 29 para estos códigos los cuales deberán estar expresados en moneda nacional. En el caso de los Pagos Provisionales Mensuales Voluntarios, del artículo 88 de la Ley de Impuesto a la Renta declarados en moneda extranjera a través del Formulario N° 50, correspondientes a períodos tributarios anteriores del ejercicio comercial, que se impute al cumplimiento del Pago Provisional Mensual Obligatorio del período a declarar y en el caso de las Patentes Mineras de Explotación, del artículo 164 del Código de Minería pagados en moneda extranjera se debe utilizar para la conversión a moneda nacional, el tipo de cambio vigente al último día hábil del período tributario por el cual se está declarando el crédito en el Formulario N° 29.
+ 
+Deberán declarar en la columna “PPM Neto Determinado” (códigos 62, 123, 703, según corresponda a la línea que declara), el que corresponde al Pago Provisional Mensual Neto determinado de la siguiente manera:
+Los contribuyentes que no imputan créditos especiales que se declaran en las actuales líneas 95 a 98 del Formulario 29, es decir, Patentes de Derechos de Aguas, Ley N° 20.017; Crédito Especial Empresas Constructoras; Recuperación Peajes Transportistas de Pasajeros, Ley N° 19.764 o el Crédito por Gastos de Capacitación de Trabajadores, del artículo 6 de la Ley N° 20.326, también declarado en el Formulario N° 29, deberán declarar en esta columna el valor 0 (cero).
+Los contribuyentes que imputan créditos especiales que se declaran en las actuales líneas 95 a 98 del Formulario 29, es decir, Patentes de Derechos de Aguas, Ley N° 20.017; Crédito Especial Empresas Constructoras; Recuperación Peajes Transportistas de Pasajeros, Ley N° 19.764 o el Crédito por Gastos de Capacitación de Trabajadores, del artículo 6 de la Ley N° 20.326, también declarado en el Formulario N° 29, deberán declarar en esta columna un monto en moneda nacional tal que permita la imputación de los mencionados créditos. Para este efecto, deberán utilizar el tipo de cambio vigente al último día hábil del período tributario en que se declaran.
+De este modo el monto de los Pagos Provisionales Mensuales Obligatorios, declarados por el contribuyente en el Formulario N° 29, para los efectos indicados o para los efectos de hacer procedentes las imputaciones referidas, deberán descontarse del monto a declarar y pagar en moneda extranjera en el Formulario N° 50. 
+11.- Situación de los contribuyentes autorizados sólo a llevar su contabilidad en moneda extranjera. 
+Los contribuyentes que hayan sido autorizados a llevar su contabilidad en moneda extranjera de acuerdo a lo instruido en la Resolución Exenta N° 62 de 14 de Mayo de 2008, pero que no han sido autorizados para declarar y pagar sus impuestos en moneda extranjera, estarán obligados a realizar dicha declaración y pagar todos sus impuestos en moneda nacional.
+Con el fin de realizar las conversiones necesarias para efectuar sus declaraciones de impuestos en moneda nacional, estos contribuyentes deberán utilizar el tipo de cambio vigente a la fecha de determinación del impuesto, sea éste mensual o anual, el que corresponderá al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.
+En estos casos los contribuyentes que lo deseen podrán solicitar autorización ante la Dirección Regional o Dirección de Grandes Contribuyentes, según corresponda, para declarar y pagar los impuestos en moneda extranjera, conforme a las instrucciones de la presente Resolución.
+12.- Derogación de Resoluciones e instrucciones administrativas impartidas con anterioridad. 
+A contar de la publicación de esta Resolución en el Diario Oficial, quedan sin efecto las siguientes instrucciones: 
+Res. Ex. N° 5.396 del 07.12.2000, modificada por Res. Ex. N° 03 del 09.01.2001 y por Res. Ex. N° 44 del 20.04.2006 
+Circular N° 22 del 30.03.2001
+Circular N° 24 del 20.04.2006  
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+				(Fdo.) RICARDO ESCOBAR CALDERÓN
+							             DIRECTOR
+
+	Lo que transcribo a usted para su conocimiento y demás fines.
+
+
+Distribución:
+-  Al Boletín.
+-  A Internet.
+-  Al Diario Oficial en Extracto.
+

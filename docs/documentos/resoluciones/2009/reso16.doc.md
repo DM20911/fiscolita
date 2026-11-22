@@ -1,0 +1,67 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso16.doc
+titulo: Word – Resolución Exenta SII N°16 del 04 de Febrero del 2009 Modifica Resolución Nº 4.497 de 17.10.94 y Modelo de Certificado Nº 9 Establecido en Circular Nº 32 de 11.07.94. Fuente: Departamento Personas y Micro y Pequeñas Empresas
+categoria: otros
+---
+RESOLUCION EXENTA SII N°16 DEL 04 DE FEBRERO DEL 2009 MATERIA: MODIFICA RESOLUCIÓN Nº 4.497 DE 17.10.94 Y MODELO DE CERTIFICADO Nº 9 ESTABLECIDO EN CIRCULAR Nº 32 DE 11.07.94. 
+Hoy se ha resuelto lo que sigue:
+VISTOS : Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N°. 7, de 1980, del Ministerio de Hacienda; en el artículo 6º letra A) N° 1 del Código Tributario, contenido en el artículo 1º del DL N°. 830, de 1974; y en los artículos 42 bis y 50 inciso tercero de la Ley de Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974, modificados por Ley N° 20.255 publicada en el Diario Oficial el 17 de Marzo de 2008
+
+
+CONSIDERANDO:
+
+
+1.- Que, la Ley N° 20.255 publicada en el Diario Oficial con fecha 17 de Marzo de 2008, introduce modificaciones al Art. 42 Bis de la Ley de la Renta e incorpora el  Artículo 20 L al DL 3500 de 1980, estableciéndose en este último precepto legal que los trabajadores podrán optar por alguno de los siguientes regímenes tributarios:
+
+a) Que al momento del depósito de ahorro, el trabajador no goce del beneficio establecido en el número 1 del artículo 42 bis de la Ley sobre Impuesto a la Renta, por los aportes que él efectúe como cotizaciones voluntarias, ahorro previsional voluntario colectivo o ahorro previsional voluntario, y que al momento del retiro por el trabajador de los recursos originados en sus aportes, la parte que corresponda a los aportes no sea gravada con el impuesto único establecido en el número 3 de dicho artículo; o 
+
+b) Que al momento del depósito de ahorro, el trabajador goce del beneficio establecido en el número 1 del artículo 42 bis de la Ley sobre Impuesto a la Renta, por los aportes que él efectúe como cotizaciones voluntarias, ahorro previsional voluntario colectivo o ahorro previsional voluntario, y que al momento del retiro por el trabajador de los recursos originados en sus aportes, éstos sean gravados en la forma prevista en el número 3 de dicho artículo.
+
+2.- Asimismo, en el inciso segundo del citado artículo 20 L del D.L. N° 3.500, de 1980, en concordancia con lo señalado en el inciso segundo del artículo 42 bis de la Ley de la Renta, se establece que: “En el caso que el trabajador se acoja al régimen tributario señalado en la letra a) anterior, la rentabilidad de los aportes retirados quedará sujeta al régimen tributario aplicable a la Cuenta de Ahorro Voluntario, a que se refiere el artículo 22 del D.L N° 3.500/80 y se determinará en la forma prevista en dicho artículo.
+
+
+
+
+SE RESUELVE:
+1.- Modifícase la Resolución  Ex Nº 4.497, publicada en el D.O. de 24.10.94, modificada por Resoluciones Exs. Nºs. 5.534 y 6.172, publicadas en el D.O. de 03.12.96 y 16.12.97, respectivamente, en los siguientes términos: 
+Incorporase el siguiente resolutivo Nº 2 pasando los Resolutivos 2, 3, 4 y 5 a ser 3, 4, 5 y 6, respectivamente: : " Las Administradoras de Fondos de Pensiones, Bancos, Instituciones Financieras, Administradoras de Fondos Mutuos, Compañías de Seguros de Vida, Administradoras de Fondos de Inversión, Administradoras de Fondos para la Vivienda y otras instituciones autorizadas por las Superintendecias del ramo, que  administren Ahorros Previsionales Voluntarios acogidos al beneficio tributario establecido en el  inciso segundo del artículo 42 bis de la Ley de Impuesto a la Renta, deberán enviar al Servicio de Impuestos Internos, hasta el 31 de Marzo de cada año, los antecedentes relativos a los ahorrantes, que han efectuado retiros de dichos ahorros durante el año anterior a aquél en que se informa.”
+
+Sustituyese el resolutivo Nº 3 que pasa a ser 4 por el siguiente: La mencionada información sólo deberá proporcionarse mediante la transmisión electrónica de datos vía INTERNET, haciendo referencia al Formulario Nº 1889 de "Declaración Jurada Anual sobre Cuentas de Ahorro Voluntario sujetas a las disposiciones generales de la Ley de Impuesto a la Renta y Ahorros Previsionales Voluntarios acogidos al inciso segundo del artículo 42 bis de la Ley de Impuesto a la Renta”, que se adjunta como Anexo N° 1 a la presente Resolución y que para todos los efectos legales se considera como parte integrante de ésta.
+
+En el Resolutivo N° 4 que pasa a ser 5 sustituye la expresión “Administradora de Fondos de Pensiones” por “instituciones de las indicadas en los resolutivos N°s. 1 y 2 anteriores”.
+
+Sustituyese el Modelo de Certificado Nº 9 y sus respectivas instrucciones de llenado “Sobre Retiros Efectuados de las Cuentas de Ahorro Voluntario establecidas en el artículo 21 del D.L. N° 3.500 de 1980, sujetas a las disposiciones generales de la Ley de la Renta” contenido en Circular N° 32, del 11.07.94, por el que se adjunta como Anexo N° 2 a la presente resolución y que para todos los efectos legales se considera  parte integrante de ésta.
+
+
+2.-Lo establecido en la presente resolución regirá a contar del Año Tributario 2009, respecto del movimiento de las cuentas de ahorro a que ella se refiere ocurrido durante el año calendario 2008 y siguientes.
+
+
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO. 
+
+
+
+
+ 
+(FDO.) PABLO GONZÁLEZ SUAU
+DIRECTOR (S)
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+IBC/CMC/PCG/jjm
+DISTRIBUCION
+AL BOLETIN
+A INTERNET
+AL DIARIO OFICIAL
+
+
+Anexo 1:  HYPERLINK "reso16_anexo1.pdf" Modelo Formulario N° 1889
+Anexo 2:  HYPERLINK "reso16_anexo2.pdf" Modelo Certificado N° 9 
+
+
+
+

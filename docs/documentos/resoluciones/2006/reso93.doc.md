@@ -1,0 +1,264 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2006/reso93.doc
+titulo: Word – Resolución Exenta SII N°93 del 02 de Agosto del 2006 Complementa Res. Ex. SII N° 45, De 01.09.2003 y Res. Ex. SII N° 86, De 01.09.2005, Permitiendo La Incorporación Al Sistema De Facturación Electrónica De Personas y Entidades Que No Son Contribuyentes De IVA. Fuente: Oficina de Factura Elect
+categoria: otros
+---
+RESOLUCION EXENTA SII N°93 DEL 02 DE AGOSTO DEL 2006 MATERIA : COMPLEMENTA RES. EX. SII N° 45, DE 01.09.2003 Y RES. EX. SII N° 86, DE 01.09.2005, PERMITIENDO LA INCORPORACIÓN AL SISTEMA DE FACTURACIÓN ELECTRÓNICA DE PERSONAS Y ENTIDADES QUE NO SON CONTRIBUYENTES DE IVA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el N° 1, de la letra A), del Art. 6°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en los incisos 3° y 4° del Art. 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; la Circular N° 39, de 2000; la Res. Ex. N° 6080, de 1999; la Res. Ex. SII N° 45, de 2003; la Res. Ex. SII N° 86, de 2005; la Res. Ex. SII N° 93, de 2005; y
+
+
+CONSIDERANDO:
+
+
+1° Que, el sistema de Facturación Electrónica ha demostrado ser eficiente, seguro, que facilita el cumplimiento tributario y permite la obtención de importantes beneficios económicos por parte de los contribuyentes usuarios de este sistema.
+
+2° Que, en uso de las facultades de esta Dirección, se ha estimado necesario establecer normas con el propósito de permitir la incorporación al Sistema de Facturación Electrónica de personas que no son contribuyentes de IVA y que sólo emiten documentación no afecta o exenta de dicho tributo.
+
+
+SE RESUELVE:
+
+
+1° AUTORÍZASE a personas naturales, jurídicas y entes sin personalidad jurídica que no son contribuyentes de IVA, a incorporarse al sistema de Facturación Electrónica, previo cumplimiento de los siguientes requisitos:
+
+Calificar como contribuyente de primera categoría, de acuerdo a lo indicado en el Art. 20 de la Ley sobre Impuesto a la Renta, contenida en el Art. 1° del D.L. N° 824, de 1974.
+Haber realizado y mantener vigente el trámite de inicio de actividades.
+No tener la condición de querellado, procesado o, en su caso, acusado por delito tributario, o condenado por este tipo de delito hasta el cumplimiento total de su pena.
+
+2° Adicionalmente, deberán cumplir con el proceso de certificación y con las obligaciones establecidas en la Res. Ex. SII N° 45, de Septiembre de 2003, considerando para ésto sólo las características propias de la solicitud de emisión de Facturas No Afectas o Exentas Electrónicas, Notas de Crédito Electrónicas, Notas de Débito Electrónicas y, eventualmente, Guías de Despacho Electrónicas, de acuerdo a las normas y procedimientos indicados en la Oficina Virtual de este Servicio en Internet,  HYPERLINK "http://www.sii.cl" www.sii.cl.
+
+3° Asimismo, podrán acogerse a la presente Resolución aquellos contribuyentes que cumplan con lo establecido en el resolutivo primero, se inscriban para estos efectos en el Sistema de Facturación Electrónica del Portal Tributario MIPYME, habilitado por este Servicio en su Oficina virtual en Internet ( HYPERLINK "http://www.sii.cl" www.sii.cl), y adicionalmente cumplan con los siguientes requisitos:
+
+a)	Haber emitido 500 facturas o menos en los últimos 12 meses y tener ventas anuales que no superen los $300.000.000. 
+b)	El Contribuyente, el Representante Legal del Contribuyente y los usuarios por él autorizados no deben presentar situaciones pendientes con el SII, tales como: no ubicado, no declarante de impuestos o que se encuentren en situaciones de inconcurrencia a citaciones de este Servicio.
+
+La autorización otorgada en virtud de la presente resolución a los contribuyentes que se inscriban en el sistema aludido precedentemente, tendrá validez a contar de la fecha de confirmación de la inscripción del contribuyente.
+
+4° Los contribuyentes que habiendo sido autorizados como emisores electrónicos de acuerdo a lo establecido por la presente resolución, requieran emitir Factura de Exportación Electrónica, Nota de Débito de Exportación Electrónica y Nota de Crédito de Exportación Electrónica, deberán seguir el procedimiento establecido en la Res. Ex. SII N° 93, del 22 de Septiembre de 2005. 
+
+5° Los contribuyentes que hayan obtenido esta autorización, no podrán solicitar ni emitir Documentos Electrónicos relativos a operaciones afectas a IVA. Para tal fin, deberán postular como contribuyentes de dicho impuesto y cumplir con los requisitos señalados en la Res. Ex. SII N° 45, de 2003 y en la Res. Ex. SII N° 86, de 2005, según corresponda.
+
+6° Si un emisor electrónico ha emitido una Factura No Afecta o Exenta Electrónica, la cual ha sido aceptada por el SII y contiene errores en la parte identificatoria de la misma, consistente en el domicilio, giro comercial o comuna, podrá emitir una Nota de Crédito Electrónica para corregir dichos datos. Esta Nota de Crédito Electrónica debe cumplir las siguientes especificaciones:
+
+a)	Consignar correctamente los datos de identificación del comprador.
+b)	Identificar en la sección “Referencias” el folio y fecha de la Factura No Afecta o Exenta Electrónica a ser corregida.
+c)	Indicar en la sección “Detalle” la siguiente glosa: “Donde dice.....debe decir....”.
+d)	En ningún caso podrá valorizarse dicha Nota de Crédito. 
+
+Esta forma de operación no podrá utilizarse para corregir el RUT del emisor ni del receptor.
+
+7° Si un documento tributario electrónico ha sido aceptado por el  Servicio de Impuestos Internos y se detecta posteriormente que éste debe ser anulado, se deberá proceder en la forma siguiente: 
+
+a)	Si el documento que debe anularse es una Factura No Afecta o Exenta Electrónica, se deberá emitir en el mismo período tributario, o a más tardar en el período tributario siguiente, una Nota de Crédito Electrónica, la cual deberá contener un campo que indique que se trata de una anulación.  
+b)	Si se requiere anular una Nota de Crédito Electrónica, se deberá emitir en el mismo período tributario, o a más tardar en el período tributario siguiente, una Nota de Débito Electrónica. Del mismo modo, si es necesario anular una Nota de Débito Electrónica, deberá emitirse en el mismo período tributario, o a más tardar en el período tributario siguiente, una Nota de Crédito Electrónica. En ambos casos, los documentos deberán contener un campo que indique que se trata de una anulación. 
+
+La Nota de Crédito Electrónica y la Nota de Débito Electrónica que se emitan en la forma señalada en los párrafos precedentes, deberán ser exentas o no afectas del Impuesto a las Ventas y Servicios (IVA).
+
+8° Para solicitar la emisión de Guías de Despacho Electrónicas, el contribuyente deberá contar, previo a la solicitud, con la verificación positiva de actividades en terreno, de acuerdo a lo indicado en la Circular N° 10, de 1998, de este Servicio.
+
+9° Respecto de aquellos contribuyentes que cumplan el proceso de certificación obligatorio a que se hace mención en el resolutivo segundo de la presente Resolución, este Servicio emitirá periódicamente una resolución autorizando y estableciendo el primer período de vigencia. El extracto de aquella resolución será publicado en el Diario Oficial.
+
+10° Delégase en el Subdirector de Fiscalización, la facultad de autorizar como emisores electrónicos para operar en el sistema de Facturación Electrónica, a los contribuyentes personas naturales, jurídicas y entes sin personalidad jurídica, que no son contribuyentes de IVA y que cumplan los requisitos establecidos en los dispositivos primero y segundo de esta Resolución. Las autorizaciones que se otorguen en virtud de la facultad que se delega en este dispositivo, deberán citar por su número y fecha, la Res. Ex. SII N° 45, de 2003.
+
+Para cualquier efecto en que se requiera consignar el número y fecha de la resolución que autoriza como emisores electrónicos a los contribuyentes a que se refiere el dispositivo 3° de esta Resolución, se deberá citar el número y fecha de la Res. Ex. SII N° 86, de 01 de Septiembre de 2005.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+         (Fdo.) RICARDO ESCOBAR CALDERÓN
+        	   							         DIRECTOR
+
+    Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+
+
+
+
+
+
+ERH/IBC/MPM
+DISTRIBUCION:
+-	Secretaría Director
+-	Subdirección Normativa
+-	Subdirección Jurídica
+-	Sres. Directores Regionales 
+I a XVI Direcciones Regionales
+-	Director Dirección Grandes Contribuyentes
+-	Subdirección de Fiscalización 
+-	Oficina de Partes
+-	Boletín
+-	Internet
+-	Diario Oficial (Extracto)	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

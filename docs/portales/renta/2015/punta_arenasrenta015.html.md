@@ -1,0 +1,18 @@
+---
+url: https://www.sii.cl/portales/renta/2015/punta_arenasrenta015.html
+titulo: CALENDARIO Y LUGARES DE ASISTENCIA RENTA-2015
+categoria: portal
+---
+# Punta Arenas
+
+**ATENCIÓN OFICINAS SII**
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **COMUNA** | **LUGAR** | **DIRECCIÓN** | **FECHA** | **HORARIO DE ATENCIÓN** |
+| PORVENIR | UNIDAD | BDO PHILLIPI 175 | 1 AL 30 DE ABRIL | LUNES A JUEVES DE   8:30 A 18:30 HRS. |
+| VIERNES DE   8:30 A 13:00 HRS. |
+| NATALES | UNIDAD | BULNES 531 | 1 AL 30 DE ABRIL | LUNES A JUEVES DE  17:00 A 20:00 HRS. |
+| VIERNES DE 16:00 A 19.00 HRS. |
+| PUNTA ARENAS | OFICINA | PLAZA MUÑOZ GAMERO 1007 PISO 2 | 1 AL 30 DE ABRIL | LUNES A JUEVES  DE   17:00 A 20:00 HRS. |
+| VIERNES DE 16:00 A 19.00 HRS. |

@@ -1,0 +1,78 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso06_anexo2.doc
+titulo: Anexo 2 – ANEXOS . Anexo 1 . . Anexo 3 . Anexo 4
+categoria: otros
+---
+INSTRUCCIONES
+Formulario 1851
+Declaración Jurada Anual sobre Inversiones de carácter Permanente en Sociedades Extranjeras.
+
+
+La presente Declaración Jurada, deberá ser presentada por los contribuyentes personas jurídicas o naturales con domicilio o residencia en Chile que mantengan  inversiones en derechos sociales o acciones de empresas o sociedades constituidas en el extranjero en las cuales el inversionista participe directa o indirectamente en la dirección, control, capital o utilidades.
+
+Esta información deberá presentarse con independencia de la fecha en que se adquirieron los derechos sociales o acciones de las empresas o sociedades constituidas en el extranjero, o si la inversión se encuentra registrada en el Registro de Inversiones en el Extranjero, que para efectos del Art. 41A letra C N° 2, lleva el Servicio de Impuestos Internos. 
+
+Plazo de Presentación: Antes del 15 de Marzo de cada año.
+
+Se debe identificar el tipo de Declaración en el cuadro correspondiente (Original o Rectificatoria), marcando con una “X” si es original o, indicando el número de Rol Único Tributario y el número de folio de la declaración anterior, en caso de tratarse de una Declaración Rectificatoria.
+
+Sección A: IDENTIFICACIÓN DEL DECLARANTE. (Inversionista)
+
+En esta sección deben señalarse los datos relativos a la identificación del contribuyente inversionista, indicando su número de RUT, Nombre o Razón Social, domicilio postal, comuna, correo electrónico y número de fax y número de teléfono (en estos dos últimos casos se debe anotar el número incluyendo su código de área de discado directo).
+
+Sección B: DATOS DE LOS INFORMADOS: (Antecedentes sobre el monto de la inversión y de las empresas o sociedades receptoras de la inversión) Todos los montos deben ser declarados en pesos chilenos ($).
+
+Antecedentes de las empresas o sociedades receptoras de la inversión
+
+Razón Social de las empresas o sociedades en las cuales se tiene participación: Indicar el nombre o razón social de la empresa o sociedad en que se tiene participación en el extranjero.
+
+Tax ID. Deberá registrarse en forma legible, cuando corresponda, el código de administración tributaria o de identificación que tiene la empresa o sociedad en el país extranjero.
+
+Código País de residencia: Indicar la sigla del país en el cual se encuentra constituida la empresa o sociedad en la cual se poseen derechos sociales o acciones, de acuerdo a la lista que se encuentra para tal efecto en el Suplemento Declaraciones Juradas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+En la columna “Tipo de Relación”. Indicar el número correspondiente al tipo de relación existente, o la de mayor preponderancia, entre el declarante y el receptor de la renta; ya sea que se trate de empresas (1) Matrices, (2) Agencias o establecimientos permanentes, (3) Filiales, (4) Controladores, (5) Coligadas, (6) Participación directa o indirecta en el capital o en las utilidades. (Menor al 10%), (7) Participación directa o indirecta en la dirección, control o administración, (8) Se encuentren directa o indirectamente bajo un socio o accionista común. En caso de no presentarse las relaciones descritas anteriormente, optar por alguna de las siguientes alternativas: (9) Contratos de exclusividad, (10) Acuerdo de actuación conjunta, (11) Tratamientos preferenciales, (12) Dependencia financiera o económica, (13) Depósitos de confianza, (14) Otra.
+
+Monto de las Inversiones
+
+Tipo de inversión: Indicar el tipo de inversión de que se trata, esto es (1) Derechos sociales (2) Acciones (3) Otro tipo de participación en sociedades constituidas en el extranjero.
+
+Monto actualizado de inversión realizada durante el ejercicio: Indicar el monto correspondiente a la inversión realizada en el ejercicio, debidamente actualizada al 31 de diciembre, de acuerdo con lo que al efecto dispone el Art. 41° N° 4 de la Ley de la Renta, ello en conformidad a lo señalado por el Art. 41°B N°4 de este mismo texto legal.
+
+Monto actualizado de inversión acumulada al 31 de diciembre: Indicar el monto correspondiente a la inversión acumulada al 31 de diciembre, debidamente actualizada a la misma fecha, de acuerdo con lo que al efecto dispone el Art. 41° N° 4 de la Ley de la Renta, ello en conformidad a lo señalado por el Art. 41°B N°4 de este mismo texto legal.
+
+Resultado de las Inversiones. 
+En el caso de contribuyentes obligados a llevar contabilidad o que han optado por llevarla, las utilidades percibidas deben ser declaradas en sus montos históricos, como ingresos brutos a la fecha de su percepción. 
+En el caso de contribuyentes no obligados a llevar contabilidad, los montos deben ser actualizados por la variación del índice de precios al consumidor (VIPC) existente entre el último día del mes anterior al de su percepción y el último día del mes anterior al del cierre del ejercicio respectivo. Si el resultado es negativo anótelo entre paréntesis.
+
+Dividendos o retiros percibidos: Indicar el monto total de los dividendos percibidos durante el ejercicio. 
+
+Utilidad o pérdida obtenida en enajenación de acciones o derechos sociales: Indicar el monto total de la utilidad o pérdida obtenida en las enajenaciones de derechos sociales o acciones realizadas durante el ejercicio. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+

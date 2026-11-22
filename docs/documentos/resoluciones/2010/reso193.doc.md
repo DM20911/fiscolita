@@ -1,0 +1,49 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso193.doc
+titulo: Word – Resolución Exenta SII N°193 del 24 de Diciembre del 2010 Modifica Resolución N° 379, de 04 de Diciembre de 1991, y Fija Atribuciones, Obligaciones, Responsabilidades y Funciones del Departamento de Operaciones Dependiente de la Subdirección de Fiscalización. Fuente: Subdirección de Fiscalizac
+categoria: otros
+---
+RESOLUCION EXENTA SII N°193 DEL 24 DE DICIEMBRE DEL 2010 MATERIA : MODIFICA RESOLUCIÓN N° 379, DE 04 DE DICIEMBRE DE 1991, Y FIJA ATRIBUCIONES, OBLIGACIONES, RESPONSABILIDADES Y FUNCIONES DEL DEPARTAMENTO DE OPERACIONES DEPENDIENTE DE LA SUBDIRECCIÓN DE FISCALIZACIÓN.
+Hoy se ha resuelto lo que sigue:
+VISTOS: Las necesidades del Servicio; lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; las facultades que se me confieren en las letras c) y ñ)  del artículo 7° de este mismo cuerpo legal;  lo dispuesto en la Resolución N° 379, de 4 de diciembre de 1991, modificada por Resoluciones Ex. N°s. 43, 89, 160 y 63, de 31 de marzo del 2004, 26 de julio del 2006, 31 de diciembre de 2007 y 08 de mayo de 2009, respectivamente, y lo establecido en la Resolución Ex. N° 7.590, de 15 de noviembre de 1999, modificada por la Resolución Ex. SII N° 198, de 22 de diciembre de 2009, todas de esta Dirección Nacional; y,
+ 
+CONSIDERANDO:   
+
+1°.- Que, la Ley Orgánica de este Servicio, ya citada, encarga a este organismo la fiscalización de todos los impuestos internos actualmente establecidos, o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco, y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
+2°.- Que, al Subdirector de Fiscalización, según lo dispuesto en la Resolución Ex. SII N° 7590 de 1999, modificada por la Resolución Ex. SII N° 198, de 22 de diciembre de 2009, le corresponden, entre otras atribuciones, responsabilidades y obligaciones, proponer, al Director, el reordenamiento o reorganización de Departamentos y Oficinas de la Subdirección para el mejor desempeño de esta.
+3°- Que, se ha estimado necesario modificar la actual estructura de la Subdirección de Fiscalización, a fin de optimizar los procedimientos de fiscalización y maximizar las labores propias de la citada Unidad.
+
+RESUELVO:   
+
+1° REEMPLÁZASE, a partir del 01 de enero de 2011, en el N° 4 de la letra A de la Resolución N° 379, de 1991, modificada por las Resoluciones Ex. N°s. 43, 89, 160 y 63, de 31 de marzo del 2004, 26 de julio del 2006, 31 de diciembre de 2007 y 08 de mayo de 2009, respectivamente, la expresión “Departamento de Procesos Masivos de Fiscalización” por “Departamento de Operaciones”. 
+2°  A partir de la entrada en vigencia de la presente resolución, al Departamento de Operaciones le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones: 
+Administrar los Sistemas de Renta en Línea y de Internet relacionados con las Declaraciones Anuales de los Impuestos a la Renta (declaraciones juradas y formulario 22), de forma tal de lograr un control y fiscalización sistemático y computacional, de los formularios que contienen las declaraciones de dichos impuestos, presentadas por los contribuyentes, sea a través de medios tecnológicos, electrónicos, magnéticos o en papel;
+Administrar la recepción y el procesamiento de las Declaraciones de los Impuestos Anuales a la Renta (Formulario 22), y de los giros, rectificatorias y declaraciones juradas relacionadas con aquellas;
+Mejorar la calidad y oportunidad de la información que se origina en los procesos o subprocesos relacionados con la “Operación Renta Anual”;
+Implementar nuevos formularios para efectuar las declaraciones juradas que deben presentar los agentes retenedores e informantes, para ser utilizados en la “Operación Renta Anual”;
+Implementar y efectuar los cruces masivos de datos relacionados con la “Operación Renta Anual” y efectuar el proceso de control de las devoluciones de saldos de impuestos que resulten a favor de los contribuyentes;
+Coordinar e implementar las comunicaciones masivas a los contribuyentes de los Impuestos a la Renta, tales como: notificaciones, citaciones, resoluciones, liquidaciones  y aquellas destinadas a  los no declarantes o subdeclarantes de estos impuestos;
+Coordinar con otras áreas del Servicio el desarrollo de proyectos relacionados con la “Operación Renta Anual”;
+Coordinar con otras áreas del Servicio la publicación de Suplementos Tributarios con instrucciones para la preparación y presentación de las declaraciones de los Impuestos Anuales a la Renta y de las declaraciones juradas que deben presentar los agentes retenedores e informantes;
+Administrar el Sistema de RIAC y el Trámite de Término de Giro, y la implementación de mejoras y optimización al sistema actual;
+Administrar los Sistemas SIMNET, SIF-M Comex, u otros que se desarrollen  relacionados con las declaraciones de Impuestos a las Ventas y Servicios (declaraciones juradas y formularios 29 y 50), de modo de lograr un control y fiscalización  masivo y computacional de los formularios que contienen las declaraciones mensuales de impuestos presentadas por los contribuyentes, sea a través de medios tecnológicos, electrónicos, magnéticos o en papel;
+Administrar la recepción y el procesamiento de las Declaraciones Mensuales de los Impuestos a las Ventas y Servicios (formularios 29 y 50) y de los giros, rectificatorias y declaraciones juradas relacionados con aquellas;
+Mejorar la calidad y oportunidad de la información originada en los procesos o subprocesos relacionados con la “Operación IVA”;
+Implementar y procesar los cruces masivos relacionados con la “Operación IVA”: y efectuar el proceso de control de las devoluciones de impuestos que resulten a favor de los contribuyentes;
+Coordinar e implementar las comunicaciones masivas a los contribuyentes de los Impuestos a las Ventas y Servicios, tales como: citaciones, resoluciones, liquidaciones de declaración y pago simultáneo mensual y aquellas destinadas a no declarantes o subdeclarantes de estos impuestos; 
+Administrar la recepción y el procesamiento de las Declaraciones Mensuales de Impuesto de Timbres y Estampillas (formularios 24 y 24.1) y de los giros, rectificatorias y declaraciones juradas relacionados con aquellas;
+Administrar, mantener y realizar las mejoras a otros sistemas actuales o futuros de fiscalización que sean utilizados en las Direcciones Regionales o en Internet para los contribuyentes.
+Otras actividades que el Subdirector de Fiscalización estime de la competencia de este Departamento.”
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ 
+(Fdo.) JULIO PEREIRA GANDARILLAS
+                        DIRECTOR
+
+
+Lo que transcribo para su conocimiento y demás fines,
+
+Distribución: -   A Internet
+-   Al Boletín
+-   Al Diario Oficial en extracto. 
+

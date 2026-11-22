@@ -1,0 +1,64 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso22.doc
+titulo: Word – Resolución Exenta N°22 del 11 de Octubre del 2002 Dispone la atención de los contribuyentes de Comuna de Navidad por la Unidad de San Antonio. Fuente: Subdirección de Fiscalización.
+categoria: otros
+---
+RESOLUCION EXENTA N°22 DEL 11 DE OCTUBRE DEL 2002 MATERIA : DISPONE LA ATENCIÓN DE LOS CONTRIBUYENTES DE COMUNA DE NAVIDAD POR LA UNIDAD DE SAN ANTONIO.
+
+
+VISTOS: las facultades que me confiere la letra ñ) del Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, 1980, del Ministerio de Hacienda; los antecedentes que se mencionan en la parte considerativa; la necesidad de facilitar a los contribuyentes de la Comuna de Navidad, de la VI Región, el cumplimiento de sus obligaciones tributarias, y
+
+
+CONSIDERANDO:
+
+
+1°.-  Que el Alcalde de la I. Municipalidad de la Comuna de Navidad de la VI Región, para los efectos tributarios y hasta tanto se produzca el hecho señalado en el considerando No. 2, mediante el Oficio Ordinario N° 056, de 2 de abril de 2002, solicitó a esta Dirección Nacional que los contribuyentes de la mencionada Comuna sean atendidos por la Unidad de San Antonio de este Servicio, dependiente de la Dirección Regional de Valparaíso, V Región, en atención a las dificultades que experimentan estos contribuyentes para dar cumplimiento a sus trámites tributarios, al tener que  trasladarse para tales efectos desde Navidad a Pichilemu o a San Fernando. 
+Estos inconvenientes, según se expresa en el citado Oficio alcaldicio, dicen relación con las distancias que éstos deben recorrer, el tiempo que deben emplear en estos desplazamientos y a la falta de medios de locomoción colectiva. Se señala en el mismo Oficio que, en cambio, la Comuna de Navidad se encuentra ubicada geográficamente al noroeste de la VI Región, en el límite de la V Región y distante sólo a 68 kilómetros de la ciudad de San Antonio.
+De manera que, esta Dirección estima necesario, sólo para los efectos tributarios y en forma transitoria, desafectar la comuna de Navidad de la jurisdicción de la VI Dirección Regional de Rancagua e incorporarla a la V Dirección Regional de Valparaíso. 
+
+2°.- Que el señor Intendente de la VI Región, mediante Oficio Res. N° 78, de 14 de agosto de 2002, ha procedido a autorizar de un modo transitorio, esto es, hasta tanto se ejecute el proyecto de mejora vial desde Navidad a Litueche, la atención de los contribuyentes de la Comuna de Navidad por la Unidad de San Antonio de la V Región, de este Servicio.
+
+3°.- Que, a su vez, el señor Intendente (S) de la V Región, a través del Oficio Ord. N° 4/1780, de 13 de septiembre de 2002, otorga su anuencia para que se dé curso a la iniciativa mencionada en el considerando anterior en el ejercicio de la atribución contemplada en el Art. N°2 letra j) de la Ley N° 19.175.
+
+4°.- Que los Directores Regionales de las Direcciones Regionales de Valparaíso y Rancagua de este Servicio, mediante los Oficios Ord. N°s. 11, de 23 de abril de 2002, y N° 50, de  24 de septiembre de 2002, respectivamente, han expresado su acuerdo con la medida ya señalada.
+
+5°.- Que, por su parte, esta Dirección Nacional coincide también en que esta medida resulta beneficiosa para los habitantes de la Comuna de Navidad de la VI Región y que la misma se inscribe en la idea de facilitar a los contribuyentes el cumplimiento voluntario a las obligaciones tributarias. 
+
+SE RESUELVE:
+
+1.-  La Comuna de Navidad, situada en la VI Región, para los efectos tributarios, pasa a formar parte del territorio jurisdiccional de la unidad de San Antonio, dependiente de la V Dirección Regional de Valparaíso, de este Servicio, y deja de pertenecer a la unidad de Pichilemu, dependiente de la VI Dirección Regional de Rancagua de este Servicio. Dicho cambio de jurisdicción es transitorio.
+
+2.-  Las reclamaciones y todos los asuntos correspondientes a los contribuyentes domiciliados en la Comuna de Navidad que se hayan iniciado o que se inicien antes de la entrada en vigencia de la presente resolución, continuarán tramitándose ante la VI Dirección Regional o la Unidad de Pichilemu según proceda.
+
+3.- Los Directores Regionales de Rancagua y Valparaíso adoptarán las medidas administrativas que correspondan para poner en práctica a la medida dispuesta en el resolutivo N° 1.
+
+4.- La presente resolución regirá desde el día 1° de Noviembre del presente año.
+
+
+
+
+Anótese, comuníquese y publíquese en extracto en el Diario Oficial.
+
+
+
+
+
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+DIRECTOR
+
+
+
+
+
+
+Distribución
+Internet
+Diario oficial en extracto
+

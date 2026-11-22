@@ -1,0 +1,269 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso40.doc
+titulo: Word – Resolución Exenta SII N°40 del 15 de Marzo del 2012 Exime a Instituciones de Beneficencia que Señala de la Obligación de Timbraje en la Emisión de Certificados por Donaciones y Fija Requisitos para Resguardar el Interés Fiscal. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°40 DEL 15 DE MARZO DEL 2012 MATERIA : EXIME A INSTITUCIONES DE BENEFICENCIA QUE SEÑALA DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS PARA RESGUARDAR EL INTERÉS FISCAL.
+Hoy se ha resuelto lo que sigue:
+VISTOS: 
+
+Las facultades contempladas en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980; lo dispuesto en el Artículo 6°, Inciso 1°, del Código Tributario, contenido en el Artículo 1° del D.L. N° 830, de 1974; del Artículo 46 del D.L. N° 3.063, de 1979, sobre Rentas Municipales y, la Ley N° 19.247, de 1993.
+Las presentaciones efectuadas por: Doña Susana Tonda Mitri, RUT N° 5.500.244-4, en representación de FUNDACIÓN DE BENEFICENCIA HOGAR DE CRISTO, RUT N° 81.496.800-6; don Danilo Alejandro Frías Sáez, RUT N° 12.592.905-2, en representación de FUNDACIÓN EDUCACIONAL SÚMATE PADRE ALVARO LAVÍN, RUT N° 72.323.600-2; don Renato Fernando Poblete Ilharreborde, RUT N° 5.026.202-2, en representación de CENTRO ESPERANZA NUESTRA, RUT N° 70.021.390-9; doña María Isabel Robles Meza, RUT N° 9.038.730-8, en representación de FUNDACIÓN RODRIGO ZALDÍVAR LARRAÍN, RUT 53.226.150-3; don Pablo Santos Egenau Pérez, RUT N° 7.366.484-5, en representación de FUNDACIÓN PARÉNTESIS, RUT N° 72.421.000-7; y doña Carmen Gloria López Meza, RUT N° 8.654.058-4, en representación de FUNDACIÓN DE BENEFICENCIA AYUDA Y ESPERANZA, RUT N° 70.039.200-7, en las que solicitan autorización para la emisión de certificados de donaciones electrónicos.
+
+CONSIDERANDO:
+
+1°. Que, los contribuyentes indicados en los vistos de esta resolución, fundamentan su petición en que actualmente poseen un sistema informático que les permitirá mejorar la administración y control de las donaciones recibidas, y por otro lado implicará una reducción importante de los costos.
+
+2°. Que, este Servicio, mediante Circulares y Resoluciones, ha impartido instrucciones, especificaciones y formalidades para los certificados que los donatarios emitan a los donantes, por las donaciones recibidas.
+
+3°. Que, en conformidad a la normativa vigente respecto de los certificados de donaciones, para su emisión, éstos deben estar numerados correlativamente, timbrados y registrados previamente, ante este Servicio.
+
+
+SE RESUELVE:
+
+
+1°.- HA LUGAR A LO SOLICITADO, por los contribuyentes FUNDACIÓN DE BENEFICENCIA HOGAR DE CRISTO, RUT N° 81.496.800-6; FUNDACIÓN EDUCACIONAL SÚMATE PADRE ALVARO LAVÍN, RUT N° 72.323.600-2; CENTRO ESPERANZA NUESTRA, RUT N° 70.021.390-9; FUNDACIÓN RODRIGO ZALDÍVAR LARRAÍN, RUT N° 53.226.150-3; FUNDACIÓN PARÉNTESIS, RUT N° 72.421.000-7; y FUNDACIÓN DE BENEFICENCIA AYUDA Y ESPERANZA, RUT N° 70.039.200-7, eximiéndoseles de la obligación de timbraje, de los certificados que establece la Ley N° 19.885 de 2003, sujetos al cumplimiento de los requisitos que se establecen a continuación, a fin de resguardar debidamente el interés fiscal.
+
+Para efectos de lo anterior, cada contribuyente deberá presentar la Declaración Jurada Formulario N° 3230 denominada "Declaración Jurada para Timbraje de Documentos y/o Libros y Notificaciones", donde informará en forma previa a su emisión, respecto de los folios asignados a los certificados que serán emitidos en el periodo(s) respectivo(s). Dicha presentación deberá realizarse en el Departamento de Atención y Asistencia de Contribuyentes, de la Dirección Nacional de este Servicio.
+
+
+2°.- Los documentos tributarios que se emitan, de acuerdo a la autorización señalada en el resolutivo 1° de esta resolución, deberán ser confeccionados según las instrucciones impartidas en las Resoluciones y Circulares que rigen a cada una de las donaciones que sean recibidas.
+
+
+3°.- El sistema de emisión y control de certificados que utilizará el contribuyente deberá reunir, a lo menos las siguientes características:
+
+3.1	Las operaciones de los contribuyentes indicados en el resolutivo 1°, deberán ser ejecutadas a  través  de una plataforma computacional, en la cual se registrarán los certificados, montos, puntos de entrega y ejecutivos involucrados, entre otros datos.
+
+3.2  Los certificados tendrán un número único correlativo, a nivel nacional, que se iniciará a partir del folio informado y autorizado previamente por el Servicio de Impuestos Internos. Asimismo, este Servicio autorizará un rango de folios para ser usados manualmente, el cual se diferenciará de los folios electrónicos por el rango otorgado.
+
+3.3 	El número correlativo único deberá ser generado automáticamente por el sistema de generación y registro de cada contribuyente autorizado en el resolutivo 1°. Este sistema asignará un número único a cada certificado impreso ingresado al sistema por los usuarios registrados en cada punto de emisión.
+
+3.4	La funcionalidad del sistema deberá estar diseñada para generar un certificado con número único correlativo cada vez que se solicite imprimir dicho documento, permitiendo al usuario imprimir una sola vez cada certificado. En caso que, por error o cambio en las condiciones de la operación, sea necesario imprimir un nuevo certificado asociado a la misma donación, el sistema automáticamente dejará constancia de ello en el reporte.
+
+3.5	Este sistema no podrá ser intervenido o alterado por ninguno de los contribuyentes indicados en el resolutivo 1°, sin previo aviso al Servicio de Impuestos Internos.
+
+En forma paralela al sistema electrónico mencionado, los contribuyentes indicados mantendrán certificados manuales timbrados, los cuales podrán ser utilizados en el evento que el sistema computacional experimente situaciones de contingencia calificada, que hagan imposible la emisión de los certificados por sistema. Lo anterior, tendrá por objeto exclusivo, velar por el cumplimiento de las obligaciones tributarias que deriven de los documentos que dan cuenta de la donación.
+
+La distinción entre los certificados emitidos por el sistema y los certificados Manuales se realizará conforme a lo señalado en el párrafo 3.2 precedente; esto es, a través del rango numérico previamente asignado.
+
+3.6	La información asociada y descrita más abajo, referente a los certificados emitidos, será mantenida por los contribuyentes indicados en el resolutivo 1°, por un plazo mínimo de 6 años y deberán estar a disposición de este Servicio, a través de un sistema informático para ser utilizado en el marco de un proceso de fiscalización que se lleve al efecto. La entrega de la información  solicitada  deberá   ser   entregada   en  línea   para  la  consulta  individual  de  un 
+
+documento o a través de la descarga de un archivo si se solicita una mayor cantidad certificados.
+
+La información y datos que deberán contener los registros del reporte previamente citado, serán entre otros, los siguientes:
+
+Número de la ley, DFL, etc. en específico a la que se acoge la donación.
+Número de folio del certificado.
+Comuna de emisión del certificado.
+Fecha de otorgamiento del certificado.
+Razón Social del Donatario.
+Número de Rol Único Tributario del Donatario.
+Domicilio completo del Donatario.
+Nombre del Representante Legal del Donatario.
+Número de Rol Único Tributario del Representante Legal del Donatario.
+Nombre o Razón Social del Donante.
+Número de Rol Único Tributario del Donante.
+Domicilio Comercial completo del Donante.
+Giro o Actividad Comercial que desarrolla el Donante.
+Nombre del Representante Legal del Donante.
+Número de Rol Único Tributario del Representante Legal del Donante.
+Monto Donado en pesos.
+Naturaleza de la Donación.
+Monto Donación.
+Fecha en que se efectúa la Donación.
+Destino de la Donación.
+
+La obligación de la entrega de esta información y otra adicional dependerá del tipo de certificado que se emita.
+
+3.7 	Cualquier cambio que se efectúe al sistema que implique una eliminación de los datos recién expuestos o una modificación en la forma en que tales datos son registrados e informados, deberá ser informada al Servicio de Impuestos Internos con la debida anticipación.
+
+
+	4°.- El Servicio de Impuestos Internos podrá revocar la autorización otorgada al contribuyente, si éste no cumple con:
+
+Las obligaciones que se establecen en esta resolución.
+Estar al día en el cumplimiento de sus obligaciones tributarias.
+
+La misma medida podrá adoptar este Servicio, si se usa maliciosamente el sistema de donaciones a que se refiere la presente Resolución sin perjuicio de las sanciones establecidas en los artículos 97 ó 109, del Código Tributario.
+
+
+	5°.- DELÉGASE, en el Subdirector de Fiscalización, la facultad de dictar la resolución por la que se revoque la presente autorización en los casos señalados en el resolutivo precedente. Dicha resolución se publicará, en extracto, en el Diario Oficial y se notificará al contribuyente conforme a las reglas generales.
+
+
+	6°.- La presente resolución regirá a partir del día de su publicación, en extracto, en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+(Fdo.) JULIO PEREIRA GANDARILLAS
+				DIRECTOR 
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/CSM/RPA/HSS/cpg
+DISTRIBUCIÓN:
+Internet
+Boletín
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

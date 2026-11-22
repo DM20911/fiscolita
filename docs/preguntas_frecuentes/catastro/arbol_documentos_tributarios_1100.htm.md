@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/preguntas_frecuentes/catastro/arbol_documentos_tributarios_1100.htm
+titulo: Preguntas Frecuentes de Documentos tributarios
+categoria: faq
+---
+|  |
+| --- |
+| [Documentos tributarios](preg_documentos_tributarios.htm) | [Facturas](arbol_documentos_tributarios_432.htm) | [Factura Electrónica](arbol_documentos_tributarios_438.htm) | [Aspectos Generales](arbol_documentos_tributarios_1084.htm)  | Certificado Digital   - [¿Qué certificados digitales deben ser utilizados para la firma electrónica de los documentos?](001_012_0539.htm) - [¿Qué vigencia tienen los Certificados Digitales que entregaba el SII?](001_012_6300.htm) - [¿Qué puedo hacer si me inscribí y no me llega el Certificado Digital que entregaba el SII?](001_012_6305.htm) - [¿Qué hago si perdí las claves para descargar el Certificado Digital que me entregaron en el SII?](001_012_6306.htm) - [Si soy el representante legal de varias empresas que desean incorporarse al Sistema de Factura Electrónica Mipyme, ¿es necesario un Certificado Digital por cada empresa?](001_012_6308.htm) - [¿El certificado digital que entregaba el SII posee garantía en caso de extravío o pérdida?](001_012_6385.htm) - [¿Qué es Certificado Digital?](001_012_6386.htm) - [¿Cuando hablamos de firma electrónica nos referimos al certificado digital?](001_012_6387.htm) - [¿Cómo sé si el certificado digital quedó bien instalado?](001_012_6388.htm) - [¿El SII sigue entregando certificados digitales gratuitos?](001_012_6418.htm) - [¿Qué pasa con los certificados digitales gratuitos que entregaba el SII al cumplir un año de descargado?](001_012_6419.htm) |

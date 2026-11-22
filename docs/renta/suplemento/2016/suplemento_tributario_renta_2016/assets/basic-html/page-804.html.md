@@ -1,0 +1,664 @@
+---
+url: https://www.sii.cl/renta/suplemento/2016/suplemento_tributario_renta_2016/assets/basic-html/page-804.html
+titulo: Suplemento Tributario de Renta 2016
+categoria: otros
+---
+|  |  |
+| --- | --- |
+|  |  |
+
+* [Скачать PDF](./../common/downloads/suplemento_tributario_renta_2016.pdf)
+
+ 804 / 808
+
+Basic version
+
+804 / 808
+
+804
+
+TALCAHUANO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CALLE BLANCO N°460
+
+41-2541796
+
+LU A VI:08:30-18:50
+
+S/COSTO
+
+TALCAHUANO
+
+INJUV
+
+CALLE
+
+COLCHAGUA
+
+ESQ.
+
+MAGALLANES S/N
+
+10:00 - 19:00
+
+SA 09:00 - 14:00
+
+S/COSTO
+
+TALCAHUANO
+
+INJUV
+
+COLCHAGUA
+
+ESQ.
+
+MAGALLANES S/N
+
+09:00-13:30 / 14:30-18:00
+
+09:00-14:00
+
+S/COSTO
+
+TOME
+
+INJUV
+
+SOTOMAYOR N°950
+
+09:00-13:00 /14:00-17:00
+
+S/COSTO
+
+TREHUACO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PLAZA TREHUACO
+
+9-85371000
+
+S/COSTO
+
+TUCAPEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+18 DE SEPTIEMBRE ESQUINA
+
+O´HIGGINS S/N
+
+[b078bp2@abretumundo.cl](mailto:b078bp2@abretumundo.cl)
+
+LU A VI:14:00-19:00
+
+S/COSTO
+
+TUCAPEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+COMERCIO ESQUINA BULNES
+
+S/N
+
+(9)83788000
+
+[b078bp1@abretumundo.cl](mailto:b078bp1@abretumundo.cl)
+
+LU A VI:14:00-19:00
+
+S/COSTO
+
+TUCAPEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+BALMACEDA ESQUINA MATTA
+
+S/N, POLCURA
+
+(9)83677567
+
+[b078bp3@abretumundo.cl](mailto:b078bp3@abretumundo.cl)
+
+LU A VI:14:00-19:00
+
+S/COSTO
+
+TUCAPEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+INDEPENDENCIA
+
+N°
+
+444,
+
+HUELPIL
+
+43-404027 / 1974429
+
+[b078bc1@abretumundo.cl](mailto:b078bc1@abretumundo.cl)
+
+LU A VI 08:00-18:00
+
+SA:09:00-12:00
+
+S/COSTO
+
+YUMBEL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CRUZ N°820
+
+43-439049
+
+S/COSTO
+
+YUNGAY
+
+INJUV
+
+TACNA N°144
+
+10:00-13:00 / 15:00-19:00
+
+S/COSTO
+
+YUNGAY
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ARTURO PRAT N°385
+
+42-680046
+
+S/COSTO
+
+**REGION DE LA ARAUCANIA**
+
+**Comuna Nombre**
+
+**Dirección**
+
+**Teléfono Email**
+
+**Horario**
+
+**Semana**
+
+**Horario**
+
+**Fin de**
+
+**Semana Costo**
+
+ANGOL
+
+INJUV
+
+LAS PALMERAS CON LOS
+
+OLMOS S/N, POB. EL VERGEL,
+
+SECTOR HUEQUEN
+
+[jcarcos@injuv.gob.cl](mailto:jcarcos@injuv.gob.cl)
+
+08:30-19:00
+
+S/COSTO
+
+ANGOL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+VERGARA N°549
+
+45- 990728 /9
+
+LU A VI:09:45-13:30 / 15:00-
+
+19:00
+
+S/COSTO
+
+CARAHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PRAT N° 194 ESQ. DIEGO
+
+PORTALES, EDIFiCIO PÚBLICO,
+
+NEHUENTUE
+
+(9)62568809
+
+[b138bp1@abretumundo.cl](mailto:b138bp1@abretumundo.cl)
+
+LU
+
+A
+
+JU:09:45-18:00,
+
+VI:09:45-17:30
+
+S/COSTO
+
+CARAHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ROMILIO ADRIAZOLA N° 20,
+
+EDIFICIO SOCIAL MUNICIPAL
+
+TROVOLHUE
+
+94509025
+
+[b138bp2@abretumundo.cl](mailto:b138bp2@abretumundo.cl)
+
+MA A VI:10:00-18:30
+
+SA:10:00-16:00
+
+S/COSTO
+
+CARAHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL MONTT N°295
+
+45-2922475
+
+LU
+
+A
+
+JU:08:30-15:30,
+
+VI:08:30-17:00
+
+S/COSTO
+
+CHOL CHOL
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LAZCANO S/N
+
+(9)76979399
+
+[b301bc1@abretumundo.cl](mailto:b301bc1@abretumundo.cl)
+
+LU A VI:09:00-19:00
+
+S/COSTO
+
+CHOLCHOL
+
+INJUV
+
+BALMACEDA N°200
+
+09:00-18:00
+
+S/I
+
+COLLIPULLI
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+FREIRE N° 1110
+
+45- 2463774
+
+[b364bc1@abretumundo.cl](mailto:b364bc1@abretumundo.cl)
+
+08:30-18:00
+
+S/COSTO
+
+CUNCO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PEDRO AGUIRRE CERDA N° 690 45-2200109
+
+[b311bc1@abretumundo.cl](mailto:b311bc1@abretumundo.cl)
+
+LU
+
+A
+
+JU:09:00-18:00,
+
+VI:09:00-17:30
+
+S/COSTO
+
+CURACAUTIN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CARRETERA INTERNACIONAL
+
+S/N, MALCAHUELO
+
+09-95940867
+
+[b356bc1@abretumundo.cl](mailto:b356bc1@abretumundo.cl)
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:00
+
+SA:09:00-13:00
+
+S/COSTO
+
+CURACAUTIN
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL RODRIGUEZ N°731
+
+45-2464806
+
+08:30-18:30
+
+S/COSTO
+
+CURARREHUE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+HEROES DE LA CONCEPCION
+
+N° 21, ALDEA INTERCULTURAL
+
+85607737
+
+LU A DO:09:00-18:00
+
+S/COSTO
+
+ERCILLA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ONGOLMO N°279
+
+45-2922660
+
+LU A VI:09:00-13:00 / 14:00-
+
+18:00
+
+S/COSTO
+
+FREIRE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PRESIDENTE FIGUEROA S/N,
+
+RADAL
+
+84965499
+
+[b113bp2@abretumundo.cl](mailto:b113bp2@abretumundo.cl)
+
+08:45-17:50
+
+S/COSTO
+
+FREIRE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+PEDRO CAMALEZ N° 137
+
+45-2922354 /5
+
+[b113bc1@abretumundo.cl](mailto:b113bc1@abretumundo.cl)
+
+08:45-13:00 / 13:45-17:50
+
+S/COSTO
+
+FREIRE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+SERRANO N°162, QUEPE
+
+92895124
+
+S/COSTO
+
+GALVARINO
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+INDEPENDENCIA N° 354
+
+74634674
+
+[b119bc1@abretumundo.cl](mailto:b119bc1@abretumundo.cl)
+
+09:00-17:15
+
+S/COSTO
+
+GORBEA
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+LORD COCHRANE N° 499
+
+45-2972092
+
+LU A VI: 09:00-18:00
+
+S/COSTO
+
+LONCOCHE
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+MANUEL BULNES N° 339
+
+(FRENTE A PLAZA DE ARMAS)
+
+45-2464596
+
+[b081bc1@abretumundo.cl](mailto:b081bc1@abretumundo.cl)
+
+LU A VI:08:30-17:15
+
+S/COSTO
+
+LONQUIMAY
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+CONDELL N°985
+
+45-2656111
+
+[b277bc1@abretumundo.cl](mailto:b277bc1@abretumundo.cl)
+
+LU A VI:08:30-13:00 / 14:00-
+
+17:20
+
+S/COSTO
+
+LONQUIMAY
+
+INJUV
+
+O'HUGINS
+
+ORIENTE
+
+ESQ.
+
+O'HIGGINS PONIENTE
+
+08:30-19:00
+
+S/I
+
+LOS SAUCES
+
+BIBLIOREDES
+
+-
+
+BIBLIOTECA PUBLICA
+
+ERCILLA N° 148
+
+45-2655751
+
+[b303bc1@abretumundo.cl](mailto:b303bc1@abretumundo.cl)
+
+LUA A VI:08:30-14:00 /
+
+15:00-18:00
+
+SA:15:00-19:00
+
+S/COSTO
+
+[1](./page-1.html)
+…
+[797](./page-797.html)
+[798](./page-798.html)
+[799](./page-799.html)
+[800](./page-800.html)
+[801](./page-801.html)
+[802](./page-802.html)
+[803](./page-803.html)
+[804](./page-804.html)
+[805](./page-805.html)
+[806](./page-806.html)
+[807](./page-807.html)
+[808](./page-808.html)
+[FlippingBook](./flipbook.html)

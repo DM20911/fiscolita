@@ -1,0 +1,56 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso150.doc
+titulo: Word – Resolución Exenta SII N°150 del 19 de Diciembre del 2011 Condonación de Intereses y Multas que se Indican. Fuente: Departamento de Operaciones
+categoria: otros
+---
+RESOLUCION EXENTA SII N°150 DEL 19 DE DICIEMBRE DEL 2011 MATERIA : CONDONACIÓN DE INTERESES Y MULTAS QUE SE INDICAN.
+
+Hoy se ha resuelto lo que sigue,
+
+
+VISTOS Y CONSIDERANDO:
+
+Lo dispuesto en los artículos 6°, letra B, N° 4, 53, 56 y 106 del Código Tributario, en concordancia con el artículo 9° inciso tercero del D.F.L. N° 7, del Ministerio de Hacienda, de fecha 30.09.1980, Ley Orgánica del Servicio de Impuestos Internos y las instrucciones impartidas mediante Circular N° 42, de fecha 03.08.2006, sus complementos y modificaciones, de la Dirección Nacional del Servicio de Impuestos Internos. 
+Que, este Servicio, ha estimado conveniente otorgar mayores facilidades para el cumplimiento tributario a los contribuyentes de todo el territorio del país que hubieren  declarado, vía Internet, el formulario 29 que importan pago de los tributos, hasta la medianoche del miércoles 14 de diciembre del presente año. 
+
+RESUELVO:
+CONDÓNASE,  el 100% de los intereses y sanciones de los contribuyentes de todo el territorio del país que hubieren presentado y pagado, vía Internet, hasta la medianoche del miércoles 14 de diciembre de 2011, el formulario F29, de declaración mensual y pago simultáneo de impuestos, con vencimiento el día 12 del mismo mes. 
+La presente resolución se publicará, en extracto en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+(FDO) IVÁN BELTRAND CRUZ
+             SUBDIRECTOR DE FISCALIZACIÓN
+
+
+Lo que transcribo para su conocimiento y demás fines.
+
+
+CSM/JGR/JJI
+Distribución:
+Departamento de Operaciones
+Subdirección de Informática
+Archivo SDF.
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  2
+		
+
+
+
+

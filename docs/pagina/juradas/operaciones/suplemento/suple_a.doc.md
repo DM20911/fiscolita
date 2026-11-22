@@ -1,0 +1,330 @@
+---
+url: https://www.sii.cl/pagina/juradas/operaciones/suplemento/suple_a.doc
+titulo: suple_a.doc
+categoria: otros
+---
+DECLARACIONES JURADAS POR INTERNET
+ANEXO A:	TABLAS DE INFORMACIÓN
+A.1. 	Tabla de resoluciones y circulares más importantes relativas a las Declaraciones Juradas y Certificados
+RESOLUCIÓN O CIRCULAR
+MATERIA
+FORMULARIOS
+CERTIFICADOS
+RESOL. EX. N° 065, D.O. 18.01.93, MODIFICADA POR RESOLS. EXS. N°s 4.571, 7.211 y 5316, D.O. 31.10.94, D.O. 10.12.98 y FECHA 01/12/2000, RESPECTIVAMENTE.
+Establece obligación de emitir certificado con información de los retiros, gastos rechazados, dividendos e inversiones en acciones de pago para los efectos que se señalan, por parte de las empresas o sociedades que declaren en la primera categoría su renta efectiva mediante contabilidad completa, y por otras personas o instituciones que se mencionan.
+
+3 ,4 , 5, y 17
+TEXTO  RESOL. EX. N° 6509, D.O. 20.12.93, MODIFICADA POR RESOLS. EXS. N°s 4.571, 7.211 y 5224 D.O. 31.10.94, 10.12.98 y 30/11/2000, RESPECTIVAMENTE.
+
+Establece obligación de emitir certificado con información sobre retenciones de impuestos practicadas según los Nºs 1, 2 y 3 del artículo 74 de la Ley de la Renta y sobre intereses pagados por bancos e instituciones financieras.
+
+1, 2, 6 y 7
+RESOL. EX. N° 4.085, D.O. 28.12.90, MODIFICADA POR RESOLS. EXS. N°s 260, 5.534, 6.172 Y 7.211, PUBLICADAS EN EL D. O. DE 28.01.94, 03.12 96, 16.12.97 Y 10.12.98, RESPECTIVAMENTE.
+Dispone obligación de presentar declaración sobre retenciones, en valores actualizados, efectuadas según art. 74, Nºs 2 y 3, Ley de la Renta, a contribuyentes que indica.
+1879
+
+RESOL. EX. N°064, D.O. 18.01.93, MODIFICADA POR RESOLS. EXS. N°s 5.534, 6.172, 7.211 y 5223 D.O. 03.12.96, 16.12.97, 10.12.98 y 30/11/2000,  RESPECTIVAMENTE
+Dispone obligación de presentar declaración jurada sobre dividendos distribuidos, por las sociedades anónimas y en comandita por acciones a sus accionistas y por quienes posean acciones en custodia, asimismo informar sobre los tenedores de acciones de primera emisión.
+1884
+1885
+1823
+
+TEXTO  RESOL. EX. N° 6.835, D.O. 06.01.94, MODIFICADA POR RESOLS. EXS. N°s 4.571, 5.534, 6.172 y 5226, D.O. 31.10.94, 03.12.96, 16.12.97 y 30/11/2000, RESPECTIVAMENTE.
+Establece obligación de presentar declaración jurada sobre retiros.
+1886
+
+RESOL. EX. N° 6.836, D.O. 06.01.94, MODIFICADA POR RESOLS. EXS. N°s 4.571, 5.534, 6.172 Y 7.211, D.O. 31.10.94,  03.12.96, 16.12.97 Y 10.12.98, RESPECTIVAMENTE.
+Dispone obligación de presentar declaración jurada sobre el pago de rentas a que se refiere  el art. 42, Nº1, de la Ley de la Renta y sobre la retención del Impuesto Único.
+1812
+1887
+
+RESOL. EX. N° 1.139, D.O. 14.03.94, MODIFICADA POR RESOLS. EXS. N°s 5.534, 6.172 Y 7.211, D.O. 03.12.96, 16.12.97 Y 10.12.98, RESPECTIVAMENTE.
+Establece obligación para las instituciones receptoras  que  emitan títulos  o valores  acogidos a la letra A) del artículo 57 bis  de la  Ley de la Renta, de presentar al S.I.I. informe que se indica.
+1888
+
+Cir. Nº 56, de 1993 y 71, de 1998, del SII.
+Establece instrucciones para emisión de certificado que se indica.
+
+8
+RESOL. EX. N° 4.497, D.O. 24.10.94, MODIFICADA POR RESOLS. EXS. N°s 5.534 Y 6.172, D.O. 03.12.96 y 16.12.97, RESPECTIVAMENTE.
+Establece obligación para las administradoras de fondos de pensiones, que tengan cuentas de ahorro voluntario sujetas a las disposiciones generales de la Ley sobre Impuesto a la Renta, de presentar al SII declaración jurada que se indica.
+1889
+
+Circ Nº 32, de 1994 del SII.
+Establece instrucciones para emisión de certificado que se indica.
+
+9
+RESOL. EX. N° 4.845, D.O. 17.10.95, MODIFICADA POR RESOLS. EXS. N°s 6.138, 5.534, 6.172 y 5226, D.O. 29.12.95,  03.12.96, 16.12.97 y 30/11/2000 RESPECTIVAMENTE.
+Establece obligación de presentar declaración jurada anual sobre gastos rechazados.
+1813
+1893
+
+RESOL. EX. N° 4.846, D.O. 17.10.95, MODIFICADA POR RESOLS. EXS. N°s 5.534 Y 6.172, D.O. 03.12.96 y 16.12.97, RESPECTIVAMENTE.
+Establece obligación de las sociedades administradoras de fondos mutuos de informar al SII las inversiones efectuadas por los partícipes en dichos fondos y el mayor o menor valor obtenido en el rescate de cuotas.
+1892
+
+Circ. Nº 847, de 1989, de la Superintendencia de Valores y Seguros.
+Establece instrucciones para emisión de certificado que se indica.
+
+10
+RESOL. EX. N°4.847, D.O. 17.10.95, MODIFICADA POR RESOLS. EXS. N°s 5.266, 5.534 Y 6.172, D.O. 08.11.95, 03.12.96 y 16.12.97, RESPECTIVAMENTE.
+Obligación de los corredores de bolsa y agentes de valores de informar al SII las compras y ventas de acciones de Sociedades Anónimas y otros títulos efectuadas por cuenta de sus clientes no acogidos al mecanismo de incentivo al ahorro establecido en la letra A) del artículo 57 bis de la ley de la renta.
+1891
+
+RESOLUCIÓN O CIRCULAR
+MATERIA
+FORMULARIOS
+CERTIFICADOS
+RESOL. EX. N° 5.111, D.O. 31.10.95, MODIFICADA POR RESOLS. EXS. N°s 5.534, 6.172, 7.211 y 5224, D.O. 03.12.96, 16.12.97, 10.12.98 y 30/11/2000 RESPECTIVAMENTE.
+Obligación de los bancos  e instituciones  financieras  de informar al SII los intereses  u otras rentas pagados o abonados en cuenta  a  sus clientes por operaciones de captación de cualquier naturaleza, no acogidos al mecanismo de incentivo al ahorro de la letra A) del artículo 57 bis de la Ley de la Renta.
+1890
+
+RESOL. EX. N° 6.173, D.O. 16.12.97.
+Establece obligación de presentar declaración jurada sobre retenciones de impuestos a que se refieren los artículos 73 y 74 Nºs.4 y 6 de la Ley de la Renta.
+1811
+12, 13 y 14
+RESOL. EX. N° 6.174, D.O. 16.12.97, MODIFICADA POR RESOL. EX. Nº 7.211, D.O. 10.12.98.
+Establece obligación de las sociedades administradoras de fondos de inversión de la ley Nº18.815 de informar al SII los beneficios repartidos a sus aportantes en dichos fondos.
+1817
+11
+RESOL. EX. N° 7.213 D.O. 10.12.98, MODIFICADA POR RESOLS. EXS. N°5226  D.O 30/11/2000 Y 5316 de FECHA 01/12/2000. 
+Establece obligación de las empresas fuentes de certificar las inversiones efectuadas por los inversionistas al amparo de la letra c) del Nº1 de la letra A) del artículo 14 de la Ley de la Renta y de las empresas receptoras de informar al SII las citadas inversiones.
+1821
+1822
+ 15 y 16
+RESOL. EX. N° 7.212, D.O. 10.12.98.
+Establece obligación de los contribuyentes de la Primera Categoría de informar al SII la nómina de los Bienes Raíces destinados a su actividad  que dan derecho al crédito por contribuciones de Bienes Raíces y  la nómina de socios y su porcentaje de participación en el capital y utilidades de la empresa cuando se trate de nuevas sociedades o comunidades o las existentes hayan sufrido modificaciones.
+1824
+1825
+
+RESOL. EX. N° 7.211, D.O. 10.12.98.
+Establece modelo de certificado para acreditar PPM puestos a disposición de los socios.
+
+18
+RESOL. EX. Nº  8145, D.O. 11.12.99.
+Establece obligación a las instituciones que se indica de informar al SII los dividendos hipotecarios pagados o los aportes enterados por las obligaciones hipotecarias contraídas con motivo de la adquisición de una vivienda nueva acogida a las normas del D.F.L. Nº 2, de 1959, y de certificar a las personas naturales que han pagado dichos dividendos hipotecarios o enterados los citados  aportes; conforme a lo establecido por la Ley Nº 19.622, de 1999.
+1896
+19
+RESOL. EX. Nº 5226, D.O. 30.11.2000. MODIFICA RESOLS. EXS. Nº 6835, de 1993; 4845, de 1995 y 7213, de 1998.
+Establece que:
+a)En el dispositivo 1 de la Resolución N° Ex 6835, D.O. 061.01.93,  modificada por las Resoluciones N°s. Ex  4571, 5534 y 6172, D.O. 31.10.94, 03.12.96 y 16.12.97, respectivamente, reemplázase la fecha “ 01 de abril” por “ 22 de marzo”. 
+b) En el dispositivo 1 de la Resolución 4845, D.O. de 17.10.95, modificada por las Resoluciones N°s. Ex 6138, 5534 y 6172,  D.O. de 29.12.95, 03.12.96 y 16.12.97, respectivamente, reemplázase la fecha “ 01 de abril” por “ 22 de marzo”.
+c) En el dispositivo 6 de la Resolución N° Ex  7213, D.O. 10.12.98, reemplázase la fecha “ 01 de abril” por “ 22 de marzo” y “31 de marzo” por “21 de marzo”.
+1813
+1821
+1822
+1886
+1893
+5 y 16
+RESOL. EX. Nº  5224, D.O. 30.11.2000. MODIFICA RESOLS. EXS. Nº 6509, de 1993  y 5111, de 1995.
+“ Para estos efectos, se entenderá por Institución Financiera a toda empresa que habitualmente se dedique a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros. Por consiguiente, quedarán sometidas a la obligación establecida en el inciso anterior las Cooperativas de Ahorro y toda institución similar que realice operaciones de captación de cualquier naturaleza”.
+1890
+7
+
+
+
+
+
+
+
+
+RESOL. EX. Nº  5223, D.O. 30.11.2000. MODIFICA RESOL. EX. Nº 064, de 1993.
+“Similar obligación de  informar recaerá sobre los Bancos y Corredores de Bolsas, por la totalidad de las  rentas o cualquier otro producto de acciones nominativas que figuren inscritas a su nombre, sean éstas de su propiedad o de terceros”.
+1885
+4
+RESOL. EX. Nº 5316, de FECHA 01.12.2000. MODIFICA RESOLS. EXS. Nº 065, de 1993 y 7213, de 1998.
+En el dispositivo 1°, inciso 3, de la Resolución N° Ex  7213, D.O. 10.12.98, reemplázase la fecha “ 1° de abril” por “ 22 de marzo”.
+En el dispositivo 1°, inciso 2, de la Resolución N° Ex  065, D.O. 18.01.93, reemplázase la fecha “ 01 de abril” por “ 22 de marzo”.
+
+5 y 16
+
+
+A.2.	Tabla de relación de Certificados y Declaraciones Juradas
+Nº de Certificado
+Fecha máxima de emisión
+Tipo formulario
+Fecha de presentación en Papel
+Fecha de presentación vía Electrónica
+N°1
+14/03/2001
+1879
+14/03/2001
+21/03/2001
+N°2
+14/03/2001
+1879
+14/03/2001
+21/03/2001
+N°3
+28/02/2001
+1884
+14/03/2001
+21/03/2001
+N°4
+14/03/2001
+1885
+14/03/2001
+21/03/2001
+N°5
+21/03/2001
+1813-1886-1893
+21/03/2001
+28/03/2001
+N°6
+14/03/2001
+1812-1887
+14/03/2001
+21/03/2001
+N°7
+28/02/2001
+1890
+-----------
+14/03/2001
+N°8
+28/02/2001
+1888
+-----------
+21/03/2001
+N°9
+30/01/2001
+1889
+-----------
+30/03/2001
+N°10
+27/04/2001
+1892
+-----------
+30/03/2001
+N°11
+14/03/2001
+1817
+-----------
+21/03/2001
+N°12
+14/03/2001
+1811
+14/03/2001
+21/03/2001
+N°13
+14/03/2001
+1811
+14/03/2001
+21/03/2001
+N°14
+14/03/2001
+1811
+14/03/2001
+21/03/2001
+N°15
+Dentro de los 20 días corridos de efectuado el retiro destinado a reinversión.
+Ninguno
+-----------
+-----------
+N°16
+21/03/2001
+1821
+21/03/2001
+28/03/2001
+N°17
+14/03/2001
+1823
+14/03/2001
+21/03/2001
+N°18
+27/04/2001
+Ninguno
+-----------
+-----------
+N°19
+28/02/2001
+1896
+-----------
+28/02/2001
+
+A.3.	Modificaciones introducidas a Declaraciones Juradas A.T. 2001
+Formulario
+Modificación
+1811
+Sin cambio.
+1812
+Sin cambio.
+1813
+Se cambió fecha de presentación de declaración.
+1817
+Sin cambio.
+1821
+Se cambió fecha de presentación de declaración.
+1822
+Sin cambio.
+1823
+Sin cambio.
+1824
+Sin cambio.
+1825
+Sin cambio.
+1879
+Sin cambio.
+1884
+Sin cambio.
+1885
+Se agrega Sección “C” para que el declarante que posea acciones de su propiedad las incluya en este recuadro.
+1886
+Se cambió fecha de presentación de declaración.
+1887
+Sin cambio.
+1888
+Sin cambio.
+1889
+Sin cambio.
+1890
+Se define el concepto de Institución Financiera, incluyendo a las Cooperativas de Ahorro y toda Institución similar.
+1891
+Sin cambio.
+1892
+Sin cambio.
+1893
+Se cambió fecha de presentación de declaración.
+1896
+Sin cambio.
+
+
+A.4.	Modificaciones introducidas a Certificados A.T. 2001
+Certificado
+Modificación
+N° 5
+Se cambió fecha de emisión del Certificado.
+N° 7
+Se define Institución Financiera para efecto de emisión certificado N°7 sobre intereses.
+N° 16
+Se cambió fecha de emisión del Certificado,.
+
+ 
+
+PÁGINA  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

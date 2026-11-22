@@ -1,0 +1,34 @@
+---
+url: https://www.sii.cl/documentos/circulares/2007/circu03.doc
+titulo: Word – Circular N° 03 del 08 de Enero del 2007 Complementa instrucciones impartidas en la Circular Nº 8 de 7 de febrero de 2000 y Oficio Circular N° 9, de 8 de marzo de 2006. Fuente: Departamento de Operación Renta
+categoria: otros
+---
+CIRCULAR N°03 DEL 08 DE ENERO DEL 2007  MATERIA : COMPLEMENTA INSTRUCCIONES IMPARTIDAS EN LA CIRCULAR Nº 8 DE 7 DE FEBRERO DE 2000 Y OFICIO CIRCULAR N° 9, DE 8 DE MARZO DE 2006.
+
+
+
+	Como se ha indicado en circulares anteriores, para el Servicio de Impuestos Internos es un deber incrementar  el uso de la tecnología y de los diversos medios de comunicación que  permiten a los contribuyentes interactuar con el Servicio de una manera rápida y eficiente.
+
+	Ahora bien,  esta tecnología ha permitido al Servicio desarrollar planes de fiscalización mucho más eficientes y de proyección masiva cuya programación y control se  efectúa centralizadamente por esta Dirección Nacional.
+
+	Así las cosas, esta Circular tiene por objeto complementar las instrucciones impartidas anteriormente sobre la materia, en el sentido que las Citaciones formuladas de acuerdo al artículo 63 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974, las Liquidaciones y Resoluciones Denegatorias, efectuadas masivamente y controladas en forma centralizada por esta Dirección, sólo registrarán la firma del Director Regional, Jefe del Departamento Regional de Fiscalización, Jefe Regional de Resoluciones, Jefe de Unidad del Servicio correspondiente, o quien este facultado para firmar de acuerdo a la respectiva Resolución Exenta vigente.
+
+
+	Saluda a Ud.,
+	
+
+
+
+
+RICARDO ESCOBAR CALDERON
+DIRECTOR 
+
+
+	
+
+
+
+Distribución:
+Boletín 
+Internet
+

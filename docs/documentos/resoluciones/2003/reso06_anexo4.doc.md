@@ -1,0 +1,62 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2003/reso06_anexo4.doc
+titulo: Anexo 4 – ANEXOS . Anexo 1 . Anexo 2 . Anexo 3 .
+categoria: otros
+---
+INSTRUCCIONES
+Formulario 1852
+Declaración Jurada Anual sobre Agencias o Establecimientos Permanentes en el Exterior.
+
+
+La presente Declaración Jurada, deberá ser presentada por las personas naturales o jurídicas con domicilio o residencia en Chile que hayan constituido agencias o establecimientos permanentes en el exterior.
+
+Esta información deberá presentarse con  independencia de la fecha en que se constituyó la agencia o establecimiento permanente en el extranjero, o si la inversión se encuentra registrada en el Registro de Inversiones en el Extranjero, que para efectos del Art. 41A letra C N° 2, lleva el Servicio de Impuestos Internos.
+
+Plazo de Presentación: Antes del 15 de Marzo de cada año.
+
+Se debe identificar el tipo de Declaración en el cuadro correspondiente (Original o Rectificatoria),  marcando con una “X” si es original o, indicando el número de RUT y FOLIO de la declaración anterior, en caso de tratarse de una Declaración Rectificatoria.
+
+Sección A: IDENTIFICACIÓN DEL DECLARANTE. (Inversionista)
+
+En esta sección deben señalarse los datos relativos a la identificación de los contribuyentes inversionistas, indicando su número de RUT, Nombre o Razón Social, domicilio postal, comuna, correo electrónico, número de fax y número de teléfono (en los dos últimos casos se debe anotar el número incluyendo su código de discado directo). 
+
+Sección B: DATOS DE LOS INFORMADOS: (Agencia o establecimiento permanente en el exterior) Todos los montos deben ser declarados en pesos chilenos ($). 
+
+Antecedentes de agencias o establecimientos permanentes receptores de la inversión.
+
+Nombre o Razón Social: Indicar el nombre o razón  social de la agencia o establecimiento permanente que se tiene en el extranjero.
+
+Tax-ID. Deberá registrarse en forma legible, cuando corresponda, el Código de administración tributaria o de identificación que tiene la agencia o establecimiento permanente en el país extranjero.
+
+Código País de residencia: Indicar la sigla del país en el cual se constituyó la agencia o establecimiento permanente, de acuerdo a la lista que se encuentra para tal efecto en el suplemento Declaraciones Juradas.
+
+Antecedentes de la Inversión.
+
+Monto actualizado de la inversión realizada durante el ejercicio: Indicar el monto correspondiente a la inversión realizada en el ejercicio, debidamente actualizada al 31 de diciembre, de acuerdo con lo que al efecto dispone el Art. 41° N° 4 de la Ley de la Renta, ello en conformidad a lo señalado por el Art. 41°B N°4 de este mismo texto legal.
+
+Monto actualizado de la inversión acumulada al 31 de diciembre: Indicar el monto correspondiente a la inversión acumulada al 31 de diciembre, debidamente actualizada a la misma fecha, de acuerdo con lo que al efecto dispone el Art. 41° N° 4 de la Ley de la Renta, ello en conformidad a lo señalado por el Art. 41°B N°4 de este mismo texto legal.
+
+Utilidad o Pérdida percibida o devengada durante el ejercicio: Indicar el resultado obtenido  por la agencia o establecimiento permanente durante el ejercicio. El resultado de ganancias o pérdidas que obtengan se reconocerá en Chile sobre base percibida o devengada. De acuerdo a lo dispuesto por el número 1 del artículo 41 B de la Ley de la Renta, dicho resultado se debe determinar aplicando las normas sobre determinación de la Base Imponible de Primera Categoría dispuestas por este mismo texto legal, con excepción de la Pérdida de ejercicios anteriores establecida en el inciso segundo del N° 3 del artículo 31 de la ley del ramo. Si el resultado es negativo anótelo entre paréntesis.
+
+Resultados del periodo
+
+Ingresos del giro percibidos o devengados: Anote en este Recuadro los ingresos brutos percibidos o devengados que correspondan al giro del establecimiento permanente, entendiéndose por éstos aquellos que provienen de la actividad habitual o normal que realiza la Agencia o establecimiento permanente según su objeto social, excluyendo todos aquellos ingresos que sean extraordinarios o esporádicos, como ocurre con los originados en ventas de activo inmovilizado, ganancias de capital, etc., (este último en la medida que tales ingresos sean ajenos al giro habitual o comercial que caracteriza a la agencia) los cuales se deben registrar en el recuadro siguiente “Otros ingresos percibidos o devengados”.
+
+Costo directo bienes y servicios: Anote en este recuadro el costo directo contable, que el establecimiento permanente determinó para la producción o comercialización de los bienes o para la prestación de los servicios que constituyen su giro o actividad habitual y que rebajó de los ingresos brutos. Las partidas consideradas como costo directo en este recuadro, no deben ser incluidas en ningún otro recuadro. Si no se determinó un costo directo, anote los gastos, desembolsos o partidas que correspondan, en los recuadros restantes pertinentes.
+
+Otros ingresos percibidos o devengados: En este recuadro se anotan los demás ingresos brutos percibidos o devengados, que haya obtenido el establecimiento permanente durante el ejercicio comercial correspondiente y que por su naturaleza no pudieron ser registrados en los recuadros “Ingresos del giro percibidos o devengados” o “Intereses percibidos o devengados”.
+
+Otros gastos deducidos de los ingresos brutos: En este recuadro se anotan otros gastos, desembolsos o partidas no incorporados en el recuadro costo directo, que hayan sido rebajados por el establecimiento permanente de los ingresos brutos por estimarlos necesarios para producir la renta.
+
+Intereses del periodo
+
+Intereses percibidos o devengados: Informar el monto total de intereses percibidos o devengados por la agencia o establecimiento permanente.
+ 
+Intereses pagados o adeudados: Informar el monto total de intereses pagados o adeudados por la agencia o establecimiento permanente.
+
+Agregados y deducciones del Periodo
+
+Agregados Renta Líquida Imponible: Indicar el monto total de los agregados a la Renta Líquida Imponible de la agencia o establecimiento permanente de conformidad a las normas que establece la Ley sobre Impuesto a la Renta. 
+
+Deducciones Renta Líquida Imponible: Indicar el monto total de las deducciones a la Renta Líquida Imponible de la agencia o establecimiento permanente de conformidad a las normas que establece la Ley sobre Impuesto a la Renta.
+

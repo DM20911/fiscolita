@@ -1,0 +1,109 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso51anx2.doc
+titulo: 2) Modelo de Certificado N° 16, sobre situación Tributaria definitiva de los retiros destinados a reinversión. –
+categoria: otros
+---
+B.16.	CERTIFICADO Nº16
+MODELO DE CERTIFICADO Nº16, SOBRE SITUACION TRIBUTARIA DEFINITIVA DE  LOS RETIROS DESTINADOS A REINVERSION, SEGUN NORMAS DE LA LETRA C) DEL N°1 DE LA LETRA A) DEL ARTICULO 14 DE LA LEY DE LA RENTA
+Nombre o Razón Social empresa o sociedad fuente	:......................................
+RUT Nº                       		                 :......................................
+Dirección                                           		:......................................
+Giro o Actividad				:......................................
+SITUACION TRIBUTARIA DEFINITIVA DE LOS RETIROS DESTINADOS A REINVERSION, SEGUN NORMAS DE LA LETRA C) DEL N°1 DE LA LETRA A) 
+DEL ARTICULO 14 DE LA LEY DE LA RENTA
+CERTIFICADO Nº.................
+Ciudad y fecha........................
+
+La empresa individual, sociedad o comunidad que suscribe, certifica que los retiros o el producto de la enajenación de acciones de pago adquiridas con utilidades reinvertidas, efectuados por el propietario, socio, comunero o accionista, Sr........... Rut N°............... en las fechas que se indican, destinados a reinversión en la empresa o sociedad receptora............... Rut N°.................................................., al término del ejercicio...................., han tenido la siguiente situación tributaria:
+
+Se extiende el presente certificado en cumplimiento de lo dispuesto en el inciso final de la letra c) del N°1 de la Letra A) del artículo 14 de la Ley de la Renta.
+
+
+
+Nombre, N° Rut y Firma del propietario o representante 
+legal de la sociedad o comunidad fuenteINSTRUCCIONES PARA CONFECCIONAR EL MODELO DE CERTIFICADO N°16
+
+Las personas obligadas a emitir este Certificado son las empresas fuentes sean estas empresas individuales, sociedades de personas, sociedades en comandita por acciones (respecto de los socios gestores), comunidades o Sociedades Anónimas, desde las cuales los propietarios, socios, comuneros o accionistas efectuaron los retiros o enajenaron acciones de pago adquiridas con utilidades reinvertidas destinados a reinversión acogidos a las normas de la letra c) del N° 1 de la letra A) del artículo 14 de la Ley de la Renta, con el fin de que dicho documento los inversionistas respectivos lo entreguen a las respectivas empresas o sociedades receptoras de las inversiones, ya que la norma legal antes mencionada señala que éstas últimas empresas deben acusar recibo de las inversiones efectuadas.
+Datos de la Empresa Fuente: Se debe registrar los datos de la empresa fuente desde la cual se efectúa el retiro o a la que corresponden las acciones de pago enajenadas adquiridas con utilidades reinvertidas destinado a reinversión, anotando su Razón Social, Nº de RUT, Dirección y Giro o Actividad Comercial.
+Datos del Inversionista: Se deben registrar los datos relativos al inversionista que efectúa el retiro o enajenación de acciones, anotando su nombre completo y N° de RUT.
+Datos de la empresa receptora: Se debe anotar los datos relativos a la identificación de la empresa receptora que recibe la inversión, registrando su Razón Social y Nº de RUT.
+Nº Certificado y Fecha: Se debe anotar el Nº y la fecha en que dicho Certificado es efectivamente emitido. Estos  documentos deben enumerarse en forma correlativa en cada año.
+Columna (1):	Se anota los meses del año en que se efectuaron los retiros o los meses en que se efectúo la  enajenación de acciones de pago adquiridas con utilidades reinvertidas destinados a reinversión.
+Columna (2):	Se registra el monto nominal de los retiros efectuados en cada mes destinados a reinversión, sin aplicar ningún reajuste.
+Columna (3):	Se anota la parte del retiro destinado a reinversión que fue financiado al término del ejercicio con utilidades tributables afectas al impuesto Global Complementario o Adicional, según orden de imputación establecido en la letra d) del Nº3 de la Letra A) del artículo 14 de la Ley de la Renta.
+Columna (4):	Se anota la parte del retiro destinado a reinversión que fue financiado al término del ejercicio con utilidades exentas del impuesto Global Complementario, según orden de imputación establecido en la letra d) del Nº 3 de la Letra A) del artículo 14 de la Ley de la Renta.
+Columna (5):	Se anota la parte del retiro destinado a reinversión que al término del ejercicio fue financiado con ingresos que no constituyen renta en virtud de lo dispuesto en el artículo 17 de la Ley de la Renta, según orden de imputación establecido en la letra d) del Nº3 de la Letra A) del artículo 14 de la Ley de la Renta.
+Columna (6):	Se anota la parte del retiro destinado a reinversión que al término del ejercicio no fue financiado con las utilidades tributables y/o no tributables y, por lo tanto, queda pendiente su situación tributaria para el ejercicio siguientes.
+Columna (7): Se anota el incremento por el impuesto de Primera Categoría que disponen los incisos finales de los artículos 54 N° 1 y 62 de la Ley de la Renta, equivalente al crédito por impuesto de Primera Categoría. Si dentro de las utilidades retiradas destinadas a reinversión no se incluye el impuesto de Primera Categoría el monto del incremento corresponderá al factor 0,11111 ó 0,17647, aplicados sobre las rentas netas respectivas, según si la tasa del impuesto de Primera Categoría que afectó a las citadas utilidades fue de 10% y/o 15%.  Cabe señalar, que en el evento que las rentas retiradas de las empresas incluyan en su totalidad el impuesto de Primera Categoría, obviamente, en tales casos, no procede efectuar el incremento que se comenta, toda vez que ello induciría a un aumento indebido de las utilidades tributables destinadas a reinversión y, además, otorgándose un crédito mayor por concepto del citado tributo de categoría que no guarda relación con el monto declarado y pagado por la empresa.
+Ahora bien, si dentro de las utilidades retiradas por las empresas sólo se incluye una parte del impuesto de Primera Categoría, obviamente, en tal caso, las referidas rentas deberán aumentarse en el incremento que disponen las normas legales antes mencionadas sólo en aquella parte del tributo no comprendido en las citadas rentas, todo ello, con el fin de preservar lo anteriormente expuesto en cuanto a no generar un incremento indebido, y a su vez, otorgarse un crédito mayor por impuesto de Primera Categoría.
+Lo que se debe ingresar en dicha columna se puede graficar a través del siguiente ejemplo, considerando como base el impuesto de Primera Categoría, con tasa de 15%. 
+R.L.I. 1ª. CATEG. (Renta Bruta)
+RETIRO EFECTUADO
+RETIRO  DESTINADO A REINVERSION
+INCREMENTO POR IMPTO. DE 1ª. CATEGORIA
+CREDITO POR IMPTO. DE 1ª. CATEGORIA
+$ 100
+$ 100
+$ 100
+$ 100
+$  85
+$  90
+$  95
+$ 100
+$  85
+$  90
+$  95
+$ 100
+$  15
+$  10
+$    5
+$    0
+$   15
+$   15
+$   15
+$   15
+Cabe hacer presente que no deben efectuar el incremento en la citada columna los contribuyentes acogidos al artículo 14 bis de la Ley de la Renta y las empresas instaladas en las zonas que señalan las leyes Nºs18.392/85 y 19.149/92, en el primer caso, por tratarse de contribuyentes que declaran rentas brutas, y en el segundo caso, por tratarse de empresas que no obstante sus propietarios, o socios tener derecho al crédito por impuesto de Primera Categoría, la respectiva sociedad no paga una suma efectiva por concepto de dicho tributo por encontrarse exenta del citado gravamen. En la misma situación se encuentran los inversionistas acogidos a las normas de los anteriores textos de los artículos 7º y 7º bis del D.L. Nº600, por no tener derecho al crédito por impuesto de Primera Categoría.
+Columna (8): Se anota el monto del crédito por impuesto de Primera Categoría asociado a los retiros que se financiaron con utilidades tributables afectas al impuesto de Primera Categoría. Dicho crédito se determina aplicando directamente sobre los retiros destinados a reinversión y financiados con las utilidades tributables que dan derecho a dicha rebaja más el incremento por impuesto de primera categoría registrado en la columna anterior, las tasas de 10% o 15% de dicho tributo con las cuales la empresa fuente afectó a las utilidades destinadas a reinversión.
+Columna (9): Se anota el monto del crédito por impuesto tasa adicional del ex artículo 21 de la L.I.R. a que dan derecho las utilidades destinadas a reinversión, de acuerdo a lo dispuesto por el artículo tercero transitorio de la Ley Nº18.775/89 (Circ. Nº13, de 1989).
+En el caso de la enajenación de acciones adquiridas con utilidades reinvertidas, las columnas 2 a la 9, deberán ser llenadas con la situación tributaria de las sumas originalmente invertidas e informadas al momento de la adquisición de las acciones de pago, debidamente actualizadas hasta la fecha de la enajenación de las acciones, en la parte que proporcionalmente corresponda a las acciones enajenadas.
+Emisión del Certificado: Dicho certificado debe ser emitido -a petición expresa del inversionista- por la empresa fuente o por la sociedad anónima a la que corresponden las acciones enajenadas antes del 22 de marzo de cada año, por todas las sumas destinados a reinversión durante el ejercicio comercial respectivo.
+Nº de ejemplares y destino: El certificado debe emitirse en cuatro ejemplares, con el siguiente destino:
+Original: Empresa receptora. Este ejemplar debe ser entregado al inversionista para que éste se lo haga llegar a la empresa receptora de la inversión antes del 22 de marzo de cada año, y ésta proceda a registrar en forma definitiva los retiros en su Registro FUT, de acuerdo al tratamiento tributario consignado en dicho documento.
+1ª Copia:	Debe ser enviada por correo, Fax u otro medio electrónico  por la empresa fuente o por la sociedad anónima a la que corresponden las acciones enajenadas, antes del 22 de marzo de cada año, directamente a la empresa o sociedad receptora de la inversión, sin perjuicio del ejemplar que debe entregar el inversionista a dicha empresa receptora.
+2ª Copia:	Entregada al inversionista para su archivo.
+3ª Copia:	Queda en poder de la empresa fuente para su archivo.
+PÁGINA  1
+
+
+PÁGINA  2
+
+
+PÁGINA  4
+
+
+
+
+
+
+
+
+
+
+ INCRUSTAR Word.Picture.8  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

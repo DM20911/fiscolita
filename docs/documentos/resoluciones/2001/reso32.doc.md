@@ -1,0 +1,176 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso32.doc
+titulo: Word – Resolución Exenta N°32 del 24 de Agosto del 2001 Modifica Resolución que Indica en lo Relacionado con el Departamento Subdirección de Informática y Establece Ambitos de Competencia de los Estamentos que lo Conforman. Fuente: Subdirección de Informática.
+categoria: otros
+---
+RESOLUCION EXENTA N°32 DEL 24 DE AGOSTO DEL 2001 MATERIA : MODIFICA RESOLUCIÓN QUE INDICA EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA Y ESTABLECE AMBITOS DE COMPETENCIA DE LOS ESTAMENTOS QUE LO CONFORMAN.
+
+
+                                                   
+                                              	SANTIAGO,
+
+     Hoy se ha resuelto lo que sigue:
+
+                                              	VISTOS: Las necesidades del Servicio; las facultades que se me confieren en el artículo 3° y en las letras c), h) y n) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, lo establecido en el artículo 11 N° 1, de la Ley N° 19.738 y lo dispuesto en las Resoluciones N° 379 y Ex. N° 7590, de 4 de diciembre de 1991 y 15 de noviembre de 1999, respectivamente, de esta Dirección; y,
+
+
+                                                              	CONSIDERANDO:
+
+
+                                                   	La necesidad de adecuar la organización de la Subdirección de Informática, a fin de abordar con éxito y con el máximo de eficiencia las labores propias de esa Subdirección y en especial las relacionadas con los nuevos desafíos de la Ley N° 19.738, que contiene normas para combatir la evasión tributaria; 
+
+
+                                                            	RESUELVO:
+
+
+1.- Agregase en la letra A.- de la Resolución N° 379, de 1991, a continuación de la palabra "departamentos", la expresión "y oficinas".
+ 
+2.- Reemplazase el número 5 de la letra A.- de la Resolución N° 379, de 1991, por el siguiente:
+
+"5.- Departamento Subdirección de Informática:
+
+- Departamento Informática Operación IVA y Catastro de Contribuyentes.
+- Departamento Informática Operación Renta.
+- Departamento Informática Avaluaciones.
+- Departamento Informática Interna.
+- Departamento Procesamiento de  Información.
+- Oficina de Computación Personal.
+- Oficina Internet."
+
+3.- Al Departamento Informática Operación IVA y Catastro de Contribuyentes, le competerá satisfacer las necesidades y requerimientos informáticos para apoyar la fiscalización del Servicio específicamente los ámbitos de: Operación Iva, Catastro de Contribuyentes, Giros y proyectos relacionados con otras Subdirecciones. En el ejercicio de esta competencia le corresponderá:
+
+Elaborar y formular proyectos informáticos o de las componentes informáticas de proyectos que mejoren la eficiencia y la eficacia del quehacer del Servicio en el ámbito de la fiscalización.
+
+Desarrollar sistemas de apoyo a la fiscalización de acuerdo a los requerimientos del área usuaria.
+ 
+Mantener y dar soporte a los sistemas en producción.
+
+Proponer mejoras a los sistemas en producción y a los procesos de negocios que estos apoyan.
+
+Administrar y controlar contratos de proveedores de servicios informáticos.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidos por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software utilizadas al interior del SII.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer necesidades de los usuarios, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+
+4.- Al Departamento Informática Operación Renta, le competerá satisfacer las necesidades y requerimientos informáticos para apoyar la fiscalización del Servicio específicamente en los ámbitos de: Operación Renta, Vector Externo, Sectorial, Tributación Internacional, Fraudes Económicos, Organizaciones sin fines de lucro, Entidades Fiscales y proyectos relacionados con otras Subdirecciones. En el ejercicio de esta competencia le corresponderá:
+
+Elaborar y formular proyectos informáticos o de las componentes informáticas de proyectos que mejoren la eficiencia y la eficacia del quehacer del Servicio en el ámbito de la fiscalización.
+
+Desarrollar sistemas de apoyo a la fiscalización de acuerdo a los requerimientos del área usuaria. 
+
+Mantener y dar soporte a los sistemas en producción.
+
+Proponer mejoras a los sistemas en producción y a los procesos de negocios que estos apoyan.
+
+Administrar y controlar contratos de proveedores de servicios informáticos.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidos por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software utilizadas al interior del SII.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer necesidades de los usuarios, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+
+5.- Al Departamento Informática Avaluaciones, le competerá satisfacer las necesidades y requerimientos informáticos para apoyar la administración y fiscalización del Impuesto Territorial. En el ejercicio de esta competencia le corresponderá:
+
+Elaborar y formular proyectos informáticos o de las componentes informáticas de proyectos que mejoren la eficiencia y la eficacia del quehacer del Servicio en el ámbito del Impuesto Territorial.
+
+Desarrollar sistemas de información de acuerdo a los requerimientos de las áreas usuarias. 
+
+Mantener y dar soporte a los sistemas en producción.
+
+Proponer mejoras a los sistemas en producción y a los procesos de negocios que estos apoyan.
+
+Administrar y controlar contratos de proveedores de servicios informáticos.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidos por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software utilizadas al interior del SII.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer necesidades de los usuarios, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+
+6.- Al Departamento  Informática Interna, le competerá elaborar y formular proyectos informáticos que mejoren la eficiencia y eficacia del quehacer del Servicio, así como también, brindar apoyo técnico y soporte a todas las aplicaciones y sistemas orientados hacia el interior del SII y que no se relacionen con los contribuyentes. En el ejercicio de esta competencia, le corresponderá:
+
+Desarrollar sistemas de información de acuerdo a los requerimientos de las áreas usuarias.
+
+Mantener y dar soporte a los sistemas en producción.
+
+Proponer mejoras a los sistemas en producción y a los procesos que estos apoyan.
+
+Administrar y controlar contratos de proveedores de servicios informáticos.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidos por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software utilizadas al interior del SII.
+
+Colaborar con las áreas usuarias en la gestión de la relación con proveedores externos de software, velando por el resguardo de los intereses del SII y apoyando en todo el proceso de selección, adquisición, desarrollo, mantención y soporte de nuevas aplicaciones.
+
+Conocer los requerimientos de cada una de las áreas usuarias, y  ofrecer alternativas de solución.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer necesidades de los usuarios, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+7.- Al Departamento Procesamiento de Información, le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:
+
+Administrar y mantener la plataforma tecnológica que da soporte a los servicios y aplicaciones de la Subdirección de Informática del SII, procurando mantener los sistemas en funcionamiento de acuerdo a los requerimientos de las aplicaciones, haciendo un uso racional de los recursos con que se cuenta.
+
+Administración de recursos de Hardware y Software básico para garantizar la operación de los sistemas de producción, incluyendo las redes de comunicaciones, poniendo especial énfasis en los servicios asociados a Internet.
+
+Monitoreo permanente de los sistemas, cuyo objetivo es alertar situaciones anormales, y así poder reducir o eliminar fallas que involucren suspensión de servicio.
+
+Evaluación y proposición de nuevas tecnologías que permitan mejorar la entrega de servicios.
+
+Provisión de todos los elementos de seguridad física que favorezcan la continuidad de los servicios, incluyendo controles de acceso, elementos contra incendios, resguardos desde el punto de vista del suministro eléctrico de los equipos y la habilitación de más de un site de procesamiento.
+
+Administración de las aplicaciones y sistemas que se encuentran en producción, procurando un adecuado uso de los recursos y de los procesos involucrados.
+
+Resguardar las versiones vigentes de los programas fuentes que estén en producción.
+
+Generación y aplicación de procedimientos de respaldo y recuperación de información.
+
+ 8.- A la Oficina de Computación Personal, le corresponderán las siguientes   atribuciones, obligaciones, responsabilidades y funciones:
+
+Difundir y desarrollar el uso de herramientas de productividad personal. 
+
+Administrar y dar soporte en:
+
+Mesa de ayuda general y técnica, para usuario internos y externos.
+Correo electrónico corporativo, a nivel de usuarios.
+Inventario, instalaciones y mantenimiento del equipamiento.
+Aplicaciones de productividad personal.
+Servicio de acceso remoto a los servidores.
+
+Desarrollar proyectos de Hardware y Software referidos al ámbito de la Computación Personal.
+
+Entregar información y ayuda oportuna a los contribuyentes para el uso de las herramientas a su disposición en la WEB del SII.
+
+9.- A la Oficina Internet, le corresponderán las siguientes   atribuciones , obligaciones, responsabilidades y funciones:
+
+Desarrollar componentes de programas de carácter transversal a las distintas áreas de desarrollo de la Subdirección.
+
+Analizar y estudiar la factibilidad de incorporar nuevas tecnologías computacionales.
+
+Desarrollar estudios e investigación de lenguajes y herramientas de productividad.
+
+
+			10.- Dejase sin efecto cualquier Resolución dictada anteriormente sobre esta materia, en lo que se oponga a la presente.
+
+			11.- Esta Resolución regirá a contar del 27 de agosto del 2001.
+
+
+
+                                        	ANÓTESE Y COMUNÍQUESE 
+
+
+
+
+
+
+
+
+
+	JAVIER ETCHEBERRY CELHAY
+			DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+Saluda a Ud.,
+
+DISTRIBUCION:
+Internet
+Boletín
+
+

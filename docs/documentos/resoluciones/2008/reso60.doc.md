@@ -1,0 +1,70 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso60.doc
+titulo: Word – Resolución Exenta SII N°60 del 14 de Mayo del 2008 Autoriza a los Directores Regionales para Delegar en el Funcionario que Indica, la Facultad para Resolver las Solicitudes de Revisiones Administrativas de los Actos que Señala. Fuente: Departamento de Asesoría Jurídica
+categoria: otros
+---
+RESOLUCION EXENTA SII N°60 DEL 14 DE MAYO DEL 2008 MATERIA : AUTORIZA A LOS DIRECTORES REGIONALES PARA DELEGAR EN EL FUNCIONARIO QUE INDICA, LA FACULTAD PARA RESOLVER LAS SOLICITUDES DE REVISIONES ADMINISTRATIVAS DE LOS ACTOS QUE SEÑALA. 
+
+						Hoy se ha resuelto lo que sigue:
+
+ 	VISTOS: Lo dispuesto en el artículo 7º, letras a), c), e i) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980, del Ministerio de Hacienda;  el artículo 6º, letra B, Nº s. 5° y 7° del Código Tributario; los artículos 10° y 41 de la Ley Nº 18.575, sobre Bases Generales de la Administración del Estado; y
+
+	 	CONSIDERANDO:
+
+			1°.- Que atendido lo dispuesto en el artículo 10°, de  la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, se ha establecido un procedimiento administrativo de revisión de las liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan para determinarlo, mismo que se basa en la facultad que el artículo 6°, letra B, N° 5°, del Código Tributario concede a los Directores Regionales de este Servicio para corregir, por la vía administrativa, los vicios o errores que en aquellos detecten.
+	
+		2°- Que se estima pertinente, en atención a que los temas a debatir en esta instancia son de innegable naturaleza jurídica, que el pronunciamiento con que finaliza esta etapa de revisión, sea adoptado por el Jefe del Departamento Jurídico en las Direcciones Regionales donde existen estos Departamentos y  por un funcionario abogado de la Oficina Jurídica en las demás.  
+
+
+RESUELVO:
+
+PRIMERO.- Autorízase a los Directores Regionales de la  V Dirección Regional Valparaíso; VII Dirección Regional Talca; VIII Dirección Regional Concepción; IX Dirección Regional Temuco; X Dirección Regional Puerto Montt; XIII Dirección Regional Metropolitana Santiago Centro; XIV Dirección Regional Metropolitana Santiago Poniente; XV Dirección Regional Metropolitana Santiago Oriente y XVI Dirección Regional Metropolitana Santiago Sur, para delegar en el Jefe del Departamento  Jurídico la facultad establecida en el artículo 6°, letra B, N° 5 del Código Tributario, para resolver administrativamente las peticiones de revisión que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros o resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo.
+
+SEGUNDO.- Autorizase a los Directores Regionales de la I Dirección Regional Iquique; II Dirección Regional Antofagasta; III Dirección Regional Copiapó; IV Dirección Regional La Serena; VI Dirección Regional Rancagua; XI Dirección Regional Coyhaique y XII Dirección Regional Punta Arenas, para delegar la facultad señalada en dispositivo Primero de la presente Resolución, al funcionario abogado ubicado en la Oficina Jurídica de la sede de la Dirección Regional, encargado de supervisar las labores que realiza dicha Oficina Jurídica. La resolución delegatoria deberá indicar nominativamente el funcionario al que se delega la mencionada atribución, como igualmente al funcionario que la ejercerá en caso de impedimento o inhabilidad del primero.
+
+TERCERO.- Las resoluciones delegatorias de facultades que dicten los Directores Regionales, deberán citar la presente resolución, mencionándola con su número y fecha en la parte considerativa y deberán publicarse, en extracto, en el Diario Oficial. 
+
+CUARTO.-  Derógase la Resolución EX. SII. N° 119, de 4 de Octubre de 2006, a contar de la fecha en que entren a regir las resoluciones delegatorias que se dicten en cumplimiento de la presente resolución.
+
+QUINTO.- Los Directores Regionales, procederán a derogar toda resolución delegatoria de facultades relativa a la materia que pugne contra la presente instrucción.
+
+SEXTO.- Las resoluciones de delegaciones que efectúen los Directores Regionales en cumplimiento de la presente instrucción, deberán regir a contar del  01 de Junio de 2008.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+
+
+
+(FDO.) RICARDO ESCOBAR CALDERON
+                 DIRECTOR
+
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes.
+
+
+Distribución:
+Internet
+Diario Oficial
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

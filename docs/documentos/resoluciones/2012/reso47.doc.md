@@ -1,0 +1,296 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2012/reso47.doc
+titulo: Word – Resolución Exenta SII N°47 del 30 de Marzo del 2012 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°47 DEL 30 DE MARZO DEL 2012 MATERIA : AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Dispositivo primero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos, a contar del mes de Abril del 2012, a los siguientes contribuyentes:
+
+- AGROINDUSTRIAL OVO TRADING LTDA.					77.025.380-2 
+- ALVAREZ & VERGARA ASOCIADOS LTDA. 					76.122.928-1 
+- ANGEL EDUARDO PAREDES CARRILLO 					14.285.231-4 
+- BLAYA Y VEGA S.A.								82.066.500-7
+- BUSCALIBRE S.A. 								76.023.713-2
+- CASA DE REMATE PRYG LTDA.						76.370.740-7
+- CERTIFICACION Y SERVICIOS CCS LTDA.					76.187.483-7
+- COMERCIAL SHOOF INTERNATIONAL CHILE LTDA. 				76.155.922-2 
+- COMERCIAL TOSO LTDA. 							76.008.058-6 
+- COMERCIALIZADORA E IMPORTADORA KAYSEN LTDA. 			76.141.594-8 
+- COMERCIALIZADORA IBEROAMERICANA RADIO CHILE S.A. 			79.947.310-0
+- CONSTRUCCIONES Y ASESORIAS EN MINERÍA JORGE RODRIGO 		52.004.846-4
+  VERA BORQUEZ E.I.R.L. 	 
+- CONSULTORÍA CAPACITACIÓN SERVICIOS Y COMERCIALIZACIÓN 		77.777.670-3
+  SS&G LTDA.	 
+- CORP. DE EDUCACIÓN LA ARAUCANA 					71.171.600-9 
+- COSTELLA CAPACITACIÓN S.A. 						76.122.674-6 
+- DISTRIBUIDORA DE ALIMENTOS CHILE S.A.					99.524.690-2
+- ELOGOS S.A. 									96.949.910-K 
+- EMPRESA CONSTRUCTORA E INMOBILIARIA ALSOR S.A. 			76.144.204-K 
+- ESCUELA DE CONDUCTORES AUTOMOVIL CLUB DE CHILE LTDA. 		77.323.230-K
+- EXOTIC-CHILE LTDA.								76.108.436-4
+- FÁBRICA Y SERVICIOS PARA ESTANQUES LTDA. 				76.075.877-9
+- FEDERICO MAGGIOLO RISSO 							04.185.412-K
+- FERMAQ PROYECTOS Y OBRAS LTDA.					77.272.940-5  
+- FORESTAL CAMELIO LTDA. 							76.223.340-1 
+- FRANCISCO JAVIER LEDESMA ABARCA 					08.528.782-6 
+- GERARDO ROSSELOT Y CIA. LTDA. 						85.684.200-2 
+- GUILLERMO RETAMAL Y CIA. LTDA. 						76.485.210-9 
+- IBEROAMERICANA RADIO CHILE S.A. 						96.867.990-2 
+- INGENIERÍA DE PROTECCIÓN S.A.						89.722.200-0 
+- INMOBILIARIA E INVERSIONES PADUPARK S.A. 				76.121.952-9 
+- JACK STERN Y CIA. LTDA. 							78.044.920-9 
+- JOSE ANDRES LABRIN PEZOA 							06.860.522-9 
+- JUWI ENERGIAS RENOVABLES DE CHILE LTDA. 				76.111.323-2 
+- KEYFOODS S.A.									99.592.350-5 
+- LA GRANJA S.A. 								76.434.350-6 
+- LUIS VIELVA Y CIA. LTDA. 							81.031.100-2 
+- MINERA GABY SPA. 								76.152.363-5 
+- MINEX S.A. 									79.973.750-7 
+- MONTAJE INDUSTRIAL IMCON ARQ. LTDA. 					76.182.203-9 
+- NELSON HIDALGO TRAVIZANY 						07.436.612-0 
+- OMESSE S.A. 									96.604.940-5  
+- PENDRIVES PUNTO CL LTDA. 							76.107.577-2 
+- POCH ASOCIADOS INGENIEROS LTDA. 					78.824.270-0 
+- PRODUCTORA Y COMERCIALIZADORA TUBEXA S.A. 				76.590.720-9 
+- PRODUCTOS BITUMINOSOS S.A. 						96.724.760-K 
+- PROTEGO S.A.									99.573.010-3 
+- PUNTO TICKET S.A. 								76.510.420-3 
+- QUANTUM MATRIX SPA.							76.154.437-3 
+- S2 SERVICIOS LTDA. 								76.321.380-3 
+- SABORES.CL COMERCIAL LTDA.						76.165.072-6 
+- SCOTIA CORREDORA DE SEGUROS CHILE LTDA. 				78.745.730-4 
+- SERVICIOS AEREOS PUDAHUEL S.A.						96.650.550-8 
+- SERVICIOS ARIDAM S.A. 							76.033.531-2
+- SERVICIOS INTEGRALES NOMADE CHILE LTDA.				76.101.122-7  
+- SERVICIOS PUBLICITARIOS FLESAD LTDA. 					76.070.080-0
+- SGC AJUSTADORES S.A. 							96.865.840-9 
+- SOCIEDAD ARAMAY LTDA. 							76.189.037-9 
+- SOCIEDAD COMERCIAL ELECTRIC SYSTEM CHILE LTDA. 			76.744.980-1 
+- SOCIEDAD COMERCIAL RAMIREZ ROCHA E HIJOS LTDA. 			76.134.401-3 
+- SOCIEDAD COMERCIAL RUVET LTDA. 						76.160.839-8 
+- SOCIEDAD COMERCIALIZADORA DE FRUTA LTDA. 				76.098.379-9 
+- SOCIEDAD DE INVERSIONES LIBRA LTDA. 					76.196.669-3 
+- SOCIEDAD DE TRANSPORTES DPL GROUT LTDA. 				76.178.739-K 
+- SOCIEDAD INMOBILIARIA ARAMIS LTDA. 					76.005.425-9 
+- SUPERBID CHILE S.A. 								76.008.148-5 
+- UPTIME INVERSIONES S.A. 							76.585.000-2 
+- VICUÑA Y FUENTEALBA PRODUCCIONES LTDA. 				76.175.025-9 
+- VIGAMIL S A C E I 								96.690.020-2
+
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes están autorizados a emitir en forma electrónica.
+
+
+Segundo: 	Los contribuyentes autorizados conforme al dispositivo anterior deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+Tercero:	El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+                         
+		 
+   
+   (Fdo.) IVÁN BELTRAND CRUZ
+                    SUBDIRECTOR DE FISCALIZACIÓN
+                                                                      
+                                                              
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+RPA/HSS/oba
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,37 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso128.doc
+titulo: Word – Resolución Exenta SII N°128 del 01 de Septiembre del 2009 Prorroga Plazo para Remitir al Servicio, la Información Establecida en la Resolución Ex. N° 43, de 2008, por las Operaciones Efectuadas en el Periodo Enero a Junio del 2009. Fuente: Departamento de Personas y de Micro y Pequeñas Empres
+categoria: otros
+---
+RESOLUCION EXENTA SII N°128 DEL 01 DE SEPTIEMBRE DEL 2009 MATERIA : PRORROGA PLAZO PARA REMITIR AL SERVICIO, LA INFORMACIÓN ESTABLECIDA EN LA RESOLUCIÓN EX. N° 43, DE 2008, POR LAS OPERACIONES EFECTUADAS EN EL PERIODO ENERO A JUNIO DEL 2009.
+Hoy se ha resuelto lo que sigue:
+VISTOS:  Lo dispuesto en los artículos 6°, letra A), N°1 y 60° inciso penúltimo del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980; lo dispuesto en el artículo 17, inciso 2° del D.L. N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas; y
+
+CONSIDERANDO:
+
+1°	Que, corresponde al Servicio de Impuestos Internos, entre otras funciones, velar por la correcta aplicación y determinación del Impuesto de Timbres y Estampillas establecido en el Decreto  Ley N° 3.475, publicado en el Diario Oficial de 04 de Septiembre de 1980.
+2°	Que, este Servicio, mediante instrucciones contenidas en la Circular N° 72, de 08 de Octubre de 1980, complementada por la Circular N° 18, de 03 de Abril de 1981, creó el Libro Auxiliar de Registro y Control de Letras de Cambio y otros documentos a que se refiere el artículo 1 N° 3 del Decreto Ley N° 3.475, de 1980, que deben llevar los contribuyentes por los impuestos que afecten a las letras de cambio, pagarés y demás documentos,  que emitan u otorguen, conforme a la norma señalada, en relación con el artículo 15 N° 2 del mismo estatuto.
+3°	Que, mediante Resolución Ex. N° 2, de 04 de Enero de 2005, se creó el Auxiliar de Registro de Impuesto de Timbres y Estampillas que deben llevar los Bancos e Instituciones Financieras para el control del impuesto que establece el Decreto Ley N° 3.475, de 1980, y se fijó el formato y las instrucciones respectivas para su remisión semestral al Servicio. Dicha resolución fue modificada mediante Resoluciones Exentas N° 140, de 23 de Noviembre de 2006, N° 87, de 01 de Agosto de 2007, y, N° 101, de 24 de Agosto del mismo año. 
+4°	Que, mediante Resolución Ex. N° 43, de 03 de abril de 2008, se incorporó en el ámbito de las obligaciones establecidas por Resolución Ex. N° 2, ya citada y sus modificaciones posteriores, a los Notarios y Oficiales del Registro Civil, en lo que se refiere a las actuaciones y documentos que den cuenta de actos jurídicos, contratos y otras convenciones que –éstos -autoricen o protocolicen y que se hallen gravados con el Impuesto de Timbres y Estampillas establecido en el Decreto Ley N° 3.475 de 1980. 
+5°	Que, mediante Ley N° 20.326, publicada en el Diario Oficial de 29 de enero de 2009, se estableció una disminución transitoria de las tasas establecidas en los artículos 1° N° 3, 2° y 3°  del Decreto Ley N° 3475, de 1980.
+ 
+SE RESUELVE:	
+PRORRÓGASE el plazo para cumplir con la obligación de remitir a este Servicio, la información establecida en la segunda parte del Resolutivo 3° de la Resolución Ex. N° 43, de 03 de Abril de 2008, hasta el mes de octubre de 2009, por las operaciones efectuadas en el período enero a junio del mismo año.  
+La presente resolución entrará en vigencia a contar de su publicación en el sitio oficial de este Servicio (www.sii.cl). 
+ 
+ANÓTESE,  COMUNÍQUESE  Y  PUBLÍQUESE  EN EXTRACTO EN EL DIARIO OFICIAL
+ 
+
+
+
+(FDO.)PABLO GONZÁLEZ SUAU
+DIRECTOR  (S)
+
+Lo que transcribo a usted, para su conocimiento y demás fines.
+
+IBC/CMC/CDV
+DISTRIBUCIÓN: -   Boletín del SII
+-   Internet
+-   Diario Oficial (Extracto)
+
+

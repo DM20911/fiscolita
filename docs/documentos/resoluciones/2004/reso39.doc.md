@@ -1,0 +1,91 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso39.doc
+titulo: Word – Resolución Exenta SII N°39 del 03 de Marzo del 2004 Incluye en Nómina "Grandes Contribuyentes" a contribuyente que indica: DHL WORLDWIDE EXPRESS CHILE LTDA RUT N° 86.966.100-7 Fuente: Dirección Grandes Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°39 DEL 03 DE MARZO DEL 2004 MATERIA : INCLUYE EN NÓMINA "GRANDES CONTRIBUYENTES" A CONTRIBUYENTE QUE INDICA:  DHL WORLDWIDE EXPRESS CHILE LTDA RUT N° 86.966.100-7
+
+Santiago, 
+
+Hoy se ha resuelto lo que sigue:
+
+
+VISTOS: Las facultades que se me confieren en el Art. 3° y  en las letras a), b), c), h) y n) del Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de Hacienda, de 1980, lo establecido en el Art. 6° letra A., N° 1° del Código Tributario, contenido en el Art. 1° del D.L. N° 830 de 1974, lo dispuesto por esta Dirección mediante Res. Ex. N° s 34 de fecha 24.08.01, 45 de fecha 19.11.01 y 68 de fecha 02.12.03, y  las necesidades del Servicio
+
+
+CONSIDERANDO:
+
+
+1°  Que por medio de la Res. Ex. N° 34, de fecha 24.08.01, se creó con dependencia jerárquica de la Dirección Nacional, el Departamento Subdirección de Fiscalización denominado "Dirección Grandes Contribuyentes", fijándosele las atribuciones, responsabilidades y obligaciones que en la misma resolución se indican, señalando que para los efectos de la misma se entenderá por "Grandes Contribuyentes", cualquiera sea su capital, denominación, domicilio, organización, monto de ventas o sector económico, aquel que conste en una nómina que fijará el Director mediante resolución.
+
+
+2°   Que por otra parte, a través de la Res. Ex. N° 45 de 19.11.01 se fijó la Nómina de "Grandes Contribuyentes" para los efectos señalados en dispositivo 3° de Res. Ex. N° 34, ya citada, sobre la base de criterios de selección que en aquel documento se indicaron. También se señala expresamente, que la Nómina se actualizará con aquellos contribuyentes cuya inclusión o exclusión autorice el suscrito. Agrega que, respecto de los contribuyentes que a la fecha de emisión de la Res. Ex. N° 45, se encuentren en algún proceso de fiscalización iniciado por la Subdirección de Fiscalización, el caso deberá ser continuado hasta su debido término por la Dirección de Grandes Contribuyentes.
+
+
+3°   Que, es necesario complementar la Nómina de Grandes Contribuyentes, según lo dispuesto en las Res. Ex. N°s 34, 45 y 68, de acuerdo a los criterios de incorporación establecidos, incluyendo a un contribuyente, que podrá ser objeto de una eventual revisión en la medida que sea seleccionado por el Servicio, sobre la base de indicadores de fiscalización de general aplicación y de acuerdo a los antecedentes que obren en su poder.
+
+
+
+
+
+
+RESUELVO:
+
+
+1.   	Incorporase a la Nómina de "Grandes Contribuyentes", fijada por medio de la Res. Ex. N°45 del 19.11.01 y modificada por Res. Ex. N°68 de 02.12.03, al contribuyente que a continuación se individualiza:
+
+CONTRIBUYENTE:	DHL WORLDWIDE EXPRESS CHILE  LTDA
+
+RUT N°		            86.966.100-7
+
+
+3.   La presente resolución regirá a contar de la fecha de su notificación a su representante legal.
+
+
+
+
+ANOTESE Y NOTIFIQUESE
+
+
+
+
+
+
+
+
+
+JUAN TORO RIVERA
+       DIRECTOR
+
+
+
+
+
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.
+
+
+
+
+
+
+
+
+JTP/EAS/EEG
+DISTRIBUCION
+-Director
+-DGC
+-GEI 
+-Internet
+-Contribuyente: DHL WORLDWIDE EXPRESS CHILE  LTDA RUT N° 96.966.100-7
+Domicilio:        San Francisco 301 Rol 529-1 Stgo 
+Rpte Legal:     PHILIP DONALD SOMERVELL RUT N° 14.576.887-K  y
+                       ALDO ALFREDO CAPUTO NEIRA RUT N° 5.090.959-k 
+
+
+PAGE  1
+
+
+
+
+

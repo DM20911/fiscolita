@@ -1,0 +1,75 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2002/reso25.doc
+titulo: Word – Resolución Exenta N°25 del 18 de Octubre del 2002 Deroga resolución exenta N° 5.754 del 27 de agosto de 1999 y establece obligación de presentar declaración de impuestos en formulario 29 mediante transmisión electrónica de datos vía Internet a contribuyentes que indica. Fuente: Depto. de Op. 
+categoria: otros
+---
+RESOLUCION EXENTA N°25 DEL 18 DE OCTUBRE DEL 2002 MATERIA : DEROGA RESOLUCIÓN EXENTA N° 5.754 DEL 27 DE AGOSTO DE 1999 Y ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN DE IMPUESTOS EN FORMULARIO 29 MEDIANTE TRANSMISIÓN ELECTRÓNICA DE DATOS VÍA INTERNET A CONTRIBUYENTES QUE INDICA.
+
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS : Las facultades contempladas en el Arts. 6º letra A) Nº 1, en el Art. N° 17°, inciso 3°, y 30° del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974, en los Arts. N° 1 y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda y lo dispuesto en la Resolución Exenta N° 4228 de 24.06.1999, modificada por la Resolución Exenta N° 5004 de 22.07.1999, y en las Circulares N° 36 y 43, de 1999 del Servicio de Impuestos Internos; y,
+
+CONSIDERANDO:
+
+1°)   Que, el Servicio de Impuestos Internos, mantiene un interés constante de contribuir eficazmente con el desarrollo y masificación de las tecnologías de información, de facilitar la forma de declarar y pagar los impuestos, de dar una mejor atención al contribuyente y de eliminar la  burocracia y trámites innecesarios;
+
+2°)   Que, el inciso segundo del Art. 30° del Código Tributario, confiere a la Dirección la facultad de autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+
+3°)  Que, en virtud de lo dispuesto en el punto 4.2, de la Res. Ex. N° 4228 de 24.06.1999, los contribuyentes autorizados para sustituir sus libros de contabilidad por hojas sueltas llevadas por medios computacionales, se han comprometido a efectuar las declaraciones de impuestos, vía Internet, en la forma que el Servicio determine y a pagarlos por este medio;
+
+4°) Que, el Servicio cuenta con los medios tecnológicos y aplicaciones computacionales para recibir las declaraciones y pagos de los impuestos mensuales que se declaran en el formulario N° 29, vía Internet;
+
+5°)   Que, la entrega de información a través de la transmisión electrónica de datos vía Internet es la que ofrece las mayores garantías de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante;
+
+6°)  Que, la información que se envía a través de Internet se efectúa a través de un sistema que garantiza su debido resguardo, pues el traspaso de dicha información se realiza mediante una tecnología llamada encriptación que impide que un tercero pueda acceder a los datos que se están transmitiendo; y,
+
+7°)  Teniendo en cuenta los avances tecnológicos en materia informática y el desarrollo experimentado por las comunicaciones.
+
+
+SE RESUELVE:
+
+
+1° 	Los contribuyentes que, en virtud de lo dispuesto en la Res. Ex. N° 4228 del 24.06.1999, estén autorizados para sustituir sus libros de contabilidad por hojas sueltas llevadas computacionalmente, y tengan o registren ventas nominales anuales superiores a los cincuenta millones de pesos, deberán presentar las declaraciones y pago de impuestos que corresponde efectuar en el formulario 29, de Declaración y Pago Simultáneo Mensual, mediante transmisión electrónica de datos, vía Internet, a partir de las fechas que se indican en el resolutivo 2°.  
+
+2°	Lo dispuesto en esta resolución regirá para los contribuyentes con ventas nominales anuales superiores a los quinientos millones de pesos durante el año 2001 a partir de enero del año 2003; para los con ventas nominales anuales superiores a los ciento veinticinco millones de pesos durante el 2001 a partir de mayo del 2003; y para los con ventas nominales anuales durante el 2001 superiores a los cincuenta millones de pesos a partir de junio del año 2003. Esto regirá para las declaraciones que se presenten dentro o fuera de plazo, con o sin pago, y cualquiera sea el período al que correspondan.  Aquellas declaraciones que modifiquen o rectifiquen una anterior, que no esté disponible en Internet, deberán presentarse en la Unidad del Servicio con jurisdicción en el domicilio del contribuyente.
+
+3° 	Para los efectos de esta resolución se entenderá por venta nominal anual la suma de los códigos 20; 142; 108 dividido por 0,18; 111 dividido por 0,18; y 112 dividido por 0,18 de todos los formularios 29 vigentes del año en cuestión.
+
+4°	Los contribuyentes que no cuenten con medios para efectuar el pago vía Internet, podrán solicitar la postergación de la obligación de presentar el formulario 29 de declaración y pago de impuestos por esta vía, en la Dirección Regional correspondiente al domicilio de su jurisdicción, a más tardar un mes antes de que empiece a regir esta resolución, a su respecto según lo dispuesto en el resolutivo 2°. La solicitud deberá ser debidamente fundamentada con argumentos que sean atendibles. La Resolución que acoja favorablemente la solicitud tendrá una vigencia máxima de un año, y podrá ser renovada, de mantenerse las circunstancias que le sirven de fundamento.
+
+5°	Todo contribuyente que solicite llevar contabilidad computacional a partir de la fecha de publicación de esta resolución estará obligado a presentar las declaraciones y pago de impuestos que deben efectuarse en el formulario 29, mediante transmisión electrónica de datos, cualquiera sea el monto de sus ventas.
+
+6°	En el caso en que el retardo en la presentación de la declaración vía Internet se origine en una causa no imputable al contribuyente, los Directores Regionales condonarán el cien por ciento de los intereses y multas que correspondería aplicar por el atraso en que se haya incurrido.
+
+7°	La presentación de la declaración y pago mensual en formulario 29 en una forma distinta a la señalada en el resolutivo 1° y 5° precedente por parte de los contribuyentes allí mencionados, será sancionada de acuerdo a lo previsto en el artículo 109 del Código Tributario y podrá tener como consecuencia la cancelación de la autorización concedida para sustituir la contabilidad por hojas sueltas llevadas en forma computacional.
+
+8° 	A contar de la fecha de vigencia de esta resolución, derógase la Res. Ex. N° 5754, de 27.08.1999.
+
+
+
+
+ANÓTESE COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+(FDO.) JUAN TORO RIVERA
+         DIRECTOR
+
+Lo que transcribo a Ud. para su conocimiento y fines consiguientes,
+
+Saluda a Ud.
+
+
+
+
+SECRETARIO GENERAL
+
+
+
+DISTRIBUCION: -	Al Diario Oficial (En extracto)
+Internet
+Boletín
+Oficina de Partes
+

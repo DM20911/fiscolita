@@ -1,0 +1,8 @@
+---
+url: https://www.sii.cl/pagina/renta/suplemento2001/parte4/fact_act.htm
+titulo: INFORMACION TRIBUTARIA OPERACION RENTA AÑO 2001
+categoria: otros
+---
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| |  | | --- | | [Home](https://www.sii.cl) | [Indice](../Indice.htm) |   TERCERA PARTE  INFORMACION TRIBUTARIA OPERACION RENTA AÑO 2001  (A) PORCENTAJESY FACTORES DE ACTUALIZACION PARA EJERCICIOS FINALIZADOS AL 31 DE DICIEMBRE DEL AÑO 2000     |  |  |  | | --- | --- | --- | | Mes del año 2000 en que ocurrió el hecho objeto de la actualización | Porcentaje de reajuste | Factor de actualización directo | | Capital Propio Inicial al 01.01.2000 ................... | 4,7% | 1,047 | | Remanente o Saldo Negativo de Utilidades Tributables (FUT) o no Tributables (FUNT) al 31.12.99 ............................................................... | 4,7% | 1,047 | | Excesos de Retiros determinados al 31.12.99 .... | 4,7% | 1,047 | | Enero de 2000 | 4,4% | 1,044 | | Febrero de 2000 | 4,2% | 1,042 | | Marzo de 2000 | 3,6% | 1,036 | | Abril de 2000 | 2,9% | 1,029 | | Mayo de 2000 | 2,4% | 1,024 | | Junio de 2000 | 2,2% | 1,022 | | Julio de 2000 | 2,0% | 1,020 | | Agosto de 2000 | 1,8% | 1,018 | | Septiembre de 2000 | 1,6% | 1,016 | | Octubre de 2000 | 0,9% | 1,009 | | Noviembre de 2000 | 0,3% | 1,003 | | Diciembre de 2000 | 0,0% | 1,000 | |

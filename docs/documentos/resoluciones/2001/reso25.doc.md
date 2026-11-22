@@ -1,0 +1,132 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2001/reso25.doc
+titulo: Word – Resolución Exenta N°25 del 29 de Junio del 2001 Establece Procedimiento de Recepción de Giros Formularios 21 y la Entrega Centralizada al Servicio de Impuestos Internos de Dichos Formularios. Fuente: Subdirección de Informática
+categoria: otros
+---
+RESOLUCION EXENTA N°25 DEL 29 DE JUNIO DEL 2001 MATERIA : ESTABLECE PROCEDIMIENTO DE RECEPCIÓN DE GIROS FORMULARIOS 21 Y LA ENTREGA CENTRALIZADA AL SERVICIO DE IMPUESTOS INTERNOS DE DICHOS FORMULARIOS.
+
+
+VISTOS: lo dispuesto en el artículo 6º letra A Nº 1, del Código Tributario, en el artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda; y 
+
+CONSIDERANDO:
+
+
+1°.- Que el inciso primero del artículo 37° del Código Tributario,  modificado por la Ley 19.738, dispone que los tributos, reajustes, intereses y sanciones deberán ser ingresados al Fisco mediante giros que se efectuarán y procesarán por el Servicio; salvo los que deban pagarse por medio de timbres y estampillas;
+
+2°.- Que  el inciso final del artículo 82° del Código Tributario, modificado por la Ley 19.738, establece que los bancos y otras instituciones autorizadas para recibir declaraciones y pagos de impuestos, estarán obligados a remitir al Servicio cualquier formulario mediante los cuales recibieron dichas declaraciones y pagos de los tributos que son de competencia de este Servicio;
+
+3°.- Que el inciso quinto del artículo 30º del Código Tributario, modificado por la Ley 19.738, establece que las personas que reciban o procesen las declaraciones o giros quedan sujetas a obligación de reserva absoluta de todos aquellos antecedentes individuales de que conozcan en virtud del trabajo que realizan;
+
+
+
+
+
+SE RESUELVE:
+
+PRIMERO: Los Formularios 21 que los contribuyentes presenten en el Banco del Estado de Chile, los Bancos Comerciales o de Fomento, las Sociedades Financieras y las Sociedades constituidas por los Bancos Comerciales facultados para recibir pagos de impuestos, en adelante "las entidades recaudadoras", serán procesados por el Servicio de Impuestos Internos. 
+
+SEGUNDO: Fíjase el procedimiento para la recepción y despacho de los formularios 21 por las entidades señaladas en el dispositivo Primero, así como la atención y solución de los rechazos que el Servicio de Impuestos Internos (SII) realice respecto de la documentación remitida por las mencionadas entidades: 
+
+Generalidades de la recepción de formularios de giros
+
+Los plazos establecidos deben ser respetados rigurosamente, tanto en su inicio como en su término, por lo que la fecha de recepción del giro debe quedar claramente registrada en el timbre estampado por el cajero.
+Los documentos de información tributaria - formularios F21 - son documentos oficiales públicos, que no deben ser alterados, ni divulgado su contenido, a terceras personas.
+Los giros deberán ser remitidos en original, acompañados del documento conductor denominado F01, emitido diariamente, cuyo facsímil se presenta en el Anexo N° 1.  Excepcionalmente, y como solución al extravío de giros por parte de la entidad recaudadora, se aceptará una fotocopia de la copia que está en poder del contribuyente. Dicha fotocopia debe estar reconocida por el interesado mediante el registro de sus datos en el reverso: nombre, RUT y firma; y además debe estar autenticada por notario.
+Se define como período contable a aquel mes en que la entidad recaudadora recibe los giros presentados por los contribuyentes.
+La entidad recaudadora debe acopiar centralizadamente en Santiago los giros recibidos por sus sucursales. El plazo para la entrega de los giros al SII, contado a partir de la fecha de presentación de los mismos por parte de los contribuyentes, será de tres días.
+Si el plazo de entrega de los giros por parte de las entidades recaudadoras vence un día sábado o feriado, éste se prorroga para el primer día hábil siguiente. 
+El horario de entrega será establecido por la Unidad Control Documentario del SII.
+La entidad recaudadora deberá nombrar un interlocutor válido para todo tipo de comunicaciones entre dicha entidad y el SII, pudiendo designar reemplazantes o subrogantes. Todos los representantes de dicha entidad, deberán acreditarse mediante carta dirigida al Jefe de la Unidad de Control Documentario, ubicada en Arturo Prat 1204, firmada por el Gerente de Área.
+La entidad recaudadora deberá disponer de representantes ante el SII, con las atribuciones necesarias para efectuar correcciones a los formularios F01 rechazados, quien deberá certificar dichas correcciones con firma y timbre en el mencionado documento.  La designación de representantes deberá efectuarse mediante carta de presentación dirigida al Jefe de Unidad Control Documentario, firmada por el Representante Legal de la entidad recaudadora, acompañada de una fotocopia del carné de identidad, por ambos lados, de la persona designada.
+Al cierre de un período contable, el SII publicará en Internet los folios de los giros cuya entrega se encuentre pendiente, identificando la entidad recaudadora involucrada.
+
+
+Procedimiento para la recepción de los giros en la entidad recaudadora
+
+La entidad recaudadora debe cautelar la recepción tanto de los giros como de los montos en dinero involucrados, para lo cual el cajero deberá realizar las revisiones que se indican antes de aceptar  un giro:
+El cajero debe exigir la presentación del RUT o cédula nacional de identidad, según corresponda, y confirmar que el nombre y número identificatorios corresponden a los consignados en los códigos 01, 02, 05 y 03 del giro. 
+El código 91 jamás debe faltar. Su ausencia obliga al cajero a rechazar el documento.
+El giro debe tener registrados los datos relacionados con el monto a pagar, en los códigos totalizadores 91 y 94, si corresponde.
+En ningún caso el cajero podrá aceptar un pago inferior al valor anotado en el código 94, o, en su ausencia, al anotado en el código 91.
+Los montos consignados en el giro deben estar expresados en moneda nacional.
+El incumplimiento de lo señalado en los puntos anteriores, imposibilita al cajero para recibir el giro.
+En caso de la presentación de giros sin datos (formulario en blanco) por parte de un contribuyente, el cajero deberá rechazar el giro al contribuyente.
+Los giros aceptados deberán tener estampado en el original y en la copia del contribuyente, el timbre del cajero, fecha del día en que se presentó el documento y firma del cajero, procurando evitar la obstrucción a la lectura de los datos registrados por el contribuyente.
+
+
+Procedimiento para el despacho de giros desde la entidad recaudadora hacia el SII.
+
+La entidad recaudadora entregará los giros en la Unidad Control Documentario (UCD) del Servicio de Impuestos Internos, acompañadas de un documento en el que especifique la cantidad total de cajas diarias que está entregando y de acuerdo  a las siguientes normas:
+La entidad recaudadora deberá despachar a la UCD cajas diarias totalmente cuadradas en cantidad de documentos y en montos percibidos.
+El F01 se generará en cuatro ejemplares, con la siguiente distribución:
+Original:		Servicio Impuestos Internos
+1ª Copia:		Archivo Entidad Recaudadora 
+2ª Copia: 		Tesorería Regional o Provincial
+3ª Copia:		Rendición de Cuentas de Remesas
+El despacho de los documentos se realizará como sigue:
+Los giros se remiten centralizadamente al Servicio Impuestos Internos, Unidad Control Documentario (UCD), ubicada en Arturo Prat 1204 Santiago, acompañados del original y 1ª copia del formulario F01; esta última será devuelta a la entidad recaudadora timbrada por la UCD en señal de la recepción de los documentos recibidos.
+La 2ª y 3ª copia se separan inmediatamente y son remitidas a la Oficina de la Tesorería Regional o Provincial que corresponda, de acuerdo a los procedimientos y plazos establecidos por la Tesorería General de la República.
+Cada caja diaria podrá contener hasta 300 documentos.
+Llenado del F01.
+Datos comunes del F01
+Código 315: Fecha de recepción de documentos, la que debe ser idéntica a la fecha indicada en el timbre del cajero estampado en los giros.
+Código 08: Codificación CONARA.
+Código 03: RUT de la entidad recaudadora.
+Nombre de la Institución recaudadora.
+Otros datos  del F01.
+Código 121 Se debe indicar la cantidad de formularios F21 asociados al F01.
+Código 100: Cantidad total de formularios asociados al F01, correspondiendo a la suma de la cantidad de documentos indicada en los códigos 121.
+Código 921: Corresponde a la sumatoria de los montos pagados por el contribuyente, indicados en el código 94, o en su defecto en el código 91 de cada formulario F21.
+Código 690: Valor total de la caja diaria, y corresponde a la suma de los valores expresados en los códigos 921.
+
+
+Procedimiento de recepción en el SII de los giros enviados desde la entidad recaudadora.
+
+El SII verificará los despachos de giros desde las entidades recaudadoras, siendo motivo para rechazar la recepción de una caja diaria las siguientes causales:
+
+Fecha ilegible en el timbre estampado por el cajero en el giro.
+Giros con doble timbre y distinta fecha.
+Giros sin timbre del cajero.
+Giros con enmendadura en el timbre estampado por el cajero sin certificar.
+Cajas diarias con formulario F01 distinto al que le corresponde.
+Cajas diarias con documentos que no corresponden a giros.
+Incumplimiento de las instrucciones de llenado y generación del formulario F01.
+Descuadraturas tanto en cantidad de giros como en los montos involucrados en una caja diaria.
+Enmendaduras sin certificar por parte de la entidad recaudadora, en el formulario F01.
+
+
+Procedimiento para el tratamiento de situaciones especiales y cajas diarias rechazadas.
+
+
+Las instrucciones relacionadas con los procedimientos para el tratamiento de situaciones especiales y cajas diarias rechazadas serán concordadas entre el Servicio de Impuestos Internos y la Tesorería General de la República, y comunicadas oportunamente a las entidades recaudadoras.
+
+ 
+TERCERO: Las irregularidades en el cumplimiento del procedimiento establecido, en que incurran los Bancos e Instituciones obligadas, facultan al Servicio para suspender o poner término de inmediato al convenio y autorización que les permite la recepción de declaraciones de impuestos, con o sin pago, así como de giros con pago, girados en cumplimiento de obligaciones tributarias.
+
+
+
+
+
+
+
+
+ANÓTESE Y COMUNÍQUESE.
+
+
+
+
+
+
+       
+(Fdo) JAVIER ETCHEBERRY CELHAY
+DIRECTOR
+
+
+DISTRIBUCIÓN:
+Internet
+Boletín
+		 PÁGINA 1
+
+
+
+

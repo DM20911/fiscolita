@@ -1,0 +1,58 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso34.doc
+titulo: Word – Resolución Exenta SII N°34 del 19 de Marzo del 2009 Elimina Oficinas de Fiscalización de Comercio Exterior Dependientes de las Direcciones Regionales Metropolitanas. Fuente: Depto. de Medianas y Grandes Empresas e Internacional
+categoria: otros
+---
+RESOLUCION EXENTA SII N°34 DEL 19 DE MARZO DEL 2009 MATERIA : ELIMINA OFICINAS DE FISCALIZACIÓN DE COMERCIO EXTERIOR DEPENDIENTES DE LAS DIRECCIONES REGIONALES METROPOLITANAS.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las necesidades del Servicio y las facultades que se me confieren en las letras a), c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; y las Resoluciones Ex. N°s 19, del 07 de Mayo de 2001, y 173, del 31 de Diciembre de 2008, ambas de esta Dirección.
+
+
+
+CONSIDERANDO:
+
+1°.-  Que, por Resolución Ex. N° 19, del 07 de Mayo de 2001, que eliminó la Oficina de Fiscalización de Comercio Exterior de la Dirección Nacional de este Servicio, se creó una Oficina de Fiscalización de Comercio Exterior en las cuatro Direcciones Regionales de la Región Metropolitana, traspasando las  obligaciones y atribuciones, relativas a la fiscalización de las solicitudes de devolución del Impuesto a las Ventas y Servicios "IVA", que presenten al Servicio contribuyentes con domicilio en las respectivas Direcciones Regionales Metropolitanas, en el funcionario denominado Jefe de la Oficina de Fiscalización de Comercio Exterior. 
+
+
+2°.-  Que, mediante Resolución Ex. N° 173, de 31 de Diciembre de 2008, que actualiza, sistematiza y refunde la nómina de Grandes Contribuyentes, pasaron a formar parte de dicha nómina, los contribuyentes que hayan declarado exportaciones por un monto promedio anual igual o superior a 300.000 UTM, en cada uno de los últimos tres años tributarios, así como también aquellos con domicilio en la Región Metropolitana que en el año comercial precedente a su inclusión hubieran tenido derecho a recuperar el Impuesto al Valor Agregado (IVA) que se les hubiere recargado al adquirir bienes o utilizar servicios destinados a su actividad de exportación, por un monto igual o superior a 5.400 UTM.
+
+
+3°.-  Que, para el cumplimiento de las funciones propias de este Servicio, es necesario agilizar y optimizar la atención a los contribuyentes, y con ello velar por una eficiente administración de los impuestos. 
+
+
+SE RESUELVE:
+
+
+1°  Elimínanse, a contar del 01 de Abril de 2009, las Oficinas de Fiscalización de Comercio Exterior dependientes de las Direcciones Regionales Metropolitanas Santiago Centro, Santiago Poniente, Santiago Oriente y Santiago Sur, con sede  en las dependencias de la Dirección Regional Metropolitana Santiago Oriente. 
+
+
+2°  A partir de la fecha indicada en el resolutivo anterior, la fiscalización de las solicitudes de devolución de IVA, que tramiten ante el Servicio los exportadores con domicilio en la Región Metropolitana, y que no formen parte de la nómina que fijó la Resolución Ex. N° 173, de 31 de Diciembre de 2008, ya sea bajo el régimen del artículo 1° ó 6° del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción, corresponderá a la Dirección Regional Metropolitana en cuya jurisdicción tenga domicilio el contribuyente. 
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+
+
+
+
+
+
+
+(Fdo.)  RICARDO ESCOBAR CALDERÓN
+          DIRECTOR
+
+
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines. 
+Saluda a Ud.
+
+
+Distribución:
+Boletín del SII
+Internet
+Diario Oficial (Extracto)
+

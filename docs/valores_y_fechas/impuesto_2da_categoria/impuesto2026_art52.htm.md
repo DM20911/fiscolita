@@ -1,0 +1,202 @@
+---
+url: https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026_art52.htm
+titulo: Impuesto Único de Segunda Categoría (Artículo 52 Bis Letra a) LIR)
+categoria: valores
+---
+## Impuesto Único de Segunda Categoría (Artículo 52 Bis Letra a) LIR)
+
+Todos los meses
+Diciembre
+Noviembre
+Octubre
+Septiembre
+Agosto
+Julio
+Junio
+Mayo
+Abril
+Marzo
+Febrero
+Enero
+
+La tabla que se presenta a continuación solo se aplicará a las rentas afectas al IUSC que perciban exclusivamente por el desempeño de sus funciones el Presidente de la República, Ministros de Estado, Subsecretarios, Senadores y Diputados, siempre que tales rentas mensuales excedan del equivalente a 150 UTM vigente en el mes respectivo.
+
+### Diciembre 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 982.827,00 | Exento | -.- | Exento |
+|  | $ 982.827,01 | $ 2.184.060,00 | 0,04 | $ 39.313,08 | 2,20% |
+|  | $ 2.184.060,01 | $ 3.640.100,00 | 0,08 | $ 126.675,48 | 4,52% |
+|  | $ 3.640.100,01 | $ 5.096.140,00 | 0,135 | $ 326.880,98 | 7,09% |
+|  | $ 5.096.140,01 | $ 6.552.180,00 | 0,23 | $ 811.014,28 | 10,62% |
+|  | $ 6.552.180,01 | $ 8.736.240,00 | 0,304 | $ 1.295.875,60 | 15,57% |
+|  | $ 8.736.240,01 | $ 10.920.300,00 | 0,35 | $ 1.697.742,64 | 19,45% |
+|  | $ 10.920.300,01 | Y MÁS | 0,4 | $ 2.243.757,64 | MÁS DE 19,45% |
+
+### Noviembre 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 977.940,00 | Exento | -.- | Exento |
+|  | $ 977.940,01 | $ 2.173.200,00 | 0,04 | $ 39.117,60 | 2,20% |
+|  | $ 2.173.200,01 | $ 3.622.000,00 | 0,08 | $ 126.045,60 | 4,52% |
+|  | $ 3.622.000,01 | $ 5.070.800,00 | 0,135 | $ 325.255,60 | 7,09% |
+|  | $ 5.070.800,01 | $ 6.519.600,00 | 0,23 | $ 806.981,60 | 10,62% |
+|  | $ 6.519.600,01 | $ 8.692.800,00 | 0,304 | $ 1.289.432,00 | 15,57% |
+|  | $ 8.692.800,01 | $ 10.866.000,00 | 0,35 | $ 1.689.300,80 | 19,45% |
+|  | $ 10.866.000,01 | Y MÁS | 0,4 | $ 2.232.600,80 | MÁS DE 19,45% |
+
+### Octubre 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 974.038,50 | Exento | -.- | Exento |
+|  | $ 974.038,51 | $ 2.164.530,00 | 0,04 | $ 38.961,54 | 2,20% |
+|  | $ 2.164.530,01 | $ 3.607.550,00 | 0,08 | $ 125.542,74 | 4,52% |
+|  | $ 3.607.550,01 | $ 5.050.570,00 | 0,135 | $ 323.957,99 | 7,09% |
+|  | $ 5.050.570,01 | $ 6.493.590,00 | 0,23 | $ 803.762,14 | 10,62% |
+|  | $ 6.493.590,01 | $ 8.658.120,00 | 0,304 | $ 1.284.287,80 | 15,57% |
+|  | $ 8.658.120,01 | $ 10.822.650,00 | 0,35 | $ 1.682.561,32 | 19,45% |
+|  | $ 10.822.650,01 | Y MÁS | 0,4 | $ 2.223.693,82 | MÁS DE 19,45% |
+
+### Septiembre 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 968.233,50 | Exento | -.- | Exento |
+|  | $ 968.233,51 | $ 2.151.630,00 | 0,04 | $ 38.729,34 | 2,20% |
+|  | $ 2.151.630,01 | $ 3.586.050,00 | 0,08 | $ 124.794,54 | 4,52% |
+|  | $ 3.586.050,01 | $ 5.020.470,00 | 0,135 | $ 322.027,29 | 7,09% |
+|  | $ 5.020.470,01 | $ 6.454.890,00 | 0,23 | $ 798.971,94 | 10,62% |
+|  | $ 6.454.890,01 | $ 8.606.520,00 | 0,304 | $ 1.276.633,80 | 15,57% |
+|  | $ 8.606.520,01 | $ 10.758.150,00 | 0,35 | $ 1.672.533,72 | 19,45% |
+|  | $ 10.758.150,01 | Y MÁS | 0,4 | $ 2.210.441,22 | MÁS DE 19,45% |
+
+### Agosto 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 967.261,50 | Exento | -.- | Exento |
+|  | $ 967.261,51 | $ 2.149.470,00 | 0,04 | $ 38.690,46 | 2,20% |
+|  | $ 2.149.470,01 | $ 3.582.450,00 | 0,08 | $ 124.669,26 | 4,52% |
+|  | $ 3.582.450,01 | $ 5.015.430,00 | 0,135 | $ 321.704,01 | 7,09% |
+|  | $ 5.015.430,01 | $ 6.448.410,00 | 0,23 | $ 798.169,86 | 10,62% |
+|  | $ 6.448.410,01 | $ 8.597.880,00 | 0,304 | $ 1.275.352,20 | 15,57% |
+|  | $ 8.597.880,01 | $ 10.747.350,00 | 0,35 | $ 1.670.854,68 | 19,45% |
+|  | $ 10.747.350,01 | Y MÁS | 0,4 | $ 2.208.222,18 | MÁS DE 19,45% |
+
+### Julio 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 967.261,50 | Exento | -.- | Exento |
+|  | $ 967.261,51 | $ 2.149.470,00 | 0,04 | $ 38.690,46 | 2,20% |
+|  | $ 2.149.470,01 | $ 3.582.450,00 | 0,08 | $ 124.669,26 | 4,52% |
+|  | $ 3.582.450,01 | $ 5.015.430,00 | 0,135 | $ 321.704,01 | 7,09% |
+|  | $ 5.015.430,01 | $ 6.448.410,00 | 0,23 | $ 798.169,86 | 10,62% |
+|  | $ 6.448.410,01 | $ 8.597.880,00 | 0,304 | $ 1.275.352,20 | 15,57% |
+|  | $ 8.597.880,01 | $ 10.747.350,00 | 0,35 | $ 1.670.854,68 | 19,45% |
+|  | $ 10.747.350,01 | Y MÁS | 0,4 | $ 2.208.222,18 | MÁS DE 19,45% |
+
+### Junio 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 965.331,00 | Exento | -.- | Exento |
+|  | $ 965.331,01 | $ 2.145.180,00 | 0,04 | $ 38.613,24 | 2,20% |
+|  | $ 2.145.180,01 | $ 3.575.300,00 | 0,08 | $ 124.420,44 | 4,52% |
+|  | $ 3.575.300,01 | $ 5.005.420,00 | 0,135 | $ 321.061,94 | 7,09% |
+|  | $ 5.005.420,01 | $ 6.435.540,00 | 0,23 | $ 796.576,84 | 10,62% |
+|  | $ 6.435.540,01 | $ 8.580.720,00 | 0,304 | $ 1.272.806,80 | 15,57% |
+|  | $ 8.580.720,01 | $ 10.725.900,00 | 0,35 | $ 1.667.519,92 | 19,45% |
+|  | $ 10.725.900,01 | Y MÁS | 0,4 | $ 2.203.814,92 | MÁS DE 19,45% |
+
+### Mayo 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 952.938,00 | Exento | -.- | Exento |
+|  | $ 952.938,01 | $ 2.117.640,00 | 0,04 | $ 38.117,52 | 2,20% |
+|  | $ 2.117.640,01 | $ 3.529.400,00 | 0,08 | $ 122.823,12 | 4,52% |
+|  | $ 3.529.400,01 | $ 4.941.160,00 | 0,135 | $ 316.940,12 | 7,09% |
+|  | $ 4.941.160,01 | $ 6.352.920,00 | 0,23 | $ 786.350,32 | 10,62% |
+|  | $ 6.352.920,01 | $ 8.470.560,00 | 0,304 | $ 1.256.466,40 | 15,57% |
+|  | $ 8.470.560,01 | $ 10.588.200,00 | 0,35 | $ 1.646.112,16 | 19,45% |
+|  | $ 10.588.200,01 | Y MÁS | 0,4 | $ 2.175.522,16 | MÁS DE 19,45% |
+
+### Abril 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 943.501,50 | Exento | -.- | Exento |
+|  | $ 943.501,51 | $ 2.096.670,00 | 0,04 | $ 37.740,06 | 2,20% |
+|  | $ 2.096.670,01 | $ 3.494.450,00 | 0,08 | $ 121.606,86 | 4,52% |
+|  | $ 3.494.450,01 | $ 4.892.230,00 | 0,135 | $ 313.801,61 | 7,09% |
+|  | $ 4.892.230,01 | $ 6.290.010,00 | 0,23 | $ 778.563,46 | 10,62% |
+|  | $ 6.290.010,01 | $ 8.386.680,00 | 0,304 | $ 1.244.024,20 | 15,57% |
+|  | $ 8.386.680,01 | $ 10.483.350,00 | 0,35 | $ 1.629.811,48 | 19,45% |
+|  | $ 10.483.350,01 | Y MÁS | 0,4 | $ 2.153.978,98 | MÁS DE 19,45% |
+
+### Marzo 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 943.501,50 | Exento | -.- | Exento |
+|  | $ 943.501,51 | $ 2.096.670,00 | 0,04 | $ 37.740,06 | 2,20% |
+|  | $ 2.096.670,01 | $ 3.494.450,00 | 0,08 | $ 121.606,86 | 4,52% |
+|  | $ 3.494.450,01 | $ 4.892.230,00 | 0,135 | $ 313.801,61 | 7,09% |
+|  | $ 4.892.230,01 | $ 6.290.010,00 | 0,23 | $ 778.563,46 | 10,62% |
+|  | $ 6.290.010,01 | $ 8.386.680,00 | 0,304 | $ 1.244.024,20 | 15,57% |
+|  | $ 8.386.680,01 | $ 10.483.350,00 | 0,35 | $ 1.629.811,48 | 19,45% |
+|  | $ 10.483.350,01 | Y MÁS | 0,4 | $ 2.153.978,98 | MÁS DE 19,45% |
+
+### Febrero 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 939.748,50 | Exento | -.- | Exento |
+|  | $ 939.748,51 | $ 2.088.330,00 | 0,04 | $ 37.589,94 | 2,20% |
+|  | $ 2.088.330,01 | $ 3.480.550,00 | 0,08 | $ 121.123,14 | 4,52% |
+|  | $ 3.480.550,01 | $ 4.872.770,00 | 0,135 | $ 312.553,39 | 7,09% |
+|  | $ 4.872.770,01 | $ 6.264.990,00 | 0,23 | $ 775.466,54 | 10,62% |
+|  | $ 6.264.990,01 | $ 8.353.320,00 | 0,304 | $ 1.239.075,80 | 15,57% |
+|  | $ 8.353.320,01 | $ 10.441.650,00 | 0,35 | $ 1.623.328,52 | 19,45% |
+|  | $ 10.441.650,01 | Y MÁS | 0,4 | $ 2.145.411,02 | MÁS DE 19,45% |
+
+### Enero 2026
+
+| **Monto de Cálculo del Impuesto Único de Segunda Categoría** | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Período | Monto de la renta líquida imponible | | Factor | Cantidad a rebajar | Tasa de Impuesto Efectiva, máxima por cada tramo de Renta |
+|  | Desde | Hasta |  |  |  |
+| **MENSUAL** | -.- | $ 941.638,50 | Exento | -.- | Exento |
+|  | $ 941.638,51 | $ 2.092.530,00 | 0,04 | $ 37.665,54 | 2,20% |
+|  | $ 2.092.530,01 | $ 3.487.550,00 | 0,08 | $ 121.366,74 | 4,52% |
+|  | $ 3.487.550,01 | $ 4.882.570,00 | 0,135 | $ 313.181,99 | 7,09% |
+|  | $ 4.882.570,01 | $ 6.277.590,00 | 0,23 | $ 777.026,14 | 10,62% |
+|  | $ 6.277.590,01 | $ 8.370.120,00 | 0,304 | $ 1.241.567,80 | 15,57% |
+|  | $ 8.370.120,01 | $ 10.462.650,00 | 0,35 | $ 1.626.593,32 | 19,45% |
+|  | $ 10.462.650,01 | Y MÁS | 0,4 | $ 2.149.725,82 | MÁS DE 19,45% |

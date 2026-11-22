@@ -1,0 +1,229 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2008/reso172.doc
+titulo: Word – Resolución Exenta SII N°172 del 29 de Diciembre del 2008 Autoriza como Emisores de Documentos Tributarios Electrónicos a Contribuyentes que Señala. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+
+RESOLUCION EXENTA SII N°172 DEL 29 DE DICIEMBRE DEL 2008 MATERIA: AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A CONTRIBUYENTES QUE SEÑALA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974; y
+
+CONSIDERANDO:
+
+1° Que, en la Res. Ex. SII N° 08, del 23 de Enero del 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. 825, de 1974.
+
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003. 
+
+3° Que, los contribuyentes que se detallan en el Resolutivo primero han postulado como emisores de documentos tributarios electrónicos y han cumplido los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados.
+
+
+						     SE RESUELVE:
+
+Primero:	Autorícese como emisores electrónicos a contar del mes de Enero del 2009 a los siguientes contribuyentes:
+
+- NEUMO HIDRÁULICA S.A. 							96.832.470-5
+- ALIMENTOS MUNALCOT LTDA. 							76.260.550-3 - ANDRÉS ACHELAT ARQUITECTO Y CÍA. LTDA. 					76.113.300-4 - ASESORÍAS Y CONSULTORÍAS DEL DESARROLLO LTDA. 				76.025.124-0 - ATM INGENIERÍA LTDA. 								77.310.120-5 - BIOHYDRO.CL S.A.C. 								76.023.899-6 - CICLO NUEVO CAPACITACIÓN LTDA. 						76.292.330-0 - COMERCIAL SINSEF LTDA.  							78.292.360-9 - COMERCIAL TORINO S.A.								78.806.090-4 - COMERCIALIZADORA M Y H TOOLS LTDA. 					76.618.580-0 - CONSULTORÍA E INVESTIGACIÓN 						76.580.320-9
+  EN RECURSOS HUMANOS S&L CÍA. LTDA.  - DISTRIBUIDORA TORRE SUR LTDA. 						77.487.760-6 - ELADIO S.A. 									94.443.000-8 - EMPRESA CONCESIONARIA DE SERVICIOS SANITARIOS S.A. 			96.579.410-7 - EMPRESA DE SERVICIOS TRANSITORIOS GSP LTDA. 				76.787.870-2 - EMPRESA DE VIGILANCIA Y ASEO INDUSTRIAL FU DU LTDA. 			78.315.970-8 - ENVASES TERMOAISLANTES S.A. 							96.514.950-3 - FOODS CÍA. DE ALIMENTOS CCU S.A.  						99.542.980-2 - GAES S.A. 									96.848.260-2 - GARIBALDI S.A. 									92.704.000-K - GESPER OUTSOURCING LTDA. 							76.268.460-8 - INGENIEROS CIVÍLES INGENET LTDA. 						77.318.640-5 - INSER IMPRESORES LTDA. 							80.369.100-2 - ISOPLAST S.A. 									96.779.170-9 - JORGE RABIE Y CÍA S.A. 								81.788.500-4 - KRONTEC S.A.  									76.019.921-4 - LUIS ALBERTO RETAMAL SAN MARTÍN 						12.880.146-4 - MAQSUR MAQUINARIAS S.A. 							76.016.402-K - MARY CAROLINA CARANCIO RODRÍGUEZ  					10.722.313-4 - METALMECÁNICA TORMETAL LTDA. 						78.991.830-9 - MIGUEL ARTURO FUENTES FUENTES PINTURAS M.L.E. EIRL. 			76.023.001-4 - MÓVILES DE CHILE S.A. 								96.702.560-7 - MOVIMIENTO DE TIERRAS Y URBANIZACIONES BRANDSTETTER LTDA. 		76.024.611-5 - PAYROLL CAPACITACIÓN LTDA. 							76.612.580-8 - PLASTYVERG IND DE FILM 							79.835.560-0
+  PALETIZADOR Y POLIET TERMOCONTRAIBLE LTDA. - PROCESOS DE NEGOCIOS S.A. 							96.950.180-5 - REYSAN S.A. 									76.295.930-5 - SOC COM PATAGONIA AUSTRAL CHILENA PRODUCCIONES LTDA. 		76.552.400-8 - SOC DISTRIBUIDORA COMERCIAL E INVERSIONES LAURA CARE LTDA. 		78.634.170-1 - SOCIEDAD COMERCIAL SANTA VERÓNICA LTDA. 					76.030.735-1 - SUDAMERICANA AGENCIAS AÉREAS Y MARÍTIMAS  				92.048.000-4 - SYNGENTA S.A. 									96.920.760-5 - TRANSPORTES GOCAR LTDA. 							78.735.930-2 - TRANSPORTES MASMAN Y MEDINA LTDA. 					76.943.920-K - VALENCIA Y PACHECO LTDA.  							78.229.820-8
+
+	En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+Segundo: 	Los contribuyentes autorizados como emisores electrónicos deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, de acuerdo a lo relacionado con:
+
+
+Administración de perfiles de acceso de usuarios.
+Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+Foliación Controlada (asignación única de cada folio autorizado por el SII).
+Respaldo seguro de los documentos e información generada.
+Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+Intercambio (envío y recepción) de documentos con otros contribuyentes.
+Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas. 
+Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+Administración de contingencias.
+
+
+Anótese, comuníquese y publíquese en extracto.
+
+
+
+
+
+
+
+
+
+
+                               JORGE TRUJILLO PUENTES
+                        SUBDIRECTOR DE FISCALIZACIÓN
+
+     Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+MSB/MPM
+Distribución:
+Internet
+Diario Oficial en extracto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  2
+
+
+
+
+

@@ -1,0 +1,78 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2007/reso130.doc
+titulo: Word – Resolución Exenta SII N°130 del 02 de Noviembre del 2007 Instruye sobre Obligación de Presentación de Declaración Jurada Resumen Semestral de IVA de Compras y Ventas (Declaración Jurada F3323), Establecida en Resolución Ex. SII N°86, de 01.08.2007, por Parte de Bolsas de Productos Agropecuari
+categoria: otros
+---
+RESOLUCION EXENTA SII N°130 DEL 02 DE NOVIEMBRE DEL 2007 MATERIA : INSTRUYE SOBRE OBLIGACIÓN DE PRESENTACIÓN DE DECLARACIÓN JURADA RESUMEN SEMESTRAL DE IVA DE COMPRAS Y VENTAS (DECLARACIÓN JURADA F3323), ESTABLECIDA EN RESOLUCIÓN EX. SII N°86, DE 01.08.2007, POR PARTE DE BOLSAS DE PRODUCTOS AGROPECUARIOS REGULADAS POR LEY N° 19.220 Y REGISTRO DE FACTURAS DE COMPRA QUE INDICA.
+
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Lo dispuesto en los Arts. 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980;  en el Art. 6° letra A) N° 1 del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en los Arts. 1º y 68° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974; en el Art. 83 bis de su reglamento, contenido en el D.S. N° 55, de 1977, del Ministerio de Hacienda; el Art. 39 de la Ley N° 19.220, la cual regula el establecimiento de bolsas de productos agropecuarios; la Resolución Ex. SII N° 86, de 01.08.2007, que establece la obligatoriedad de presentar la Declaración Jurada Resumen Semestral de IVA de Compras y Ventas y deroga la Resolución Ex. SII N° 10, de 20.01.2006; y
+
+
+C O N S I D E R A N D O:
+
+1.- Que, resulta necesario que los contribuyentes que operen como bolsas de productos agropecuarios reguladas en la Ley N° 19.220 puedan informar en la Declaración Jurada Resumen Semestral de IVA de Compras y Ventas (Declaración Jurada F3323), instruida mediante Resolución Ex. SII N° 86, de 01.08.2007, el resumen de las transacciones afectas a IVA de productos y títulos que representen productos, establecidas en el Art. 39 de dicha Ley.
+
+2.- Que, es necesario instruir la forma de registrar en la Declaración Jurada F3323 las facturas de compra emitidas por bolsas de productos agropecuarios, conforme al Art. 39 de la Ley N° 19.220.
+
+
+S E  R E S U E LV E :
+
+
+1.- Las bolsas de productos agropecuarios reguladas por la Ley N° 19.220, estarán obligadas a presentar la Declaración Jurada F3323 cuando de conformidad a los criterios establecidos en la Resolución Ex. SII N° 86, de 01.08.2007, su sumatoria anual de créditos resulte igual o superior a $250.000.000.-
+
+2.- Para determinar la sumatoria anual de créditos deberán, en forma adicional, incluirse aquéllos que se deriven de facturas de compra emitidas conforme a lo señalado en el Art. 39 de la ley referida, considerando las notas de crédito y notas de débito asociadas, documentos que conforme a la Circular N° 43, de 30.07.2007, que complementó la Circular N° 9, de 08.02.2006, las bolsas de productos agropecuarios deben declarar en el código 520 del Formulario 29, en lo que respecta al Impuesto al Valor Agregado.
+
+3.- Los contribuyentes que operen como bolsas de productos agropecuarios, que de acuerdo a lo anterior estén obligados a informar la Declaración Jurada F3323, deberán adicionalmente informar en la Declaración Jurada aludida, el IVA asociado a los documentos tributarios que emitan por transacciones afectas a IVA de productos y títulos que representen productos, los que se establecen en el Art. 39 de la ley señalada.
+
+4.- Los contribuyentes que operen como bolsas de productos agropecuarios respecto de las facturas de compra y notas de débito asociadas, que emitan conforme lo dispone el Art. 39° de la Ley N° 19.220, deberán informar el monto total semestral de IVA incluido en dichos documentos en la columna (2) de la Declaración Jurada F3323, por cada contribuyente informado. 
+
+En caso que se hubiesen emitido notas de crédito por dichas facturas de compra, deberá informarse el monto total semestral de IVA incluido en estos documentos en una fila separada en la columna (5) de la Declaración Jurada F3323 y registrar una letra “F” en la columna (12).
+
+La columna (3) “Monto Total Semestral de IVA Retenido por Facturas de Compra” no deberá informarse, debido a que en los documentos señalados no existe retención del impuesto. 
+
+5.-  Por otra parte, los contribuyentes obligados a presentar la Declaración Jurada F3323, que reciban facturas de compra y notas de débito asociadas, emitidas por bolsas de productos agropecuarios, conforme lo dispone el Art. 39 de la Ley N° 19.220, deberán informar el monto total semestral de IVA incluido en dichos documentos en la columna (7) de la Declaración Jurada F3323, por cada contribuyente informado.
+
+Si estos contribuyentes hubiesen recibido notas de crédito asociadas a dichas facturas de compra, deberá informarse el monto total semestral de IVA incluido en estos documentos en una fila separada en la columna (10) de la Declaración Jurada F3323 y registrar una letra “F” en la columna (12).
+
+La columna (8), “Monto Total Semestral de IVA no Retenido por Facturas de Compra”, debe completarse registrando el mismo valor informado en la columna (7) o en la columna (10), según corresponda.
+
+6.- La presente resolución regirá a partir de la fecha de presentación de la Declaración Jurada F3323, respecto de la información del primer semestre del año 2007, conforme a los plazos y formatos de presentación señalados en la Resolución Ex. SII N° 86, de 01.08.2007. 
+
+
+
+
+
+					ANÓTESE Y PUBLÍQUESE EN EXTRACTO
+
+						(FDO) RICARDO ESCOBAR CALDERÓN
+				        	                              DIRECTOR  
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+
+Saluda a Ud.,
+
+
+JTP/IBC/NMT/JCV
+DISTRIBUCION: -  Internet -  Diario Oficial (Extracto)
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  2
+
+
+
+
+

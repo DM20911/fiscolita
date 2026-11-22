@@ -1,0 +1,54 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2011/reso62.doc
+titulo: Word – Resolución Exenta SII N°62 del 05 de Mayo del 2011 Complementa Resolución Exenta Sii N° 81 del 01 de Agosto del 2005, que Establece Normas para Autorizar a Contribuyentes como Prestadores de Servicios Tributarios Electrónicos. Fuente: Departamento de Atención y Asistencia de Contribuyentes
+categoria: otros
+---
+RESOLUCION EXENTA SII N°62 DEL 05 DE MAYO DEL 2011 MATERIA : COMPLEMENTA RESOLUCIÓN EXENTA SII N° 81 DEL 01 DE AGOSTO DEL 2005, QUE ESTABLECE NORMAS PARA AUTORIZAR A CONTRIBUYENTES COMO PRESTADORES DE SERVICIOS TRIBUTARIOS ELECTRÓNICOS.
+
+
+Hoy se ha resuelto lo que sigue:
+
+
+
+VISTOS: Lo dispuesto en el Art. 6°, letra A, N°s 1 y 3 del Código Tributario, contenido en el D.L. N° 830, de 1974; en el Art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980; en el Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; las disposiciones de la Ley N° 19.799, publicada en el Diario Oficial del día 12 de abril de 2002; las disposiciones de la Ley N° 19.983; publicada en el Diario Oficial del día 15 de diciembre de 2004; y las instrucciones impartidas mediante Resolución Ex. SII N° 81, de 01 de agosto de 2005, modificada por la Resolución Ex. SII N° 02, de 03 de enero de 2007; y
+
+CONSIDERANDO:  
+
+1° Que, los sistemas de facturación electrónica ofrecidos por los proveedores autorizados por este Servicio brindan seguridad suficiente respecto de su correcto funcionamiento y el resguardo del interés fiscal.
+2° Que, mediante Resolución Ex. SII N° 81, de 01 de Agosto del 2005, modificada por la Resolución Ex. SII N° 02, de 03 de Enero del 2007, se facultó a este Servicio para autorizar a las empresas que cumplan con los requisitos en ellas exigidas, como proveedoras de soluciones de facturación electrónica vía Internet o de soluciones de software de facturación electrónica, según corresponda.
+3° Que, en relación a los modelos de soluciones para la facturación electrónica, se ha estimado necesario complementar dichas instrucciones a fin de autorizar como “Prestadores de Servicios Tributarios Electrónicos”, a aquellos contribuyentes que provean soluciones de facturación electrónica que cumplan con las características señaladas en los resolutivos segundo y tercero de la citada Resolución Ex. SII N° 81, según determine este Servicio, en cada caso.
+
+
+
+SE RESUELVE:
+1° Los contribuyentes que provean soluciones de facturación electrónica que reúnan, en una misma aplicación, todas o algunas de las características de soluciones de software y vía Internet, en conformidad a lo dispuesto en los resolutivos segundo y tercero de la Resolución Ex. SII N° 81, de 2005, y sus modificaciones, podrán ser autorizados como “Prestadores de Servicios Tributarios Electrónicos” conforme al procedimiento, requisitos e instrucciones que establece la citada resolución, siempre que, a juicio del Servicio, ofrezcan garantía suficiente, tanto de operatividad y funcionalidad, como de su seguridad e inviolabilidad. 
+2° La presente resolución se publicará, en extracto, en el Diario Oficial. 
+
+
+
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+
+
+
+
+
+
+
+ (Fdo.) JULIO PEREIRA GANDARILLAS
+  DIRECTOR
+
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+IBC/RPA/HSS/oba
+DISTRIBUCIÓN:
+Distribución:
+Internet
+Boletín
+Diario Oficial en extracto
+
+ 
+
+

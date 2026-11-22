@@ -1,0 +1,66 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2004/reso08.doc
+titulo: Word – Resolución Exenta SII N°08 del 23 de Enero del 2004 Delega en el Subdirector de Fiscalización la Facultad de Autorizar a Contribuyentes como Emisores de Documentos Tributarios Electrónicos. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°08 DEL 23 DE ENERO DEL 2004 MATERIA : DELEGA EN EL SUBDIRECTOR DE FISCALIZACIÓN LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS.
+ SANTIAGO,
+  
+Hoy se ha resuelto lo que sigue:
+ 
+VISTOS: Lo dispuesto en el art. 41, de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del estado; en la letra i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974 y en el artículo 56 inciso 3° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el artículo 1° del D. L. 825, de 1974 y
+ 
+
+CONSIDERANDO:
+ 
+ 
+1° Que, de acuerdo con el inciso tercero del artículo 56 del D.L. 825 correspondiente a la Ley sobre Impuesto a las ventas y Servicios, el Director del Servicio de Impuestos Internos podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de documentos en papel;
+ 
+2° Que, la letra i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7 de 1980, del Ministerio de Hacienda y el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974, facultan al Director del Servicio para autorizar a los Subdirectores para resolver determinadas materias o para hacer uso de alguna de sus atribuciones;
+
+3° Que, se hace necesario delegar la facultad de autorizar a los contribuyentes que cumplan los requisitos establecidos en Res. EX. SII N°45 del 1° de septiembre de 2003, para emitir documentos tributarios electrónicos; 
+ 
+  
+SE RESUELVE:
+ 
+ 
+1°	Delégase en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. 825, de  1974, de autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de  boletas, facturas, facturas de compra, guías de despacho, liquidaciones, notas de débito y notas de crédito.
+
+
+
+2°	Esta facultad delegada se aplicará para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII N°45 de septiembre de 2003.
+
+
+3°	Las resoluciones que se dicten en virtud de la facultad que se delega en este acto, deberán citar por su número y fecha la presente resolución.
+
+ 
+
+ANOTESE, COMUNIQUESE Y PUBLIQUESE EN EXTRACTO.
+ 
+ 
+ 
+ 
+ 
+(Fdo.) ALFREDO ECHEVERRIA HERRERA
+DIRECTOR (S)
+
+Lo que transcribo a Ud., para su conocimiento y demás fines
+
+
+
+Distribución:
+Internet
+Diario Oficial en extracto
+
+ 
+ 
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+

@@ -1,0 +1,51 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2010/reso50.doc
+titulo: Word – Resolución Exenta SII N°50 del 12 de Marzo del 2010 Amplia Excepcionalmente Plazo Para Presentación de Declaraciones Juradas y Otorgamiento de Certificados Establecidos Mediante Resoluciones Exentas, en los Casos que se Indican. Fuente: Subdirección de Fiscalización
+categoria: otros
+---
+RESOLUCION EXENTA SII N°50 DEL 12 DE MARZO DEL 2010 MATERIA : AMPLIA EXCEPCIONALMENTE PLAZO PARA PRESENTACIÓN DE DECLARACIONES JURADAS Y OTORGAMIENTO DE CERTIFICADOS ESTABLECIDOS MEDIANTE RESOLUCIONES EXENTAS, EN LOS CASOS QUE SE INDICAN.
+Hoy se ha resuelto lo que sigue:
+
+VISTOS: Las necesidades del Servicio y las facultades contempladas en los artículos  1° y 7° del D.F.L. N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos;  en el  N° 1, letra A), del artículo 6°, 34, 35, 60  y 85 inciso 2°, todos del Código Tributario. 
+
+CONSIDERANDO:
+
+1°  Que, las Resoluciones Exentas SII N° 203, de 24 de diciembre de 2009; N° 15, del 30 de enero de 2008;  N° 6836, de 28 de diciembre de 1993, modificada por las Resoluciones Ex. SII N°s 4571, 5534, 6172 y 7211, publicadas en el Diario Oficial con fechas 31.10.94, 03.12.96, 16.12.97 y 10.12.98, respectivamente; N° 6509, de 14 diciembre de 1993, modificada por las Resoluciones Ex. SII N°s 4571, 7211, 5224 y 50 publicadas en el Diario Oficial con fechas 31.10.94, 10.12.98, 30.11.2000 y 07 de diciembre de 2001, respectivamente; N° 4845, de 10 de octubre de 1995,  modificada por las Resoluciones Ex. SII N°s   6138, 5534, 6172 y 5226, publicadas en el Diario Oficial con fechas 29.12.95, 03.12.96, 16.12.97 y 30.11.2000, respectivamente;  N° 65, de 11 de enero de 1993, modificada por las Resoluciones Ex. SII N°s 4571, 7211 y 5316, publicadas en el Diario Oficial con fechas 31.10.94, 10.12.98 y 07.12.2000, respectivamente; N° 6174, de  09 de diciembre de 1997, modificada por la Resolución Ex. SII N° 7211, publicada en el Diario Oficial con fecha 10.12.98; N° 117, de 31 de octubre de 2005; N° 169 de 26 de diciembre de 2008; N° 37 de 13 de diciembre de 2002; N° 116, de 31 de Octubre de 2005; N° 7213, de 02 de diciembre de 1998, modificada por las Resoluciones Ex. SII N°s 5226,  5316 y 51, publicadas en el Diario Oficial con fechas 30.11.2000, 01.12.2000 y  07.12.2001, respectivamente; N° 36, de 19 de febrero de 2004; N° 64, de 11 de enero de 1993, modificada por las Resoluciones Ex. SII N°s  5534, 6172, 7211 y 5223 publicadas en el Diario Oficial con fechas 03.12.96, 16.12.97, 10.12.98 y 30.11.2000, respectivamente; N° 171 de 27 de diciembre de 2006;  N° 204 de 24 de diciembre de 2009; N° 92, de 28 de septiembre de 2004;  N° 116, de 29 de diciembre de 2004; N° 110, del 15 de diciembre de 2004; N° 18, de 11 de febrero de 2005;  N° 19, del 11 de febrero del 2005,  modificada por la Resolución Ex. SII N° 64 de 30 de junio de 2005; N° 15 de 09 de febrero de 2005; N° 143 de 26 de diciembre de 2005; N° 129 de 17 de octubre de 2008;  N° 130 de 17 de octubre de 2008; N° 151 de 07 de octubre de 2009; N° 16 de 30 de enero de 2008; N° 6 de 21 de enero de 2003;  N° 109 de 10 diciembre de 2004;  N° 06 de 21 de enero de 2004; N° 120 de 31 de diciembre de 2004; N° 117 de 30 de diciembre del 2004; N° 116, de 29 de septiembre de 2008; N° 4085 de 24 de diciembre de 1990, modificada por las Resoluciones Ex. SII N°s 260, 5.534, 6.172 y 7.211, publicadas en el Diario Oficial con fechas 28.01.94, 03.12.96, 16.12.97 y 10.12.98, respectivamente; N° 6509 de 14 de diciembre de 1993, modificada por las Resoluciones Ex. SII N°s  4571, 7211, 5224 y 50  publicadas en el Diario Oficial con fechas 31.10.94, 10.12.98 y  30.11.2000 y de fecha 07 de diciembre de 2001, respectivamente; N° 195 de 22 de diciembre de 2009; N° 118 de 31 de octubre de 2005; N° 6835 de 28 de diciembre de 1993, modificada por las Resoluciones Ex. SII N°s  4571, 5534, 6172 y 5226 publicadas en el Diario Oficial con fechas 31.10.94, 03.12.96, 16.12.97 y 30.11.2000, respectivamente; N° 126 de 24 de noviembre de 2005; N° 01 de 06 de enero de 2009; N° 6836 de 28 de diciembre de 1993, modificada por las Resoluciones Ex. SII N°s 4571, 5534, 6172 y 7.211 publicadas en el Diario Oficial con fechas 31.10.94, 03.12.96, 16.12.97 Y 10.12.98, respectivamente; N° 130 de 01 de diciembre de 2005; N° 1139 de 07 de marzo de 1994, modificada por las Resoluciones Ex. SII N°s 5534, 6172 y 7211 publicadas en el Diario Oficial con fechas 03.12.96, 16.12.97 y 10.12.98, respectivamente; N° 4497 de 17 de octubre de 1994 modificada por las Resoluciones Ex. SII N°s  5534 y 6172, publicadas en el Diario Oficial con fechas 03.12.96 y 16.12.97, respectivamente; N° 5111 de 25 de octubre de 1995, modificada por las Resoluciones Ex. SII N°s 5534, 6172, 7211, 5224 y 50 publicadas en el Diario Oficial con fechas 03.12.96, 16.12.97, 10.12.98 y 30.11.2000, y de 07 de diciembre de 2001, respectivamente; N° 4847 de 10 de octubre de 1995, modificada por las Resoluciones Ex. SII N°s  5266, 5534 y 6172 publicadas en el Diario Oficial con fechas 08.11.95, 03.12.96 y 16.12.97, respectivamente; N° 171 de 26 de diciembre de 2008;  N° 35 de 13 de diciembre de 2002; N° 8145 de 06 de diciembre de 1999, modificada por la Resolución  Ex. SII N° 52, de 07 de diciembre de 2001; N° 48 de 07 de diciembre de 2001; N° 53 de 12 de diciembre de 2001; y N° 34 de 13 de diciembre de 2002, establecen que las declaraciones juradas y certificados que en ellas se indican, deben ser entregadas al Servicio de Impuestos Internos y/u otorgados en sus respectivos plazos.
+2° Que, por razones de buen servicio, y dado los recientes acontecimientos acaecidos en el país, se hace necesario ampliar el plazo de presentación de las declaraciones juradas y/u otorgamiento de certificados establecidos en las resoluciones señaladas en el considerando anterior, a los contribuyentes con domicilio en aquellas regiones más afectadas. 
+
+SE RESUELVE:
+
+1° AMPLÍASE, hasta el 25 de abril de 2010, a los contribuyentes cuya casa matriz esté domiciliada en la VII Región del Maule o en la  VIII Región del Bío - Bío, el plazo para la presentación de las Declaraciones Juradas Formularios N°s  1804, 1811, 1812, 1813, 1817, 1818, 1821, 1822, 1823, 1828, 1830, 1831, 1832, 1834, 1835, 1836, 1840, 1841, 1843, 1850, 1851, 1852, 1853, 1861, 1862, 1870, 1871, 1879, 1884, 1885, 1886, 1887, 1888, 1889, 1890, 1891, 1893, 1894, 1895, 1896, 1897, 1898 y 1899; y para emitir los certificados correspondientes.  
+ 2° AMPLÍASE, hasta el 30 de abril de 2010, a los contribuyentes indicados en el resolutivo anterior, el plazo para la presentación de la Declaración Jurada Formulario N° 1842, cuyos plazos originales están establecidos en el resolutivo 3° de la Resolución Ex. SII N° 151, del 07 de octubre del 2009, correspondientes a los periodos Julio 2009 a Enero 2010, Febrero y Marzo del 2010.        
+3° Aquellos contribuyentes que no puedan acceder a Internet, podrán concurrir a cualquiera de las Unidades del Servicio para presentar las señaladas declaraciones. En dichas Unidades, el Servicio pondrá a disposición de los contribuyentes, en forma gratuita, los medios tecnológicos para hacerlo. Para tales efectos, los contribuyentes contarán, además, con el apoyo de un funcionario especialmente designado para ello.
+4° La presente Resolución entrará en vigencia a partir de su publicación, en extracto, en el Diario Oficial.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO  
+
+
+RICARDO ESCOBAR CALDERON DIRECTOR
+ Lo que comunico a Ud., para su conocimiento y fines consiguientes.
+Saluda a Ud., 
+
+
+
+IBC/CSM/CGO
+Distribución:
+Internet
+Diario Oficial en extracto
+Boletín SII
+
+
+
+
+
+
+
+
+
+PAGE  3
+
+
+
+
+

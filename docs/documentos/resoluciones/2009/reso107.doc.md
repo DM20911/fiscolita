@@ -1,0 +1,218 @@
+---
+url: https://www.sii.cl/documentos/resoluciones/2009/reso107.doc
+titulo: Word – Resolución Exenta SII N°107 del 24 de Julio del 2009 Modifica la Resolución N° 379 de 1991 en lo Relacionado con el Departamento Subdirección de Informática. Fuente: Subdirección de Informática
+categoria: otros
+---
+RESOLUCION EXENTA SII N°107 DEL 24 DE JULIO DEL 2009 MATERIA : MODIFICA LA RESOLUCIÓN N° 379 DE 1991 EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA.
+Hoy se ha resuelto lo que sigue:
+
+	VISTOS: Las necesidades del Servicio; lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal; lo establecido en el artículo 11 N° 1, de la Ley N ° 19.738 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991 , Ex. N° 7590 de 15 de noviembre de 1999 , N° 1376 y N° 1377, ambas de 27 de diciembre de 2004 , Ex. N° 11.162 y N° 11.163 ambas de 30 de diciembre de 2005, N° 7869 de 17 de julio de 2007, N° 15747 de noviembre de 2008; y,   
+
+CONSIDERANDO: 
+La necesidad de adecuar la organización del Departamento Subdirección de Informática, a fin de abordar con éxito y con el máximo de eficiencia las labores propias de esa Subdirección y en especial las relacionadas con los  desafíos de la Ley N ° 19.738 de 2001, que contiene normas para combatir la evasión tributaria;   
+
+RESUELVO: 
+1.   Introdúzcanse las siguientes modificaciones en la letra A , N° 5, de la Resolución N°379, de 04 de diciembre de 1991, de esta Dirección Nacional , modificada por Resolución N° 11.162 de 30 de diciembre de 2005, Resolución N° 7.869 de 17 de julio de 2007 y N° 15747 de noviembre de 2008. 
+ 
+Reemplácense, como se indica, la denominación de los siguientes estamentos dependientes del  Departamento Subdirección de Informática, en adelante Subdirección de Informática (SDI):  
+
+El "Departamento Informática Registro, Atención y Asistencia de Contribuyentes" por "Departamento Informática Desarrollo".
+
+El "Departamento Informática Avaluaciones" por "Departamento Informática Calidad".
+
+El "Departamento Informática Fiscalización Selectiva y Ciclo Jurídico" por "Departamento Informática Mantención".
+
+El "Departamento Informática Fiscalización Masiva" por "Departamento Informática     Gestión".
+
+La "Oficina Informática Factura Electrónica y Documentos de Venta" por "Oficina Informática Negocios".
+
+La "Oficina de Investigación y Desarrollo Tecnológico" por "Oficina Informática Arquitectura". 
+
+La "Oficina Informática Exploración y Análisis de Información" por "Oficina Informática Datawarehouse". 
+
+b) En consecuencia, la Subdirección de Informática tendrá bajo su dependencia los Departamentos y Oficinas que se indican.   
+
+-     Departamento Informática Desarrollo.
+-     Departamento Informática Calidad.
+-     Departamento Informática Mantención
+-     Departamento Procesamiento de Información
+-     Departamento Informática Gestión.
+-     Oficina Informática Negocios.
+-     Oficina Informática Arquitectura. 
+-     Oficina de Computación Personal	
+-     Oficina Informática Datawarehouse. 
+2.   Al Departamento Informática Desarrollo, le corresponderá desarrollar, integrar e implementar los requerimientos informáticos para apoyar las labores del Servicio, en todos los ámbitos de su operación. En tal sentido, junto con proveer, integrar e implementar las soluciones informáticas que permitan un correcto trabajo a los contribuyentes y funcionarios, deberá proveer de soluciones tecnológicas que faciliten la ejecución del mismo y privilegie la entrega de servicios en línea a los contribuyentes y funcionarios. Asimismo, le corresponderá:
+
+Elaborar y proponer proyectos informáticos que mejoren la eficiencia y la eficacia del       que hacer del Servicio.
+
+Desarrollar o integrar sistemas que faciliten el cumplimiento tributario por parte de los      contribuyentes.
+
+Desarrollar e implementar funciones relacionadas con las tecnologías de información y       comunicación.
+
+Desarrollar componentes de programas de carácter transversal a las distintas áreas de       desarrollo de la Subdirección de Informática.
+
+Buscar tecnologías nuevas y evaluar sus potenciales para generar nuevos productos o       servicios.
+
+Conocer y atender los requerimientos de cada una de las áreas del Servicio de Impuestos     Internos, y ofrecer alternativas de solución.
+
+Administrar y controlar contratos de proveedores de servicios informáticos.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidos por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software al interior del Servicio de Impuestos Internos.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer       nuevas necesidades, presentando diversas alternativas de solución y proposiciones a las       áreas respectivas.
+
+Colaborar con las áreas relacionadas en la gestión de los contratos con proveedores externos de software, velando por el resguardo de los intereses del Servicio de Impuestos       Internos y apoyando el proceso de selección, adquisición, desarrollo, mantención y soporte       de nuevas aplicaciones.
+
+3.   Al Departamento Informática Calidad, le corresponderá asegurar la calidad de los productos y servicios que la Subdirección de Informática  provee a sus clientes internos y externos para garantizar que sigan los lineamientos estratégicos corporativos, satisfagan los requerimientos y funcionen correctamente. En el ejercicio de esta misión le corresponderá:
+
+Difundir y mantener en forma permanente el espíritu de la calidad y la mejora continua.
+
+Establecer indicadores de la calidad de procesos y productos, realizar mediciones para su      obtención, análisis y publicación.
+
+Proponer, formular y ejecutar proyectos de definición y  mejora de los procesos y productos      de la SDI.
+
+Evaluar herramientas apropiadas para la planificación, aseguramiento, control y       mejoramiento de la calidad de procesos y productos.
+
+Asegurar la calidad de los procesos mediante auditorías que verifiquen la conformidad con las buenas prácticas establecidas en los procedimientos definidos. 
+
+Controlar la calidad de los productos finales e intermedios de los proyectos de desarrollo y mantenimiento de software, mediante revisiones y pruebas que verifiquen la conformidad con los requerimientos, la arquitectura definida y las buenas prácticas de la ingeniería de software.
+
+Administrar el modelo de datos corporativo, mantenerlo actualizado y controlar la calidad de los modelos de datos diseñados en los distintos proyectos.
+
+Mantener el sistema de gestión de calidad de la Subdirección (documentos y normas)
+
+Mantener operativos los ambientes y datos de certificación.
+
+Controlar y mejorar la calidad de los datos de producción.
+
+4.	Al Departamento Informática Mantención, le corresponderá el Mantenimiento de Software del Servicio de Impuestos Internos, entendiendo la mantención como la modificación de un producto de software después de la puesta en producción o haya terminado su período de garantía, con el objetivo de  corregir defectos,  mejorar el rendimiento, incorporar mejoras funcionales o adaptar el producto a un entorno que se ha modificado. Esto debe ocurrir en un marco de mejora continua de tal manera que la infraestructura de software de aplicaciones del Servicio de Impuestos Internos aumente su calidad y vida útil generando valor para los usuarios, tanto internos como externos.
+
+Asimismo, le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:
+
+Desarrollar e implementar procesos que permitan la mantención de componentes de software en forma efectiva.
+
+Clasificar e implementar plan de mantenimiento correctivo y mantenimiento preventivo de los componentes de software del Servicio de Impuestos Internos.
+
+Proponer capacitaciones para los funcionarios del Departamento de Mantención cuyo objetivo sea mejorar las prácticas específicas relacionadas con mantención.
+
+Proponer procedimientos a las distintas áreas de la SDI para obtener productos de software mantenibles.
+
+Garantizar el seguimiento de las políticas relacionadas con las políticas definidas por la SDI.
+
+Aplicación progresiva de estándares internacionales referidos a la mantención de software IEEE 1219, ISO/IEC 14764.
+
+5.   Al Departamento Procesamiento de Información, le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones: 
+
+a)   Administrar y mantener la plataforma tecnológica que da soporte a los servicios y aplicaciones de la Subdirección de Informática del Servicio de Impuestos Internos, procurando mantener los sistemas en funcionamiento de acuerdo a los requerimientos de las aplicaciones, haciendo un uso racional de los recursos con que se cuenta. 
+
+b)   Administración de recursos de Hardware y Software básico para garantizar la operación de los sistemas de producción, incluyendo las redes de comunicaciones, poniendo especial énfasis en los servicios asociados a Internet. 
+
+c)   Evaluación y proposición de nuevas tecnologías que permitan mejorar la entrega de servicios. 
+
+d)   Provisión de procedimientos y elementos de seguridad que garanticen la continuidad de los servicios informáticos, incluyendo controles de acceso, elementos contra incendios, resguardos desde el punto de vista del suministro eléctrico de los equipos y la habilitación de más de un Site de procesamiento. 
+
+e)   Administración de las aplicaciones y sistemas que se encuentran en producción, procurando un adecuado uso de los recursos y de los procesos involucrados. 
+
+f)    Resguardar las versiones vigentes de los programas fuentes que estén en producción. 
+
+g)  Generación y aplicación de procedimientos de respaldo y recuperación de información.  
+
+6.  Al Departamento Informática Gestión, le corresponderá establecer el nexo entre las distintas áreas del SDI para consolidar, controlar y mantener actualizada la información del portafolio de proyectos, como así también el control de la Gestión de la Producción de los servicios que entrega el SDI. Además tendrá las siguientes atribuciones, obligaciones, responsabilidades y funciones:   
+
+Administrar el intercambio de información con distintos organismos tanto internos (Subdirecciones) como externos (Instituciones Financieras y Reparticiones Públicas).
+
+Conformar una Oficina de Administración de Proyectos (PMO), con el fin de realizar un seguimiento continúo de los proyectos, proporcionando una visión de la situación en todo momento.
+
+Monitorear permanentemente los sistemas, a objeto de alertar anticipadamente sobre situaciones anormales o incidentes de seguridad, para eliminar o reducir fallas que involucren suspensión de servicio. 
+
+Preparar indicadores y métricas de Gestión de la Subdirección de Informática.
+
+
+7.	A la Oficina Informática Negocios le corresponderá recibir, atender y canalizar, al interior de la SDI, las consultas, problemas y necesidades que el resto de las áreas  de la Institución, planteen en relación a tareas que requieren el uso de Tecnologías de Información y Comunicaciones (TIC). Dentro de su labor privilegiará el enfoque de procesos de negocio; modelando, diseñando y rediseñando, en conjunto con los usuarios del área requirente, los procesos de negocio afectados por el problema que se está atendiendo, de manera de proponer y  gestionar  proyectos informáticos alineados con los objetivos de la organización y que permitan mejorar  la eficiencia y eficacia del  quehacer de toda la Institución. En este sentido le corresponderá: 
+
+Modelar y diseñar los procesos de negocios de la Institución, junto con las áreas responsables de ellos.
+
+Conocer y atender las necesidades de análisis y rediseño de procesos de las  diferentes áreas de la Institución, ofreciendo alternativas de solución.
+
+Proponer mejoras a los procesos de negocios y  a los sistemas informáticos que los apoyan. 
+
+Diseñar soluciones que faciliten el cumplimiento tributario por parte de los contribuyentes.
+
+Proponer proyectos informáticos que mejoren la eficiencia y la eficacia del quehacer del Servicio.
+
+Garantizar el seguimiento de las políticas relacionadas con estándares y normas definidas por la Subdirección de Informática, tanto en el desarrollo de nuevos sistemas como en la incorporación de nuevas herramientas de software al interior del Servicio de Impuestos Internos.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer nuevas necesidades, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+
+Colaborar con las áreas relacionadas en la gestión de los proyectos de construcción y mantención de software, velando por el resguardo de los intereses del Servicio de Impuestos Internos y apoyando el proceso de desarrollo, mantención y soporte de nuevas aplicaciones, tanto las desarrolladas en forma interna como por proveedores externos de Software. 
+
+8.   A la Oficina Informática Arquitectura le corresponderá:
+
+Definir y modelar la arquitectura de software de los sistemas, aplicaciones y desarrollos de la SDI.
+
+Anticiparse a las evoluciones tecnológicas y aplicar una visión al respecto, generando soluciones y diseños que se adapten a los posibles cambios.
+
+Investigar, desarrollar y definir tecnologías y/o herramientas, y en qué contexto deben utilizarse, para resolver problemáticas propias de los sistemas de la SDI y definir pautas para el uso de las tecnologías elegidas.
+
+
+Velar por el cumplimiento de las definiciones, diseños, normas y directivas impulsadas por el área de Arquitectura y ver que los sistemas y proyectos estén en sincronía con dichas definiciones durante todo su ciclo de vida (especialmente en etapas tempranas), asegurando la utilización de estándares, herramientas y metodologías definidos.
+
+Guiar a desarrolladores y líderes de equipo para aplicar la arquitectura y las definiciones     establecidas por el área de Arquitectura en las aplicaciones y promover el uso de buenas      prácticas en el desarrollo, ayudándolos a resolver problemas técnicos en cada etapa de los proyectos.
+
+Actuar como puente entre el área de negocio y los desarrolladores para facilitar la aplicación de requerimientos a implementaciones factibles y acordes con la arquitectura definida.
+
+Velar por la convivencia entre los sistemas legacy con los actuales, definiendo mecanismos y procedimientos para facilitar la interacción entre los sistemas.
+
+Velar porque las nuevas adquisiciones de software sean coherentes con el ecosistema tecnológico.
+
+Promover y dar a conocer las tecnologías y diseños que se aplican en la arquitectura.
+
+
+9.  A la Oficina de Computación Personal, le corresponderán las siguientes atribuciones, obligaciones, responsabilidades y funciones:  
+a)   Difundir y desarrollar el uso de herramientas de productividad personal. 
+b)   Administrar y dar soporte en: 
+- Mesa de ayuda Internet para usuarios externos 
+- Mesa de ayuda técnica para usuarios internos. 
+- Correo electrónico corporativo, a nivel de usuarios. 
+- Inventario, instalaciones y mantenimiento del equipamiento. 
+- Aplicaciones de productividad personal. 
+- Servicio de acceso remoto a los servidores. 
+Desarrollar proyectos de Hardware y Software referidos al ámbito de la Computación Personal. 
+
+Entregar información y ayuda oportuna a los contribuyentes para el uso de las herramientas a su disposición en la WEB del Servicio de Impuestos Internos.
+
+10.	A la Oficina Informática Datawarehouse, corresponderá satisfacer las necesidades y requerimientos informáticos y de información para apoyar la toma de decisiones estratégicas de la Dirección, Subdirecciones y Direcciones Regionales del Servicio de Impuestos Internos, así como disponer de los procedimientos tecnológicos y sistemas informáticos necesarios para la provisión de información a entidades externas. En el ejercicio de estas competencias le corresponderá:
+
+Elaborar y proponer proyectos informáticos o de las componentes informáticas de proyectos que mejoren la eficiencia y la eficacia, en el ámbito del conocimiento de la institución, a partir del análisis de los datos acumulados, así como, apoyando el mejoramiento de la gestión interna del Servicio de Impuestos Internos.
+
+En el contexto del punto anterior, debe proveer soluciones informáticas ad-hoc a los requerimientos de las áreas asociadas, a través de la implementación de soluciones informáticas de tipo Data Warehouse y Data Mining, las cuales deben facilitar la búsqueda de patrones de comportamiento de contribuyentes y funcionarios; el análisis en línea de los datos, considerando las diferentes fuentes existentes en el Servicio de Impuestos Internos y la generación de estadísticas e indicadores de gestión.
+
+Mantener y dar soporte a los sistemas en producción de los cuales es responsable, y que están basados en el Data Warehouse.
+
+Proponer mejoras a los sistemas en producción y a los procesos de negocios que estos apoyan.
+
+Administrar y controlar contratos de proveedores de servicios informáticos asociados a los proyectos que administre.
+
+Investigar acerca de nuevos productos y herramientas de software que puedan satisfacer nuevas necesidades, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
+
+Administrar el contenido de los repositorios de datos, que darán soporte a la toma de decisiones de los usuarios de esta área, asegurando la completitud, consistencia, integridad y calidad de los datos contenidos en ellos.
+
+
+11.  La presente Resolución regirá a contar del 1 de Septiembre de  2009.
+
+12. Corresponderá al Subdirector de Informática implementar las medidas que procedan tendientes a organizar la Subdirección de Informática, de acuerdo a las atribuciones, obligaciones, responsabilidades y funciones, que esta Resolución otorga a los Departamentos y Oficinas bajo su dependencia.
+ ANÓTESE Y COMUNÍQUESE.   
+ 
+
+(Fdo.)  RICARDO ESCOBAR CALDERON
+                             DIRECTOR  
+
+Lo que transcribo a usted para su conocimiento y demás fines.
+
+Saluda atentamente a usted, 
+
+
+Distribución:
+INTERNET
+BOLETIN
+
