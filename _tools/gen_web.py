@@ -44,7 +44,7 @@ header.interior h1{font-size:clamp(32px,5vw,52px);letter-spacing:-1.5px;line-hei
 PAGINAS = [
   {
     "slug": "calculadora-boleta-honorarios", "sim": "bhe", "corto": "Boleta de honorarios",
-    "title": "Calculadora de boleta de honorarios 2026 (retención 15,25%) · FiscolItA",
+    "title": "Calculadora boleta de honorarios 2026 (15,25%) · FiscolItA",
     "desc": "Calcula la retención de tu boleta de honorarios 2026 (15,25%): de bruto a líquido o cuánto boletear para recibir un monto líquido. Gratis y con fuente SII.",
     "h1": "Calculadora de boleta de honorarios 2026",
     "lead": "Ingresa el monto bruto o el líquido que quieres recibir y obtén la retención del 15,25% vigente en 2026.",
@@ -66,7 +66,7 @@ PAGINAS = [
   },
   {
     "slug": "calculadora-ppm", "sim": "ppm", "corto": "PPM",
-    "title": "Calculadora de PPM (pago provisional mensual) para el F29 · FiscolItA",
+    "title": "Calculadora de PPM para el F29 · FiscolItA",
     "desc": "Calcula tu PPM del mes: ingresos brutos (código 563) por la tasa (código 115) = PPM a pagar (código 62) del Formulario 29. Gratis y con fuente SII.",
     "h1": "Calculadora de PPM para el Formulario 29",
     "lead": "El pago provisional mensual es un anticipo del impuesto a la renta que se declara cada mes en el F29.",
@@ -85,7 +85,7 @@ PAGINAS = [
   },
   {
     "slug": "calculadora-iva", "sim": "iva", "corto": "IVA del mes",
-    "title": "Calculadora de IVA mensual: débito, crédito y remanente · FiscolItA",
+    "title": "Calculadora de IVA mensual (19%) · FiscolItA",
     "desc": "Calcula el IVA a pagar del mes en Chile (19%): débito fiscal de tus ventas menos crédito fiscal de tus compras, o el remanente para el mes siguiente.",
     "h1": "Calculadora de IVA mensual",
     "lead": "Ingresa tus ventas y compras netas del mes y obtén el IVA a pagar en el F29 o el remanente de crédito.",
@@ -105,7 +105,7 @@ PAGINAS = [
   },
   {
     "slug": "calculadora-multa-sii", "sim": "multa", "corto": "Multa por atraso",
-    "title": "Calculadora de multa e intereses del SII por declarar atrasado · FiscolItA",
+    "title": "Calculadora de multa del SII por atraso · FiscolItA",
     "desc": "Estima la multa del artículo 97 N° 2 del Código Tributario y el interés penal por declarar fuera de plazo un impuesto en Chile. Gratis, con fuente oficial.",
     "h1": "Calculadora de multa por declarar atrasado",
     "lead": "Si declaraste fuera de plazo un impuesto que tenías que pagar, estima la multa y el interés penal.",
@@ -125,7 +125,7 @@ PAGINAS = [
   },
   {
     "slug": "calculadora-impuesto-unico", "sim": "sueldo", "corto": "Impuesto de un sueldo",
-    "title": "Calculadora de impuesto único de segunda categoría (sueldo) 2026 · FiscolItA",
+    "title": "Calculadora impuesto único al sueldo 2026 · FiscolItA",
     "desc": "Calcula el impuesto único de segunda categoría de tu sueldo con la tabla de tramos en UTM del mes y la UTM del día. Gratis y con fuente SII.",
     "h1": "Calculadora de impuesto único al sueldo",
     "lead": "Calcula cuánto impuesto único de segunda categoría se descuenta de tu sueldo este mes, con la UTM vigente.",
@@ -144,7 +144,7 @@ PAGINAS = [
   },
   {
     "slug": "conversor-uf-utm-dolar", "sim": "conv", "corto": "UF, UTM, dólar y euro",
-    "title": "Valor UF, UTM, dólar y euro hoy · Conversor a pesos chilenos · FiscolItA",
+    "title": "Valor UF, UTM, dólar y euro hoy en pesos · FiscolItA",
     "desc": "Convierte UF, UTM, dólares y euros a pesos chilenos con los valores del día publicados por el SII y el Banco Central.",
     "h1": "Conversor UF, UTM, dólar y euro a pesos",
     "lead": "Valores del día de la UF, UTM, dólar observado y euro, y su equivalencia en pesos chilenos.",
@@ -162,7 +162,7 @@ PAGINAS = [
   },
   {
     "slug": "calendario-tributario", "sim": None, "corto": "Calendario tributario",
-    "title": "Calendario tributario 2026: vencimientos F29, Renta y contribuciones · FiscolItA",
+    "title": "Calendario tributario: vencimientos F29 y Renta · FiscolItA",
     "desc": "Próximos vencimientos tributarios en Chile calculados con días hábiles: F29 y F50, Operación Renta F22, contribuciones y declaraciones juradas.",
     "h1": "Calendario tributario: próximos vencimientos",
     "lead": "Las fechas que vienen, calculadas con días hábiles y feriados de Chile.",
@@ -187,7 +187,7 @@ PAGINAS = [
   },
   {
     "slug": "novedades-sii", "sim": None, "corto": "Novedades del SII",
-    "title": "Últimas circulares, resoluciones y oficios del SII · FiscolItA",
+    "title": "Últimas circulares y resoluciones del SII · FiscolItA",
     "desc": "Las circulares, resoluciones y oficios más recientes publicados por el Servicio de Impuestos Internos de Chile, consultados en vivo.",
     "h1": "Últimas circulares, resoluciones y oficios del SII",
     "lead": "Lo último que ha publicado el SII, consultado en vivo en www.sii.cl.",
