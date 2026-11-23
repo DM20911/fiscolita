@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agente de IA tributario para el SII de Chile · FiscolItA</title>
+<meta name="description" content="FiscolItA es un agente de IA tributario gratis y de código abierto: conoce todo lo público del SII, responde con fuente oficial y se integra a tus agentes.">
+<meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large">
+<meta name="theme-color" content="#0B2545">
+<link rel="canonical" href="https://fiscolita.optimizaria.com/agente-ia-tributario">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_CL">
+<meta property="og:site_name" content="FiscolItA">
+<meta property="og:title" content="Agente de IA tributario para el SII de Chile · FiscolItA">
+<meta property="og:description" content="FiscolItA es un agente de IA tributario gratis y de código abierto: conoce todo lo público del SII, responde con fuente oficial y se integra a tus agentes.">
+<meta property="og:url" content="https://fiscolita.optimizaria.com/agente-ia-tributario">
+<meta property="og:image" content="https://fiscolita.optimizaria.com/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/assets/mascota.svg">
+<link rel="apple-touch-icon" href="/assets/mascota.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#0B2545;--navy2:#13315C;--navy3:#1B3A66;--rojo:#D52B1E;--acento:#FF4D3D;--oro:#FFC857;
+  --fondo:#F4F7FB;--texto:#0B2545;--suave:#53698A;--tarjeta:#FFFFFF;--borde:#DCE4EF;--campo:#F7FAFD;--ok:#1E8E5A;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --fondo:#071A31;--texto:#E8EEF6;--suave:#9DB2CE;--tarjeta:#0E2544;--borde:#1E3B62;--campo:#0A203B;--ok:#4CC38A}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--fondo);color:var(--texto);font-family:'Plus Jakarta Sans',system-ui,-apple-system,'Segoe UI',sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+img{max-width:100%;height:auto}
+.hero>*,.sim>*,.ind-grid>*,.grid>*,.nov>*,.mot>*,.pasos>*{min-width:0}
+body{overflow-x:hidden}
+.ia{color:var(--acento);font-weight:800}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+/* nav */
+nav{position:sticky;top:0;z-index:10;background:rgba(11,37,69,.92);backdrop-filter:blur(10px);color:#fff}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px;gap:16px}
+.marca{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;font-size:20px}
+.marca img{width:36px;height:36px}
+.links{display:flex;gap:22px;font-weight:600;font-size:15px}
+.links a{text-decoration:none;opacity:.85}.links a:hover{opacity:1}
+@media (max-width:760px){.links{display:none}}
+/* hero */
+header{background:radial-gradient(1200px 500px at 85% -10%,#2A4E85 0%,transparent 60%),linear-gradient(160deg,var(--navy),var(--navy2));color:#fff;padding:72px 0 88px;overflow:hidden}
+.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+.pill{display:inline-flex;gap:8px;align-items:center;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);padding:6px 12px;border-radius:999px;font-size:13px;font-weight:600}
+.pill i{width:8px;height:8px;border-radius:50%;background:#4CC38A;display:inline-block}
+h1{font-size:clamp(44px,7.5vw,80px);margin:18px 0 0;letter-spacing:-2px;line-height:.95;font-weight:800}
+.h1sub{display:block;letter-spacing:0;line-height:1.3}
+.sub{font-size:clamp(18px,2.4vw,22px);color:#A9C1E0;margin:12px 0 22px;font-weight:600}
+.lead{font-size:18px;max-width:560px;color:#DCE6F3;margin:0}
+.btns{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 22px;border-radius:14px;font-weight:700;text-decoration:none;border:0;cursor:pointer;font:inherit;font-weight:700}
+.btn.p{background:var(--rojo);color:#fff}.btn.p:hover{background:#B82418}
+.btn.s{background:rgba(255,255,255,.12);color:#fff}.btn.s:hover{background:rgba(255,255,255,.2)}
+.estado{display:grid;grid-template-columns:auto auto auto;gap:28px;margin:36px 0 0;max-width:620px}
+.estado div{min-width:0}
+.estado dt{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#8FA9CC;font-weight:700;margin-bottom:4px;display:flex;align-items:center;gap:7px}
+.estado div:first-child dt:before{content:"";width:7px;height:7px;border-radius:50%;background:#4CC38A;box-shadow:0 0 0 4px rgba(76,195,138,.18);animation:vivo 2s infinite}
+@keyframes vivo{50%{box-shadow:0 0 0 7px rgba(76,195,138,0)}}
+.estado dd{margin:0;font-size:16px;font-weight:700;color:#fff;line-height:1.35}
+.estado dd a{text-decoration:none;border-bottom:1px dashed rgba(255,255,255,.4)}
+.estado dd a:hover{border-bottom-color:#fff}
+@media (max-width:620px){.estado{grid-template-columns:1fr 1fr;gap:18px}.estado div:nth-child(2){grid-column:1/-1;order:3}}
+.hero-img{justify-self:center;width:100%;max-width:380px;border-radius:28px;box-shadow:0 30px 60px rgba(0,0,0,.35)}
+@media (max-width:860px){.hero{grid-template-columns:1fr}.hero-img{max-width:300px}}
+@media (max-width:520px){.btns .btn{flex:1 1 100%;justify-content:center}.ind-card b{font-size:20px}}
+/* indicadores */
+.ind{margin-top:-44px;position:relative}
+.ind-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.ind-card{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:16px 18px;box-shadow:0 8px 24px rgba(11,37,69,.08)}
+.ind-card small{color:var(--suave);font-weight:600;font-size:13px}
+.ind-card b{display:block;font-size:24px;margin-top:2px;letter-spacing:-.5px}
+.ind-card span{color:var(--suave);font-size:12px}
+@media (max-width:760px){.ind-grid{grid-template-columns:repeat(2,1fr)}}
+section{padding:72px 0}
+h2{font-size:clamp(28px,4vw,38px);margin:0 0 8px;letter-spacing:-1px}
+.muted{color:var(--suave);margin:0 0 32px;font-size:17px}
+/* funciones */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:22px}
+.card .ico{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;font-size:22px;background:rgba(213,43,30,.1)}
+.card h3{margin:14px 0 6px;font-size:18px}
+.card p{margin:0;color:var(--suave);font-size:15px}
+/* simuladores */
+.sim{display:grid;grid-template-columns:260px 1fr;gap:20px;align-items:start}
+@media (max-width:860px){.sim{grid-template-columns:1fr}}
+.tabs{display:flex;flex-direction:column;gap:6px}
+@media (max-width:860px){.tabs{flex-direction:row;overflow-x:auto;padding-bottom:4px}}
+.tab{background:var(--tarjeta);border:1px solid var(--borde);border-radius:12px;padding:12px 14px;text-align:left;font:inherit;font-weight:600;color:var(--texto);cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.panel{background:var(--tarjeta);border:1px solid var(--borde);border-radius:20px;padding:24px}
+.panel h3{margin:0 0 4px;font-size:22px}
+.panel .desc{color:var(--suave);margin:0 0 18px}
+.campos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+label{display:block;font-weight:600;font-size:14px;margin-bottom:6px}
+input,select{width:100%;padding:12px 14px;border-radius:12px;border:1px solid var(--borde);background:var(--campo);color:var(--texto);font:inherit;font-size:17px}
+input:focus,select:focus{outline:2px solid var(--acento);outline-offset:1px}
+.res{margin-top:20px;border-radius:16px;background:var(--campo);border:1px solid var(--borde);overflow:hidden}
+.res table{width:100%;border-collapse:collapse}
+.res td{padding:11px 16px;border-bottom:1px solid var(--borde);font-size:15px}
+.res tr:last-child td{border-bottom:0}
+.res td:last-child{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.res tr.total td{background:var(--navy);color:#fff;font-size:17px}
+.fuente{font-size:13px;color:var(--suave);margin:12px 0 0}
+.fuente a{color:var(--suave)}
+/* calendario */
+.cal{display:grid;gap:10px}
+.ev{display:grid;grid-template-columns:86px 1fr auto;gap:16px;align-items:center;background:var(--tarjeta);border:1px solid var(--borde);border-radius:16px;padding:14px 18px}
+.fecha{text-align:center;background:var(--campo);border-radius:12px;padding:8px 4px}
+.fecha b{display:block;font-size:24px;line-height:1}
+.fecha span{font-size:12px;color:var(--suave);text-transform:uppercase;font-weight:700}
+.ev h4{margin:0;font-size:16px}.ev p{margin:2px 0 0;color:var(--suave);font-size:14px}
+.falta{font-size:13px;font-weight:700;padding:6px 10px;border-radius:999px;background:var(--campo);white-space:nowrap}
+.falta.pronto{background:var(--rojo);color:#fff}
+@media (max-width:560px){.ev{grid-template-columns:70px 1fr}.falta{grid-column:2}}
+/* novedades */
+.nov{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.nov{grid-template-columns:1fr}}
+.nov-col h3{font-size:17px;margin:0 0 10px}
+.nov-item{display:block;background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:14px 16px;margin-bottom:10px;text-decoration:none}
+.nov-item:hover{border-color:var(--acento)}
+.nov-item b{font-size:14px;display:block}
+.nov-item span{font-size:14px;color:var(--suave);display:block;margin-top:4px}
+.esqueleto{height:72px;border-radius:14px;background:linear-gradient(90deg,var(--campo),var(--borde),var(--campo));background-size:200% 100%;animation:sk 1.4s infinite;margin-bottom:10px}
+@keyframes sk{to{background-position:-200% 0}}
+/* motores */
+.mot{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:860px){.mot{grid-template-columns:1fr}}
+.mot .card h3{margin-top:0}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{background:var(--campo);border:1px solid var(--borde);border-radius:999px;padding:6px 12px;font-size:14px;font-weight:600}
+/* pasos */
+.pasos{counter-reset:p;display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+@media (max-width:860px){.pasos{grid-template-columns:1fr 1fr}}@media (max-width:520px){.pasos{grid-template-columns:1fr}}
+.paso{background:var(--tarjeta);border:1px solid var(--borde);border-radius:18px;padding:20px}
+.paso:before{counter-increment:p;content:counter(p);display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--rojo);color:#fff;font-weight:800;margin-bottom:12px}
+.paso h3{margin:0 0 6px;font-size:17px}.paso p{margin:0;color:var(--suave);font-size:15px}
+code{background:var(--campo);border:1px solid var(--borde);padding:1px 6px;border-radius:6px;font-size:14px}
+.cta{background:linear-gradient(160deg,var(--navy),var(--navy3));color:#fff;border-radius:28px;padding:44px;display:grid;grid-template-columns:auto 1fr;gap:28px;align-items:center}
+.cta img{width:120px}.cta h2{color:#fff}.cta p{color:#DCE6F3;margin:0 0 18px}
+@media (max-width:620px){.cta{grid-template-columns:1fr;padding:28px;text-align:center}.cta img{margin:0 auto}.cta .btns{justify-content:center}}
+footer{padding:36px 0 48px;color:var(--suave);font-size:14px}
+footer .pie{display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;border-top:1px solid var(--borde);padding-top:28px}
+footer .pie p{margin:0;max-width:620px}
+.potenciado{display:flex;align-items:center;gap:12px;text-decoration:none;background:var(--tarjeta);border:1px solid var(--borde);border-radius:16px;padding:10px 18px 10px 12px}
+.potenciado:hover{border-color:var(--acento)}
+.potenciado img{width:34px;height:auto}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .potenciado img{filter:brightness(0) invert(1)}}
+.potenciado small{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--suave);font-weight:700}
+.potenciado b{display:block;font-size:20px;letter-spacing:-.5px;color:var(--texto)}
+</style>
+<style>
+header.interior{padding:40px 0 84px}
+header.interior h1{font-size:clamp(32px,5vw,52px);letter-spacing:-1.5px;line-height:1.05;margin:10px 0 12px}
+.migas{display:flex;flex-wrap:wrap;gap:6px;list-style:none;padding:0;margin:0;font-size:14px;color:#A9C1E0}
+.migas li+li:before{content:"›";margin-right:6px;opacity:.7}
+.migas a{text-decoration:none}.migas a:hover{text-decoration:underline}
+.texto{max-width:780px}
+.texto h2{font-size:clamp(24px,3vw,30px);margin:44px 0 10px}
+.texto p,.texto li{font-size:17px}
+.texto table{width:100%;border-collapse:collapse;margin:14px 0;background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;overflow:hidden}
+.texto th,.texto td{padding:10px 14px;border-bottom:1px solid var(--borde);text-align:left;font-size:15px}
+.texto th{background:var(--campo)}
+.faq details{background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:14px 18px;margin-bottom:10px}
+.faq summary{font-weight:700;cursor:pointer;font-size:17px}
+.faq details p{margin:10px 0 0;color:var(--suave)}
+.otras{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:14px}
+.otras a{display:block;background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:16px;text-decoration:none;font-weight:700}
+.otras a span{display:block;font-weight:400;color:var(--suave);font-size:14px;margin-top:4px}
+.otras a:hover{border-color:var(--acento)}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "FiscolItA", "item": "https://fiscolita.optimizaria.com/"}, {"@type": "ListItem", "position": 2, "name": "Agente de IA tributario", "item": "https://fiscolita.optimizaria.com/agente-ia-tributario"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Existe una IA para consultas del SII?", "acceptedAnswer": {"@type": "Answer", "text": "FiscolItA es un agente de IA gratis y de código abierto que responde consultas tributarias con información pública del SII y cita la fuente oficial. No pertenece al SII ni habla en su nombre."}}, {"@type": "Question", "name": "¿Qué es un agente de IA tributario?", "acceptedAnswer": {"@type": "Answer", "text": "Una inteligencia artificial especializada en impuestos que usa herramientas: busca en la normativa, lee documentos oficiales, consulta el SII en vivo y calcula con los valores del día."}}, {"@type": "Question", "name": "¿Puedo integrar FiscolItA a mis propios agentes de IA?", "acceptedAnswer": {"@type": "Answer", "text": "Sí. Funciona como subagente de tu agente contable o financiero en Claude Code, Codex, Cursor, Gemini CLI y otros que lean AGENTS.md, e incluye un servidor MCP."}}, {"@type": "Question", "name": "¿Cuánto cuesta?", "acceptedAnswer": {"@type": "Answer", "text": "Es gratis y de código abierto. Solo necesitas un motor de IA: una suscripción que ya tengas, una API key o un modelo local gratuito."}}, {"@type": "Question", "name": "¿Necesita mi clave del SII?", "acceptedAnswer": {"@type": "Answer", "text": "No. Responde solo con información pública. Nunca entregues tu Clave Tributaria ni tu Clave Única a una IA."}}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "FiscolItA", "alternateName": ["Agente de IA tributario", "IA para el SII"], "url": "https://fiscolita.optimizaria.com/agente-ia-tributario", "applicationCategory": "FinanceApplication", "applicationSubCategory": "Agente de IA tributario", "operatingSystem": "macOS, Windows, Linux", "inLanguage": "es-CL", "isAccessibleForFree": true, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "CLP"}, "image": "https://fiscolita.optimizaria.com/assets/og.png", "description": "FiscolItA es un agente de IA tributario gratis y de código abierto: conoce todo lo público del SII, responde con fuente oficial y se integra a tus agentes.", "sameAs": ["https://github.com/OptimizarIA-Consulting/fiscolita", "https://github.com/DM20911/fiscolita"], "publisher": {"@type": "Organization", "name": "OptimizarIA Consulting", "url": "https://optimizaria.com"}}</script>
+</head>
+<body>
+<nav>
+  <div class="wrap">
+    <a class="marca" href="/#"><img src="/assets/mascota.svg" alt="" width="36" height="36"><span>Fiscol<span class="ia">I</span>t<span class="ia">A</span></span></a>
+    <div class="links"><a href="/agente-ia-tributario">Agente IA</a><a href="/#simuladores">Simuladores</a><a href="/#calendario">Calendario</a><a href="/#novedades">Novedades</a><a href="/#usala">Úsala</a><a href="https://github.com/OptimizarIA-Consulting/fiscolita" target="_blank" rel="noopener">GitHub</a></div>
+  </div>
+</nav>
+<header class="interior">
+  <div class="wrap">
+    <ol class="migas"><li><a href="/">Fiscol<span class="ia">I</span>t<span class="ia">A</span></a></li><li>Agente de IA tributario</li></ol>
+    <h1>Agente de IA tributario para el SII de Chile</h1>
+    <p class="lead">Inteligencia artificial que conoce las leyes, circulares, resoluciones y oficios del SII y responde con la fuente oficial al lado. Como agente independiente o como subagente de los tuyos.</p>
+  </div>
+</header>
+<div class="wrap ind" aria-live="polite">
+  <div class="ind-grid">
+    <div class="ind-card"><small>UF</small><b id="v-uf">…</b><span id="f-uf"></span></div>
+    <div class="ind-card"><small>UTM</small><b id="v-utm">…</b><span id="f-utm"></span></div>
+    <div class="ind-card"><small>Dólar</small><b id="v-usd">…</b><span id="f-usd"></span></div>
+    <div class="ind-card"><small>Euro</small><b id="v-eur">…</b><span id="f-eur"></span></div>
+  </div>
+</div>
+<main>
+<section style="padding-top:40px"><div class="wrap"><div class="grid"><div class="card"><div class="ico">🤖</div><h3>Agente independiente</h3><p>Tu asesora tributaria propia: le preguntas directo, en tu computador o por Telegram.</p></div><div class="card"><div class="ico">🧩</div><h3>Subagente</h3><p>Se conecta a tu agente contable o financiero, que le deriva todo lo tributario y recibe la respuesta con fuentes.</p></div><div class="card"><div class="ico">🔌</div><h3>Servidor MCP</h3><p>Herramientas de búsqueda, simuladores y consultas en vivo al SII para cualquier cliente compatible con MCP.</p></div></div></div></section>
+<section style="padding-top:0"><div class="wrap texto">
+
+<h2>¿Qué es un agente de IA tributario?</h2>
+<p>Es una inteligencia artificial especializada en impuestos que, además de conversar, <b>usa herramientas</b>: busca en la normativa, lee los documentos completos, consulta el sitio del SII en vivo y hace cálculos con los valores del día. Fiscol<span class="ia">I</span>t<span class="ia">A</span> es un agente de IA tributario para Chile construido sobre unos <b>29.700 documentos públicos del Servicio de Impuestos Internos</b>: leyes vigentes, circulares, resoluciones, oficios y preguntas frecuentes.</p>
+<h2>¿Por qué no basta con ChatGPT u otra IA general?</h2>
+<table><tr><th></th><th>IA general</th><th>Fiscol<span class="ia">I</span>t<span class="ia">A</span></th></tr>
+<tr><td>Fuente de la respuesta</td><td>lo que recuerda de su entrenamiento</td><td>el documento oficial del SII, citado con enlace y fecha</td></tr>
+<tr><td>Normas nuevas</td><td>no las conoce hasta su próxima versión</td><td>agrega cada día las circulares, resoluciones y oficios nuevos</td></tr>
+<tr><td>Montos en UF, UTM o dólares</td><td>valores aproximados o antiguos</td><td>valores del día</td></tr>
+<tr><td>Códigos de formulario y plazos</td><td>puede inventarlos</td><td>tiene prohibido inventarlos: si no lo encuentra, lo dice</td></tr></table>
+<h2>Qué puede hacer</h2>
+<ul><li>Responder dudas de IVA, Renta, F29, F22, boletas de honorarios, factura electrónica, inicio de actividades, contribuciones y más.</li>
+<li>Explicar una carta o notificación del SII a partir de una foto o un PDF.</li>
+<li>Simular la retención de una boleta de honorarios, el PPM, el IVA del mes, una multa por atraso o el impuesto de un sueldo.</li>
+<li>Avisarte los vencimientos del F29, la Operación Renta y las contribuciones.</li>
+<li>Preparar un resumen de tu caso para tu contador.</li></ul>
+<h2>Funciona con la IA que ya tienes</h2>
+<p>Con tu suscripción de <b>Claude</b> o <b>ChatGPT</b>, con una API key de Anthropic, OpenAI, Google Gemini u OpenRouter, o gratis con modelos locales como <b>Ollama</b> o <b>LM Studio</b>. Como subagente se integra a Claude Code, Codex, Cursor, Gemini CLI y cualquier agente que lea <code>AGENTS.md</code>.</p>
+<h2>Privacidad</h2>
+<p>Corre en tu computador o servidor. No pide tu Clave Tributaria ni tu Clave Única, y tus claves de IA quedan en un archivo local que nunca se comparte. No es el SII ni habla en su nombre: orienta con información pública y no reemplaza a tu contador.</p>
+
+<p class="fuente">🔗 <a href="https://github.com/OptimizarIA-Consulting/fiscolita" target="_blank" rel="noopener">Código y tutorial en GitHub</a></p>
+<h2>Preguntas frecuentes</h2>
+<div class="faq"><details><summary>¿Existe una IA para consultas del SII?</summary><p>FiscolItA es un agente de IA gratis y de código abierto que responde consultas tributarias con información pública del SII y cita la fuente oficial. No pertenece al SII ni habla en su nombre.</p></details><details><summary>¿Qué es un agente de IA tributario?</summary><p>Una inteligencia artificial especializada en impuestos que usa herramientas: busca en la normativa, lee documentos oficiales, consulta el SII en vivo y calcula con los valores del día.</p></details><details><summary>¿Puedo integrar FiscolItA a mis propios agentes de IA?</summary><p>Sí. Funciona como subagente de tu agente contable o financiero en Claude Code, Codex, Cursor, Gemini CLI y otros que lean AGENTS.md, e incluye un servidor MCP.</p></details><details><summary>¿Cuánto cuesta?</summary><p>Es gratis y de código abierto. Solo necesitas un motor de IA: una suscripción que ya tengas, una API key o un modelo local gratuito.</p></details><details><summary>¿Necesita mi clave del SII?</summary><p>No. Responde solo con información pública. Nunca entregues tu Clave Tributaria ni tu Clave Única a una IA.</p></details></div>
+<h2>Pregúntale a Fiscol<span class="ia">I</span>t<span class="ia">A</span></h2>
+<p>Una agente de IA que conoce los ~29.700 documentos públicos del SII y responde con la fuente oficial. Úsala en tu computador o en Telegram, como agente o como subagente de tus agentes contables. Es gratis y de código abierto.</p>
+<div class="btns"><a class="btn p" href="/#usala">Cómo usarla</a><a class="btn s" style="background:var(--navy);color:#fff" href="https://github.com/OptimizarIA-Consulting/fiscolita/blob/main/TUTORIAL.md" target="_blank" rel="noopener">Tutorial paso a paso</a></div>
+<h2>Herramientas de Fiscol<span class="ia">I</span>t<span class="ia">A</span></h2>
+<div class="otras"><a href="/calculadora-boleta-honorarios">Boleta de honorarios<span>Calcula la retención de tu boleta de honorarios 2026 (15,25%): de…</span></a><a href="/calculadora-ppm">PPM<span>Calcula tu PPM del mes: ingresos brutos (código 563) por la tasa…</span></a><a href="/calculadora-iva">IVA del mes<span>Calcula el IVA a pagar del mes en Chile (19%): débito fiscal de tus…</span></a><a href="/calculadora-multa-sii">Multa por atraso<span>Estima la multa del artículo 97 N° 2 del Código Tributario y el…</span></a><a href="/calculadora-impuesto-unico">Impuesto de un sueldo<span>Calcula el impuesto único de segunda categoría de tu sueldo con la…</span></a><a href="/conversor-uf-utm-dolar">UF, UTM, dólar y euro<span>Convierte UF, UTM, dólares y euros a pesos chilenos con los valores…</span></a><a href="/calendario-tributario">Calendario tributario<span>Próximos vencimientos tributarios en Chile calculados con días…</span></a><a href="/novedades-sii">Novedades del SII<span>Las circulares, resoluciones y oficios más recientes publicados por…</span></a></div>
+</div></section>
+</main>
+<footer>
+  <div class="wrap"><nav class="calcs" aria-label="Calculadoras"><b>FiscolItA:</b><a href="/agente-ia-tributario">Agente de IA tributario</a><a href="/calculadora-boleta-honorarios">Boleta de honorarios 2026</a><a href="/calculadora-ppm">PPM</a><a href="/calculadora-iva">IVA mensual</a><a href="/calculadora-multa-sii">Multa por atraso</a><a href="/calculadora-impuesto-unico">Impuesto único al sueldo</a><a href="/conversor-uf-utm-dolar">UF, UTM, dólar y euro</a><a href="/calendario-tributario">Calendario tributario</a><a href="/novedades-sii">Novedades del SII</a></nav></div>
+  <div class="wrap pie">
+    <a class="potenciado" href="https://optimizaria.com" rel="noopener">
+      <img src="/assets/optimizaria.png" alt="" width="34" height="43">
+      <span><small>Proyecto potenciado por</small><b>optimizar<span class="ia">IA</span></b></span>
+    </a>
+    <p>Fiscol<span class="ia">I</span>t<span class="ia">A</span> es una herramienta simple pero funcional: orienta con información pública oficial. No es el SII ni habla en su nombre y no reemplaza a un contador o abogado tributario.</p>
+  </div>
+</footer>
+<script src="/app.js" defer></script>
+</body>
+</html>

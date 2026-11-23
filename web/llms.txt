@@ -1,6 +1,6 @@
 # FiscolItA · Asesora TributarIA del SII de Chile
 
-> Agente de IA de código abierto experta en el Servicio de Impuestos Internos (SII) de Chile. Responde con la fuente oficial a partir de ~29.700 documentos públicos (leyes, circulares, resoluciones, oficios y preguntas frecuentes), se actualiza cada día y funciona como agente independiente o como subagente de otros agentes de IA (Claude Code, Codex, Cursor, Gemini CLI, MCP). Proyecto de OptimizarIA Consulting.
+> Agente de IA tributario de código abierto (IA para el SII) experto en el Servicio de Impuestos Internos (SII) de Chile. Responde con la fuente oficial a partir de ~29.700 documentos públicos (leyes, circulares, resoluciones, oficios y preguntas frecuentes), se actualiza cada día y funciona como agente independiente o como subagente de otros agentes de IA (Claude Code, Codex, Cursor, Gemini CLI, MCP). Proyecto de OptimizarIA Consulting.
 
 - Sitio: https://fiscolita.optimizaria.com/
 - Código y tutorial: https://github.com/OptimizarIA-Consulting/fiscolita
@@ -9,6 +9,7 @@
 
 ## Calculadoras y herramientas
 
+- [Agente de IA tributario para el SII de Chile](https://fiscolita.optimizaria.com/agente-ia-tributario): FiscolItA es un agente de IA tributario gratis y de código abierto: conoce todo lo público del SII, responde con fuente oficial y se integra a tus agentes.
 - [Calculadora de boleta de honorarios 2026](https://fiscolita.optimizaria.com/calculadora-boleta-honorarios): Calcula la retención de tu boleta de honorarios 2026 (15,25%): de bruto a líquido o cuánto boletear para recibir un monto líquido. Gratis y con fuente SII.
 - [Calculadora de PPM para el Formulario 29](https://fiscolita.optimizaria.com/calculadora-ppm): Calcula tu PPM del mes: ingresos brutos (código 563) por la tasa (código 115) = PPM a pagar (código 62) del Formulario 29. Gratis y con fuente SII.
 - [Calculadora de IVA mensual](https://fiscolita.optimizaria.com/calculadora-iva): Calcula el IVA a pagar del mes en Chile (19%): débito fiscal de tus ventas menos crédito fiscal de tus compras, o el remanente para el mes siguiente.

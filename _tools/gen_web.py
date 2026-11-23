@@ -43,6 +43,42 @@ header.interior h1{font-size:clamp(32px,5vw,52px);letter-spacing:-1.5px;line-hei
 # ---------------------------------------------------------------- contenido
 PAGINAS = [
   {
+    "slug": "agente-ia-tributario", "sim": None, "corto": "Agente de IA tributario", "tipo": "agente",
+    "title": "Agente de IA tributario para el SII de Chile · FiscolItA",
+    "desc": "FiscolItA es un agente de IA tributario gratis y de código abierto: conoce todo lo público del SII, responde con fuente oficial y se integra a tus agentes.",
+    "h1": "Agente de IA tributario para el SII de Chile",
+    "lead": "Inteligencia artificial que conoce las leyes, circulares, resoluciones y oficios del SII y responde con la fuente oficial al lado. Como agente independiente o como subagente de los tuyos.",
+    "bloque": '<div class="grid"><div class="card"><div class="ico">🤖</div><h3>Agente independiente</h3><p>Tu asesora tributaria propia: le preguntas directo, en tu computador o por Telegram.</p></div><div class="card"><div class="ico">🧩</div><h3>Subagente</h3><p>Se conecta a tu agente contable o financiero, que le deriva todo lo tributario y recibe la respuesta con fuentes.</p></div><div class="card"><div class="ico">🔌</div><h3>Servidor MCP</h3><p>Herramientas de búsqueda, simuladores y consultas en vivo al SII para cualquier cliente compatible con MCP.</p></div></div>',
+    "cuerpo": """
+<h2>¿Qué es un agente de IA tributario?</h2>
+<p>Es una inteligencia artificial especializada en impuestos que, además de conversar, <b>usa herramientas</b>: busca en la normativa, lee los documentos completos, consulta el sitio del SII en vivo y hace cálculos con los valores del día. Fiscol<span class="ia">I</span>t<span class="ia">A</span> es un agente de IA tributario para Chile construido sobre unos <b>29.700 documentos públicos del Servicio de Impuestos Internos</b>: leyes vigentes, circulares, resoluciones, oficios y preguntas frecuentes.</p>
+<h2>¿Por qué no basta con ChatGPT u otra IA general?</h2>
+<table><tr><th></th><th>IA general</th><th>Fiscol<span class="ia">I</span>t<span class="ia">A</span></th></tr>
+<tr><td>Fuente de la respuesta</td><td>lo que recuerda de su entrenamiento</td><td>el documento oficial del SII, citado con enlace y fecha</td></tr>
+<tr><td>Normas nuevas</td><td>no las conoce hasta su próxima versión</td><td>agrega cada día las circulares, resoluciones y oficios nuevos</td></tr>
+<tr><td>Montos en UF, UTM o dólares</td><td>valores aproximados o antiguos</td><td>valores del día</td></tr>
+<tr><td>Códigos de formulario y plazos</td><td>puede inventarlos</td><td>tiene prohibido inventarlos: si no lo encuentra, lo dice</td></tr></table>
+<h2>Qué puede hacer</h2>
+<ul><li>Responder dudas de IVA, Renta, F29, F22, boletas de honorarios, factura electrónica, inicio de actividades, contribuciones y más.</li>
+<li>Explicar una carta o notificación del SII a partir de una foto o un PDF.</li>
+<li>Simular la retención de una boleta de honorarios, el PPM, el IVA del mes, una multa por atraso o el impuesto de un sueldo.</li>
+<li>Avisarte los vencimientos del F29, la Operación Renta y las contribuciones.</li>
+<li>Preparar un resumen de tu caso para tu contador.</li></ul>
+<h2>Funciona con la IA que ya tienes</h2>
+<p>Con tu suscripción de <b>Claude</b> o <b>ChatGPT</b>, con una API key de Anthropic, OpenAI, Google Gemini u OpenRouter, o gratis con modelos locales como <b>Ollama</b> o <b>LM Studio</b>. Como subagente se integra a Claude Code, Codex, Cursor, Gemini CLI y cualquier agente que lea <code>AGENTS.md</code>.</p>
+<h2>Privacidad</h2>
+<p>Corre en tu computador o servidor. No pide tu Clave Tributaria ni tu Clave Única, y tus claves de IA quedan en un archivo local que nunca se comparte. No es el SII ni habla en su nombre: orienta con información pública y no reemplaza a tu contador.</p>
+""",
+    "faq": [
+      ("¿Existe una IA para consultas del SII?", "FiscolItA es un agente de IA gratis y de código abierto que responde consultas tributarias con información pública del SII y cita la fuente oficial. No pertenece al SII ni habla en su nombre."),
+      ("¿Qué es un agente de IA tributario?", "Una inteligencia artificial especializada en impuestos que usa herramientas: busca en la normativa, lee documentos oficiales, consulta el SII en vivo y calcula con los valores del día."),
+      ("¿Puedo integrar FiscolItA a mis propios agentes de IA?", "Sí. Funciona como subagente de tu agente contable o financiero en Claude Code, Codex, Cursor, Gemini CLI y otros que lean AGENTS.md, e incluye un servidor MCP."),
+      ("¿Cuánto cuesta?", "Es gratis y de código abierto. Solo necesitas un motor de IA: una suscripción que ya tengas, una API key o un modelo local gratuito."),
+      ("¿Necesita mi clave del SII?", "No. Responde solo con información pública. Nunca entregues tu Clave Tributaria ni tu Clave Única a una IA."),
+    ],
+    "fuente": ("Código y tutorial en GitHub", GH),
+  },
+  {
     "slug": "calculadora-boleta-honorarios", "sim": "bhe", "corto": "Boleta de honorarios",
     "title": "Calculadora boleta de honorarios 2026 (15,25%) · FiscolItA",
     "desc": "Calcula la retención de tu boleta de honorarios 2026 (15,25%): de bruto a líquido o cuánto boletear para recibir un monto líquido. Gratis y con fuente SII.",
@@ -261,6 +297,14 @@ for p in PAGINAS:
         {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]},
     ]
+    if p.get("tipo") == "agente":
+        ld.append({"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "FiscolItA",
+                   "alternateName": ["Agente de IA tributario", "IA para el SII"], "url": url,
+                   "applicationCategory": "FinanceApplication", "applicationSubCategory": "Agente de IA tributario",
+                   "operatingSystem": "macOS, Windows, Linux", "inLanguage": "es-CL", "isAccessibleForFree": True,
+                   "offers": {"@type": "Offer", "price": "0", "priceCurrency": "CLP"}, "image": f"{BASE}/assets/og.png",
+                   "description": p["desc"], "sameAs": [GH, "https://github.com/DM20911/fiscolita"],
+                   "publisher": {"@type": "Organization", "name": "OptimizarIA Consulting", "url": "https://optimizaria.com"}})
     if p["sim"]:
         ld.append({"@context": "https://schema.org", "@type": "WebApplication", "name": p["h1"], "url": url,
                    "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "inLanguage": "es-CL",
@@ -282,13 +326,13 @@ for p in PAGINAS:
 <section style="padding-top:40px"><div class="wrap">{bloque}</div></section>
 <section style="padding-top:0"><div class="wrap texto">
 {p["cuerpo"]}
-<p class="fuente">✅ Fuente oficial: <a href="{p["fuente"][1]}" target="_blank" rel="noopener">{e(p["fuente"][0])}</a> · Cálculos referenciales: valida los casos importantes con tu contador.</p>
+<p class="fuente">{"🔗" if p.get("tipo") else "✅ Fuente oficial:"} <a href="{p["fuente"][1]}" target="_blank" rel="noopener">{e(p["fuente"][0])}</a>{"" if p.get("tipo") else " · Cálculos referenciales: valida los casos importantes con tu contador."}</p>
 <h2>Preguntas frecuentes</h2>
 <div class="faq">{"".join(f"<details><summary>{e(q)}</summary><p>{e(a)}</p></details>" for q, a in p["faq"])}</div>
 <h2>Pregúntale a Fiscol<span class="ia">I</span>t<span class="ia">A</span></h2>
 <p>Una agente de IA que conoce los ~29.700 documentos públicos del SII y responde con la fuente oficial. Úsala en tu computador o en Telegram, como agente o como subagente de tus agentes contables. Es gratis y de código abierto.</p>
 <div class="btns"><a class="btn p" href="/#usala">Cómo usarla</a><a class="btn s" style="background:var(--navy);color:#fff" href="{GH}/blob/main/TUTORIAL.md" target="_blank" rel="noopener">Tutorial paso a paso</a></div>
-<h2>Otras calculadoras</h2>
+<h2>Herramientas de Fiscol<span class="ia">I</span>t<span class="ia">A</span></h2>
 <div class="otras">{otras(p["slug"])}</div>
 </div></section>
 </main>
@@ -313,7 +357,7 @@ open(os.path.join(WEB, "404.html"), "w", encoding="utf-8").write(f"""{cabeza("P�
 """)
 
 # sitemap
-urls = [("/", "1.0", "daily")] + [(f'/{p["slug"]}', "0.8", "daily" if p["slug"] in ("novedades-sii", "conversor-uf-utm-dolar", "calendario-tributario") else "monthly") for p in PAGINAS]
+urls = [("/", "1.0", "daily")] + [(f"/{p['slug']}", "0.9" if p["slug"] == "agente-ia-tributario" else "0.8", "daily" if p["slug"] in ("novedades-sii", "conversor-uf-utm-dolar", "calendario-tributario") else "monthly") for p in PAGINAS]
 open(os.path.join(WEB, "sitemap.xml"), "w", encoding="utf-8").write(
     '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'
     + "\n".join(f'  <url><loc>{BASE}{u}</loc><lastmod>{HOY}</lastmod><changefreq>{c}</changefreq><priority>{pr}</priority>'
@@ -331,7 +375,7 @@ open(os.path.join(WEB, ".well-known", "security.txt"), "w").write(sec)
 
 open(os.path.join(WEB, "llms.txt"), "w", encoding="utf-8").write(f"""# FiscolItA · Asesora TributarIA del SII de Chile
 
-> Agente de IA de código abierto experta en el Servicio de Impuestos Internos (SII) de Chile. Responde con la fuente oficial a partir de ~29.700 documentos públicos (leyes, circulares, resoluciones, oficios y preguntas frecuentes), se actualiza cada día y funciona como agente independiente o como subagente de otros agentes de IA (Claude Code, Codex, Cursor, Gemini CLI, MCP). Proyecto de OptimizarIA Consulting.
+> Agente de IA tributario de código abierto (IA para el SII) experto en el Servicio de Impuestos Internos (SII) de Chile. Responde con la fuente oficial a partir de ~29.700 documentos públicos (leyes, circulares, resoluciones, oficios y preguntas frecuentes), se actualiza cada día y funciona como agente independiente o como subagente de otros agentes de IA (Claude Code, Codex, Cursor, Gemini CLI, MCP). Proyecto de OptimizarIA Consulting.
 
 - Sitio: {BASE}/
 - Código y tutorial: {GH}

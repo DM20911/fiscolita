@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://fiscolita.optimizaria.com"><b>fiscolita.optimizaria.com</b></a><br><br>
-  <b>La agente de IA que sabe todo lo público del Servicio de Impuestos Internos de Chile.</b><br>
+  <b>Agente de IA tributario para el SII de Chile: la IA que sabe todo lo público del Servicio de Impuestos Internos.</b><br>
   Pregúntale por IVA, Renta, F29, boletas, facturas o plazos, y te responde con la fuente oficial al lado.
 </p>
 
